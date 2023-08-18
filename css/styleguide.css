@@ -1,0 +1,54 @@
+:root { 
+  --black: #000000;
+  --black-2: #040404;
+  --cod-gray: #090909;
+  --manatee: #9c96ac;
+  --white: #ffffff;
+ 
+  --font-size-l: 21px;
+  --font-size-m: 20px;
+  --font-size-s: 16px;
+  --font-size-xl: 32px;
+  --font-size-xxl: 60px;
+ 
+  --font-family-figtree: "Figtree", Helvetica;
+}
+.button {
+  font-family: var(--font-family-figtree);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 2px;
+}
+
+.button-small {
+  font-family: var(--font-family-figtree);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 1.6px;
+}
+
+.body {
+  font-family: var(--font-family-figtree);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.4px;
+}
+
+.subhead {
+  font-family: var(--font-family-figtree);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 800;
+  letter-spacing: 1.2px;
+}
+
+.title {
+  font-family: var(--font-family-figtree);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 600;
+  letter-spacing: 0.64px;
+}
