@@ -22,4 +22,4 @@ jobs:
         aws-region: us-west-2
     - name: Deploy to www.orchid.lol
       run: |
-        ./deploy.sh -s production
+        ./deploy.sh -s production -v 1
