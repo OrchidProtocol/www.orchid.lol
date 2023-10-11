@@ -9,7 +9,7 @@
 
 function usage () {
     local exit_status="$1"
-    echo "Usage:  deploy staging | production "
+    echo "Usage:  deploy [staging | production ]"
     echo "Deploys the built website to the specified destination."
     exit $exit_status
 }
@@ -24,7 +24,7 @@ function upload-site() {
     local bucket="$1"
     local version="$2"
     echo "Uploading Website..."
-    aws s3 sync --acl public-read --delete ./public/ "s3://$bucket/$version"
+    aws s3 sync --acl public-read --delete ./ "s3://$bucket/$version"
 }
 
 function update-distribution() {
