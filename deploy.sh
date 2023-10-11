@@ -97,9 +97,9 @@ function main() {
     if [ -z ${version+x} ]; then  # If no version was specified with -v
         version=$(./version.sh | cut -d' ' -f3)
         echo "Version:  $version"
-        upload-site "$bucket" "$version"
     fi
-
+    
+    upload-site "$bucket" "$version"
     update-distribution "$distribution" "$version"
     wait-for-cloudfront "$distribution"
     invalidate-cache "$distribution"
