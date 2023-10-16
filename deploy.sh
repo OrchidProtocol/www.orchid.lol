@@ -63,14 +63,14 @@ function main() {
                     usage 3
                 }
                 ;;
-            v)
-                local version=$OPTARG
-                if [ -z ${version} ]; then  # If no version was specified with -v
-		    version=$(git rev-parse --short "$GITHUB_SHA")
-                    #version=$(./version.sh | cut -d' ' -f3)
-                    echo "Version:  $version"
-                fi
-                ;;
+            #v)
+            #    local version=$OPTARG
+            #    if [ -z ${version} ]; then  # If no version was specified with -v
+	    #    version=$(git rev-parse --short "$GITHUB_SHA")
+            #        #version=$(./version.sh | cut -d' ' -f3)
+            #        echo "Version:  $version"
+            #    fi
+            #    ;;
             *)
                 echo "Incorrect options provided!"
                 usage 3
@@ -99,6 +99,8 @@ function main() {
         exit 1
     fi
 
+    version=$(git rev-parse --short "$GITHUB_SHA")
+    echo "Version:  $version"
     upload-site "$bucket" "$version"
     update-distribution "$distribution" "$version"
     wait-for-cloudfront "$distribution"
