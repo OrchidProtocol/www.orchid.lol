@@ -66,7 +66,8 @@ function main() {
             v)
                 local version=$OPTARG
                 if [ -z ${version} ]; then  # If no version was specified with -v
-                    version=$(./version.sh | cut -d' ' -f3)
+		    version=$(git describe --tags --match="v*" "$@" | sed -e 's@^v@@;s@-.*@@' )
+                    #version=$(./version.sh | cut -d' ' -f3)
                     echo "Version:  $version"
                 fi
                 ;;
