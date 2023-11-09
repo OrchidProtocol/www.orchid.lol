@@ -250,8 +250,18 @@
 }
 
 .homepage-dt .hero-container {
-  height: 1026px;
+  height: 955px;
   position: relative;
+  top: 11px;
+  width: 1666px;
+}
+
+.homepage-dt .hero-orchids_vec-1 {
+  height: 906px;
+  left: 728px;
+  position: absolute;
+  top: 49px;
+  width: 938px;
 }
 
 .homepage-dt .hero-1 {
@@ -262,7 +272,7 @@
   left: 0;
   padding: 240px 0px 120px;
   position: absolute;
-  top: 11px;
+  top: 0;
 }
 
 .homepage-dt .hero-headline {
@@ -328,16 +338,6 @@
   height: 24px;
   line-height: 24px;
   text-align: center;
-}
-
-.homepage-dt .hero-orchids-dt {
-  background-image: url(../img/hero-orchids.png);
-  background-size: 100% 100%;
-  height: 1026px;
-  left: 640px;
-  position: absolute;
-  top: 0;
-  width: 1094px;
 }
 
 .homepage-dt .ecosystem {
@@ -448,34 +448,34 @@
   width: 120px;
 }
 
-.homepage-dt .frame-1-1 {
-  align-items: flex-start;
+.homepage-dt .frame-2 {
+  align-items: center;
   display: flex;
-  justify-content: flex-end;
-  min-width: 120px;
+  height: 120px;
+  justify-content: center;
+  width: 120px;
 }
 
-.homepage-dt .vector-container {
+.homepage-dt .frame-472 {
   align-items: flex-start;
-  background-image: url(../img/union-31@2x.png);
+  background-image: url(../img/union-20@2x.png);
   background-size: 100% 100%;
   display: flex;
   gap: 18px;
   height: 98px;
-  margin-top: -0.38px;
   min-width: 120px;
-  padding: 12.4px 9.4px;
+  padding: 9.0px 10.0px;
 }
 
 .homepage-dt .vector-2 {
-  height: 14px;
-  width: 45px;
+  height: 18px;
+  width: 44px;
 }
 
 .homepage-dt .vector-3 {
   align-self: flex-end;
-  height: 20px;
-  margin-bottom: 2.0px;
+  height: 21px;
+  margin-bottom: 5.5px;
   width: 14px;
 }
 
@@ -490,7 +490,7 @@
 
 .homepage-dt .title {
   color: var(--white);
-  font-weight: 600;
+  font-weight: 500;
   height: 32px;
   line-height: 34.7px;
   margin-top: -1.00px;
@@ -510,104 +510,124 @@
   width: 222px;
 }
 
-.homepage-dt .frame-13 {
-  align-items: center;
-  background-image: url(../img/union-43@2x.png);
+.homepage-dt .frame-12 {
+  align-items: flex-start;
+  display: flex;
+  height: 120px;
+  min-width: 120px;
+  padding: 7px 0;
+}
+
+.homepage-dt .overlap-group {
+  align-items: flex-start;
+  background-image: url(../img/union-21@2x.png);
   background-size: 100% 100%;
   display: flex;
-  height: 108.52px;
-  justify-content: center;
-  margin-left: 0;
-  margin-top: -1.5px;
+  flex-direction: column;
+  gap: 13px;
+  min-height: 106px;
+  padding: 33.4px 7.2px;
   width: 120px;
 }
 
 .homepage-dt .vector-4 {
   height: 4px;
-  margin-left: -1px;
-  margin-top: -31px;
+  margin-top: 2px;
   width: 105px;
 }
 
-.homepage-dt .frame-11 {
-  align-items: center;
-  background-image: url(../img/union-44@2x.png);
+.homepage-dt .flex-row {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  gap: 64px;
+  height: 20px;
+  margin-right: 0.92px;
+  min-width: 72px;
+}
+
+.homepage-dt .vector-stroke-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  min-height: 19px;
+  width: 4px;
+}
+
+.homepage-dt .vector-stroke {
+  height: 4px;
+  width: 4px;
+}
+
+.homepage-dt .vector-stroke-container-1 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  min-height: 19px;
+  width: 4px;
+}
+
+.homepage-dt .vector-stroke-1 {
+  height: 4px;
+  margin-left: 0;
+  width: 4px;
+}
+
+.homepage-dt .frame-10 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 120px;
+  padding: 0 4px;
+}
+
+.homepage-dt .overlap-group-1 {
+  align-items: flex-start;
+  background-image: url(../img/union-13@2x.png);
   background-size: 100% 100%;
   display: flex;
   height: 120px;
-  justify-content: center;
-  margin-top: 0;
-  width: 116px;
+  justify-content: flex-end;
+  min-width: 112px;
+  padding: 17.4px 41.9px;
 }
 
 .homepage-dt .vector-5 {
-  height: 27px;
-  margin-left: 10px;
-  margin-top: -57px;
-  width: 18px;
+  height: 29px;
+  width: 19px;
 }
 
-.homepage-dt .frame-44 {
+.homepage-dt .frame-11 {
   align-items: flex-start;
   display: flex;
   height: 120px;
-  justify-content: center;
-  min-width: 116px;
+  min-width: 112px;
 }
 
-.homepage-dt .overlap-group {
-  height: 121px;
-  margin-top: -0.25px;
-  position: relative;
-  width: 116px;
-}
-
-.homepage-dt .union-1 {
-  height: 73px;
-  left: 16px;
-  position: absolute;
-  top: 48px;
-  width: 101px;
-}
-
-.homepage-dt .union-4 {
-  height: 36px;
-  left: 0;
-  position: absolute;
-  top: 0;
-  width: 61px;
-}
-
-.homepage-dt .union-5 {
-  height: 43px;
-  left: 0;
-  position: absolute;
-  top: 16px;
-  width: 15px;
-}
-
-.homepage-dt .union-2 {
-  height: 33px;
-  left: 29px;
-  position: absolute;
-  top: 16px;
-  width: 32px;
+.homepage-dt .vector-container-1 {
+  align-items: flex-start;
+  background-image: url(../img/union-12@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  gap: 44px;
+  height: 119px;
+  justify-content: flex-end;
+  min-width: 112px;
+  padding: 8.6px 7.6px;
 }
 
 .homepage-dt .vector {
   height: 18px;
-  left: 14px;
-  position: absolute;
-  top: 9px;
-  width: 32px;
+  width: 31px;
 }
 
 .homepage-dt .vector-1 {
+  align-self: flex-end;
   height: 27px;
-  left: 93px;
-  position: absolute;
-  top: 80px;
-  width: 16px;
+  margin-bottom: 3.94px;
+  width: 15px;
 }
 
 .homepage-dt .marketplaces {
@@ -741,7 +761,7 @@
 
 .homepage-dt .nanopayment-ecosystem {
   color: var(--white);
-  font-weight: 600;
+  font-weight: 500;
   height: 40px;
   line-height: 34.7px;
   margin-top: -1.00px;
@@ -771,7 +791,7 @@
 
 .homepage-dt .orchid-accounts {
   color: var(--white);
-  font-weight: 600;
+  font-weight: 500;
   height: 40px;
   line-height: 34.7px;
   margin-right: -3.00px;
@@ -795,7 +815,7 @@
 .homepage-dt .preferred-provider-directory {
   color: var(--white);
   flex: 1;
-  font-weight: 600;
+  font-weight: 500;
   height: 40px;
   line-height: 34.7px;
   margin-top: -1.00px;
@@ -1016,7 +1036,7 @@
   width: 239.98px;
 }
 
-.homepage-dt .overlap-group-1 {
+.homepage-dt .overlap-group-2 {
   height: 295px;
   position: relative;
   width: 240px;
@@ -1104,25 +1124,21 @@
   width: 120px;
 }
 
-.homepage-dt .union-container {
-  height: 121px;
-  left: 0;
-  position: absolute;
-  top: 0;
-  width: 116px;
-}
-
-.homepage-dt .union-3 {
-  height: 59px;
-  left: 0;
-  position: absolute;
-  top: 0;
-  width: 61px;
+.homepage-dt .vector-container {
+  align-items: flex-start;
+  background-image: url(../img/union-14@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  gap: 44px;
+  height: 119px;
+  justify-content: flex-end;
+  min-width: 112px;
+  padding: 8.6px 7.6px;
 }
 
 .homepage-dt .wide-support {
   color: var(--white);
-  font-weight: 600;
+  font-weight: 500;
   height: 40px;
   line-height: 34.7px;
   position: relative;
@@ -1217,7 +1233,7 @@
   width: 40px;
 }
 
-.homepage-dt .overlap-group-2 {
+.homepage-dt .overlap-group-3 {
   align-items: center;
   background-color: var(--aquamarine);
   border-radius: 20px;
@@ -1348,7 +1364,7 @@
   width: 40px;
 }
 
-.homepage-dt .union-6 {
+.homepage-dt .union-1 {
   height: 13px;
   left: 8px;
   position: absolute;
@@ -1433,7 +1449,7 @@
   position: absolute;
 }
 
-.homepage-dt .union-7 {
+.homepage-dt .union-2 {
   height: 22px;
   left: 5px;
   position: absolute;
