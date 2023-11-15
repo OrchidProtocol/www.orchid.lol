@@ -10,12 +10,161 @@
   text-decoration: none;
 }
 
+.container-center-horizontal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  pointer-events: none;
+  width: 100%;
+}
+
+.container-center-horizontal > * {
+  flex-shrink: 0;
+  pointer-events: auto;
+}
+
 .valign-text-middle {
   display: flex;
   flex-direction: column;
   justify-content: center;
 }
 
+.hidden,
+.hidden * {
+  pointer-events: none;
+  visibility: hidden;
+}
+
 * {
   box-sizing: border-box;
+}
+
+.content {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  padding: 20px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.logo {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 12px;
+  position: relative;
+}
+
+.desktop-home-logo {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 10px;
+  height: 36px;
+  position: relative;
+}
+
+.union {
+  height: 36px;
+  position: relative;
+  width: 140px;
+}
+
+.x2023-orchid {
+  color: var(--white);
+  font-family: var(--font-family-figtree);
+  font-size: var(--font-size-s);
+  font-weight: 300;
+  letter-spacing: 0.28px;
+  line-height: 19.6px;
+  position: relative;
+  width: 299px;
+}
+
+.hyperlinks {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 60px 60px;
+  justify-content: space-between;
+  position: relative;
+  width: 100%;
+}
+
+.frame-421 {
+  display: flex;
+  height: 126px;
+  position: relative;
+  width: 180px;
+}
+
+.x2023-orchid-1 {
+  color: var(--white);
+  flex: 1;
+  font-weight: 700;
+  line-height: 22.4px;
+  width: 180px;
+}
+
+.frame-4 {
+  display: flex;
+  height: 136px;
+  position: relative;
+  width: 160px;
+}
+
+.apps {
+  color: var(--white);
+  font-weight: 700;
+  height: 124px;
+  line-height: 22.4px;
+  margin-left: -0.5px;
+  width: 198px;
+}
+
+.learn {
+  color: var(--white);
+  font-weight: 700;
+  height: 121px;
+  line-height: 22.4px;
+  margin-left: -0.5px;
+  width: 196px;
+}
+
+.engage {
+  color: var(--white);
+  font-weight: 700;
+  height: 122px;
+  line-height: 22.4px;
+  margin-left: -0.5px;
+  width: 191px;
+}
+
+.social-icons {
+  align-items: flex-start;
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+  width: 297px;
+}
+
+.discord-1 {
+  height: 19px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 19px;
+}
+
+.github {
+  height: 29.25px;
+  position: relative;
+  width: 30px;
 }

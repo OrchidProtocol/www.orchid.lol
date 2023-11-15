@@ -1,0 +1,684 @@
+/* screen - vpn-u40prod-updateu41 */
+
+.vpn-u40prod-updateu41 {
+  align-items: flex-start;
+  background-color: #161616;
+  display: flex;
+  height: 5385px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.vpn-u40prod-updateu41 .overlap-group7 {
+  height: 8074px;
+  position: relative;
+  width: 4441px;
+}
+
+.vpn-u40prod-updateu41 .desktoppage-base {
+  align-items: center;
+  background-color: #0f0f0f;
+  display: flex;
+  flex-direction: column;
+  height: 8074px;
+  justify-content: space-between;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 4441px;
+}
+
+.vpn-u40prod-updateu41 .ellipses {
+  height: 5385px;
+  margin-left: -1770px;
+  width: 209px;
+}
+
+.vpn-u40prod-updateu41 .footer-orchids {
+  display: flex;
+  height: 992px;
+  margin-bottom: -28.5px;
+  margin-left: 1141.9px;
+  width: 1034px;
+}
+
+.vpn-u40prod-updateu41 .footer-orchid-dt {
+  height: 992px;
+  margin-left: 4673.6px;
+  margin-top: -13289.5px;
+  mix-blend-mode: lighten;
+  object-fit: cover;
+  width: 992px;
+}
+
+.vpn-u40prod-updateu41 .overlap-group-4 {
+  align-items: center;
+  background-image: url(../img/rectangle-6@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 74px;
+  left: 514px;
+  min-width: 412px;
+  padding: 0 1px;
+  position: absolute;
+  top: 4594px;
+}
+
+.vpn-u40prod-updateu41 .about-orchid {
+  color: var(--white);
+  font-weight: 700;
+  line-height: 24px;
+  text-align: center;
+  white-space: nowrap;
+  width: 410px;
+}
+
+.vpn-u40prod-updateu41 .why-orchid {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 187px;
+  min-height: 1000px;
+  position: absolute;
+  top: 3471px;
+  width: 1068px;
+}
+
+.vpn-u40prod-updateu41 .decentralized-marketplace {
+  color: transparent;
+  font-weight: 600;
+  height: 32px;
+  line-height: 44.0px;
+  text-shadow: 0px 4px 16px #ffffff40;
+  white-space: nowrap;
+}
+
+.vpn-u40prod-updateu41 .span {
+  color: var(--white);
+}
+
+.vpn-u40prod-updateu41 .span-1 {
+  color: var(--aquamarine);
+}
+
+.vpn-u40prod-updateu41 .line-1 {
+  height: 2px;
+  margin-left: 3px;
+  margin-top: 22px;
+  width: 846px;
+}
+
+.vpn-u40prod-updateu41 .group-316 {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  height: 904px;
+  margin-left: 3px;
+  margin-top: 40px;
+  width: 1063px;
+}
+
+.vpn-u40prod-updateu41 .group-31 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 1065px;
+}
+
+.vpn-u40prod-updateu41 .overlap-group {
+  align-items: center;
+  background-color: var(--log-cabin);
+  border-radius: 20px;
+  display: flex;
+  gap: 350px;
+  height: 88px;
+  justify-content: flex-end;
+  min-width: 1063px;
+  padding: 0 44px;
+}
+
+.vpn-u40prod-updateu41 .intro-copy {
+  color: var(--white);
+  font-weight: 600;
+  line-height: 22.0px;
+  min-height: 40px;
+  width: 544px;
+}
+
+.vpn-u40prod-updateu41 .menu-icon {
+  height: 40px;
+  width: 40px;
+}
+
+.vpn-u40prod-updateu41 .group-313 {
+  align-items: flex-start;
+  display: flex;
+  height: 344px;
+  min-width: 1069px;
+}
+
+.vpn-u40prod-updateu41 .overlap-group-5 {
+  align-items: center;
+  background-color: var(--cod-gray);
+  border: 2px solid;
+  border-color: var(--true-v);
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  margin-left: -2px;
+  margin-top: -2px;
+  min-height: 348px;
+  padding: 2px 0;
+  width: 1067px;
+}
+
+.vpn-u40prod-updateu41 .overlap-group1 {
+  align-items: center;
+  background-color: var(--log-cabin);
+  border-radius: 20px;
+  display: flex;
+  gap: 141px;
+  height: 88px;
+  justify-content: flex-end;
+  min-width: 1063px;
+  padding: 0 44px;
+}
+
+.vpn-u40prod-updateu41 .intro-copy-6 {
+  color: var(--aquamarine);
+  font-weight: 600;
+  line-height: 22.0px;
+  min-height: 40px;
+  width: 757px;
+}
+
+.vpn-u40prod-updateu41 .intro-copy-7 {
+  color: var(--white);
+  font-weight: 400;
+  line-height: 28.0px;
+  margin-right: 11.0px;
+  margin-top: 30px;
+  min-height: 112px;
+  width: 846px;
+}
+
+.vpn-u40prod-updateu41 .intro-copy-8 {
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 1;
+  color: var(--dull-lavender);
+  display: -webkit-box;
+  font-weight: 700;
+  line-height: 24px;
+  margin-right: 11.0px;
+  margin-top: 40px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  width: 846px;
+}
+
+.vpn-u40prod-updateu41 .features {
+  display: flex;
+  flex-direction: column;
+  gap: 60px;
+  height: 1404px;
+  left: 80px;
+  position: absolute;
+  top: 1867px;
+  width: 1280px;
+}
+
+.vpn-u40prod-updateu41 .title {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  gap: 22px;
+  margin-left: 2px;
+  min-height: 56px;
+  width: 848px;
+}
+
+.vpn-u40prod-updateu41 .key-features {
+  color: transparent;
+  font-weight: 600;
+  height: 32px;
+  line-height: 44.0px;
+  text-align: center;
+  text-shadow: 0px 4px 16px #ffffff40;
+  white-space: nowrap;
+  width: 846px;
+}
+
+.vpn-u40prod-updateu41 .line-1-1 {
+  height: 2px;
+  width: 846px;
+}
+
+.vpn-u40prod-updateu41 .frame-444 {
+  align-items: flex-start;
+  display: flex;
+  height: 1288px;
+  min-width: 1280px;
+}
+
+.vpn-u40prod-updateu41 .overlap-group-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  min-height: 1288px;
+  width: 411px;
+}
+
+.vpn-u40prod-updateu41 .overlap-group-1 {
+  align-items: center;
+  background-color: var(--log-cabin);
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  min-height: 632px;
+  padding: 40px 38px;
+  width: 411px;
+}
+
+.vpn-u40prod-updateu41 .noun {
+  height: 136px;
+  margin-left: 1.0px;
+  margin-top: 32px;
+  width: 136px;
+}
+
+.vpn-u40prod-updateu41 .intro-copy-1 {
+  color: var(--white);
+  font-weight: 500;
+  line-height: 34.7px;
+  margin-top: 56px;
+  min-height: 88px;
+  text-align: center;
+  width: 331px;
+}
+
+.vpn-u40prod-updateu41 .intro-copy-2 {
+  color: var(--white);
+  font-weight: 400;
+  line-height: 28.0px;
+  margin-top: 24px;
+  min-height: 152px;
+  width: 331px;
+}
+
+.vpn-u40prod-updateu41 .group-317 {
+  align-self: flex-end;
+  display: flex;
+  gap: 15px;
+  margin-top: 40px;
+  width: 180px;
+}
+
+.vpn-u40prod-updateu41 .intro-copy-3 {
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 1;
+  color: var(--dull-lavender);
+  display: -webkit-box;
+  font-weight: 700;
+  height: 24px;
+  line-height: 24px;
+  overflow: hidden;
+  text-align: right;
+  text-overflow: ellipsis;
+  width: 146px;
+}
+
+.vpn-u40prod-updateu41 .arrow-10 {
+  height: 14.73px;
+  margin-top: 4.6px;
+  width: 18px;
+}
+
+.vpn-u40prod-updateu41 .overlap-group-container-1 {
+  margin-left: 23px;
+}
+
+.vpn-u40prod-updateu41 .noun-crypto-4712309-1 {
+  height: 136px;
+  margin-top: 35px;
+  width: 129px;
+}
+
+.vpn-u40prod-updateu41 .intro-copy-9 {
+  color: var(--white);
+  font-weight: 500;
+  line-height: 34.7px;
+  margin-top: 53px;
+  min-height: 88px;
+  text-align: center;
+  width: 331px;
+}
+
+.vpn-u40prod-updateu41 .noun-mining-3947782-1 {
+  height: 136px;
+  margin-left: 1.0px;
+  margin-top: 48px;
+  width: 136px;
+}
+
+.vpn-u40prod-updateu41 .intro-copy-10 {
+  color: var(--white);
+  font-weight: 500;
+  line-height: 34.7px;
+  margin-top: 40px;
+  min-height: 88px;
+  text-align: center;
+  width: 331px;
+}
+
+.vpn-u40prod-updateu41 .overlap-group-container-2 {
+  margin-left: 24px;
+}
+
+.vpn-u40prod-updateu41 .overlap-group2 {
+  align-items: center;
+  background-color: var(--log-cabin);
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  min-height: 632px;
+  padding: 40px 34px;
+  width: 411px;
+}
+
+.vpn-u40prod-updateu41 .noun-blockchain-3334853-1 {
+  height: 136px;
+  margin-left: 1.0px;
+  margin-top: 32px;
+  width: 170px;
+}
+
+.vpn-u40prod-updateu41 .intro-copy-11 {
+  align-self: flex-start;
+  color: var(--white);
+  font-weight: 500;
+  line-height: 34.7px;
+  margin-top: 56px;
+  min-height: 88px;
+  text-align: center;
+  width: 331px;
+}
+
+.vpn-u40prod-updateu41 .group-317-1 {
+  align-self: flex-end;
+  display: flex;
+  gap: 15px;
+  margin-right: 4px;
+  margin-top: 40px;
+  width: 180px;
+}
+
+.vpn-u40prod-updateu41 .noun-crypto-wallet-4738362-1 {
+  height: 136px;
+  margin-left: 3.0px;
+  margin-top: 56px;
+  width: 136px;
+}
+
+.vpn-u40prod-updateu41 .intro-copy-12 {
+  color: var(--white);
+  font-weight: 500;
+  line-height: 34.7px;
+  margin-top: 32px;
+  min-height: 88px;
+  text-align: center;
+  width: 331px;
+}
+
+.vpn-u40prod-updateu41 .marketplace {
+  align-items: center;
+  display: flex;
+  height: 728px;
+  left: 80px;
+  position: absolute;
+  top: 939px;
+  width: 1280px;
+}
+
+.vpn-u40prod-updateu41 .marketplace-1 {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 60px;
+  height: 728px;
+}
+
+.vpn-u40prod-updateu41 .group-326 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 13px;
+  min-height: 140px;
+  width: 1067px;
+}
+
+.vpn-u40prod-updateu41 .line-1-2 {
+  height: 2px;
+  margin-top: 14px;
+  width: 1063px;
+}
+
+.vpn-u40prod-updateu41 .intro-copy-13 {
+  color: var(--white);
+  font-weight: 400;
+  line-height: 28.0px;
+  margin-top: 32px;
+  min-height: 60px;
+  width: 1063px;
+}
+
+.vpn-u40prod-updateu41 .group-325 {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  height: 528px;
+  width: 1280px;
+}
+
+.vpn-u40prod-updateu41 .accounts {
+  align-items: flex-start;
+  display: flex;
+  min-width: 1284px;
+}
+
+.vpn-u40prod-updateu41 .overlap-group-2 {
+  height: 160px;
+  margin-left: -1px;
+  position: relative;
+  width: 1281px;
+}
+
+.vpn-u40prod-updateu41 .rectangle-32 {
+  background-color: var(--black-2);
+  border: 1px solid;
+  border-color: var(--true-v);
+  border-radius: 20px;
+  height: 160px;
+  left: 61px;
+  position: absolute;
+  top: 0;
+  width: 1220px;
+}
+
+.vpn-u40prod-updateu41 .line-8 {
+  height: 86px;
+  left: 598px;
+  position: absolute;
+  top: 37px;
+  width: 6px;
+}
+
+.vpn-u40prod-updateu41 .intro-copy-4 {
+  color: var(--white);
+  font-weight: 500;
+  left: 161px;
+  line-height: 34.7px;
+  position: absolute;
+  top: 60px;
+  white-space: nowrap;
+  width: 400px;
+}
+
+.vpn-u40prod-updateu41 .intro-copy-5 {
+  color: var(--white);
+  font-weight: 400;
+  height: 112px;
+  left: 641px;
+  line-height: 28.0px;
+  position: absolute;
+  top: 24px;
+  width: 600px;
+}
+
+.vpn-u40prod-updateu41 .overlap-group-3 {
+  align-items: flex-start;
+  background-color: var(--log-cabin);
+  border: 1px solid;
+  border-color: var(--true-v);
+  border-radius: 61px;
+  display: flex;
+  height: 122px;
+  left: 0;
+  min-width: 122px;
+  padding: 30px;
+  position: absolute;
+  top: 19px;
+}
+
+.vpn-u40prod-updateu41 .noun-crypto-economy-4287357-1 {
+  height: 60px;
+  width: 60px;
+}
+
+.vpn-u40prod-updateu41 .hero {
+  align-items: flex-start;
+  display: flex;
+  gap: 60px;
+  height: 499px;
+  left: 219px;
+  min-width: 1001px;
+  position: absolute;
+  top: 240px;
+}
+
+.vpn-u40prod-updateu41 .composition_-generic_2-1 {
+  height: 354px;
+  object-fit: cover;
+  width: 459px;
+}
+
+.vpn-u40prod-updateu41 .group-402 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 499px;
+  width: 486px;
+}
+
+.vpn-u40prod-updateu41 .decentralized-marketplace-1 {
+  color: transparent;
+  font-weight: 800;
+  height: 208px;
+  line-height: 54.0px;
+  width: 482px;
+}
+
+.vpn-u40prod-updateu41 .with-orchids-decent {
+  color: transparent;
+  font-weight: 600;
+  line-height: 44.0px;
+  margin-top: 8px;
+  min-height: 132px;
+  width: 464px;
+}
+
+.vpn-u40prod-updateu41 .about-button {
+  align-items: flex-start;
+  display: flex;
+  height: 72px;
+  margin-left: 3px;
+  margin-top: 79px;
+  min-width: 303px;
+}
+
+.vpn-u40prod-updateu41 .overlap-group-6 {
+  align-items: center;
+  background-image: url(../img/rectangle-6-1@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 74px;
+  margin-left: -1px;
+  margin-top: -1px;
+  min-width: 303px;
+  padding: 0 1px;
+}
+
+.vpn-u40prod-updateu41 .about-orchid-1 {
+  color: var(--white);
+  font-weight: 700;
+  line-height: 24px;
+  text-align: center;
+  white-space: nowrap;
+  width: 301px;
+}
+
+.vpn-u40prod-updateu41 .desktopfooter {
+  align-items: center;
+  background-color: var(--cod-gray);
+  display: flex;
+  flex-direction: column;
+  height: 476px;
+  justify-content: flex-end;
+  left: 0;
+  padding: 40px 80px 120px;
+  position: absolute;
+  top: 4909px;
+  width: 1440px;
+}
+
+.vpn-u40prod-updateu41 .twitter {
+  background-image: url(../img/twitter-8@2x.png);
+  background-size: 100% 100%;
+  height: 29.99px;
+  position: relative;
+  width: 30px;
+}
+
+.vpn-u40prod-updateu41 .discord {
+  background-image: url(../img/shape-4@2x.png);
+  background-size: 100% 100%;
+  height: 29.99px;
+  position: relative;
+  width: 30px;
+}
+
+.vpn-u40prod-updateu41 .facebook {
+  background-image: url(../img/shape-5@2x.png);
+  background-size: 100% 100%;
+  height: 29.95px;
+  position: relative;
+  width: 29.88px;
+}
+
+.vpn-u40prod-updateu41 .reddit {
+  background-image: url(../img/combined-shape-6@2x.png);
+  background-size: 100% 100%;
+  height: 30px;
+  position: relative;
+  width: 30px;
+}
+
+.vpn-u40prod-updateu41 .overlap-group-container-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  min-height: 1288px;
+  width: 411px;
+}
