@@ -60,14 +60,6 @@
   position: relative;
 }
 
-.desktop-home-logo {
-  align-items: flex-start;
-  display: inline-flex;
-  gap: 10px;
-  height: 36px;
-  position: relative;
-}
-
 .union {
   height: 36px;
   position: relative;
@@ -75,10 +67,6 @@
 }
 
 .x2023-orchid {
-  color: var(--white);
-  font-family: var(--font-family-figtree);
-  font-size: var(--font-size-s);
-  font-weight: 300;
   letter-spacing: 0.28px;
   line-height: 19.6px;
   position: relative;
@@ -101,14 +89,6 @@
   display: flex;
   height: 126px;
   position: relative;
-  width: 180px;
-}
-
-.x2023-orchid-1 {
-  color: var(--white);
-  flex: 1;
-  font-weight: 700;
-  line-height: 22.4px;
   width: 180px;
 }
 
@@ -154,17 +134,254 @@
   width: 297px;
 }
 
-.discord-1 {
-  height: 19px;
-  left: 5px;
-  object-fit: cover;
-  position: absolute;
-  top: 5px;
-  width: 19px;
+.vector {
+  height: 16px;
+  margin-left: -0.6px;
+  margin-top: 0;
+  width: 21px;
 }
 
-.github {
-  height: 29.25px;
+.learn-more {
+  color: var(--white);
+  flex: 1;
+  font-weight: 700;
+  height: 24px;
+  line-height: 24px;
+  text-align: center;
+}
+
+.caption {
+  color: var(--white);
+  font-weight: 600;
+  line-height: 22.0px;
+  margin-top: -1.00px;
   position: relative;
-  width: 30px;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.desktop-button-standard {
+  background-color: var(--log-cabin);
+  border: 1px solid;
+  border-color: var(--aquamarine);
+  border-radius: 48px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: center;
+  padding: 24px 80px;
+}
+
+.label {
+  color: var(--white);
+  font-weight: 700;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.desktop-button-top-nav {
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  position: relative;
+  width: 90px;
+}
+
+.build {
+  color: var(--white);
+  font-weight: 700;
+  line-height: 14.4px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.button-label {
+  color: var(--white);
+  font-weight: 700;
+  height: 14px;
+  line-height: 14.4px;
+  text-align: center;
+  width: 196px;
+}
+
+.build-5 {
+  color: var(--white);
+  font-weight: 700;
+  line-height: 14.4px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.ellipse-container {
+  height: 775px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 912px;
+}
+
+.ellipse-28 {
+  background-color: var(--cod-gray);
+  border-radius: 310px;
+  height: 620px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 620px;
+}
+
+.ellipse-29 {
+  background-color: var(--cod-gray);
+  border-radius: 155px;
+  height: 310px;
+  left: 602px;
+  position: absolute;
+  top: 465px;
+  width: 310px;
+}
+
+.ellipse-30 {
+  background-color: var(--cod-gray);
+  border-radius: 100px;
+  height: 200px;
+  left: 736px;
+  position: absolute;
+  top: 18px;
+  width: 200px;
+}
+
+.ellipse-37 {
+  background-color: var(--black-2);
+  border-radius: 441.5px;
+  height: 883px;
+  margin-top: 106.0px;
+  transform: rotate(180.00deg);
+  width: 883px;
+}
+
+.ellipse-container-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 770px;
+  min-height: 1903px;
+  width: 808px;
+}
+
+.ellipse-34 {
+  align-self: flex-end;
+  background-color: var(--black-2);
+  border-radius: 306.5px;
+  height: 613px;
+  width: 613px;
+}
+
+.ellipse-33 {
+  background-color: var(--black-2);
+  border-radius: 260px;
+  height: 520px;
+  transform: rotate(180.00deg);
+  width: 520px;
+}
+
+.ellipse-35 {
+  align-self: flex-end;
+  background-color: var(--black-2);
+  border-radius: 585px;
+  height: 1170px;
+  margin-right: 179.0px;
+  margin-top: 419px;
+  transform: rotate(90.00deg);
+  width: 1170px;
+}
+
+.frame-451 {
+  display: flex;
+  height: 176px;
+  justify-content: center;
+  position: relative;
+  width: 801px;
+}
+
+.frame-489 {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 80px;
+  height: 176px;
+  justify-content: center;
+  position: relative;
+  width: 800px;
+}
+
+.build-4 {
+  color: var(--white);
+  font-weight: 700;
+  line-height: 14.4px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.vpn-2 {
+  color: var(--aquamarine);
+}
+
+.noun-crypto-economy-4287357-1 {
+  height: 60px;
+  width: 60px;
+}
+
+.noun {
+  height: 136px;
+  margin-left: 1.0px;
+  margin-top: 32px;
+  width: 136px;
+}
+
+.noun-crypto-4712309-1 {
+  height: 136px;
+  margin-top: 35px;
+  width: 129px;
+}
+
+.noun-mining-3947782-1 {
+  height: 136px;
+  margin-left: 1.0px;
+  margin-top: 48px;
+  width: 136px;
+}
+
+.noun-blockchain-3334853-1 {
+  height: 136px;
+  margin-left: 1.0px;
+  margin-top: 32px;
+  width: 170px;
+}
+
+.group-317-1 {
+  align-self: flex-end;
+  display: flex;
+  gap: 15px;
+  margin-right: 4px;
+  margin-top: 40px;
+  width: 180px;
+}
+
+.noun-crypto-wallet-4738362-1 {
+  height: 136px;
+  margin-left: 3.0px;
+  margin-top: 56px;
+  width: 136px;
 }

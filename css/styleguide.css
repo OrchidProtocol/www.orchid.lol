@@ -4,7 +4,9 @@
   --black-2: #040404;
   --cod-gray: #090909;
   --dull-lavender: #ae9aff;
+  --dull-lavender-2: #a789ff;
   --heavy-metal: #2c2c2c;
+  --hunter-green: #161616;
   --licorice: #121212;
   --log-cabin: #212121;
   --manatee: #9c96ac;
@@ -13,16 +15,17 @@
   --white: #ffffff;
  
   --font-size-60px: 60px;
-  --font-size-l: 16px;
-  --font-size-m: 15px;
-  --font-size-s: 14px;
-  --font-size-xl: 17px;
-  --font-size-xxl: 20px;
-  --font-size-xxxl: 28px;
-  --font-size-xxxxl: 40px;
+  --font-size-l: 28px;
+  --font-size-m: 20px;
+  --font-size-s: 17px;
+  --font-size-xl: 40px;
+  --font-size-xs: 16px;
+  --font-size-xxs: 15px;
+  --font-size-xxxs: 14px;
  
   --font-family-figtree: "Figtree", Helvetica;
   --font-family-figtree-extrabold: "Figtree-ExtraBold", Helvetica;
+  --font-family-figtree-italic: "Figtree-Italic", Helvetica;
 }
 .desktopheadline {
   font-family: var(--font-family-figtree-extrabold);
@@ -34,7 +37,7 @@
 
 .desktopsubhead {
   font-family: var(--font-family-figtree);
-  font-size: var(--font-size-xxxxl);
+  font-size: var(--font-size-xl);
   font-style: normal;
   font-weight: 600;
   letter-spacing: 0.8px;
@@ -42,7 +45,7 @@
 
 .desktoptitle {
   font-family: var(--font-family-figtree);
-  font-size: var(--font-size-xxxl);
+  font-size: var(--font-size-l);
   font-style: normal;
   font-weight: 500;
   letter-spacing: 1.12px;
@@ -50,7 +53,7 @@
 
 .desktopcallout {
   font-family: var(--font-family-figtree);
-  font-size: var(--font-size-xxl);
+  font-size: var(--font-size-m);
   font-style: normal;
   font-weight: 600;
   letter-spacing: 3.2px;
@@ -58,15 +61,23 @@
 
 .desktopbody {
   font-family: var(--font-family-figtree);
-  font-size: var(--font-size-xxl);
+  font-size: var(--font-size-m);
   font-style: normal;
   font-weight: 400;
   letter-spacing: 0.4px;
 }
 
+.desktophyperlink {
+  font-family: var(--font-family-figtree);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 600;
+  letter-spacing: 0.4px;
+}
+
 .desktopbutton {
   font-family: var(--font-family-figtree);
-  font-size: var(--font-size-xxl);
+  font-size: var(--font-size-m);
   font-style: normal;
   font-weight: 700;
   letter-spacing: 2px;
@@ -74,7 +85,7 @@
 
 .desktopsmall-button {
   font-family: var(--font-family-figtree);
-  font-size: var(--font-size-l);
+  font-size: var(--font-size-xs);
   font-style: normal;
   font-weight: 700;
   letter-spacing: 1.6px;
@@ -82,7 +93,7 @@
 
 .mobilebutton {
   font-family: var(--font-family-figtree);
-  font-size: var(--font-size-s);
+  font-size: var(--font-size-xxxs);
   font-style: normal;
   font-weight: 700;
   letter-spacing: 1.4px;
@@ -90,7 +101,7 @@
 
 .mobileheadline {
   font-family: var(--font-family-figtree);
-  font-size: var(--font-size-xl);
+  font-size: var(--font-size-s);
   font-style: normal;
   font-weight: 600;
   letter-spacing: 0;
@@ -98,7 +109,7 @@
 
 .mobilebody {
   font-family: var(--font-family-figtree);
-  font-size: var(--font-size-m);
+  font-size: var(--font-size-xxs);
   font-style: normal;
   font-weight: 300;
   letter-spacing: 0;
@@ -106,7 +117,7 @@
 
 .mobiletitle {
   font-family: var(--font-family-figtree);
-  font-size: var(--font-size-l);
+  font-size: var(--font-size-xs);
   font-style: normal;
   font-weight: 600;
   letter-spacing: 0.64px;
@@ -120,10 +131,18 @@
   font-weight: 600;
 }
 
+.figtree-light-white-14px {
+  color: var(--white);
+  font-family: var(--font-family-figtree);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 300;
+}
+
 .figtree-light-manatee-14px {
   color: var(--manatee);
   font-family: var(--font-family-figtree);
-  font-size: var(--font-size-s);
+  font-size: var(--font-size-xxxs);
   font-style: normal;
   font-weight: 300;
 }

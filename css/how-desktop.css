@@ -1,0 +1,889 @@
+/* screen - how-desktop */
+
+.how-desktop {
+  align-items: flex-start;
+  background-color: var(--licorice);
+  display: flex;
+  height: 6457px;
+  min-width: 1440px;
+}
+
+.how-desktop .overlap-group7 {
+  height: 6505px;
+  margin-left: -270px;
+  margin-top: -48px;
+  position: relative;
+  width: 1967px;
+}
+
+.how-desktop .ellipses {
+  height: 6276px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1967px;
+}
+
+.how-desktop .desktopfooter {
+  align-items: center;
+  background-color: var(--cod-gray);
+  display: flex;
+  flex-direction: column;
+  height: 476px;
+  justify-content: flex-end;
+  left: 270px;
+  padding: 40px 80px 120px;
+  position: absolute;
+  top: 6029px;
+  width: 1440px;
+}
+
+.how-desktop .desktop-home-logo {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 10px;
+  height: 36px;
+  position: relative;
+}
+
+.how-desktop .x2023-orchid-1 {
+  color: var(--white);
+  cursor: pointer;
+  flex: 1;
+  font-weight: 700;
+  line-height: 22.4px;
+  width: 180px;
+}
+
+.how-desktop .twitter {
+  background-image: url(../img/twitter-8@2x.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  height: 29.99px;
+  position: relative;
+  width: 30px;
+}
+
+.how-desktop .discord {
+  align-items: center;
+  background-image: url(../img/shape-4@2x.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  display: flex;
+  height: 29.99px;
+  justify-content: center;
+  position: relative;
+  width: 30px;
+}
+
+.how-desktop .github {
+  cursor: pointer;
+  height: 29.25px;
+  position: relative;
+  width: 30px;
+}
+
+.how-desktop .facebook {
+  background-image: url(../img/shape-5@2x.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  height: 29.95px;
+  position: relative;
+  width: 29.87px;
+}
+
+.how-desktop .reddit {
+  background-image: url(../img/combined-shape-6@2x.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  height: 30px;
+  position: relative;
+  width: 30px;
+}
+
+.how-desktop .desktop-header {
+  align-items: center;
+  display: flex;
+  gap: 120px;
+  height: 96px;
+  justify-content: center;
+  left: 270px;
+  padding: 24px 80px;
+  position: absolute;
+  top: 48px;
+  width: 1440px;
+}
+
+.how-desktop .desktop-home-logo-1 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  height: 36px;
+  position: relative;
+}
+
+.how-desktop .desktop-header-top-nav {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  flex-wrap: wrap;
+  gap: 60px 60px;
+  height: 14px;
+  justify-content: space-between;
+  position: relative;
+}
+
+.how-desktop .desktop-button-top-nav-1 {
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+}
+
+.how-desktop .desktop-button-top-nav-2 {
+  cursor: pointer;
+  display: flex;
+  width: 37px;
+}
+
+.how-desktop .vpn {
+  color: var(--white);
+  font-weight: 700;
+  line-height: 14.4px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.how-desktop .desktop-button-top-nav-3 {
+  cursor: pointer;
+  display: flex;
+  width: 36px;
+}
+
+.how-desktop .vpn-1 {
+  color: var(--white);
+}
+
+.how-desktop .desktop-button-top-nav-4 {
+  display: flex;
+  width: 44px;
+}
+
+.how-desktop .desktop-button-top-nav-5 {
+  cursor: pointer;
+  display: flex;
+  width: 61px;
+}
+
+.how-desktop .desktop-button-top-nav-6 {
+  cursor: pointer;
+  display: flex;
+  width: 50px;
+}
+
+.how-desktop .desktop-button-header {
+  background-image: url(../img/button-base-1@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 48px;
+  justify-content: flex-end;
+  width: 196px;
+}
+
+.how-desktop .why-orchid {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  left: 270px;
+  padding: 0px 80px;
+  position: absolute;
+  top: 2342px;
+  width: 1440px;
+}
+
+.how-desktop .desktop-header-section-simple {
+  height: 56px;
+}
+
+.how-desktop .line-2 {
+  left: 0;
+  position: absolute;
+  top: 56px;
+  width: 1280px;
+}
+
+.how-desktop .title {
+  color: transparent;
+  font-weight: 600;
+  height: 32px;
+  left: 0;
+  line-height: 44.0px;
+  position: absolute;
+  text-shadow: 0px 4px 16px #ffffff40;
+  top: -1px;
+  white-space: nowrap;
+  width: 1280px;
+}
+
+.how-desktop .span {
+  color: var(--white);
+}
+
+.how-desktop .span-1 {
+  color: var(--aquamarine);
+}
+
+.how-desktop .faq-cards {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 40px;
+  position: relative;
+}
+
+.how-desktop .group-313 {
+  height: 344px;
+}
+
+.how-desktop .overlap-group-2 {
+  background-color: var(--cod-gray);
+  border: 2px solid;
+  border-color: var(--true-v);
+  border-radius: 20px;
+  flex-direction: column;
+  left: -2px;
+  min-height: 348px;
+  padding: 2px 0;
+  position: relative;
+  top: -2px;
+  width: 1067px;
+}
+
+.how-desktop .overlap-group1 {
+  align-items: center;
+  background-color: var(--log-cabin);
+  border-radius: 20px;
+  display: flex;
+  gap: 141px;
+  height: 88px;
+  justify-content: flex-end;
+  min-width: 1063px;
+  padding: 0 44px;
+}
+
+.how-desktop .intro-copy-1 {
+  color: var(--aquamarine);
+  font-weight: 600;
+  line-height: 22.0px;
+  min-height: 40px;
+  width: 757px;
+}
+
+.how-desktop .menu-icon {
+  height: 40px;
+  width: 40px;
+}
+
+.how-desktop .intro-copy-2 {
+  color: var(--white);
+  font-weight: 400;
+  line-height: 28.0px;
+  margin-right: 11.0px;
+  margin-top: 30px;
+  min-height: 84px;
+  width: 846px;
+}
+
+.how-desktop .intro-copy-3 {
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 1;
+  color: var(--dull-lavender);
+  display: -webkit-box;
+  font-weight: 700;
+  line-height: 24px;
+  margin-right: 11.0px;
+  margin-top: 68px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  width: 846px;
+}
+
+.how-desktop .group-317 {
+  height: 343px;
+}
+
+.how-desktop .overlap-group2 {
+  align-items: flex-start;
+  background-color: var(--cod-gray);
+  border: 2px solid;
+  border-color: var(--true-v);
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  left: -2px;
+  min-height: 347px;
+  padding: 2px 0;
+  position: relative;
+  top: -2px;
+  width: 1067px;
+}
+
+.how-desktop .overlap-group {
+  align-items: center;
+  background-color: var(--log-cabin);
+  border-radius: 20px;
+  display: flex;
+  gap: 142px;
+  height: 88px;
+  justify-content: flex-end;
+  margin-left: 2px;
+  min-width: 1063px;
+  padding: 0 44px;
+}
+
+.how-desktop .intro-copy {
+  color: var(--aquamarine);
+  font-weight: 600;
+  line-height: 22.0px;
+  margin-top: 12.0px;
+  min-height: 28px;
+  width: 757px;
+}
+
+.how-desktop .intro-copy-4 {
+  align-self: center;
+  color: var(--white);
+  font-weight: 400;
+  line-height: 28.0px;
+  margin-left: 5.0px;
+  margin-top: 46px;
+  min-height: 84px;
+  width: 864px;
+}
+
+.how-desktop .intro-copy-5 {
+  height: 23px;
+  margin-left: 101.14px;
+  margin-top: 43px;
+  width: 245px;
+}
+
+.how-desktop .group-365 {
+  height: 464px;
+}
+
+.how-desktop .overlap-group3 {
+  align-items: flex-start;
+  background-color: var(--cod-gray);
+  border: 2px solid;
+  border-color: var(--true-v);
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  left: -2px;
+  min-height: 468px;
+  padding: 2px 0;
+  position: relative;
+  top: -2px;
+  width: 1067px;
+}
+
+.how-desktop .intro-copy-6 {
+  align-self: center;
+  color: var(--white);
+  font-weight: 400;
+  line-height: 28.0px;
+  margin-left: 5.0px;
+  margin-top: 46px;
+  min-height: 196px;
+  width: 864px;
+}
+
+.how-desktop .span-3 {
+  font-family: var(--font-family-figtree-italic);
+  font-size: var(--font-size-m);
+  font-style: italic;
+  letter-spacing: 0.40px;
+}
+
+.how-desktop .intro-copy-7 {
+  height: 23px;
+  margin-left: 101.14px;
+  margin-top: 52px;
+  width: 245px;
+}
+
+.how-desktop .group-368 {
+  height: 368px;
+}
+
+.how-desktop .overlap-group4 {
+  align-items: flex-start;
+  background-color: var(--cod-gray);
+  border: 2px solid;
+  border-color: var(--true-v);
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  left: -2px;
+  min-height: 372px;
+  padding: 2px 0;
+  position: relative;
+  top: -2px;
+  width: 1067px;
+}
+
+.how-desktop .intro-copy-8 {
+  align-self: center;
+  color: var(--white);
+  font-weight: 400;
+  line-height: 28.0px;
+  margin-left: 5.0px;
+  margin-top: 46px;
+  min-height: 112px;
+  width: 864px;
+}
+
+.how-desktop .intro-copy-9 {
+  height: 23px;
+  margin-left: 101.14px;
+  margin-top: 40px;
+  width: 245px;
+}
+
+.how-desktop .group-366 {
+  height: 770px;
+}
+
+.how-desktop .overlap-group5 {
+  align-items: center;
+  background-color: var(--cod-gray);
+  border: 2px solid;
+  border-color: var(--true-v);
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  left: -2px;
+  min-height: 774px;
+  padding: 2px 0;
+  position: relative;
+  top: -2px;
+  width: 1067px;
+}
+
+.how-desktop .overlap-group-3 {
+  background-color: var(--log-cabin);
+  border-radius: 20px;
+  gap: 142px;
+  height: 88px;
+  justify-content: flex-end;
+  min-width: 1063px;
+  padding: 0 44px;
+}
+
+.how-desktop .screenshot-2023-09-13-at-121-1 {
+  height: 376px;
+  margin-left: 5.0px;
+  margin-top: 46px;
+  width: 864px;
+}
+
+.how-desktop .intro-copy-10 {
+  color: var(--white);
+  font-weight: 400;
+  line-height: 28.0px;
+  margin-left: 5.0px;
+  margin-top: 48px;
+  min-height: 84px;
+  width: 864px;
+}
+
+.how-desktop .intro-copy-11 {
+  align-self: flex-start;
+  height: 23px;
+  margin-left: 101.14px;
+  margin-top: 45px;
+  width: 245px;
+}
+
+.how-desktop .group-367 {
+  height: 318px;
+}
+
+.how-desktop .overlap-group6 {
+  align-items: flex-start;
+  background-color: var(--cod-gray);
+  border: 2px solid;
+  border-color: var(--true-v);
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 46px;
+  left: -2px;
+  min-height: 322px;
+  padding: 2px 0;
+  position: relative;
+  top: -2px;
+  width: 1067px;
+}
+
+.how-desktop .intro-copy-12 {
+  align-self: center;
+  color: var(--white);
+  font-weight: 400;
+  line-height: 28.0px;
+  margin-left: 5.0px;
+  min-height: 56px;
+  width: 864px;
+}
+
+.how-desktop .intro-copy-13 {
+  height: 23px;
+  margin-left: 101.14px;
+  width: 245px;
+}
+
+.how-desktop .button {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  padding: 120px 0px 0px;
+  position: relative;
+}
+
+.how-desktop .marketplace {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  height: 886px;
+  left: 350px;
+  position: absolute;
+  top: 1216px;
+  width: 1280px;
+}
+
+.how-desktop .frame-485 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  max-height: 114px;
+  position: relative;
+  width: 1280px;
+}
+
+.how-desktop .desktop-header-section-full {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.how-desktop .desktop-caption-section {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 40px;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.how-desktop .line-10 {
+  flex: 1;
+  flex-grow: 1;
+  position: relative;
+}
+
+.how-desktop .desktop-headline-section {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  padding: 0px 0px 24px;
+  position: relative;
+  width: 100%;
+}
+
+.how-desktop .two-color-headline {
+  color: transparent;
+  font-weight: 600;
+  line-height: 44.0px;
+  margin-top: -1.00px;
+  position: relative;
+  width: 1280px;
+}
+
+.how-desktop .frame-490 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 60px;
+  height: 732px;
+  margin-left: 108px;
+  width: 1064px;
+}
+
+.how-desktop .frame-446 {
+  align-items: flex-start;
+  display: flex;
+  height: 56px;
+  justify-content: space-between;
+  position: relative;
+  width: 1064px;
+}
+
+.how-desktop .about-button {
+  height: 56px;
+  position: relative;
+  width: 182px;
+}
+
+.how-desktop .overlap-group-4 {
+  background-image: url(../img/rectangle-6-23@2x.png);
+  background-size: 100% 100%;
+  height: 60px;
+  left: -2px;
+  min-width: 184px;
+  padding: 0 2px;
+  position: relative;
+  top: -2px;
+}
+
+.how-desktop .about-orchid-1 {
+  color: var(--aquamarine);
+  font-weight: 600;
+  line-height: 22.0px;
+  min-height: 24px;
+  text-align: center;
+  white-space: nowrap;
+  width: 180px;
+}
+
+.how-desktop .overlap-group-1 {
+  background-image: url(../img/rectangle-6-24@2x.png);
+  background-size: 100% 100%;
+  height: 56px;
+  min-width: 180px;
+}
+
+.how-desktop .about-orchid {
+  color: var(--white);
+  font-weight: 600;
+  line-height: 22.0px;
+  min-height: 24px;
+  text-align: center;
+  white-space: nowrap;
+  width: 180px;
+}
+
+.how-desktop .about-button-1 {
+  height: 56px;
+  margin-right: -2.00px;
+  position: relative;
+  width: 182px;
+}
+
+.how-desktop .info-card {
+  align-items: flex-start;
+  background-color: var(--hunter-green);
+  border: 2px solid;
+  border-color: var(--aquamarine);
+  border-radius: 40px;
+  display: flex;
+  flex-direction: column;
+  min-height: 616px;
+  padding: 58px 78px;
+  width: 1064px;
+}
+
+.how-desktop .icon {
+  align-items: center;
+  background-color: var(--black-2);
+  border: 1px solid;
+  border-color: #46434d;
+  border-radius: 40px;
+  display: flex;
+  height: 80px;
+  justify-content: center;
+  width: 80px;
+}
+
+.how-desktop .frame-11 {
+  height: 48.25px;
+  margin-left: 0.8px;
+  margin-top: -0.2px;
+  width: 45.3px;
+}
+
+.how-desktop .text {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  height: 288px;
+  margin-top: 24px;
+  width: 904px;
+}
+
+.how-desktop .oxt-token-staking {
+  align-self: center;
+  color: var(--white);
+  font-weight: 500;
+  height: 40px;
+  line-height: 34.7px;
+  white-space: nowrap;
+}
+
+.how-desktop .intro-copy-14 {
+  color: var(--white);
+  font-weight: 400;
+  height: 84px;
+  line-height: 28.0px;
+}
+
+.how-desktop .more-link {
+  align-items: center;
+  display: inline-flex;
+  gap: 16px;
+  margin-top: 60px;
+  position: relative;
+}
+
+.how-desktop .intro-copy-15 {
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 1;
+  color: var(--dull-lavender-2);
+  display: -webkit-box;
+  font-weight: 700;
+  line-height: 24px;
+  margin-top: -1.00px;
+  overflow: hidden;
+  position: relative;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.how-desktop .arrow-10 {
+  height: 14.73px;
+  margin-right: -1.00px;
+  position: relative;
+  width: 18px;
+}
+
+.how-desktop .hero {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 72px;
+  left: 270px;
+  max-width: 1800px;
+  padding: 0px 200px;
+  position: absolute;
+  top: 295px;
+  width: 1440px;
+}
+
+.how-desktop .decentralized-marketplace {
+  color: transparent;
+  font-weight: 800;
+  height: 73px;
+  line-height: 54.0px;
+  margin-left: -11.00px;
+  margin-right: -11.00px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  width: 1062px;
+}
+
+.how-desktop .intro-copy-16 {
+  align-self: stretch;
+  color: transparent;
+  font-weight: 400;
+  line-height: 28.0px;
+  position: relative;
+}
+
+.how-desktop .span-4 {
+  color: var(--dull-lavender-2);
+  font-weight: 600;
+}
+
+.how-desktop .hero-cta-button {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 96px 0px 0px;
+  position: relative;
+}
+
+.how-desktop .desktop-button-hero {
+  background-image: url(../img/rectangle-6-43@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 80px;
+  width: 360px;
+}
+
+.how-desktop .desktop-button-hero-1 {
+  align-items: center;
+  background-image: url(../img/rectangle-6-43@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 80px;
+  position: relative;
+  width: 360px;
+}
+
+.how-desktop .desktop-button {
+  align-items: center;
+  position: relative;
+}
+
+.how-desktop .desktop-button-top-nav-7 {
+  align-items: center;
+  gap: 10px;
+  justify-content: center;
+  position: relative;
+}
+
+.how-desktop .desktop-header-section {
+  position: relative;
+  width: 1280px;
+}
+
+.how-desktop .group {
+  margin-right: -6.00px;
+  position: relative;
+  width: 1069px;
+}
+
+.how-desktop .line {
+  height: 1px;
+  object-fit: cover;
+}
+
+.how-desktop .overlap-group-5 {
+  align-items: center;
+  display: flex;
+}
+
+.how-desktop .vpn-3 {
+  font-weight: 700;
+  line-height: 14.4px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}

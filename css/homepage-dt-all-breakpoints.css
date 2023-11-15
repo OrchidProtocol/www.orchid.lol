@@ -9,56 +9,18 @@
   position: relative;
 }
 
+.homepage-dt-all-breakpoints .icbaseline-discord {
+  height: 24px;
+  position: relative;
+  width: 24px;
+}
+
 .homepage-dt-all-breakpoints .ellipses {
   height: 7846px;
   margin-left: -263.50px;
   margin-right: -263.50px;
   position: relative;
   width: 1967px;
-}
-
-.homepage-dt-all-breakpoints .desktopfooter {
-  align-items: center;
-  background-color: var(--cod-gray);
-  display: flex;
-  flex-direction: column;
-  height: 476px;
-  justify-content: flex-end;
-  padding: 40px 80px 120px;
-  position: relative;
-  width: 1440px;
-}
-
-.homepage-dt-all-breakpoints .twitter {
-  background-image: url(../img/twitter-1@2x.png);
-  background-size: 100% 100%;
-  height: 29.99px;
-  position: relative;
-  width: 30px;
-}
-
-.homepage-dt-all-breakpoints .discord {
-  background-image: url(../img/shape-2@2x.png);
-  background-size: 100% 100%;
-  height: 29.99px;
-  position: relative;
-  width: 30px;
-}
-
-.homepage-dt-all-breakpoints .facebook {
-  background-image: url(../img/shape-3@2x.png);
-  background-size: 100% 100%;
-  height: 29.95px;
-  position: relative;
-  width: 29.88px;
-}
-
-.homepage-dt-all-breakpoints .reddit {
-  background-image: url(../img/combined-shape-1@2x.png);
-  background-size: 100% 100%;
-  height: 30px;
-  position: relative;
-  width: 30px;
 }
 
 .homepage-dt-all-breakpoints .hero-orchids_vec-3 {
@@ -77,13 +39,89 @@
   width: 1150px;
 }
 
+.homepage-dt-all-breakpoints .desktopfooter {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--cod-gray);
+  display: flex;
+  flex-direction: column;
+  height: 476px;
+  justify-content: flex-end;
+  padding: 40px 80px 120px;
+  position: relative;
+  width: 100%;
+}
+
+.homepage-dt-all-breakpoints .desktop-home-logo {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 10px;
+  height: 36px;
+  position: relative;
+}
+
+.homepage-dt-all-breakpoints .x2023-orchid-1 {
+  color: var(--white);
+  cursor: pointer;
+  flex: 1;
+  font-weight: 700;
+  line-height: 22.4px;
+  width: 180px;
+}
+
+.homepage-dt-all-breakpoints .twitter {
+  background-image: url(../img/twitter-1@2x.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  height: 29.99px;
+  position: relative;
+  width: 30px;
+}
+
+.homepage-dt-all-breakpoints .discord {
+  align-items: center;
+  background-image: url(../img/shape-2@2x.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  display: flex;
+  height: 29.99px;
+  justify-content: center;
+  position: relative;
+  width: 30px;
+}
+
+.homepage-dt-all-breakpoints .github {
+  cursor: pointer;
+  height: 29.25px;
+  position: relative;
+  width: 30px;
+}
+
+.homepage-dt-all-breakpoints .facebook {
+  background-image: url(../img/shape-3@2x.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  height: 29.95px;
+  position: relative;
+  width: 29.88px;
+}
+
+.homepage-dt-all-breakpoints .reddit {
+  background-image: url(../img/combined-shape-1@2x.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  height: 30px;
+  position: relative;
+  width: 30px;
+}
+
 .homepage-dt-all-breakpoints .hero {
   align-items: flex-start;
   display: flex;
   flex-direction: column;
   gap: 40px;
   height: 872px;
-  left: calc(50.00% - 720px);
+  left: 0;
   padding: 240px 80px 120px;
   position: absolute;
   top: 96px;
@@ -132,15 +170,6 @@
   width: 360px;
 }
 
-.homepage-dt-all-breakpoints .learn-more {
-  color: var(--white);
-  flex: 1;
-  font-weight: 700;
-  height: 24px;
-  line-height: 24px;
-  text-align: center;
-}
-
 .homepage-dt-all-breakpoints .ecosystem {
   align-items: flex-start;
   display: flex;
@@ -187,17 +216,6 @@
   height: 1px;
   object-fit: cover;
   position: relative;
-}
-
-.homepage-dt-all-breakpoints .caption {
-  color: var(--white);
-  font-weight: 600;
-  line-height: 22.0px;
-  margin-top: -1.00px;
-  position: relative;
-  text-align: center;
-  white-space: nowrap;
-  width: fit-content;
 }
 
 .homepage-dt-all-breakpoints .desktop-headline-section {
@@ -477,30 +495,14 @@
   width: 459px;
 }
 
-.homepage-dt-all-breakpoints .desktop-button-standard {
+.homepage-dt-all-breakpoints .frame-48 {
+  align-items: center;
   display: inline-flex;
   flex: 0 0 auto;
   flex-direction: column;
   gap: 10px;
-  justify-content: center;
-  padding: 100px 0px 0px;
-}
-
-.homepage-dt-all-breakpoints .rectangle-6 {
-  height: 56px;
+  padding: 120px 0px 0px;
   position: relative;
-  width: 301px;
-}
-
-.homepage-dt-all-breakpoints .label {
-  bottom: 17px;
-  color: var(--white);
-  font-weight: 700;
-  left: 0;
-  line-height: 24px;
-  position: absolute;
-  text-align: center;
-  width: 100%;
 }
 
 .homepage-dt-all-breakpoints .vpn {
@@ -647,15 +649,14 @@
   width: 575px;
 }
 
-.homepage-dt-all-breakpoints .desktop-button-standard-1 {
-  align-items: center;
+.homepage-dt-all-breakpoints .frame-487 {
+  align-items: flex-start;
   display: inline-flex;
   flex: 0 0 auto;
   flex-direction: column;
   gap: 10px;
-  justify-content: center;
-  margin-bottom: -75.00px;
-  padding: 100px 0px 0px;
+  margin-bottom: -111.00px;
+  padding: 120px 0px 0px;
   position: relative;
 }
 
@@ -955,6 +956,16 @@
   position: relative;
 }
 
+.homepage-dt-all-breakpoints .in-a-world-where-one {
+  color: var(--white);
+  font-weight: 400;
+  left: 7.79%;
+  line-height: 28.0px;
+  position: absolute;
+  top: 24px;
+  width: 84.43%;
+}
+
 .homepage-dt-all-breakpoints .frame-413 {
   align-items: flex-start;
   display: inline-flex;
@@ -1039,16 +1050,6 @@
   top: 23px;
   white-space: nowrap;
   width: 282px;
-}
-
-.homepage-dt-all-breakpoints .in-a-world-where-one {
-  color: var(--white);
-  font-weight: 400;
-  left: 2.50%;
-  line-height: 28.0px;
-  position: absolute;
-  top: calc(50.00% - 116px);
-  width: 27.13%;
 }
 
 .homepage-dt-all-breakpoints .frame-406 {
@@ -1191,25 +1192,6 @@
   position: relative;
 }
 
-.homepage-dt-all-breakpoints .desktop-button-top-nav {
-  align-items: center;
-  display: flex;
-  gap: 10px;
-  justify-content: center;
-  position: relative;
-  width: 90px;
-}
-
-.homepage-dt-all-breakpoints .build {
-  color: var(--white);
-  font-weight: 700;
-  line-height: 14.4px;
-  margin-top: -1.00px;
-  position: relative;
-  white-space: nowrap;
-  width: fit-content;
-}
-
 .homepage-dt-all-breakpoints .desktop-button-top-nav-1 {
   display: inline-flex;
   flex: 0 0 auto;
@@ -1249,25 +1231,6 @@
   width: 196px;
 }
 
-.homepage-dt-all-breakpoints .button-label {
-  color: var(--white);
-  font-weight: 700;
-  height: 14px;
-  line-height: 14.4px;
-  text-align: center;
-  width: 196px;
-}
-
-.homepage-dt-all-breakpoints .build-5 {
-  color: var(--white);
-  font-weight: 700;
-  line-height: 14.4px;
-  margin-top: -1.00px;
-  position: relative;
-  white-space: nowrap;
-  width: fit-content;
-}
-
 .homepage-dt-all-breakpoints .desktop-button {
   align-items: center;
   position: relative;
@@ -1275,6 +1238,7 @@
 
 .homepage-dt-all-breakpoints .desktop-button-top-nav-7 {
   align-items: center;
+  cursor: pointer;
   gap: 10px;
   justify-content: center;
   position: relative;
@@ -1314,7 +1278,7 @@
   width: 1280px;
 }
 
-.homepage-dt-all-breakpoints .vector {
+.homepage-dt-all-breakpoints .vector-1 {
   height: 215px;
   position: absolute;
   top: 80px;
@@ -2315,7 +2279,7 @@
   width: 30px;
 }
 
-.mobile-large-u40iphone-maxu41 .discord-6 {
+.mobile-large-u40iphone-maxu41 .discord-5 {
   background-image: url(../img/shape-12@2x.png);
   background-size: 100% 100%;
   height: 29.99px;
@@ -2323,7 +2287,7 @@
   width: 30px;
 }
 
-.mobile-large-u40iphone-maxu41 .discord-7 {
+.mobile-large-u40iphone-maxu41 .discord-6 {
   height: 19px;
   left: 5px;
   object-fit: cover;
@@ -3024,7 +2988,6 @@
 }
 
 .mobile-small-u40android-smallu41 .frame-470-1 {
-  background-image: url(../img/token-hifi-dt@2x.png);
   background-size: 100% 100%;
   height: 94px;
   left: 0;
@@ -3507,7 +3470,7 @@
   width: 30px;
 }
 
-.mobile-small-u40android-smallu41 .discord-2 {
+.mobile-small-u40android-smallu41 .discord-1 {
   background-image: url(../img/shape-12@2x.png);
   background-size: 100% 100%;
   height: 29.99px;
@@ -3515,7 +3478,7 @@
   width: 30px;
 }
 
-.mobile-small-u40android-smallu41 .discord-3 {
+.mobile-small-u40android-smallu41 .discord-2 {
   height: 19px;
   left: 5px;
   object-fit: cover;
@@ -4718,7 +4681,7 @@
   width: 30px;
 }
 
-.tablet-small-u40ipad-miniu41 .discord-4 {
+.tablet-small-u40ipad-miniu41 .discord-3 {
   background-image: url(../img/shape-12@2x.png);
   background-size: 100% 100%;
   height: 29.99px;
@@ -4726,7 +4689,7 @@
   width: 30px;
 }
 
-.tablet-small-u40ipad-miniu41 .discord-5 {
+.tablet-small-u40ipad-miniu41 .discord-4 {
   height: 19px;
   left: 5px;
   object-fit: cover;

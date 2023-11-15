@@ -2,7 +2,7 @@
 
 .vpn-u40prod-updateu41 {
   align-items: flex-start;
-  background-color: #161616;
+  background-color: var(--hunter-green);
   display: flex;
   height: 5385px;
   overflow: hidden;
@@ -280,13 +280,6 @@
   width: 411px;
 }
 
-.vpn-u40prod-updateu41 .noun {
-  height: 136px;
-  margin-left: 1.0px;
-  margin-top: 32px;
-  width: 136px;
-}
-
 .vpn-u40prod-updateu41 .intro-copy-1 {
   color: var(--white);
   font-weight: 500;
@@ -338,12 +331,6 @@
   margin-left: 23px;
 }
 
-.vpn-u40prod-updateu41 .noun-crypto-4712309-1 {
-  height: 136px;
-  margin-top: 35px;
-  width: 129px;
-}
-
 .vpn-u40prod-updateu41 .intro-copy-9 {
   color: var(--white);
   font-weight: 500;
@@ -352,13 +339,6 @@
   min-height: 88px;
   text-align: center;
   width: 331px;
-}
-
-.vpn-u40prod-updateu41 .noun-mining-3947782-1 {
-  height: 136px;
-  margin-left: 1.0px;
-  margin-top: 48px;
-  width: 136px;
 }
 
 .vpn-u40prod-updateu41 .intro-copy-10 {
@@ -386,13 +366,6 @@
   width: 411px;
 }
 
-.vpn-u40prod-updateu41 .noun-blockchain-3334853-1 {
-  height: 136px;
-  margin-left: 1.0px;
-  margin-top: 32px;
-  width: 170px;
-}
-
 .vpn-u40prod-updateu41 .intro-copy-11 {
   align-self: flex-start;
   color: var(--white);
@@ -402,22 +375,6 @@
   min-height: 88px;
   text-align: center;
   width: 331px;
-}
-
-.vpn-u40prod-updateu41 .group-317-1 {
-  align-self: flex-end;
-  display: flex;
-  gap: 15px;
-  margin-right: 4px;
-  margin-top: 40px;
-  width: 180px;
-}
-
-.vpn-u40prod-updateu41 .noun-crypto-wallet-4738362-1 {
-  height: 136px;
-  margin-left: 3.0px;
-  margin-top: 56px;
-  width: 136px;
 }
 
 .vpn-u40prod-updateu41 .intro-copy-12 {
@@ -551,11 +508,6 @@
   top: 19px;
 }
 
-.vpn-u40prod-updateu41 .noun-crypto-economy-4287357-1 {
-  height: 60px;
-  width: 60px;
-}
-
 .vpn-u40prod-updateu41 .hero {
   align-items: flex-start;
   display: flex;
@@ -642,6 +594,22 @@
   width: 1440px;
 }
 
+.vpn-u40prod-updateu41 .desktop-home-logo {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 10px;
+  height: 36px;
+  position: relative;
+}
+
+.vpn-u40prod-updateu41 .x2023-orchid-1 {
+  color: var(--white);
+  flex: 1;
+  font-weight: 700;
+  line-height: 22.4px;
+  width: 180px;
+}
+
 .vpn-u40prod-updateu41 .twitter {
   background-image: url(../img/twitter-8@2x.png);
   background-size: 100% 100%;
@@ -654,6 +622,21 @@
   background-image: url(../img/shape-4@2x.png);
   background-size: 100% 100%;
   height: 29.99px;
+  position: relative;
+  width: 30px;
+}
+
+.vpn-u40prod-updateu41 .discord-1 {
+  height: 19px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 19px;
+}
+
+.vpn-u40prod-updateu41 .github {
+  height: 29.25px;
   position: relative;
   width: 30px;
 }
