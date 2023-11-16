@@ -24,7 +24,7 @@
 .vpn-desktop .desktop-header {
   align-items: center;
   display: flex;
-  gap: 120px;
+  gap: 48px;
   height: 96px;
   justify-content: center;
   margin-right: 0.5px;
@@ -35,6 +35,7 @@
 
 .vpn-desktop .desktop-home-logo {
   align-items: flex-start;
+  cursor: pointer;
   display: inline-flex;
   flex: 0 0 auto;
   gap: 10px;
@@ -42,16 +43,10 @@
   position: relative;
 }
 
-.vpn-desktop .desktop-header-top-nav {
-  align-items: flex-start;
-  display: flex;
-  flex: 1;
-  flex-grow: 1;
-  flex-wrap: wrap;
-  gap: 60px 60px;
-  height: 14px;
-  justify-content: space-between;
+.vpn-desktop .union {
+  height: 36px;
   position: relative;
+  width: 140px;
 }
 
 .vpn-desktop .desktop-button-top-nav-1 {
@@ -112,6 +107,7 @@
 .vpn-desktop .desktop-button-header {
   background-image: url(../img/button-base-1@2x.png);
   background-size: 100% 100%;
+  cursor: pointer;
   display: flex;
   height: 48px;
   justify-content: flex-end;
@@ -123,23 +119,26 @@
   display: flex;
   gap: 40px;
   height: 872px;
+  justify-content: center;
   padding: 240px 80px 120px;
   position: relative;
   width: 1440px;
 }
 
 .vpn-desktop .frame-481 {
-  display: flex;
-  height: 354px;
-  justify-content: flex-end;
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  padding: 0px 37px;
   position: relative;
-  width: 579px;
 }
 
 .vpn-desktop .composition_-generic_2-1 {
   height: 354px;
-  margin-right: -421px;
   object-fit: cover;
+  position: relative;
   width: 459px;
 }
 
@@ -208,10 +207,10 @@
 
 .vpn-desktop .frame-485 {
   align-items: flex-start;
+  align-self: center;
   display: flex;
-  flex: 1;
   flex-direction: column;
-  max-height: 142px;
+  height: 142px;
   position: relative;
   width: 1280px;
 }
@@ -282,6 +281,7 @@
 }
 
 .vpn-desktop .group-325 {
+  align-items: center;
   display: flex;
   flex-direction: column;
   gap: 24px;
@@ -291,9 +291,8 @@
 .vpn-desktop .accounts {
   align-items: flex-start;
   display: flex;
-  flex: 1;
-  max-height: 160px;
-  min-width: 100.31%;
+  margin-left: 4px;
+  min-width: 1284px;
 }
 
 .vpn-desktop .overlap-group {
@@ -873,12 +872,45 @@
 }
 
 .vpn-desktop .x2023-orchid-1 {
+  letter-spacing: 0.28px;
+  line-height: 19.6px;
+  position: relative;
+  width: 299px;
+}
+
+.vpn-desktop .frame-421 {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  height: 68px;
+  position: relative;
+  width: 180px;
+}
+
+.vpn-desktop .x2023-orchid {
   color: var(--white);
   cursor: pointer;
   flex: 1;
   font-weight: 700;
   line-height: 22.4px;
   width: 180px;
+}
+
+.vpn-desktop .apps-1 {
+  color: var(--white);
+  cursor: pointer;
+  font-weight: 700;
+  height: 22px;
+  line-height: 22.4px;
+  width: 198px;
+}
+
+.vpn-desktop .apps {
+  color: var(--white);
+  font-weight: 700;
+  height: 22px;
+  line-height: 22.4px;
+  width: 198px;
 }
 
 .vpn-desktop .twitter {
@@ -891,13 +923,10 @@
 }
 
 .vpn-desktop .discord {
-  align-items: center;
-  background-image: url(../img/shape-4@2x.png);
+  background-image: url(../img/subtract@2x.png);
   background-size: 100% 100%;
   cursor: pointer;
-  display: flex;
   height: 29.99px;
-  justify-content: center;
   position: relative;
   width: 30px;
 }

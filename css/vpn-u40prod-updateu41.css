@@ -602,12 +602,66 @@
   position: relative;
 }
 
+.vpn-u40prod-updateu41 .union {
+  height: 36px;
+  position: relative;
+  width: 140px;
+}
+
+.vpn-u40prod-updateu41 .x2023-orchid {
+  letter-spacing: 0.28px;
+  line-height: 19.6px;
+  position: relative;
+  width: 299px;
+}
+
+.vpn-u40prod-updateu41 .frame-421 {
+  display: flex;
+  height: 126px;
+  position: relative;
+  width: 180px;
+}
+
 .vpn-u40prod-updateu41 .x2023-orchid-1 {
   color: var(--white);
   flex: 1;
   font-weight: 700;
   line-height: 22.4px;
   width: 180px;
+}
+
+.vpn-u40prod-updateu41 .frame-4 {
+  display: flex;
+  height: 136px;
+  position: relative;
+  width: 160px;
+}
+
+.vpn-u40prod-updateu41 .apps {
+  color: var(--white);
+  font-weight: 700;
+  height: 124px;
+  line-height: 22.4px;
+  margin-left: -0.5px;
+  width: 198px;
+}
+
+.vpn-u40prod-updateu41 .learn {
+  color: var(--white);
+  font-weight: 700;
+  height: 121px;
+  line-height: 22.4px;
+  margin-left: -0.5px;
+  width: 196px;
+}
+
+.vpn-u40prod-updateu41 .engage {
+  color: var(--white);
+  font-weight: 700;
+  height: 122px;
+  line-height: 22.4px;
+  margin-left: -0.5px;
+  width: 191px;
 }
 
 .vpn-u40prod-updateu41 .twitter {
@@ -624,15 +678,6 @@
   height: 29.99px;
   position: relative;
   width: 30px;
-}
-
-.vpn-u40prod-updateu41 .discord-1 {
-  height: 19px;
-  left: 5px;
-  object-fit: cover;
-  position: absolute;
-  top: 5px;
-  width: 19px;
 }
 
 .vpn-u40prod-updateu41 .github {
