@@ -39,13 +39,6 @@
   box-sizing: border-box;
 }
 
-.flex-col {
-  align-items: flex-start;
-  display: flex;
-  flex-direction: column;
-  min-height: 4708px;
-}
-
 .ellipse-28 {
   background-color: var(--cod-gray);
   border-radius: 310px;
@@ -214,18 +207,6 @@
   position: relative;
 }
 
-.hyperlinks {
-  align-items: flex-start;
-  align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  flex-wrap: wrap;
-  gap: 60px 60px;
-  justify-content: space-between;
-  position: relative;
-  width: 100%;
-}
-
 .frame-50 {
   display: flex;
   height: 22px;
@@ -249,6 +230,15 @@
 
 .frame-505 {
   display: flex;
+  width: 198px;
+}
+
+.apps-1 {
+  color: var(--white);
+  cursor: pointer;
+  font-weight: 700;
+  height: 22px;
+  line-height: 22.4px;
   width: 198px;
 }
 
@@ -292,35 +282,6 @@
   text-align: center;
 }
 
-.discord-1 {
-  height: 19px;
-  left: 5px;
-  object-fit: cover;
-  position: absolute;
-  top: 5px;
-  width: 19px;
-}
-
-.desktop-button-hero {
-  background-image: url(../img/rectangle-6-43@2x.png);
-  background-size: 100% 100%;
-  display: flex;
-  height: 80px;
-  width: 360px;
-}
-
-.desktop-button-standard {
-  background-color: var(--log-cabin);
-  border: 1px solid;
-  border-color: var(--aquamarine);
-  border-radius: 48px;
-  display: inline-flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  justify-content: center;
-  padding: 24px 80px;
-}
-
 .label {
   color: var(--white);
   font-weight: 700;
@@ -344,6 +305,15 @@
 
 .desktop-button {
   align-items: center;
+  position: relative;
+}
+
+.logo-1 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 12px;
   position: relative;
 }
 

@@ -9,6 +9,7 @@
   --hunter-green: #161616;
   --licorice: #121212;
   --log-cabin: #212121;
+  --log-cabin-2: #21212140;
   --manatee: #9c96ac;
   --pixie-powder: #441a86;
   --true-v: #8263ff;
@@ -131,14 +132,6 @@
 
 .figtree-light-white-14px {
   color: var(--white);
-  font-family: var(--font-family-figtree);
-  font-size: var(--font-size-xxxs);
-  font-style: normal;
-  font-weight: 300;
-}
-
-.figtree-light-manatee-14px {
-  color: var(--manatee);
   font-family: var(--font-family-figtree);
   font-size: var(--font-size-xxxs);
   font-style: normal;

@@ -14,7 +14,7 @@
   height: 7846px;
   left: -264px;
   position: absolute;
-  top: 0;
+  top: -90px;
   width: 1967px;
 }
 
@@ -135,12 +135,22 @@
   position: relative;
 }
 
+.vpn-desktop .desktop-button-hero {
+  background-image: url(../img/rectangle-6-43@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 80px;
+  width: 360px;
+}
+
 .vpn-desktop .marketplace {
+  align-items: flex-start;
   align-self: stretch;
   display: flex;
   flex: 0 0 auto;
   flex-direction: column;
   gap: 60px;
+  padding: 0px 80px;
   position: relative;
   width: 100%;
 }
@@ -148,10 +158,8 @@
 .vpn-desktop .frame-485 {
   align-items: flex-start;
   display: flex;
+  flex: 0 0 auto;
   flex-direction: column;
-  height: 142px;
-  margin-left: 80px;
-  margin-top: -1126px;
   position: relative;
   width: 1280px;
 }
@@ -222,10 +230,9 @@
 }
 
 .vpn-desktop .marketplace-1 {
-  align-items: flex-start;
-  display: flex;
-  margin-left: 80px;
-  min-width: 1280px;
+  height: 528px;
+  position: relative;
+  width: 1280px;
 }
 
 .vpn-desktop .group-325 {
@@ -234,7 +241,6 @@
   flex-direction: column;
   gap: 24px;
   height: 528px;
-  width: 1280px;
 }
 
 .vpn-desktop .accounts {
@@ -788,6 +794,18 @@
   position: relative;
 }
 
+.vpn-desktop .desktop-button-standard {
+  background-color: var(--log-cabin);
+  border: 1px solid;
+  border-color: var(--aquamarine);
+  border-radius: 48px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: center;
+  padding: 24px 80px;
+}
+
 .vpn-desktop .desktopfooter {
   align-items: flex-start;
   align-self: stretch;
@@ -817,6 +835,18 @@
   width: 299px;
 }
 
+.vpn-desktop .hyperlinks {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 60px 60px;
+  justify-content: space-between;
+  position: relative;
+  width: 100%;
+}
+
 .vpn-desktop .frame-421 {
   display: flex;
   flex-direction: column;
@@ -833,15 +863,6 @@
   font-weight: 700;
   line-height: 22.4px;
   width: 180px;
-}
-
-.vpn-desktop .apps-1 {
-  color: var(--white);
-  cursor: pointer;
-  font-weight: 700;
-  height: 22px;
-  line-height: 22.4px;
-  width: 198px;
 }
 
 .vpn-desktop .apps {

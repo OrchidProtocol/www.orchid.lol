@@ -636,6 +636,18 @@
   width: 299px;
 }
 
+.vpn-u40prod-updateu41 .hyperlinks {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 60px 60px;
+  justify-content: space-between;
+  position: relative;
+  width: 100%;
+}
+
 .vpn-u40prod-updateu41 .frame-421 {
   display: flex;
   height: 126px;
@@ -699,6 +711,15 @@
   height: 29.99px;
   position: relative;
   width: 30px;
+}
+
+.vpn-u40prod-updateu41 .discord-1 {
+  height: 19px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 19px;
 }
 
 .vpn-u40prod-updateu41 .github {

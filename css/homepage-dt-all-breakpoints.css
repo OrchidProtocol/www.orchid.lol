@@ -12,15 +12,15 @@
 
 .homepage-dt-all-breakpoints .hero-orchids_vec-3 {
   height: 712px;
-  left: calc(50.00% + 239px);
+  left: 959px;
   position: absolute;
-  top: 7193px;
+  top: 7433px;
   width: 738px;
 }
 
 .homepage-dt-all-breakpoints .hero-orchids_vec-2 {
   height: 1110px;
-  left: calc(50.00% + 69px);
+  left: 789px;
   position: absolute;
   top: 348px;
   width: 1150px;
@@ -30,21 +30,15 @@
   height: 7846px;
   left: -264px;
   position: absolute;
-  top: 96px;
+  top: -104px;
   width: 1967px;
 }
 
-.homepage-dt-all-breakpoints .desktop-home-logo {
-  align-items: flex-start;
-  cursor: pointer;
-  display: inline-flex;
+.homepage-dt-all-breakpoints .desktop-home-logo-3 {
   flex: 0 0 auto;
-  gap: 10px;
-  height: 36px;
-  position: relative;
 }
 
-.homepage-dt-all-breakpoints .union-9 {
+.homepage-dt-all-breakpoints .union-12 {
   height: 36px;
   position: relative;
   width: 140px;
@@ -71,7 +65,7 @@
 }
 
 .homepage-dt-all-breakpoints .desktop-button-header {
-  background-image: url(../img/button-base-1@2x.png);
+  background-image: url(../img/button-base-16@2x.png);
   background-size: 100% 100%;
   display: flex;
   height: 48px;
@@ -80,7 +74,7 @@
 }
 
 .homepage-dt-all-breakpoints .hero-3 {
-  align-items: flex-start;
+  align-items: center;
   align-self: stretch;
   display: flex;
   flex-direction: column;
@@ -91,20 +85,35 @@
   width: 100%;
 }
 
-.homepage-dt-all-breakpoints .decentralize-the-future-3 {
-  align-self: stretch;
-  flex: 0 0 auto;
-  margin-top: -1.44px;
+.homepage-dt-all-breakpoints .hero-content {
+  height: 536px;
+  margin-bottom: -24.00px;
   position: relative;
-  width: 100%;
+  width: 1280px;
+}
+
+.homepage-dt-all-breakpoints .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 537px;
+  position: relative;
+  top: -1px;
+}
+
+.homepage-dt-all-breakpoints .decentralize-the-future-3 {
+  height: 195px;
+  margin-left: 2.04px;
+  width: 917px;
 }
 
 .homepage-dt-all-breakpoints .transforming-marketp-3 {
-  align-self: stretch;
   color: transparent;
   font-weight: 600;
+  height: 88px;
   line-height: 44.0px;
-  position: relative;
+  margin-top: 38px;
+  width: 1280px;
 }
 
 .homepage-dt-all-breakpoints .span-6 {
@@ -118,11 +127,18 @@
 .homepage-dt-all-breakpoints .hero-cta-button-3 {
   align-items: flex-start;
   display: inline-flex;
-  flex: 0 0 auto;
   flex-direction: column;
-  margin-bottom: -24.00px;
+  margin-top: 41px;
   padding: 96px 0px 0px;
   position: relative;
+}
+
+.homepage-dt-all-breakpoints .desktop-button-hero {
+  background-image: url(../img/rectangle-6-28@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 80px;
+  width: 360px;
 }
 
 .homepage-dt-all-breakpoints .learn-more-3 {
@@ -136,7 +152,6 @@
 
 .homepage-dt-all-breakpoints .ecosystem-1 {
   align-items: flex-start;
-  align-self: stretch;
   display: flex;
   flex: 0 0 auto;
   flex-wrap: wrap;
@@ -144,7 +159,7 @@
   justify-content: center;
   padding: 0px 80px;
   position: relative;
-  width: 100%;
+  width: 1440px;
 }
 
 .homepage-dt-all-breakpoints .desktop-header-section-full-1 {
@@ -203,6 +218,7 @@
   align-items: center;
   background-color: var(--heavy-metal);
   border-radius: 24px;
+  cursor: pointer;
   display: flex;
   flex: 1;
   flex-direction: column;
@@ -254,14 +270,13 @@
 
 .homepage-dt-all-breakpoints .marketplaces {
   align-items: center;
-  align-self: stretch;
   display: flex;
   flex: 0 0 auto;
   flex-direction: column;
   gap: 80px;
   padding: 0px 80px;
   position: relative;
-  width: 100%;
+  width: 1440px;
 }
 
 .homepage-dt-all-breakpoints .frame-355 {
@@ -449,16 +464,28 @@
   position: relative;
 }
 
+.homepage-dt-all-breakpoints .desktop-button-standard {
+  background-color: var(--log-cabin);
+  border: 1px solid;
+  border-color: var(--aquamarine);
+  border-radius: 48px;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: center;
+  padding: 24px 80px;
+}
+
 .homepage-dt-all-breakpoints .vpn-5 {
   align-items: flex-start;
-  align-self: stretch;
   display: flex;
   gap: 24px;
   height: 956px;
   justify-content: center;
   padding: 0px 80px;
   position: relative;
-  width: 100%;
+  width: 1440px;
 }
 
 .homepage-dt-all-breakpoints .frame-442 {
@@ -514,15 +541,18 @@
   position: relative;
 }
 
-.homepage-dt-all-breakpoints .google-play-icon-transparent-6-3 {
+.homepage-dt-all-breakpoints .frame-509 {
+  background-image: url(../img/google-play-icon-transparent-6-1.png);
+  background-size: 100% 100%;
   height: 56px;
   position: relative;
   width: 187px;
 }
 
-.homepage-dt-all-breakpoints .appstorebadge-2-3 {
+.homepage-dt-all-breakpoints .frame-508 {
+  background-position: 50% 50%;
+  background-size: cover;
   height: 56px;
-  object-fit: cover;
   position: relative;
   width: 188px;
 }
@@ -626,22 +656,21 @@
 }
 
 .homepage-dt-all-breakpoints .token-3 {
-  height: 295px;
+  height: 322px;
   position: relative;
-  width: 239.98px;
+  width: 240px;
 }
 
 .homepage-dt-all-breakpoints .overlap-group-9 {
-  height: 295px;
+  height: 322px;
   position: relative;
-  width: 240px;
 }
 
 .homepage-dt-all-breakpoints .vector-747-3 {
   height: 215px;
   left: 0;
   position: absolute;
-  top: 80px;
+  top: 107px;
   width: 240px;
 }
 
@@ -650,16 +679,16 @@
   left: 53px;
   mix-blend-mode: color-dodge;
   position: absolute;
-  top: 80px;
+  top: 107px;
   width: 135px;
 }
 
 .homepage-dt-all-breakpoints .frame-470-3 {
-  height: 187px;
-  left: 32px;
+  height: 225px;
+  left: 14px;
   position: absolute;
   top: 0;
-  width: 176px;
+  width: 211px;
 }
 
 .homepage-dt-all-breakpoints .two-color-headline-3 {
@@ -744,15 +773,14 @@
   width: 1px;
 }
 
-.homepage-dt-all-breakpoints .developers-1 {
+.homepage-dt-all-breakpoints .developers {
   align-items: center;
-  align-self: stretch;
   display: flex;
   flex: 0 0 auto;
   flex-direction: column;
   padding: 120px 80px;
   position: relative;
-  width: 100%;
+  width: 1440px;
 }
 
 .homepage-dt-all-breakpoints .frame-397 {
@@ -847,6 +875,17 @@
   width: 100%;
 }
 
+.homepage-dt-all-breakpoints .frame-507 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+  width: 100%;
+}
+
 .homepage-dt-all-breakpoints .desktop-header-section-simple {
   align-self: stretch;
   height: 56px;
@@ -878,83 +917,43 @@
 
 .homepage-dt-all-breakpoints .frame-415 {
   align-items: flex-start;
-  display: inline-flex;
+  align-self: stretch;
+  display: flex;
   flex: 0 0 auto;
   flex-wrap: wrap;
   gap: 24px 24px;
+  justify-content: space-between;
   position: relative;
-}
-
-.homepage-dt-all-breakpoints .frame-414 {
-  align-items: center;
-  display: inline-flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 16px;
-  position: relative;
-}
-
-.homepage-dt-all-breakpoints .in-a-world-where-one-6 {
-  left: 7.79%;
-  position: absolute;
-  top: 24px;
-  width: 84.43%;
+  width: 100%;
 }
 
 .homepage-dt-all-breakpoints .frame-413 {
-  align-items: flex-start;
-  display: inline-flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 10px;
-  position: relative;
-}
-
-.homepage-dt-all-breakpoints .rectangle-copy-7-3 {
+  background-color: var(--log-cabin-2);
   border: 1px solid;
   border-color: var(--pixie-powder);
   border-radius: 16px;
-  box-shadow: 0px 4px 20px #00000033;
-  height: 282px;
+  flex: 0 0 auto;
   margin-bottom: -1.00px;
   margin-left: -1.00px;
-  margin-right: -1.00px;
   margin-top: -1.00px;
   position: relative;
-  width: 413px;
 }
 
 .homepage-dt-all-breakpoints .rectangle-copy-8-3 {
-  bottom: 0;
   height: 88px;
-  left: calc(50.00% - 206px);
+  left: 0;
   position: absolute;
+  top: 192px;
   width: 411px;
 }
 
-.homepage-dt-all-breakpoints .frame-412-6 {
+.homepage-dt-all-breakpoints .frame-4-3 {
   align-items: flex-start;
-  bottom: 24px;
   display: inline-flex;
   gap: 24px;
-  left: calc(50.00% - 174px);
+  left: 32px;
   position: absolute;
-}
-
-.homepage-dt-all-breakpoints .frame-4-6 {
-  background-color: var(--log-cabin);
-  border-radius: 20px;
-  height: 40px;
-  position: relative;
-  width: 40px;
-}
-
-.homepage-dt-all-breakpoints .union-10 {
-  height: 13px;
-  left: 8px;
-  position: absolute;
-  top: 13px;
-  width: 24px;
+  top: 216px;
 }
 
 .homepage-dt-all-breakpoints .frame-410-6 {
@@ -965,10 +964,10 @@
 
 .homepage-dt-all-breakpoints .company-8 {
   color: var(--white);
-  font-weight: 400;
+  font-weight: 600;
   height: 20px;
   left: 0;
-  line-height: 28.0px;
+  line-height: 22.0px;
   position: absolute;
   top: -1px;
   white-space: nowrap;
@@ -980,58 +979,41 @@
   font-weight: 700;
   height: 16px;
   left: 0;
-  line-height: 24px;
+  line-height: 22.4px;
   position: absolute;
   top: 23px;
   white-space: nowrap;
   width: 282px;
 }
 
-.homepage-dt-all-breakpoints .frame-406 {
-  align-items: center;
+.homepage-dt-all-breakpoints .in-a-world-where-one-6 {
+  color: var(--white);
+  font-weight: 400;
+  left: 32px;
+  line-height: 28.0px;
+  position: absolute;
+  top: 24px;
+  width: 347px;
+}
+
+.homepage-dt-all-breakpoints .frame-415-1 {
+  background-color: var(--log-cabin-2);
   border: 1px solid;
   border-color: var(--pixie-powder);
   border-radius: 16px;
-  box-shadow: 0px 4px 20px #00000033;
-  display: inline-flex;
   flex: 0 0 auto;
-  flex-direction: column;
-  gap: 24px;
-  height: 282px;
-  justify-content: flex-end;
   margin-bottom: -1.00px;
   margin-top: -1.00px;
-  overflow: hidden;
   position: relative;
 }
 
-.homepage-dt-all-breakpoints .in-a-world-where-one-7 {
-  height: 140px;
-  position: relative;
-  width: 346px;
-}
-
-.homepage-dt-all-breakpoints .rectangle-copy {
-  height: 89px;
-  position: relative;
-  width: 410px;
-}
-
-.homepage-dt-all-breakpoints .frame-409 {
+.homepage-dt-all-breakpoints .frame-404 {
   align-items: center;
-  bottom: 26px;
   display: inline-flex;
   gap: 24px;
-  left: calc(50.00% - 174px);
+  left: 32px;
   position: absolute;
-}
-
-.homepage-dt-all-breakpoints .union-11 {
-  height: 22px;
-  left: 5px;
-  position: absolute;
-  top: 10px;
-  width: 31px;
+  top: 216px;
 }
 
 .homepage-dt-all-breakpoints .frame-40 {
@@ -1046,9 +1028,9 @@
 
 .homepage-dt-all-breakpoints .company-6 {
   color: var(--white);
-  font-weight: 400;
+  font-weight: 600;
   height: 20px;
-  line-height: 28.0px;
+  line-height: 22.0px;
   margin-top: -1.00px;
   position: relative;
   white-space: nowrap;
@@ -1059,42 +1041,22 @@
   color: var(--dull-lavender);
   font-weight: 700;
   height: 16px;
-  line-height: 24px;
+  line-height: 22.4px;
   position: relative;
   white-space: nowrap;
   width: 240px;
 }
 
-.homepage-dt-all-breakpoints .frame-405 {
-  align-items: center;
+.homepage-dt-all-breakpoints .frame-414 {
+  background-color: var(--log-cabin-2);
   border: 1px solid;
   border-color: var(--pixie-powder);
   border-radius: 16px;
-  display: inline-flex;
   flex: 0 0 auto;
-  flex-direction: column;
-  gap: 24px;
-  height: 282px;
-  justify-content: flex-end;
   margin-bottom: -1.00px;
   margin-right: -1.00px;
   margin-top: -1.00px;
   position: relative;
-}
-
-.homepage-dt-all-breakpoints .in-a-world-where-one-8 {
-  height: 140px;
-  position: relative;
-  width: 347px;
-}
-
-.homepage-dt-all-breakpoints .frame-404 {
-  align-items: center;
-  bottom: 26px;
-  display: inline-flex;
-  gap: 24px;
-  left: calc(50.00% - 143px);
-  position: absolute;
 }
 
 .homepage-dt-all-breakpoints .desktopfooter {
@@ -1110,7 +1072,7 @@
   width: 100%;
 }
 
-.homepage-dt-all-breakpoints .logo {
+.homepage-dt-all-breakpoints .logo-3 {
   align-items: flex-start;
   display: inline-flex;
   flex: 0 0 auto;
@@ -1119,11 +1081,23 @@
   position: relative;
 }
 
-.homepage-dt-all-breakpoints .x2023-orchid-1 {
+.homepage-dt-all-breakpoints .x2023-orchid-7 {
   letter-spacing: 0.28px;
   line-height: 19.6px;
   position: relative;
   width: 299px;
+}
+
+.homepage-dt-all-breakpoints .hyperlinks-3 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 60px 60px;
+  justify-content: space-between;
+  position: relative;
+  width: 100%;
 }
 
 .homepage-dt-all-breakpoints .frame-421-3 {
@@ -1135,7 +1109,13 @@
   width: 180px;
 }
 
-.homepage-dt-all-breakpoints .x2023-orchid {
+.homepage-dt-all-breakpoints .frame-50-6 {
+  display: flex;
+  height: 22px;
+  width: 180px;
+}
+
+.homepage-dt-all-breakpoints .x2023-orchid-6 {
   color: var(--white);
   cursor: pointer;
   flex: 1;
@@ -1144,12 +1124,46 @@
   width: 180px;
 }
 
-.homepage-dt-all-breakpoints .apps-4 {
+.homepage-dt-all-breakpoints .frame-42-3 {
+  height: 114px;
+  position: relative;
+  width: 199px;
+}
+
+.homepage-dt-all-breakpoints .frame-container-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  min-height: 114px;
+  width: 198px;
+}
+
+.homepage-dt-all-breakpoints .frame-505-3 {
+  display: flex;
+  width: 198px;
+}
+
+.homepage-dt-all-breakpoints .apps-7 {
   cursor: pointer;
 }
 
+.homepage-dt-all-breakpoints .frame-50-7 {
+  cursor: pointer;
+  display: flex;
+  width: 198px;
+}
+
+.homepage-dt-all-breakpoints .social-icons-3 {
+  align-items: flex-start;
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+  width: 297px;
+}
+
 .homepage-dt-all-breakpoints .twitter-3 {
-  background-image: url(../img/twitter-9@2x.png);
+  background-image: url(../img/twitter-10@2x.png);
   background-size: 100% 100%;
   cursor: pointer;
   height: 29.99px;
@@ -1157,8 +1171,8 @@
   width: 30px;
 }
 
-.homepage-dt-all-breakpoints .discord-6 {
-  background-image: url(../img/subtract-7@2x.png);
+.homepage-dt-all-breakpoints .discord-3 {
+  background-image: url(../img/subtract-11@2x.png);
   background-size: 100% 100%;
   cursor: pointer;
   height: 29.99px;
@@ -1174,7 +1188,7 @@
 }
 
 .homepage-dt-all-breakpoints .facebook-3 {
-  background-image: url(../img/shape-12@2x.png);
+  background-image: url(../img/shape-10@2x.png);
   background-size: 100% 100%;
   cursor: pointer;
   height: 29.95px;
@@ -1183,7 +1197,7 @@
 }
 
 .homepage-dt-all-breakpoints .reddit-3 {
-  background-image: url(../img/combined-shape-9@2x.png);
+  background-image: url(../img/combined-shape-10@2x.png);
   background-size: 100% 100%;
   cursor: pointer;
   height: 30px;
@@ -1214,10 +1228,13 @@
   position: relative;
 }
 
-.homepage-dt-all-breakpoints .in-a-world-where-one {
-  color: var(--white);
-  font-weight: 400;
-  line-height: 28.0px;
+.homepage-dt-all-breakpoints .desktop-home-logo {
+  align-items: flex-start;
+  cursor: pointer;
+  display: inline-flex;
+  gap: 10px;
+  height: 36px;
+  position: relative;
 }
 
 .homepage-dt-all-breakpoints .intro-copy {
@@ -1259,7 +1276,7 @@
   height: 5826px;
   left: -418px;
   position: absolute;
-  top: 0;
+  top: -60px;
   width: 1197px;
 }
 
@@ -1290,6 +1307,7 @@
 
 .mobile-large-u40iphone-maxu41 .orchid-wordmark_-small-1-2 {
   align-items: flex-start;
+  cursor: pointer;
   display: inline-flex;
   flex-direction: column;
   gap: 10px;
@@ -1300,7 +1318,7 @@
   width: 26.47px;
 }
 
-.mobile-large-u40iphone-maxu41 .union-6 {
+.mobile-large-u40iphone-maxu41 .union-8 {
   height: 24px;
   position: relative;
   width: 26.47px;
@@ -1333,11 +1351,10 @@
 }
 
 .mobile-large-u40iphone-maxu41 .decentralize-the-future-2 {
-  align-self: stretch;
   flex: 0 0 auto;
   margin-top: -0.63px;
   position: relative;
-  width: 100%;
+  width: 275.09px;
 }
 
 .mobile-large-u40iphone-maxu41 .transforming-marketp-2 {
@@ -1403,7 +1420,7 @@
   width: 100%;
 }
 
-.mobile-large-u40iphone-maxu41 .mobile-caption-section-9 {
+.mobile-large-u40iphone-maxu41 .mobile-caption-section-8 {
   align-self: stretch;
   justify-content: center;
   width: 100%;
@@ -1480,7 +1497,7 @@
   width: 100%;
 }
 
-.mobile-large-u40iphone-maxu41 .mobile-caption-section-8 {
+.mobile-large-u40iphone-maxu41 .mobile-caption-section-7 {
   align-self: stretch;
   justify-content: flex-end;
   width: 100%;
@@ -1592,7 +1609,7 @@
   width: 100%;
 }
 
-.mobile-large-u40iphone-maxu41 .mobile-caption-section-10 {
+.mobile-large-u40iphone-maxu41 .mobile-caption-section-9 {
   align-self: stretch;
   width: 100%;
 }
@@ -1757,7 +1774,7 @@
   width: 360px;
 }
 
-.mobile-large-u40iphone-maxu41 .mobile-caption-section-11 {
+.mobile-large-u40iphone-maxu41 .mobile-caption-section-10 {
   justify-content: center;
   width: 312px;
 }
@@ -2027,7 +2044,7 @@
   width: 311px;
 }
 
-.mobile-large-u40iphone-maxu41 .frame-4-4 {
+.mobile-large-u40iphone-maxu41 .frame-4-2 {
   height: 40px;
   position: relative;
   width: 40px;
@@ -2044,7 +2061,7 @@
   padding: 13.3px 8.0px;
 }
 
-.mobile-large-u40iphone-maxu41 .union-7 {
+.mobile-large-u40iphone-maxu41 .union-9 {
   height: 13px;
   width: 24px;
 }
@@ -2077,7 +2094,7 @@
   width: 40px;
 }
 
-.mobile-large-u40iphone-maxu41 .union-8 {
+.mobile-large-u40iphone-maxu41 .union-10 {
   height: 22px;
   left: 5px;
   position: absolute;
@@ -2109,7 +2126,7 @@
   margin-right: -4.00px;
 }
 
-.mobile-large-u40iphone-maxu41 .footer-2 {
+.mobile-large-u40iphone-maxu41 .mobilefooter-2 {
   align-items: flex-start;
   align-self: stretch;
   background-color: var(--black);
@@ -2117,120 +2134,156 @@
   flex: 0 0 auto;
   flex-direction: column;
   gap: 16px;
-  justify-content: flex-end;
-  padding: 40px 24px 80px;
+  justify-content: center;
+  padding: 40px 40px 80px;
   position: relative;
   width: 100%;
 }
 
-.mobile-large-u40iphone-maxu41 .frame-416-2 {
-  align-self: stretch;
-  flex: 0 0 auto;
-  position: relative;
-  width: 100%;
-}
-
-.mobile-large-u40iphone-maxu41 .frame-422-2 {
+.mobile-large-u40iphone-maxu41 .frame-480-2 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
   flex: 0 0 auto;
-  flex-wrap: wrap;
-  gap: 40px 40px;
+  flex-direction: column;
+  gap: 24px;
   position: relative;
   width: 100%;
 }
 
-.mobile-large-u40iphone-maxu41 .frame-421-2 {
-  height: 88px;
+.mobile-large-u40iphone-maxu41 .logo-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 12px;
   position: relative;
-  width: 312px;
 }
 
-.mobile-large-u40iphone-maxu41 .x2019-orchid-4 {
-  color: var(--white);
-  font-weight: 700;
-  top: 31px;
-  width: 361px;
+.mobile-large-u40iphone-maxu41 .desktop-home-logo-2 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: inline-flex;
+  gap: 10px;
+  height: 36px;
+  position: relative;
 }
 
-.mobile-large-u40iphone-maxu41 .x2019-orchid-5 {
-  letter-spacing: 1.40px;
-  top: -1px;
-  width: 312px;
+.mobile-large-u40iphone-maxu41 .union-11 {
+  height: 36px;
+  position: relative;
+  width: 140px;
 }
 
-.mobile-large-u40iphone-maxu41 .frame-4-5 {
+.mobile-large-u40iphone-maxu41 .x2023-orchid-5 {
+  letter-spacing: 0.28px;
+  line-height: 19.6px;
+  position: relative;
+  width: 299px;
+}
+
+.mobile-large-u40iphone-maxu41 .hyperlinks-2 {
+  align-items: flex-start;
   display: flex;
-  height: 88px;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 60px 60px;
+  margin-right: -10.00px;
   position: relative;
-  width: 312px;
-}
-
-.mobile-large-u40iphone-maxu41 .apps-2 {
-  color: var(--white);
-  font-weight: 700;
-  height: 127px;
-  line-height: 16px;
-  width: 361px;
-}
-
-.mobile-large-u40iphone-maxu41 .learn-2 {
-  color: var(--white);
-  font-weight: 700;
-  height: 88px;
-  line-height: 16px;
   width: 360px;
 }
 
-.mobile-large-u40iphone-maxu41 .engage-2 {
-  color: var(--white);
-  font-weight: 700;
-  height: 88px;
-  line-height: 16px;
-  width: 361px;
+.mobile-large-u40iphone-maxu41 .frame-421-2 {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  height: 68px;
+  position: relative;
+  width: 180px;
 }
 
-.mobile-large-u40iphone-maxu41 .frame-417-2 {
-  align-items: flex-end;
+.mobile-large-u40iphone-maxu41 .frame-50-4 {
+  display: flex;
+  height: 22px;
+  width: 180px;
+}
+
+.mobile-large-u40iphone-maxu41 .x2023-orchid-4 {
+  color: var(--white);
+  cursor: pointer;
+  flex: 1;
+  font-weight: 700;
+  line-height: 22.4px;
+  width: 180px;
+}
+
+.mobile-large-u40iphone-maxu41 .frame-42-2 {
+  height: 114px;
+  position: relative;
+  width: 199px;
+}
+
+.mobile-large-u40iphone-maxu41 .frame-container-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  min-height: 114px;
+  width: 198px;
+}
+
+.mobile-large-u40iphone-maxu41 .frame-505-2 {
+  display: flex;
+  width: 198px;
+}
+
+.mobile-large-u40iphone-maxu41 .apps-5 {
+  cursor: pointer;
+}
+
+.mobile-large-u40iphone-maxu41 .frame-50-5 {
+  cursor: pointer;
+  display: flex;
+  width: 198px;
+}
+
+.mobile-large-u40iphone-maxu41 .social-icons-2 {
+  align-items: flex-start;
   display: flex;
   justify-content: space-between;
   position: relative;
-  width: 268px;
+  width: 297px;
 }
 
 .mobile-large-u40iphone-maxu41 .twitter-2 {
-  height: 29.99px;
-  position: relative;
-  width: 30px;
-}
-
-.mobile-large-u40iphone-maxu41 .discord-4 {
-  background-image: url(../img/shape-12@2x.png);
+  background-image: url(../img/twitter-8@2x.png);
   background-size: 100% 100%;
+  cursor: pointer;
   height: 29.99px;
   position: relative;
   width: 30px;
 }
 
-.mobile-large-u40iphone-maxu41 .discord-5 {
-  height: 19px;
-  left: 5px;
-  object-fit: cover;
-  position: absolute;
-  top: 5px;
-  width: 19px;
+.mobile-large-u40iphone-maxu41 .discord-2 {
+  background-image: url(../img/subtract@2x.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  height: 29.99px;
+  position: relative;
+  width: 30px;
 }
 
 .mobile-large-u40iphone-maxu41 .github-5 {
+  cursor: pointer;
   height: 29.25px;
   position: relative;
   width: 30px;
 }
 
 .mobile-large-u40iphone-maxu41 .facebook-2 {
-  background-image: url(../img/shape-13@2x.png);
+  background-image: url(../img/shape@2x.png);
   background-size: 100% 100%;
+  cursor: pointer;
   height: 29.95px;
   position: relative;
   width: 29.88px;
@@ -2239,6 +2292,7 @@
 .mobile-large-u40iphone-maxu41 .reddit-2 {
   background-image: url(../img/combined-shape-6@2x.png);
   background-size: 100% 100%;
+  cursor: pointer;
   height: 30px;
   position: relative;
   width: 30px;
@@ -2251,6 +2305,14 @@
   margin-top: -1.00px;
   position: relative;
   text-align: right;
+}
+
+.mobile-large-u40iphone-maxu41 .apps {
+  color: var(--white);
+  font-weight: 700;
+  height: 22px;
+  line-height: 22.4px;
+  width: 198px;
 }
 
 .mobile-large-u40iphone-maxu41 .body {
@@ -2376,12 +2438,6 @@
   margin-top: -1.00px;
   position: relative;
 }
-
-.mobile-large-u40iphone-maxu41 .x2019-orchid {
-  left: 0;
-  line-height: 16px;
-  position: absolute;
-}
 /* screen - mobile-small-u40android-smallu41 */
 
 .mobile-small-u40android-smallu41 {
@@ -2396,9 +2452,9 @@
 
 .mobile-small-u40android-smallu41 .ellipses {
   height: 5826px;
-  left: -418px;
+  left: -468px;
   position: absolute;
-  top: 0;
+  top: -60px;
   width: 1197px;
 }
 
@@ -2427,6 +2483,7 @@
 
 .mobile-small-u40android-smallu41 .orchid-wordmark_-small-1 {
   align-items: flex-start;
+  cursor: pointer;
   display: inline-flex;
   flex-direction: column;
   gap: 10px;
@@ -2474,11 +2531,10 @@
 }
 
 .mobile-small-u40android-smallu41 .decentralize-the-future {
-  align-self: stretch;
   flex: 0 0 auto;
   margin-top: -0.63px;
   position: relative;
-  width: 100%;
+  width: 275.09px;
 }
 
 .mobile-small-u40android-smallu41 .transforming-marketp {
@@ -3313,7 +3369,7 @@
   width: 228px;
 }
 
-.mobile-small-u40android-smallu41 .footer {
+.mobile-small-u40android-smallu41 .mobilefooter {
   align-items: flex-start;
   align-self: stretch;
   background-color: var(--black);
@@ -3321,117 +3377,121 @@
   flex: 0 0 auto;
   flex-direction: column;
   gap: 16px;
-  justify-content: flex-end;
-  padding: 40px 24px 80px;
+  justify-content: center;
+  padding: 40px 40px 80px;
   position: relative;
   width: 100%;
 }
 
-.mobile-small-u40android-smallu41 .frame-416 {
-  align-self: stretch;
-  flex: 0 0 auto;
-  position: relative;
-  width: 100%;
-}
-
-.mobile-small-u40android-smallu41 .frame-422 {
+.mobile-small-u40android-smallu41 .frame-480 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
   flex: 0 0 auto;
-  flex-wrap: wrap;
-  gap: 40px 40px;
+  flex-direction: column;
+  gap: 24px;
   position: relative;
   width: 100%;
 }
 
-.mobile-small-u40android-smallu41 .frame-421 {
-  height: 88px;
+.mobile-small-u40android-smallu41 .logo {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 12px;
+  margin-right: -19.00px;
   position: relative;
-  width: 312px;
 }
 
-.mobile-small-u40android-smallu41 .x2019-orchid {
-  color: var(--white);
-  font-weight: 700;
-  left: 0;
-  line-height: 16px;
-  position: absolute;
-  top: 31px;
-  width: 361px;
+.mobile-small-u40android-smallu41 .desktop-home-logo {
+  align-items: flex-start;
+  cursor: pointer;
+  display: inline-flex;
+  gap: 10px;
+  height: 36px;
+  position: relative;
 }
 
-.mobile-small-u40android-smallu41 .x2019-orchid-1 {
-  left: 0;
-  letter-spacing: 1.40px;
-  line-height: 16px;
-  position: absolute;
-  top: -1px;
-  width: 312px;
+.mobile-small-u40android-smallu41 .union-3 {
+  height: 36px;
+  position: relative;
+  width: 140px;
 }
 
-.mobile-small-u40android-smallu41 .frame-4-1 {
+.mobile-small-u40android-smallu41 .x2023-orchid-1 {
+  letter-spacing: 0.28px;
+  line-height: 19.6px;
+  position: relative;
+  width: 299px;
+}
+
+.mobile-small-u40android-smallu41 .hyperlinks {
+  align-items: flex-start;
   display: flex;
-  height: 88px;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 60px 60px;
+  margin-right: -80.00px;
   position: relative;
-  width: 312px;
+  width: 360px;
+}
+
+.mobile-small-u40android-smallu41 .frame-421 {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  height: 68px;
+  position: relative;
+  width: 180px;
+}
+
+.mobile-small-u40android-smallu41 .x2023-orchid {
+  color: var(--white);
+  cursor: pointer;
+  flex: 1;
+  font-weight: 700;
+  line-height: 22.4px;
+  width: 180px;
 }
 
 .mobile-small-u40android-smallu41 .apps {
   color: var(--white);
   font-weight: 700;
-  height: 127px;
-  line-height: 16px;
-  width: 361px;
-}
-
-.mobile-small-u40android-smallu41 .learn {
-  color: var(--white);
-  font-weight: 700;
-  height: 88px;
-  line-height: 16px;
-  width: 360px;
-}
-
-.mobile-small-u40android-smallu41 .engage {
-  color: var(--white);
-  font-weight: 700;
-  height: 88px;
-  line-height: 16px;
-  width: 361px;
-}
-
-.mobile-small-u40android-smallu41 .frame-417 {
-  align-items: flex-end;
-  display: flex;
-  justify-content: space-between;
-  position: relative;
-  width: 268px;
+  height: 22px;
+  line-height: 22.4px;
+  width: 198px;
 }
 
 .mobile-small-u40android-smallu41 .twitter {
+  background-image: url(../img/twitter-8@2x.png);
+  background-size: 100% 100%;
+  cursor: pointer;
   height: 29.99px;
   position: relative;
   width: 30px;
 }
 
 .mobile-small-u40android-smallu41 .discord {
-  background-image: url(../img/shape-12@2x.png);
+  background-image: url(../img/subtract@2x.png);
   background-size: 100% 100%;
+  cursor: pointer;
   height: 29.99px;
   position: relative;
   width: 30px;
 }
 
 .mobile-small-u40android-smallu41 .github-1 {
+  cursor: pointer;
   height: 29.25px;
   position: relative;
   width: 30px;
 }
 
 .mobile-small-u40android-smallu41 .facebook {
-  background-image: url(../img/shape-13@2x.png);
+  background-image: url(../img/shape@2x.png);
   background-size: 100% 100%;
+  cursor: pointer;
   height: 29.95px;
   position: relative;
   width: 29.87px;
@@ -3440,6 +3500,7 @@
 .mobile-small-u40android-smallu41 .reddit {
   background-image: url(../img/combined-shape-6@2x.png);
   background-size: 100% 100%;
+  cursor: pointer;
   height: 30px;
   position: relative;
   width: 30px;
@@ -3541,20 +3602,23 @@
 }
 
 .tablet-small-u40ipad-miniu41 .frame-506 {
+  align-items: center;
   background-image: url(../img/ellipses-2.png);
   background-size: 100% 100%;
-  gap: 4162px;
+  display: flex;
+  flex-direction: column;
+  gap: 4102px;
   height: 5448px;
   left: -412px;
   position: absolute;
-  top: -4px;
+  top: -74px;
   width: 1574px;
 }
 
 .tablet-small-u40ipad-miniu41 .orchid-grid-hero-1 {
   height: 481px;
   margin-left: 625px;
-  margin-top: 180px;
+  margin-top: 240px;
   width: 497px;
 }
 
@@ -3575,6 +3639,7 @@
 
 .tablet-small-u40ipad-miniu41 .orchid-wordmark_-small-1-1 {
   align-items: flex-start;
+  cursor: pointer;
   display: inline-flex;
   flex-direction: column;
   gap: 10px;
@@ -3585,7 +3650,7 @@
   width: 26.47px;
 }
 
-.tablet-small-u40ipad-miniu41 .union-3 {
+.tablet-small-u40ipad-miniu41 .union-4 {
   height: 24px;
   position: relative;
   width: 26.47px;
@@ -3618,10 +3683,9 @@
 }
 
 .tablet-small-u40ipad-miniu41 .decentralize-the-future-1 {
-  align-self: stretch;
   flex: 0 0 auto;
   position: relative;
-  width: 100%;
+  width: 454.49px;
 }
 
 .tablet-small-u40ipad-miniu41 .transforming-marketp-1 {
@@ -3677,15 +3741,11 @@
 
 .tablet-small-u40ipad-miniu41 .mobile-5 {
   align-items: center;
-  align-self: stretch;
   flex: 0 0 auto;
-  width: 100%;
 }
 
-.tablet-small-u40ipad-miniu41 .mobile-caption-section-5 {
-  align-self: stretch;
+.tablet-small-u40ipad-miniu41 .mobile-caption-section-4 {
   justify-content: center;
-  width: 100%;
 }
 
 .tablet-small-u40ipad-miniu41 .line-2 {
@@ -3766,15 +3826,11 @@
 
 .tablet-small-u40ipad-miniu41 .mobile-6 {
   align-items: center;
-  align-self: stretch;
   flex: 0 0 auto;
-  width: 100%;
 }
 
-.tablet-small-u40ipad-miniu41 .mobile-caption-section-4 {
-  align-self: stretch;
+.tablet-small-u40ipad-miniu41 .mobile-caption-section-5 {
   justify-content: flex-end;
-  width: 100%;
 }
 
 .tablet-small-u40ipad-miniu41 .discover-4 {
@@ -3876,14 +3932,7 @@
 
 .tablet-small-u40ipad-miniu41 .mobile-7 {
   align-items: flex-start;
-  align-self: stretch;
   height: 65px;
-  width: 100%;
-}
-
-.tablet-small-u40ipad-miniu41 .mobile-caption-section-6 {
-  align-self: stretch;
-  width: 100%;
 }
 
 .tablet-small-u40ipad-miniu41 .mobile-headline-section-8 {
@@ -4034,12 +4083,6 @@
 .tablet-small-u40ipad-miniu41 .mobile-8 {
   align-items: center;
   height: 65px;
-  width: 360px;
-}
-
-.tablet-small-u40ipad-miniu41 .mobile-caption-section-7 {
-  justify-content: center;
-  width: 312px;
 }
 
 .tablet-small-u40ipad-miniu41 .mobile-headline-section-9 {
@@ -4138,18 +4181,9 @@
   position: relative;
 }
 
-.tablet-small-u40ipad-miniu41 .developers {
-  flex: 0 0 auto;
-  gap: 24px;
-  padding: 0px 24px;
-  width: 744px;
-}
-
 .tablet-small-u40ipad-miniu41 .mobile-9 {
   align-items: flex-end;
-  align-self: stretch;
   flex: 0 0 auto;
-  width: 100%;
 }
 
 .tablet-small-u40ipad-miniu41 .mobile-headline-section-10 {
@@ -4315,7 +4349,7 @@
   width: 311px;
 }
 
-.tablet-small-u40ipad-miniu41 .frame-4-2 {
+.tablet-small-u40ipad-miniu41 .frame-4-1 {
   height: 40px;
   position: relative;
   width: 40px;
@@ -4332,7 +4366,7 @@
   padding: 13.3px 8.0px;
 }
 
-.tablet-small-u40ipad-miniu41 .union-4 {
+.tablet-small-u40ipad-miniu41 .union-5 {
   height: 13px;
   width: 24px;
 }
@@ -4365,7 +4399,7 @@
   width: 40px;
 }
 
-.tablet-small-u40ipad-miniu41 .union-5 {
+.tablet-small-u40ipad-miniu41 .union-6 {
   height: 22px;
   left: 5px;
   position: absolute;
@@ -4397,7 +4431,7 @@
   margin-right: -4.00px;
 }
 
-.tablet-small-u40ipad-miniu41 .footer-1 {
+.tablet-small-u40ipad-miniu41 .mobilefooter-1 {
   align-items: flex-start;
   align-self: stretch;
   background-color: var(--black);
@@ -4411,123 +4445,131 @@
   width: 100%;
 }
 
-.tablet-small-u40ipad-miniu41 .frame-480 {
-  align-self: stretch;
-  flex: 0 0 auto;
-  gap: 16px;
-  justify-content: flex-end;
-  position: relative;
-  width: 100%;
-}
-
-.tablet-small-u40ipad-miniu41 .frame-416-1 {
-  align-self: stretch;
-  flex: 0 0 auto;
-  position: relative;
-  width: 100%;
-}
-
-.tablet-small-u40ipad-miniu41 .frame-422-1 {
+.tablet-small-u40ipad-miniu41 .frame-480-1 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
   flex: 0 0 auto;
-  flex-wrap: wrap;
-  gap: 40px 40px;
+  flex-direction: column;
+  gap: 24px;
   position: relative;
   width: 100%;
 }
 
-.tablet-small-u40ipad-miniu41 .frame-421-1 {
-  height: 88px;
+.tablet-small-u40ipad-miniu41 .union-7 {
+  height: 36px;
   position: relative;
-  width: 312px;
+  width: 140px;
 }
 
-.tablet-small-u40ipad-miniu41 .x2019-orchid-2 {
-  color: var(--white);
-  font-weight: 700;
-  top: 31px;
-  width: 361px;
+.tablet-small-u40ipad-miniu41 .x2023-orchid-3 {
+  letter-spacing: 0.28px;
+  line-height: 19.6px;
+  position: relative;
+  width: 299px;
 }
 
-.tablet-small-u40ipad-miniu41 .x2019-orchid-3 {
-  letter-spacing: 1.40px;
-  top: -1px;
-  width: 312px;
-}
-
-.tablet-small-u40ipad-miniu41 .frame-4-3 {
+.tablet-small-u40ipad-miniu41 .hyperlinks-1 {
+  align-items: flex-start;
   display: flex;
-  height: 88px;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 60px 60px;
   position: relative;
-  width: 312px;
-}
-
-.tablet-small-u40ipad-miniu41 .apps-1 {
-  color: var(--white);
-  font-weight: 700;
-  height: 127px;
-  line-height: 16px;
-  width: 361px;
-}
-
-.tablet-small-u40ipad-miniu41 .learn-1 {
-  color: var(--white);
-  font-weight: 700;
-  height: 88px;
-  line-height: 16px;
   width: 360px;
 }
 
-.tablet-small-u40ipad-miniu41 .engage-1 {
-  color: var(--white);
-  font-weight: 700;
-  height: 88px;
-  line-height: 16px;
-  width: 361px;
+.tablet-small-u40ipad-miniu41 .frame-421-1 {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  height: 68px;
+  position: relative;
+  width: 180px;
 }
 
-.tablet-small-u40ipad-miniu41 .frame-417-1 {
-  align-items: flex-end;
+.tablet-small-u40ipad-miniu41 .frame-50-2 {
+  display: flex;
+  height: 22px;
+  width: 180px;
+}
+
+.tablet-small-u40ipad-miniu41 .x2023-orchid-2 {
+  color: var(--white);
+  cursor: pointer;
+  flex: 1;
+  font-weight: 700;
+  line-height: 22.4px;
+  width: 180px;
+}
+
+.tablet-small-u40ipad-miniu41 .frame-42-1 {
+  height: 114px;
+  position: relative;
+  width: 199px;
+}
+
+.tablet-small-u40ipad-miniu41 .frame-container-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  min-height: 114px;
+  width: 198px;
+}
+
+.tablet-small-u40ipad-miniu41 .frame-505-1 {
+  display: flex;
+  width: 198px;
+}
+
+.tablet-small-u40ipad-miniu41 .apps-3 {
+  cursor: pointer;
+}
+
+.tablet-small-u40ipad-miniu41 .frame-50-3 {
+  cursor: pointer;
+  display: flex;
+  width: 198px;
+}
+
+.tablet-small-u40ipad-miniu41 .social-icons-1 {
+  align-items: flex-start;
   display: flex;
   justify-content: space-between;
   position: relative;
-  width: 268px;
+  width: 297px;
 }
 
 .tablet-small-u40ipad-miniu41 .twitter-1 {
-  height: 29.99px;
-  position: relative;
-  width: 30px;
-}
-
-.tablet-small-u40ipad-miniu41 .discord-2 {
-  background-image: url(../img/shape-12@2x.png);
+  background-image: url(../img/twitter-8@2x.png);
   background-size: 100% 100%;
+  cursor: pointer;
   height: 29.99px;
   position: relative;
   width: 30px;
 }
 
-.tablet-small-u40ipad-miniu41 .discord-3 {
-  height: 19px;
-  left: 5px;
-  object-fit: cover;
-  position: absolute;
-  top: 5px;
-  width: 19px;
+.tablet-small-u40ipad-miniu41 .discord-1 {
+  background-image: url(../img/subtract@2x.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  height: 29.99px;
+  position: relative;
+  width: 30px;
 }
 
 .tablet-small-u40ipad-miniu41 .github-3 {
+  cursor: pointer;
   height: 29.25px;
   position: relative;
   width: 30px;
 }
 
 .tablet-small-u40ipad-miniu41 .facebook-1 {
-  background-image: url(../img/shape-13@2x.png);
+  background-image: url(../img/shape@2x.png);
   background-size: 100% 100%;
+  cursor: pointer;
   height: 29.95px;
   position: relative;
   width: 29.88px;
@@ -4536,6 +4578,7 @@
 .tablet-small-u40ipad-miniu41 .reddit-1 {
   background-image: url(../img/combined-shape-6@2x.png);
   background-size: 100% 100%;
+  cursor: pointer;
   height: 30px;
   position: relative;
   width: 30px;
@@ -4555,6 +4598,14 @@
   margin-top: -1.00px;
   position: relative;
   text-align: right;
+}
+
+.tablet-small-u40ipad-miniu41 .apps {
+  color: var(--white);
+  font-weight: 700;
+  height: 22px;
+  line-height: 22.4px;
+  width: 198px;
 }
 
 .tablet-small-u40ipad-miniu41 .body {
@@ -4598,12 +4649,6 @@
   width: fit-content;
 }
 
-.tablet-small-u40ipad-miniu41 .frame {
-  align-items: center;
-  display: flex;
-  flex-direction: column;
-}
-
 .tablet-small-u40ipad-miniu41 .frame-410 {
   height: 40px;
   position: relative;
@@ -4640,18 +4685,22 @@
 }
 
 .tablet-small-u40ipad-miniu41 .mobile {
+  align-self: stretch;
   display: flex;
   flex-direction: column;
   gap: 8px;
   position: relative;
+  width: 100%;
 }
 
 .tablet-small-u40ipad-miniu41 .mobile-caption-section {
   align-items: center;
+  align-self: stretch;
   display: flex;
   gap: 8px;
   height: 16px;
   position: relative;
+  width: 100%;
 }
 
 .tablet-small-u40ipad-miniu41 .mobile-headline-section {
@@ -4685,12 +4734,6 @@
   line-height: 19.8px;
   margin-top: -1.00px;
   position: relative;
-}
-
-.tablet-small-u40ipad-miniu41 .x2019-orchid {
-  left: 0;
-  line-height: 16px;
-  position: absolute;
 }
 @media screen and (max-width: 429px) {
   .screen.tablet-small-u40ipad-miniu41 { 
