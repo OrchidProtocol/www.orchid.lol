@@ -594,6 +594,27 @@
   width: 1440px;
 }
 
+.vpn-u40prod-updateu41 .content {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  padding: 20px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.vpn-u40prod-updateu41 .logo {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 12px;
+  position: relative;
+}
+
 .vpn-u40prod-updateu41 .desktop-home-logo {
   align-items: flex-start;
   display: inline-flex;

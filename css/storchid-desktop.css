@@ -1,40 +1,22 @@
 /* screen - storchid-desktop */
 
 .storchid-desktop {
-  align-items: flex-start;
+  align-items: center;
   background-color: var(--licorice);
   display: flex;
   flex-direction: column;
-  gap: 297px;
-  min-height: 3920px;
+  gap: 240px;
+  height: 4097px;
+  position: relative;
   width: 1440px;
 }
 
-.storchid-desktop .overlap-group2 {
-  height: 3239px;
-  margin-left: -270px;
-  margin-top: -92px;
-  position: relative;
-  width: 1967px;
-}
-
 .storchid-desktop .ellipses {
-  align-items: flex-start;
-  display: flex;
-  flex-direction: column;
-  gap: 441px;
-  left: 0;
-  min-height: 3119px;
+  height: 3407px;
+  left: -264px;
   position: absolute;
-  top: 44px;
+  top: 0;
   width: 1967px;
-}
-
-.storchid-desktop .overlap-group1 {
-  height: 775px;
-  margin-left: 90.0px;
-  position: relative;
-  width: 936px;
 }
 
 .storchid-desktop .flex-row {
@@ -42,25 +24,162 @@
   display: flex;
   gap: 276px;
   height: 1903px;
-  margin-left: 0;
+  left: 0;
   min-width: 1967px;
+  position: absolute;
+  top: 1216px;
 }
 
-.storchid-desktop .frame-496 {
-  align-items: flex-end;
+.storchid-desktop .ellipse-container {
+  align-items: flex-start;
   display: flex;
   flex-direction: column;
-  gap: 24px;
-  left: 270px;
-  padding: 0px 160px;
+  gap: 770px;
+  min-height: 1903px;
+  width: 808px;
+}
+
+.storchid-desktop .overlap-group1 {
+  height: 775px;
+  left: 90px;
   position: absolute;
-  top: 2013px;
+  top: 0;
+  width: 936px;
+}
+
+.storchid-desktop .ellipse-container-1 {
+  height: 775px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 912px;
+}
+
+.storchid-desktop .hero-image {
+  display: flex;
+  height: 759px;
+  left: calc(50.00% - 796px);
+  position: absolute;
+  top: 0;
+  width: 1593px;
+}
+
+.storchid-desktop .storage-splash-1 {
+  height: 739px;
+  margin-left: 58px;
+  margin-top: -10px;
+  width: 1573px;
+}
+
+.storchid-desktop .desktop-home-logo {
+  align-items: flex-start;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  height: 36px;
+  position: relative;
+}
+
+.storchid-desktop .union {
+  height: 36px;
+  position: relative;
+  width: 140px;
+}
+
+.storchid-desktop .vpn {
+  color: var(--aquamarine);
+  font-weight: 700;
+  line-height: 14.4px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.storchid-desktop .desktop-button-header {
+  background-image: url(../img/button-base-1@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 48px;
+  justify-content: flex-end;
+  width: 196px;
+}
+
+.storchid-desktop .hero {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 72px;
+  max-width: 1800px;
+  padding: 200px 160px;
+  position: relative;
   width: 1440px;
 }
 
-.storchid-desktop .desktop-header-section-full {
-  align-self: stretch;
+.storchid-desktop .frame-403 {
+  align-items: center;
+  display: flex;
   flex: 0 0 auto;
+  flex-direction: column;
+  gap: 40px;
+  position: relative;
+  width: 855px;
+}
+
+.storchid-desktop .decentralized-marketplace {
+  align-self: stretch;
+  color: transparent;
+  font-weight: 800;
+  line-height: 54.0px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.storchid-desktop .span {
+  color: var(--aquamarine);
+}
+
+.storchid-desktop .span-1 {
+  color: var(--white);
+}
+
+.storchid-desktop .line-10 {
+  align-self: stretch;
+  position: relative;
+  width: 100%;
+}
+
+.storchid-desktop .storchid-is-a-new-op {
+  align-self: stretch;
+  color: transparent;
+  font-weight: 500;
+  line-height: 34.7px;
+  position: relative;
+  text-align: center;
+}
+
+.storchid-desktop .storchid-concepts {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  height: 789px;
+  padding: 0px 160px;
+  position: relative;
+  width: 100%;
+}
+
+.storchid-desktop .desktop-header-section-full {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
   position: relative;
   width: 100%;
 }
@@ -102,19 +221,68 @@
   line-height: 44.0px;
   margin-top: -1.00px;
   position: relative;
+}
+
+.storchid-desktop .copy {
+  align-self: stretch;
+  display: flex;
+  height: 651px;
+  position: relative;
+  width: 100%;
+}
+
+.storchid-desktop .text {
+  color: var(--white);
+  font-family: var(--font-family-figtree);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  height: 651px;
+  line-height: 28px;
+  width: 1120px;
+}
+
+.storchid-desktop .span-2 {
+  font-weight: 500;
+  line-height: 34.7px;
+}
+
+.storchid-desktop .span-3 {
+  line-height: 28.0px;
+}
+
+.storchid-desktop .span6 {
+  font-weight: 600;
+  line-height: 22.0px;
+}
+
+.storchid-desktop .storage-design {
+  align-items: flex-end;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  padding: 0px 160px;
+  position: relative;
+  width: 100%;
+}
+
+.storchid-desktop .two-color-headline-1 {
+  color: transparent;
+  flex: 1;
+  font-weight: 600;
+  line-height: 44.0px;
+  margin-top: -1.00px;
+  position: relative;
   text-align: right;
 }
 
-.storchid-desktop .span {
-  color: var(--white);
-}
-
-.storchid-desktop .span-1 {
-  color: var(--aquamarine);
-}
-
-.storchid-desktop .frame-496-1 {
+.storchid-desktop .frame-496 {
+  align-self: stretch;
+  display: flex;
   height: 140px;
+  position: relative;
+  width: 100%;
 }
 
 .storchid-desktop .intro-copy {
@@ -135,136 +303,24 @@
   position: relative;
 }
 
-.storchid-desktop .desktop-button-hero {
-  background-image: url(../img/rectangle-6-43@2x.png);
-  background-size: 100% 100%;
-  display: flex;
-  height: 80px;
-  width: 360px;
-}
-
-.storchid-desktop .frame-495 {
-  display: flex;
-  height: 759px;
-  left: 211px;
-  position: absolute;
-  top: 0;
-  width: 1593px;
-}
-
-.storchid-desktop .storage-splash-1 {
-  height: 739px;
-  margin-left: 10px;
-  margin-top: 10px;
-  position: relative;
-  width: 1573px;
-}
-
-.storchid-desktop .hero {
+.storchid-desktop .cta {
   align-items: center;
-  display: flex;
-  flex-direction: column;
-  gap: 72px;
-  left: 270px;
-  max-width: 1800px;
-  padding: 0px 160px;
-  position: absolute;
-  top: 572px;
-  width: 1440px;
-}
-
-.storchid-desktop .frame-403 {
-  align-items: center;
-  display: flex;
+  display: inline-flex;
   flex: 0 0 auto;
   flex-direction: column;
-  gap: 40px;
   position: relative;
-  width: 855px;
-}
-
-.storchid-desktop .decentralized-marketplace {
-  align-self: stretch;
-  color: transparent;
-  font-weight: 800;
-  line-height: 54.0px;
-  margin-top: -1.00px;
-  position: relative;
-  text-align: center;
-}
-
-.storchid-desktop .line-10 {
-  align-self: stretch;
-  position: relative;
-  width: 100%;
-}
-
-.storchid-desktop .storchid-is-a-new-op {
-  align-self: stretch;
-  color: transparent;
-  font-weight: 500;
-  line-height: 34.7px;
-  position: relative;
-  text-align: center;
-}
-
-.storchid-desktop .frame-475 {
-  align-items: center;
-  display: flex;
-  flex-direction: column;
-  gap: 24px;
-  left: 270px;
-  padding: 0px 160px;
-  position: absolute;
-  top: 1070px;
-  width: 1440px;
-}
-
-.storchid-desktop .two-color-headline-1 {
-  color: transparent;
-  flex: 1;
-  font-weight: 600;
-  line-height: 44.0px;
-  margin-top: -1.00px;
-  position: relative;
-}
-
-.storchid-desktop .frame-496-2 {
-  height: 559px;
-}
-
-.storchid-desktop .intro-copy-1 {
-  color: var(--white);
-  font-family: var(--font-family-figtree);
-  font-size: var(--font-size-m);
-  font-weight: 400;
-  height: 559px;
-  line-height: 20px;
-  width: 1120px;
-}
-
-.storchid-desktop .span-2 {
-  font-weight: 600;
-  line-height: 22.0px;
-}
-
-.storchid-desktop .span-3 {
-  line-height: 28.0px;
-}
-
-.storchid-desktop .contact {
-  align-items: center;
-  display: flex;
-  flex-direction: column;
-  height: 400px;
-  left: 271px;
-  position: absolute;
-  top: 2839px;
-  width: 1438px;
 }
 
 .storchid-desktop .desktop-header-section-simple {
-  min-height: 56px;
+  height: 56px;
+  position: relative;
+  width: 1438px;
+}
+
+.storchid-desktop .line-1 {
+  left: 0;
+  position: absolute;
+  top: 55px;
   width: 1438px;
 }
 
@@ -272,131 +328,45 @@
   color: transparent;
   font-weight: 600;
   height: 32px;
+  left: 0;
   line-height: 44.0px;
-  margin-top: -1px;
+  position: absolute;
   text-align: center;
   text-shadow: 0px 4px 16px #ffffff40;
+  top: -1px;
   white-space: nowrap;
-  width: 1438px;
-}
-
-.storchid-desktop .line-1 {
-  margin-left: 0;
   width: 1438px;
 }
 
 .storchid-desktop .buttons {
   align-items: center;
   display: inline-flex;
+  flex: 0 0 auto;
   flex-direction: column;
   gap: 80px;
-  height: 344px;
-  margin-left: 0.1px;
   padding: 120px 0px 0px;
   position: relative;
-  width: 409px;
-}
-
-.storchid-desktop .desktop-header {
-  align-items: center;
-  display: flex;
-  gap: 48px;
-  height: 96px;
-  justify-content: center;
-  left: 270px;
-  padding: 24px 80px;
-  position: absolute;
-  top: 92px;
-  width: 1440px;
-}
-
-.storchid-desktop .desktop-home-logo {
-  align-items: flex-start;
-  display: inline-flex;
-  flex: 0 0 auto;
-  gap: 10px;
-  height: 36px;
-  position: relative;
-}
-
-.storchid-desktop .union {
-  height: 36px;
-  position: relative;
-  width: 140px;
-}
-
-.storchid-desktop .desktop-button-top-nav-1 {
-  display: inline-flex;
-  flex: 0 0 auto;
-}
-
-.storchid-desktop .vpn {
-  color: var(--aquamarine);
-  font-weight: 700;
-  line-height: 14.4px;
-  margin-top: -1.00px;
-  position: relative;
-  white-space: nowrap;
-  width: fit-content;
-}
-
-.storchid-desktop .desktop-button-top-nav-2 {
-  cursor: pointer;
-  display: flex;
-  width: 37px;
-}
-
-.storchid-desktop .desktop-button-top-nav-3 {
-  cursor: pointer;
-  display: flex;
-  width: 36px;
-}
-
-.storchid-desktop .desktop-button-top-nav-4 {
-  cursor: pointer;
-  display: flex;
-  width: 44px;
-}
-
-.storchid-desktop .desktop-button-top-nav-5 {
-  cursor: pointer;
-  display: flex;
-  width: 61px;
-}
-
-.storchid-desktop .desktop-button-top-nav-6 {
-  cursor: pointer;
-  display: flex;
-  width: 50px;
-}
-
-.storchid-desktop .desktop-button-header {
-  background-image: url(../img/button-base-1@2x.png);
-  background-size: 100% 100%;
-  cursor: pointer;
-  display: flex;
-  height: 48px;
-  justify-content: flex-end;
-  width: 196px;
 }
 
 .storchid-desktop .desktopfooter {
-  align-items: center;
+  align-items: flex-start;
+  align-self: stretch;
   background-color: var(--cod-gray);
   display: flex;
   flex-direction: column;
   height: 476px;
-  justify-content: flex-end;
+  justify-content: center;
   padding: 40px 80px 120px;
   position: relative;
-  width: 1440px;
+  width: 100%;
 }
 
-.storchid-desktop .desktop-home-logo-1 {
+.storchid-desktop .logo {
   align-items: flex-start;
   display: inline-flex;
-  gap: 10px;
-  height: 36px;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 12px;
   position: relative;
 }
 
@@ -468,7 +438,7 @@
 }
 
 .storchid-desktop .facebook {
-  background-image: url(../img/shape-5@2x.png);
+  background-image: url(../img/shape@2x.png);
   background-size: 100% 100%;
   cursor: pointer;
   height: 29.95px;
@@ -483,32 +453,6 @@
   height: 30px;
   position: relative;
   width: 30px;
-}
-
-.storchid-desktop .desktop-button {
-  align-items: center;
-  position: relative;
-}
-
-.storchid-desktop .desktop-button-top-nav-7 {
-  align-items: center;
-  gap: 10px;
-  justify-content: center;
-  position: relative;
-}
-
-.storchid-desktop .desktop-header-section {
-  align-items: flex-start;
-  display: flex;
-  flex-direction: column;
-  gap: 24px;
-}
-
-.storchid-desktop .frame-496-3 {
-  align-self: stretch;
-  display: flex;
-  position: relative;
-  width: 100%;
 }
 
 .storchid-desktop .line-2 {
