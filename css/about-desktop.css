@@ -68,6 +68,7 @@
 
 .about-desktop .desktop-home-logo {
   align-items: flex-start;
+  cursor: pointer;
   display: inline-flex;
   gap: 10px;
   height: 36px;

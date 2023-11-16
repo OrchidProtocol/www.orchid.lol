@@ -865,6 +865,7 @@
 
 .vpn-desktop .desktop-home-logo-1 {
   align-items: flex-start;
+  cursor: pointer;
   display: inline-flex;
   gap: 10px;
   height: 36px;

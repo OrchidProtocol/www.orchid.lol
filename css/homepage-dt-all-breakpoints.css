@@ -54,6 +54,7 @@
 
 .homepage-dt-all-breakpoints .desktop-home-logo {
   align-items: flex-start;
+  cursor: pointer;
   display: inline-flex;
   gap: 10px;
   height: 36px;
@@ -1185,11 +1186,9 @@
   gap: 48px;
   height: 96px;
   justify-content: center;
-  left: 0;
   padding: 24px 80px;
-  position: absolute;
-  top: 0;
-  width: 100%;
+  position: relative;
+  width: 1440px;
 }
 
 .homepage-dt-all-breakpoints .desktop-home-logo-1 {
