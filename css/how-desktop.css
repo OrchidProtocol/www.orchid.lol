@@ -40,11 +40,16 @@
 
 .how-desktop .desktop-home-logo {
   align-items: flex-start;
-  cursor: pointer;
   display: inline-flex;
   gap: 10px;
   height: 36px;
   position: relative;
+}
+
+.how-desktop .union {
+  height: 36px;
+  position: relative;
+  width: 140px;
 }
 
 .how-desktop .x2023-orchid-1 {
@@ -70,6 +75,15 @@
   font-weight: 700;
   line-height: 22.4px;
   width: 180px;
+}
+
+.how-desktop .apps-1 {
+  color: var(--white);
+  cursor: pointer;
+  font-weight: 700;
+  height: 22px;
+  line-height: 22.4px;
+  width: 198px;
 }
 
 .how-desktop .apps {
@@ -138,7 +152,6 @@
 
 .how-desktop .desktop-home-logo-1 {
   align-items: flex-start;
-  cursor: pointer;
   display: inline-flex;
   flex: 0 0 auto;
   gap: 10px;
@@ -181,6 +194,10 @@
 .how-desktop .desktop-button-top-nav-4 {
   display: flex;
   width: 44px;
+}
+
+.how-desktop .vpn-2 {
+  color: var(--aquamarine);
 }
 
 .how-desktop .desktop-button-top-nav-5 {
@@ -417,7 +434,7 @@
 }
 
 .how-desktop .span-3 {
-  font-family: var(--font-family-figtree-italic);
+  font-family: var(--font-family-figtree);
   font-size: var(--font-size-m);
   font-style: italic;
   letter-spacing: 0.40px;

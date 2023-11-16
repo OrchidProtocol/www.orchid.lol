@@ -35,12 +35,17 @@
 
 .vpn-desktop .desktop-home-logo {
   align-items: flex-start;
-  cursor: pointer;
   display: inline-flex;
   flex: 0 0 auto;
   gap: 10px;
   height: 36px;
   position: relative;
+}
+
+.vpn-desktop .union {
+  height: 36px;
+  position: relative;
+  width: 140px;
 }
 
 .vpn-desktop .desktop-button-top-nav-1 {
@@ -859,7 +864,6 @@
 
 .vpn-desktop .desktop-home-logo-1 {
   align-items: flex-start;
-  cursor: pointer;
   display: inline-flex;
   gap: 10px;
   height: 36px;
@@ -889,6 +893,15 @@
   font-weight: 700;
   line-height: 22.4px;
   width: 180px;
+}
+
+.vpn-desktop .apps-1 {
+  color: var(--white);
+  cursor: pointer;
+  font-weight: 700;
+  height: 22px;
+  line-height: 22.4px;
+  width: 198px;
 }
 
 .vpn-desktop .apps {
