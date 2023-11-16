@@ -12,7 +12,7 @@
 
 .how-desktop .ellipses {
   height: 6276px;
-  left: -264px;
+  left: calc(50.00% - 984px);
   position: absolute;
   top: -80px;
   width: 1967px;
@@ -772,10 +772,14 @@
 }
 
 .how-desktop .desktopfooter {
+  align-items: flex-start;
   align-self: stretch;
   background-color: var(--cod-gray);
   display: flex;
-  height: 476px;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  padding: 80px 80px 160px;
   position: relative;
   width: 100%;
 }
@@ -798,13 +802,13 @@
 
 .how-desktop .hyperlinks {
   align-items: flex-start;
+  align-self: stretch;
   display: flex;
   flex: 0 0 auto;
   flex-wrap: wrap;
   gap: 60px 60px;
-  justify-content: space-between;
   position: relative;
-  width: 1280px;
+  width: 100%;
 }
 
 .how-desktop .frame-421 {
@@ -822,6 +826,12 @@
   flex: 1;
   font-weight: 700;
   line-height: 22.4px;
+  width: 180px;
+}
+
+.how-desktop .frame-42 {
+  height: 114px;
+  position: relative;
   width: 180px;
 }
 

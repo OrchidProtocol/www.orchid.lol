@@ -6,14 +6,13 @@
   display: flex;
   flex-direction: column;
   gap: 240px;
-  height: 4097px;
   position: relative;
   width: 1440px;
 }
 
 .storchid-desktop .ellipses {
   height: 3407px;
-  left: -264px;
+  left: calc(50.00% - 984px);
   position: absolute;
   top: -90px;
   width: 1967px;
@@ -58,6 +57,7 @@
 .storchid-desktop .hero-image {
   display: flex;
   height: 759px;
+  justify-content: center;
   left: calc(50.00% - 796px);
   position: absolute;
   top: 0;
@@ -66,7 +66,7 @@
 
 .storchid-desktop .storage-splash-1 {
   height: 739px;
-  margin-left: 58px;
+  margin-left: 96px;
   margin-top: -10px;
   width: 1573px;
 }
@@ -149,7 +149,7 @@
   flex-direction: column;
   gap: 72px;
   max-width: 1800px;
-  padding: 200px 160px;
+  padding: 200px 160px 0px;
   position: relative;
   width: 1440px;
 }
@@ -199,14 +199,13 @@
 
 .storchid-desktop .storchid-concepts {
   align-items: center;
-  align-self: stretch;
   display: flex;
   flex-direction: column;
   gap: 24px;
   height: 789px;
   padding: 0px 160px;
   position: relative;
-  width: 100%;
+  width: 1440px;
 }
 
 .storchid-desktop .desktop-header-section-full {
@@ -292,15 +291,14 @@
 }
 
 .storchid-desktop .storage-design {
-  align-items: flex-end;
-  align-self: stretch;
+  align-items: center;
   display: flex;
   flex: 0 0 auto;
   flex-direction: column;
   gap: 24px;
   padding: 0px 160px;
   position: relative;
-  width: 100%;
+  width: 1440px;
 }
 
 .storchid-desktop .two-color-headline-1 {
@@ -406,10 +404,14 @@
 }
 
 .storchid-desktop .desktopfooter {
+  align-items: flex-start;
   align-self: stretch;
   background-color: var(--cod-gray);
   display: flex;
-  height: 476px;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  padding: 80px 80px 160px;
   position: relative;
   width: 100%;
 }
@@ -432,13 +434,13 @@
 
 .storchid-desktop .hyperlinks {
   align-items: flex-start;
+  align-self: stretch;
   display: flex;
   flex: 0 0 auto;
   flex-wrap: wrap;
   gap: 60px 60px;
-  justify-content: space-between;
   position: relative;
-  width: 1280px;
+  width: 100%;
 }
 
 .storchid-desktop .frame-421 {
@@ -456,6 +458,12 @@
   flex: 1;
   font-weight: 700;
   line-height: 22.4px;
+  width: 180px;
+}
+
+.storchid-desktop .frame-42 {
+  height: 114px;
+  position: relative;
   width: 180px;
 }
 
