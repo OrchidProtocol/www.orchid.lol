@@ -87,6 +87,15 @@
   width: 140px;
 }
 
+.storchid-desktop .desktop-button-top-nav {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  position: relative;
+  width: 90px;
+}
+
 .storchid-desktop .vpn {
   color: var(--aquamarine);
   font-weight: 700;
@@ -100,6 +109,7 @@
 .storchid-desktop .desktop-button-header {
   background-image: url(../img/button-base-1@2x.png);
   background-size: 100% 100%;
+  cursor: pointer;
   display: flex;
   height: 48px;
   justify-content: flex-end;
@@ -370,14 +380,10 @@
 }
 
 .storchid-desktop .desktopfooter {
-  align-items: flex-start;
   align-self: stretch;
   background-color: var(--cod-gray);
   display: flex;
-  flex-direction: column;
   height: 476px;
-  justify-content: center;
-  padding: 40px 80px 120px;
   position: relative;
   width: 100%;
 }
@@ -400,14 +406,13 @@
 
 .storchid-desktop .hyperlinks {
   align-items: flex-start;
-  align-self: stretch;
   display: flex;
   flex: 0 0 auto;
   flex-wrap: wrap;
   gap: 60px 60px;
   justify-content: space-between;
   position: relative;
-  width: 100%;
+  width: 1280px;
 }
 
 .storchid-desktop .frame-421 {

@@ -82,6 +82,15 @@
   width: 140px;
 }
 
+.oxt-desktop .desktop-button-top-nav {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  position: relative;
+  width: 90px;
+}
+
 .oxt-desktop .vpn {
   color: var(--white);
   font-weight: 700;
@@ -106,6 +115,7 @@
   align-items: center;
   background-image: url(../img/button-base-1@2x.png);
   background-size: 100% 100%;
+  cursor: pointer;
   display: flex;
   height: 48px;
   justify-content: flex-end;
@@ -700,6 +710,14 @@
   width: 100%;
 }
 
+.oxt-desktop .line-10-1 {
+  flex: 1;
+  flex-grow: 1;
+  height: 1px;
+  object-fit: cover;
+  position: relative;
+}
+
 .oxt-desktop .intro-copy-9 {
   color: transparent;
   font-family: var(--font-family-figtree);
@@ -729,14 +747,10 @@
 }
 
 .oxt-desktop .desktopfooter {
-  align-items: flex-start;
   align-self: stretch;
   background-color: var(--cod-gray);
   display: flex;
-  flex-direction: column;
   height: 476px;
-  justify-content: center;
-  padding: 40px 80px 120px;
   position: relative;
   width: 100%;
 }
@@ -759,14 +773,13 @@
 
 .oxt-desktop .hyperlinks {
   align-items: flex-start;
-  align-self: stretch;
   display: flex;
   flex: 0 0 auto;
   flex-wrap: wrap;
   gap: 60px 60px;
   justify-content: space-between;
   position: relative;
-  width: 100%;
+  width: 1280px;
 }
 
 .oxt-desktop .frame-421 {
@@ -855,14 +868,6 @@
   height: 140px;
   justify-content: center;
   min-width: 140px;
-}
-
-.oxt-desktop .line-10-3 {
-  flex: 1;
-  flex-grow: 1;
-  height: 1px;
-  object-fit: cover;
-  position: relative;
 }
 
 .oxt-desktop .overlap-group-4 {
