@@ -10,7 +10,7 @@
   position: relative;
 }
 
-.homepage-dt-all-breakpoints .ellipses-1 {
+.homepage-dt-all-breakpoints .ellipses-2 {
   height: 7846px;
   left: -264px;
   position: absolute;
@@ -34,34 +34,24 @@
   width: 1150px;
 }
 
-.homepage-dt-all-breakpoints .desktop-home-logo-2 {
+.homepage-dt-all-breakpoints .desktop-home-logo-3 {
   flex: 0 0 auto;
 }
 
-.homepage-dt-all-breakpoints .union-8 {
+.homepage-dt-all-breakpoints .union-12 {
   height: 36px;
   position: relative;
   width: 140px;
 }
 
-.homepage-dt-all-breakpoints .desktop-button-top-nav {
-  align-items: center;
-  cursor: pointer;
-  display: flex;
-  gap: 10px;
-  justify-content: center;
-  position: relative;
-  width: 90px;
+.homepage-dt-all-breakpoints .desktop-button-top-nav-1 {
+  display: inline-flex;
+  flex: 0 0 auto;
 }
 
-.homepage-dt-all-breakpoints .vpn-2 {
-  color: var(--white);
-  font-weight: 700;
-  line-height: 14.4px;
-  margin-top: -1.00px;
-  position: relative;
-  white-space: nowrap;
-  width: fit-content;
+.homepage-dt-all-breakpoints .desktop-button-top-nav-2 {
+  display: flex;
+  width: 37px;
 }
 
 .homepage-dt-all-breakpoints .vpn-3 {
@@ -74,6 +64,36 @@
   width: fit-content;
 }
 
+.homepage-dt-all-breakpoints .desktop-button-top-nav-3 {
+  display: flex;
+  width: 36px;
+}
+
+.homepage-dt-all-breakpoints .vpn-4 {
+  color: var(--white);
+  font-weight: 700;
+  line-height: 14.4px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.homepage-dt-all-breakpoints .desktop-button-top-nav-4 {
+  display: flex;
+  width: 44px;
+}
+
+.homepage-dt-all-breakpoints .desktop-button-top-nav-5 {
+  display: flex;
+  width: 61px;
+}
+
+.homepage-dt-all-breakpoints .desktop-button-top-nav-6 {
+  display: flex;
+  width: 50px;
+}
+
 .homepage-dt-all-breakpoints .desktop-button-header {
   background-image: url(../img/button-base-16@2x.png);
   background-size: 100% 100%;
@@ -84,21 +104,18 @@
   width: 196px;
 }
 
-.homepage-dt-all-breakpoints .hero-2 {
+.homepage-dt-all-breakpoints .hero-3 {
   align-items: center;
-  align-self: stretch;
-  display: flex;
+  display: inline-flex;
+  flex: 0 0 auto;
   flex-direction: column;
   gap: 40px;
-  height: 872px;
-  padding: 240px 80px 120px;
+  padding: 120px 80px;
   position: relative;
-  width: 100%;
 }
 
 .homepage-dt-all-breakpoints .hero-content {
   height: 536px;
-  margin-bottom: -24.00px;
   position: relative;
   width: 1280px;
 }
@@ -112,13 +129,13 @@
   top: -1px;
 }
 
-.homepage-dt-all-breakpoints .decentralize-the-future-2 {
+.homepage-dt-all-breakpoints .decentralize-the-future-3 {
   height: 195px;
   margin-left: 2.04px;
   width: 917px;
 }
 
-.homepage-dt-all-breakpoints .transforming-marketp-2 {
+.homepage-dt-all-breakpoints .transforming-marketp-3 {
   color: transparent;
   font-weight: 600;
   height: 88px;
@@ -127,15 +144,15 @@
   width: 1280px;
 }
 
-.homepage-dt-all-breakpoints .span-4 {
+.homepage-dt-all-breakpoints .span-6 {
   color: var(--aquamarine);
 }
 
-.homepage-dt-all-breakpoints .span-5 {
+.homepage-dt-all-breakpoints .span-7 {
   color: var(--white);
 }
 
-.homepage-dt-all-breakpoints .hero-cta-button-2 {
+.homepage-dt-all-breakpoints .hero-cta-button-3 {
   align-items: flex-start;
   display: inline-flex;
   flex-direction: column;
@@ -152,7 +169,7 @@
   width: 360px;
 }
 
-.homepage-dt-all-breakpoints .learn-more-2 {
+.homepage-dt-all-breakpoints .learn-more-3 {
   color: var(--white);
   flex: 1;
   font-weight: 700;
@@ -190,7 +207,7 @@
   width: 100%;
 }
 
-.homepage-dt-all-breakpoints .line-4 {
+.homepage-dt-all-breakpoints .line-6 {
   flex: 1;
   flex-grow: 1;
   height: 1px;
@@ -213,7 +230,7 @@
   text-align: center;
 }
 
-.homepage-dt-all-breakpoints .cards-6 {
+.homepage-dt-all-breakpoints .cards-9 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -247,7 +264,7 @@
   width: 120px;
 }
 
-.homepage-dt-all-breakpoints .text-8 {
+.homepage-dt-all-breakpoints .text-12 {
   align-items: center;
   align-self: stretch;
   display: flex;
@@ -259,7 +276,7 @@
   width: 100%;
 }
 
-.homepage-dt-all-breakpoints .title-4 {
+.homepage-dt-all-breakpoints .title-6 {
   align-self: stretch;
   color: var(--white);
   font-weight: 500;
@@ -269,7 +286,7 @@
   text-align: center;
 }
 
-.homepage-dt-all-breakpoints .body-4 {
+.homepage-dt-all-breakpoints .body-6 {
   align-self: stretch;
   color: var(--white);
   flex: 1;
@@ -330,14 +347,14 @@
   width: 1280px;
 }
 
-.homepage-dt-all-breakpoints .intro-copy-15 {
+.homepage-dt-all-breakpoints .intro-copy-21 {
   align-self: stretch;
   color: transparent;
   position: relative;
   text-align: right;
 }
 
-.homepage-dt-all-breakpoints .bullet-points-2 {
+.homepage-dt-all-breakpoints .bullet-points-3 {
   height: 703px;
   position: relative;
   width: 1280px;
@@ -413,13 +430,13 @@
   width: 565px;
 }
 
-.homepage-dt-all-breakpoints .intro-copy-12 {
+.homepage-dt-all-breakpoints .intro-copy-18 {
   color: var(--white);
   flex: 1;
   position: relative;
 }
 
-.homepage-dt-all-breakpoints .accounts-2 {
+.homepage-dt-all-breakpoints .accounts-3 {
   align-items: flex-start;
   display: flex;
   flex-wrap: wrap;
@@ -439,7 +456,7 @@
   width: 564px;
 }
 
-.homepage-dt-all-breakpoints .directory-2 {
+.homepage-dt-all-breakpoints .directory-3 {
   align-items: flex-start;
   display: flex;
   flex-wrap: wrap;
@@ -459,7 +476,7 @@
   position: relative;
 }
 
-.homepage-dt-all-breakpoints .intro-copy-16 {
+.homepage-dt-all-breakpoints .intro-copy-22 {
   color: var(--white);
   position: relative;
   width: 459px;
@@ -488,7 +505,7 @@
   padding: 24px 80px;
 }
 
-.homepage-dt-all-breakpoints .vpn-4 {
+.homepage-dt-all-breakpoints .vpn-5 {
   align-items: flex-start;
   display: flex;
   gap: 24px;
@@ -537,7 +554,7 @@
   color: transparent;
 }
 
-.homepage-dt-all-breakpoints .intro-copy-17 {
+.homepage-dt-all-breakpoints .intro-copy-23 {
   color: var(--white);
   height: 70px;
   position: relative;
@@ -561,7 +578,6 @@
 }
 
 .homepage-dt-all-breakpoints .frame-508 {
-  background-image: url(../img/appstorebadge-2.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 56px;
@@ -603,7 +619,7 @@
   width: 40px;
 }
 
-.homepage-dt-all-breakpoints .intro-copy-13 {
+.homepage-dt-all-breakpoints .intro-copy-19 {
   color: var(--white);
   height: 48px;
   margin-top: -1.00px;
@@ -611,12 +627,12 @@
   width: 574px;
 }
 
-.homepage-dt-all-breakpoints .line-5 {
+.homepage-dt-all-breakpoints .line-7 {
   height: 1px;
   width: 630px;
 }
 
-.homepage-dt-all-breakpoints .frame-37-2 {
+.homepage-dt-all-breakpoints .frame-37-3 {
   display: flex;
   height: 40px;
   position: relative;
@@ -629,7 +645,7 @@
   width: 40px;
 }
 
-.homepage-dt-all-breakpoints .intro-copy-18 {
+.homepage-dt-all-breakpoints .intro-copy-24 {
   color: var(--white);
   height: 48px;
   margin-top: -1.00px;
@@ -648,14 +664,14 @@
   position: relative;
 }
 
-.homepage-dt-all-breakpoints .frame-467-1 {
+.homepage-dt-all-breakpoints .frame-467-2 {
   flex: 0 0 auto;
   height: 920px;
   margin-right: -1.00px;
   position: relative;
 }
 
-.homepage-dt-all-breakpoints .oxt-2 {
+.homepage-dt-all-breakpoints .oxt-3 {
   align-items: center;
   align-self: stretch;
   display: flex;
@@ -667,18 +683,18 @@
   width: 100%;
 }
 
-.homepage-dt-all-breakpoints .token-2 {
+.homepage-dt-all-breakpoints .token-3 {
   height: 322px;
   position: relative;
   width: 240px;
 }
 
-.homepage-dt-all-breakpoints .overlap-group-6 {
+.homepage-dt-all-breakpoints .overlap-group-9 {
   height: 322px;
   position: relative;
 }
 
-.homepage-dt-all-breakpoints .vector-747-2 {
+.homepage-dt-all-breakpoints .vector-747-3 {
   height: 215px;
   left: 0;
   position: absolute;
@@ -686,7 +702,7 @@
   width: 240px;
 }
 
-.homepage-dt-all-breakpoints .vector-748-2 {
+.homepage-dt-all-breakpoints .vector-748-3 {
   height: 215px;
   left: 53px;
   mix-blend-mode: color-dodge;
@@ -695,7 +711,7 @@
   width: 135px;
 }
 
-.homepage-dt-all-breakpoints .frame-470-2 {
+.homepage-dt-all-breakpoints .frame-470-3 {
   height: 225px;
   left: 14px;
   position: absolute;
@@ -718,7 +734,7 @@
   width: 839px;
 }
 
-.homepage-dt-all-breakpoints .intro-copy-19 {
+.homepage-dt-all-breakpoints .intro-copy-25 {
   color: var(--white);
   height: 72px;
   margin-left: -3.50px;
@@ -764,7 +780,7 @@
   width: 208px;
 }
 
-.homepage-dt-all-breakpoints .wide-support-2 {
+.homepage-dt-all-breakpoints .wide-support-3 {
   align-self: stretch;
   color: var(--aquamarine);
   font-weight: 500;
@@ -773,14 +789,14 @@
   text-align: center;
 }
 
-.homepage-dt-all-breakpoints .intro-copy-14 {
+.homepage-dt-all-breakpoints .intro-copy-20 {
   align-self: stretch;
   color: var(--white);
   position: relative;
   text-align: center;
 }
 
-.homepage-dt-all-breakpoints .line-6 {
+.homepage-dt-all-breakpoints .line-8 {
   height: 367px;
   width: 1px;
 }
@@ -814,7 +830,7 @@
   width: 1280px;
 }
 
-.homepage-dt-all-breakpoints .intro-copy-20 {
+.homepage-dt-all-breakpoints .intro-copy-26 {
   color: var(--white);
   height: 72px;
   margin-left: 2px;
@@ -822,7 +838,7 @@
   width: 1281px;
 }
 
-.homepage-dt-all-breakpoints .frame-396-2 {
+.homepage-dt-all-breakpoints .frame-396-3 {
   align-items: flex-start;
   display: inline-flex;
   flex: 0 0 auto;
@@ -830,7 +846,7 @@
   position: relative;
 }
 
-.homepage-dt-all-breakpoints .frame-39-2 {
+.homepage-dt-all-breakpoints .frame-39-3 {
   align-items: center;
   display: inline-flex;
   flex: 0 0 auto;
@@ -838,13 +854,13 @@
   position: relative;
 }
 
-.homepage-dt-all-breakpoints .github-4 {
+.homepage-dt-all-breakpoints .github-6 {
   height: 40px;
   position: relative;
   width: 42px;
 }
 
-.homepage-dt-all-breakpoints .about-orchid-4 {
+.homepage-dt-all-breakpoints .about-orchid-6 {
   width: 222px;
 }
 
@@ -854,7 +870,7 @@
   width: 40px;
 }
 
-.homepage-dt-all-breakpoints .overlap-group-7 {
+.homepage-dt-all-breakpoints .overlap-group-10 {
   align-items: center;
   background-color: var(--aquamarine);
   border-radius: 20px;
@@ -866,12 +882,12 @@
   position: relative;
 }
 
-.homepage-dt-all-breakpoints .anchor-2 {
+.homepage-dt-all-breakpoints .anchor-3 {
   height: 32px;
   width: 32px;
 }
 
-.homepage-dt-all-breakpoints .about-orchid-5 {
+.homepage-dt-all-breakpoints .about-orchid-7 {
   width: 214px;
 }
 
@@ -914,7 +930,7 @@
   width: 1280px;
 }
 
-.homepage-dt-all-breakpoints .title-5 {
+.homepage-dt-all-breakpoints .title-7 {
   color: transparent;
   font-weight: 600;
   height: 32px;
@@ -953,7 +969,7 @@
   width: 400px;
 }
 
-.homepage-dt-all-breakpoints .in-a-world-where-one-4 {
+.homepage-dt-all-breakpoints .in-a-world-where-one-6 {
   align-self: stretch;
   color: var(--white);
   font-weight: 400;
@@ -963,7 +979,7 @@
   position: relative;
 }
 
-.homepage-dt-all-breakpoints .frame-412-4 {
+.homepage-dt-all-breakpoints .frame-412-6 {
   align-items: flex-start;
   display: flex;
   flex: 0 0 auto;
@@ -975,20 +991,20 @@
   width: 361px;
 }
 
-.homepage-dt-all-breakpoints .frame-4-2 {
+.homepage-dt-all-breakpoints .frame-4-3 {
   height: 40.5px;
   margin-top: -0.50px;
   position: relative;
   width: 40px;
 }
 
-.homepage-dt-all-breakpoints .frame-410-4 {
+.homepage-dt-all-breakpoints .frame-410-6 {
   height: 40px;
   position: relative;
   width: 282px;
 }
 
-.homepage-dt-all-breakpoints .company-6 {
+.homepage-dt-all-breakpoints .company-8 {
   color: var(--white);
   font-weight: 600;
   height: 20px;
@@ -1000,7 +1016,7 @@
   width: 240px;
 }
 
-.homepage-dt-all-breakpoints .company-7 {
+.homepage-dt-all-breakpoints .company-9 {
   color: var(--dull-lavender);
   font-weight: 700;
   height: 16px;
@@ -1034,7 +1050,7 @@
   position: relative;
 }
 
-.homepage-dt-all-breakpoints .company-4 {
+.homepage-dt-all-breakpoints .company-6 {
   color: var(--white);
   font-weight: 600;
   height: 20px;
@@ -1045,7 +1061,7 @@
   width: 240px;
 }
 
-.homepage-dt-all-breakpoints .company-5 {
+.homepage-dt-all-breakpoints .company-7 {
   color: var(--dull-lavender);
   font-weight: 700;
   height: 16px;
@@ -1101,7 +1117,7 @@
   width: 100%;
 }
 
-.homepage-dt-all-breakpoints .logo-2 {
+.homepage-dt-all-breakpoints .logo-3 {
   align-items: flex-start;
   display: inline-flex;
   flex: 0 0 auto;
@@ -1110,14 +1126,14 @@
   position: relative;
 }
 
-.homepage-dt-all-breakpoints .x2023-orchid-5 {
+.homepage-dt-all-breakpoints .x2023-orchid-7 {
   letter-spacing: 0.28px;
   line-height: 19.6px;
   position: relative;
   width: 299px;
 }
 
-.homepage-dt-all-breakpoints .hyperlinks-2 {
+.homepage-dt-all-breakpoints .hyperlinks-3 {
   align-items: flex-start;
   display: flex;
   flex: 0 0 auto;
@@ -1128,7 +1144,7 @@
   width: 1280px;
 }
 
-.homepage-dt-all-breakpoints .frame-421-2 {
+.homepage-dt-all-breakpoints .frame-421-3 {
   display: flex;
   flex-direction: column;
   gap: 24px;
@@ -1137,13 +1153,13 @@
   width: 180px;
 }
 
-.homepage-dt-all-breakpoints .frame-50-4 {
+.homepage-dt-all-breakpoints .frame-50-6 {
   display: flex;
   height: 22px;
   width: 180px;
 }
 
-.homepage-dt-all-breakpoints .x2023-orchid-4 {
+.homepage-dt-all-breakpoints .x2023-orchid-6 {
   color: var(--white);
   cursor: pointer;
   flex: 1;
@@ -1152,13 +1168,13 @@
   width: 180px;
 }
 
-.homepage-dt-all-breakpoints .frame-42-2 {
+.homepage-dt-all-breakpoints .frame-42-3 {
   height: 114px;
   position: relative;
   width: 199px;
 }
 
-.homepage-dt-all-breakpoints .frame-container-2 {
+.homepage-dt-all-breakpoints .frame-container-3 {
   align-items: flex-start;
   display: flex;
   flex-direction: column;
@@ -1167,22 +1183,22 @@
   width: 198px;
 }
 
-.homepage-dt-all-breakpoints .frame-505-2 {
+.homepage-dt-all-breakpoints .frame-505-3 {
   display: flex;
   width: 198px;
 }
 
-.homepage-dt-all-breakpoints .apps-5 {
+.homepage-dt-all-breakpoints .apps-7 {
   cursor: pointer;
 }
 
-.homepage-dt-all-breakpoints .frame-50-5 {
+.homepage-dt-all-breakpoints .frame-50-7 {
   cursor: pointer;
   display: flex;
   width: 198px;
 }
 
-.homepage-dt-all-breakpoints .social-icons-2 {
+.homepage-dt-all-breakpoints .social-icons-3 {
   align-items: flex-start;
   display: flex;
   justify-content: space-between;
@@ -1190,7 +1206,7 @@
   width: 297px;
 }
 
-.homepage-dt-all-breakpoints .twitter-2 {
+.homepage-dt-all-breakpoints .twitter-3 {
   background-image: url(../img/twitter-10@2x.png);
   background-size: 100% 100%;
   cursor: pointer;
@@ -1199,7 +1215,7 @@
   width: 30px;
 }
 
-.homepage-dt-all-breakpoints .discord-2 {
+.homepage-dt-all-breakpoints .discord-3 {
   background-image: url(../img/subtract-11@2x.png);
   background-size: 100% 100%;
   cursor: pointer;
@@ -1208,14 +1224,14 @@
   width: 30px;
 }
 
-.homepage-dt-all-breakpoints .github-5 {
+.homepage-dt-all-breakpoints .github-7 {
   cursor: pointer;
   height: 29.25px;
   position: relative;
   width: 30px;
 }
 
-.homepage-dt-all-breakpoints .facebook-2 {
+.homepage-dt-all-breakpoints .facebook-3 {
   background-image: url(../img/shape-10@2x.png);
   background-size: 100% 100%;
   cursor: pointer;
@@ -1224,7 +1240,7 @@
   width: 29.88px;
 }
 
-.homepage-dt-all-breakpoints .reddit-2 {
+.homepage-dt-all-breakpoints .reddit-3 {
   background-image: url(../img/combined-shape-10@2x.png);
   background-size: 100% 100%;
   cursor: pointer;
@@ -1246,6 +1262,14 @@
   height: 22px;
   line-height: 22.4px;
   width: 198px;
+}
+
+.homepage-dt-all-breakpoints .desktop-button-top-nav-7 {
+  align-items: center;
+  cursor: pointer;
+  gap: 10px;
+  justify-content: center;
+  position: relative;
 }
 
 .homepage-dt-all-breakpoints .desktop-header-section-full-3 {
@@ -1300,7 +1324,7 @@
   position: relative;
 }
 
-.mobile-large-u40iphone-maxu41 .ellipses-2 {
+.mobile-large-u40iphone-maxu41 .ellipses-1 {
   height: 5826px;
   left: -418px;
   position: absolute;
@@ -1346,7 +1370,7 @@
   width: 26.47px;
 }
 
-.mobile-large-u40iphone-maxu41 .union-9 {
+.mobile-large-u40iphone-maxu41 .union-8 {
   height: 24px;
   position: relative;
   width: 26.47px;
@@ -1359,7 +1383,7 @@
   width: 24px;
 }
 
-.mobile-large-u40iphone-maxu41 .hero-3 {
+.mobile-large-u40iphone-maxu41 .hero-2 {
   align-items: center;
   align-self: stretch;
   display: flex;
@@ -1378,14 +1402,14 @@
   width: 100%;
 }
 
-.mobile-large-u40iphone-maxu41 .decentralize-the-future-3 {
+.mobile-large-u40iphone-maxu41 .decentralize-the-future-2 {
   flex: 0 0 auto;
   margin-top: -0.63px;
   position: relative;
   width: 275.09px;
 }
 
-.mobile-large-u40iphone-maxu41 .transforming-marketp-3 {
+.mobile-large-u40iphone-maxu41 .transforming-marketp-2 {
   align-self: stretch;
   color: transparent;
   font-weight: 600;
@@ -1393,15 +1417,15 @@
   position: relative;
 }
 
-.mobile-large-u40iphone-maxu41 .span-6 {
+.mobile-large-u40iphone-maxu41 .span-4 {
   color: var(--aquamarine);
 }
 
-.mobile-large-u40iphone-maxu41 .span-7 {
+.mobile-large-u40iphone-maxu41 .span-5 {
   color: var(--white);
 }
 
-.mobile-large-u40iphone-maxu41 .hero-cta-button-3 {
+.mobile-large-u40iphone-maxu41 .hero-cta-button-2 {
   align-items: center;
   display: inline-flex;
   flex: 0 0 auto;
@@ -1420,7 +1444,7 @@
   width: 312px;
 }
 
-.mobile-large-u40iphone-maxu41 .learn-more-3 {
+.mobile-large-u40iphone-maxu41 .learn-more-2 {
   color: var(--white);
   flex: 1;
   font-weight: 700;
@@ -1454,7 +1478,7 @@
   width: 100%;
 }
 
-.mobile-large-u40iphone-maxu41 .line-7 {
+.mobile-large-u40iphone-maxu41 .line-4 {
   flex: 1;
   flex-grow: 1;
 }
@@ -1478,7 +1502,7 @@
   width: 312px;
 }
 
-.mobile-large-u40iphone-maxu41 .cards-7 {
+.mobile-large-u40iphone-maxu41 .cards-6 {
   gap: 16px 16px;
 }
 
@@ -1501,19 +1525,19 @@
   width: 80px;
 }
 
-.mobile-large-u40iphone-maxu41 .text-9 {
+.mobile-large-u40iphone-maxu41 .text-8 {
   height: 104px;
   margin-left: -8.00px;
   margin-right: -8.00px;
   width: 136px;
 }
 
-.mobile-large-u40iphone-maxu41 .title-6 {
+.mobile-large-u40iphone-maxu41 .title-4 {
   color: var(--white);
   text-align: center;
 }
 
-.mobile-large-u40iphone-maxu41 .body-5 {
+.mobile-large-u40iphone-maxu41 .body-4 {
   flex: 1;
   text-align: center;
 }
@@ -1557,14 +1581,14 @@
   width: 100%;
 }
 
-.mobile-large-u40iphone-maxu41 .intro-copy-23 {
+.mobile-large-u40iphone-maxu41 .intro-copy-14 {
   align-self: stretch;
   color: transparent;
   margin-top: -1.00px;
   text-align: right;
 }
 
-.mobile-large-u40iphone-maxu41 .accounts-3 {
+.mobile-large-u40iphone-maxu41 .accounts-2 {
   align-items: center;
   align-self: stretch;
   display: flex;
@@ -1575,18 +1599,18 @@
   width: 100%;
 }
 
-.mobile-large-u40iphone-maxu41 .title-7 {
+.mobile-large-u40iphone-maxu41 .title-5 {
   color: var(--aquamarine);
   height: 18px;
   text-align: right;
   white-space: nowrap;
 }
 
-.mobile-large-u40iphone-maxu41 .body-6 {
+.mobile-large-u40iphone-maxu41 .body-5 {
   text-align: right;
 }
 
-.mobile-large-u40iphone-maxu41 .directory-3 {
+.mobile-large-u40iphone-maxu41 .directory-2 {
   align-items: center;
   align-self: stretch;
   display: flex;
@@ -1618,7 +1642,7 @@
   position: relative;
 }
 
-.mobile-large-u40iphone-maxu41 .vpn-5 {
+.mobile-large-u40iphone-maxu41 .vpn-2 {
   align-items: center;
   align-self: stretch;
   display: flex;
@@ -1690,12 +1714,12 @@
   width: 144px;
 }
 
-.mobile-large-u40iphone-maxu41 .frame-467-2 {
+.mobile-large-u40iphone-maxu41 .frame-467-1 {
   flex: 0 0 auto;
   position: relative;
 }
 
-.mobile-large-u40iphone-maxu41 .bullet-points-3 {
+.mobile-large-u40iphone-maxu41 .bullet-points-2 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -1717,7 +1741,7 @@
   width: 100%;
 }
 
-.mobile-large-u40iphone-maxu41 .frame-37-3 {
+.mobile-large-u40iphone-maxu41 .frame-37-2 {
   background-image: url(../img/task-alt-18@2x.png);
   background-size: 100% 100%;
   height: 24px;
@@ -1725,13 +1749,13 @@
   width: 24px;
 }
 
-.mobile-large-u40iphone-maxu41 .intro-copy-21 {
+.mobile-large-u40iphone-maxu41 .intro-copy-12 {
   color: var(--white);
   flex: 1;
   margin-top: -1.00px;
 }
 
-.mobile-large-u40iphone-maxu41 .line-8 {
+.mobile-large-u40iphone-maxu41 .line-5 {
   width: 311px;
 }
 
@@ -1747,7 +1771,7 @@
   width: 100%;
 }
 
-.mobile-large-u40iphone-maxu41 .oxt-3 {
+.mobile-large-u40iphone-maxu41 .oxt-2 {
   align-items: center;
   align-self: stretch;
   display: flex;
@@ -1758,19 +1782,19 @@
   width: 100%;
 }
 
-.mobile-large-u40iphone-maxu41 .token-3 {
+.mobile-large-u40iphone-maxu41 .token-2 {
   height: 150px;
   position: relative;
   width: 88px;
 }
 
-.mobile-large-u40iphone-maxu41 .overlap-group-9 {
+.mobile-large-u40iphone-maxu41 .overlap-group-7 {
   height: 150px;
   position: relative;
   width: 88px;
 }
 
-.mobile-large-u40iphone-maxu41 .vector-747-3 {
+.mobile-large-u40iphone-maxu41 .vector-747-2 {
   height: 80px;
   left: 6px;
   position: absolute;
@@ -1778,7 +1802,7 @@
   width: 75px;
 }
 
-.mobile-large-u40iphone-maxu41 .vector-748-3 {
+.mobile-large-u40iphone-maxu41 .vector-748-2 {
   height: 80px;
   left: 22px;
   mix-blend-mode: color-dodge;
@@ -1787,7 +1811,7 @@
   width: 43px;
 }
 
-.mobile-large-u40iphone-maxu41 .frame-470-3 {
+.mobile-large-u40iphone-maxu41 .frame-470-2 {
   background-size: 100% 100%;
   height: 94px;
   left: 0;
@@ -1826,14 +1850,14 @@
   gap: 24px;
 }
 
-.mobile-large-u40iphone-maxu41 .intro-copy-24 {
+.mobile-large-u40iphone-maxu41 .intro-copy-15 {
   color: var(--white);
   margin-top: -1.00px;
   text-align: center;
   width: 312px;
 }
 
-.mobile-large-u40iphone-maxu41 .cards-8 {
+.mobile-large-u40iphone-maxu41 .cards-7 {
   gap: 24px 16px;
   padding: 0px 24px;
 }
@@ -1859,13 +1883,13 @@
   width: 128px;
 }
 
-.mobile-large-u40iphone-maxu41 .text-10 {
+.mobile-large-u40iphone-maxu41 .text-9 {
   align-self: stretch;
   flex: 0 0 auto;
   width: 100%;
 }
 
-.mobile-large-u40iphone-maxu41 .wide-support-3 {
+.mobile-large-u40iphone-maxu41 .wide-support-2 {
   align-self: stretch;
   color: var(--aquamarine);
   font-weight: 600;
@@ -1875,19 +1899,19 @@
   text-align: center;
 }
 
-.mobile-large-u40iphone-maxu41 .intro-copy-22 {
+.mobile-large-u40iphone-maxu41 .intro-copy-13 {
   align-self: stretch;
   color: var(--white);
   text-align: center;
 }
 
-.mobile-large-u40iphone-maxu41 .text-11 {
+.mobile-large-u40iphone-maxu41 .text-10 {
   align-self: stretch;
   flex: 0 0 auto;
   width: 100%;
 }
 
-.mobile-large-u40iphone-maxu41 .text-12 {
+.mobile-large-u40iphone-maxu41 .text-11 {
   align-self: stretch;
   flex: 0 0 auto;
   width: 100%;
@@ -1929,14 +1953,14 @@
   width: 100%;
 }
 
-.mobile-large-u40iphone-maxu41 .intro-copy-25 {
+.mobile-large-u40iphone-maxu41 .intro-copy-16 {
   align-self: stretch;
   color: var(--white);
   margin-top: -1.00px;
   text-align: right;
 }
 
-.mobile-large-u40iphone-maxu41 .frame-396-3 {
+.mobile-large-u40iphone-maxu41 .frame-396-2 {
   align-items: flex-end;
   align-self: stretch;
   display: flex;
@@ -1948,7 +1972,7 @@
   width: 100%;
 }
 
-.mobile-large-u40iphone-maxu41 .frame-39-3 {
+.mobile-large-u40iphone-maxu41 .frame-39-2 {
   align-items: center;
   display: inline-flex;
   flex: 0 0 auto;
@@ -1957,17 +1981,17 @@
   position: relative;
 }
 
-.mobile-large-u40iphone-maxu41 .about-orchid-6 {
+.mobile-large-u40iphone-maxu41 .about-orchid-4 {
   width: 222px;
 }
 
-.mobile-large-u40iphone-maxu41 .github-6 {
+.mobile-large-u40iphone-maxu41 .github-4 {
   height: 24px;
   position: relative;
   width: 24px;
 }
 
-.mobile-large-u40iphone-maxu41 .about-orchid-7 {
+.mobile-large-u40iphone-maxu41 .about-orchid-5 {
   width: 214px;
 }
 
@@ -1980,7 +2004,7 @@
   width: 24px;
 }
 
-.mobile-large-u40iphone-maxu41 .anchor-3 {
+.mobile-large-u40iphone-maxu41 .anchor-2 {
   height: 20px;
   margin-left: 2px;
   margin-top: 2px;
@@ -2005,12 +2029,12 @@
   position: relative;
 }
 
-.mobile-large-u40iphone-maxu41 .intro-copy-26 {
+.mobile-large-u40iphone-maxu41 .intro-copy-17 {
   align-self: stretch;
   color: var(--white);
 }
 
-.mobile-large-u40iphone-maxu41 .cards-9 {
+.mobile-large-u40iphone-maxu41 .cards-8 {
   gap: 24px 24px;
   padding: 24px 0px;
 }
@@ -2019,7 +2043,7 @@
   width: 311px;
 }
 
-.mobile-large-u40iphone-maxu41 .overlap-group-8 {
+.mobile-large-u40iphone-maxu41 .overlap-group-6 {
   height: 180px;
   left: -1px;
   position: relative;
@@ -2062,23 +2086,23 @@
   width: 312px;
 }
 
-.mobile-large-u40iphone-maxu41 .in-a-world-where-one-5 {
+.mobile-large-u40iphone-maxu41 .in-a-world-where-one-4 {
   left: 17px;
   width: 279px;
 }
 
-.mobile-large-u40iphone-maxu41 .frame-412-5 {
+.mobile-large-u40iphone-maxu41 .frame-412-4 {
   left: 1px;
   width: 311px;
 }
 
-.mobile-large-u40iphone-maxu41 .frame-4-3 {
+.mobile-large-u40iphone-maxu41 .frame-4-2 {
   height: 40px;
   position: relative;
   width: 40px;
 }
 
-.mobile-large-u40iphone-maxu41 .overlap-group-10 {
+.mobile-large-u40iphone-maxu41 .overlap-group-8 {
   align-items: flex-start;
   background-color: var(--log-cabin);
   border-radius: 20px;
@@ -2089,16 +2113,16 @@
   padding: 13.3px 8.0px;
 }
 
-.mobile-large-u40iphone-maxu41 .union-10 {
+.mobile-large-u40iphone-maxu41 .union-9 {
   height: 13px;
   width: 24px;
 }
 
-.mobile-large-u40iphone-maxu41 .frame-410-5 {
+.mobile-large-u40iphone-maxu41 .frame-410-4 {
   margin-right: -5.00px;
 }
 
-.mobile-large-u40iphone-maxu41 .company-8 {
+.mobile-large-u40iphone-maxu41 .company-4 {
   color: var(--white);
   font-weight: 600;
   height: 20px;
@@ -2106,7 +2130,7 @@
   top: -1px;
 }
 
-.mobile-large-u40iphone-maxu41 .company-9 {
+.mobile-large-u40iphone-maxu41 .company-5 {
   color: var(--dull-lavender);
   font-weight: 700;
   height: 16px;
@@ -2122,7 +2146,7 @@
   width: 40px;
 }
 
-.mobile-large-u40iphone-maxu41 .union-11 {
+.mobile-large-u40iphone-maxu41 .union-10 {
   height: 22px;
   left: 5px;
   position: absolute;
@@ -2140,17 +2164,17 @@
   position: relative;
 }
 
-.mobile-large-u40iphone-maxu41 .in-a-world-where-one-6 {
+.mobile-large-u40iphone-maxu41 .in-a-world-where-one-5 {
   left: 16px;
   width: 280px;
 }
 
-.mobile-large-u40iphone-maxu41 .frame-412-6 {
+.mobile-large-u40iphone-maxu41 .frame-412-5 {
   left: 0;
   width: 312px;
 }
 
-.mobile-large-u40iphone-maxu41 .frame-410-6 {
+.mobile-large-u40iphone-maxu41 .frame-410-5 {
   margin-right: -4.00px;
 }
 
@@ -2179,7 +2203,7 @@
   width: 100%;
 }
 
-.mobile-large-u40iphone-maxu41 .logo-3 {
+.mobile-large-u40iphone-maxu41 .logo-2 {
   align-items: flex-start;
   display: inline-flex;
   flex: 0 0 auto;
@@ -2188,7 +2212,7 @@
   position: relative;
 }
 
-.mobile-large-u40iphone-maxu41 .desktop-home-logo-4 {
+.mobile-large-u40iphone-maxu41 .desktop-home-logo-2 {
   align-items: flex-start;
   cursor: pointer;
   display: inline-flex;
@@ -2197,20 +2221,20 @@
   position: relative;
 }
 
-.mobile-large-u40iphone-maxu41 .union-12 {
+.mobile-large-u40iphone-maxu41 .union-11 {
   height: 36px;
   position: relative;
   width: 140px;
 }
 
-.mobile-large-u40iphone-maxu41 .x2023-orchid-7 {
+.mobile-large-u40iphone-maxu41 .x2023-orchid-5 {
   letter-spacing: 0.28px;
   line-height: 19.6px;
   position: relative;
   width: 299px;
 }
 
-.mobile-large-u40iphone-maxu41 .hyperlinks-3 {
+.mobile-large-u40iphone-maxu41 .hyperlinks-2 {
   align-items: flex-start;
   display: flex;
   flex: 0 0 auto;
@@ -2221,7 +2245,7 @@
   width: 360px;
 }
 
-.mobile-large-u40iphone-maxu41 .frame-421-3 {
+.mobile-large-u40iphone-maxu41 .frame-421-2 {
   display: flex;
   flex-direction: column;
   gap: 24px;
@@ -2230,13 +2254,13 @@
   width: 180px;
 }
 
-.mobile-large-u40iphone-maxu41 .frame-50-6 {
+.mobile-large-u40iphone-maxu41 .frame-50-4 {
   display: flex;
   height: 22px;
   width: 180px;
 }
 
-.mobile-large-u40iphone-maxu41 .x2023-orchid-6 {
+.mobile-large-u40iphone-maxu41 .x2023-orchid-4 {
   color: var(--white);
   cursor: pointer;
   flex: 1;
@@ -2245,13 +2269,13 @@
   width: 180px;
 }
 
-.mobile-large-u40iphone-maxu41 .frame-42-3 {
+.mobile-large-u40iphone-maxu41 .frame-42-2 {
   height: 114px;
   position: relative;
   width: 199px;
 }
 
-.mobile-large-u40iphone-maxu41 .frame-container-3 {
+.mobile-large-u40iphone-maxu41 .frame-container-2 {
   align-items: flex-start;
   display: flex;
   flex-direction: column;
@@ -2260,22 +2284,22 @@
   width: 198px;
 }
 
-.mobile-large-u40iphone-maxu41 .frame-505-3 {
+.mobile-large-u40iphone-maxu41 .frame-505-2 {
   display: flex;
   width: 198px;
 }
 
-.mobile-large-u40iphone-maxu41 .apps-7 {
+.mobile-large-u40iphone-maxu41 .apps-5 {
   cursor: pointer;
 }
 
-.mobile-large-u40iphone-maxu41 .frame-50-7 {
+.mobile-large-u40iphone-maxu41 .frame-50-5 {
   cursor: pointer;
   display: flex;
   width: 198px;
 }
 
-.mobile-large-u40iphone-maxu41 .social-icons-3 {
+.mobile-large-u40iphone-maxu41 .social-icons-2 {
   align-items: flex-start;
   display: flex;
   justify-content: space-between;
@@ -2283,7 +2307,7 @@
   width: 297px;
 }
 
-.mobile-large-u40iphone-maxu41 .twitter-3 {
+.mobile-large-u40iphone-maxu41 .twitter-2 {
   background-image: url(../img/twitter-8@2x.png);
   background-size: 100% 100%;
   cursor: pointer;
@@ -2292,7 +2316,7 @@
   width: 30px;
 }
 
-.mobile-large-u40iphone-maxu41 .discord-3 {
+.mobile-large-u40iphone-maxu41 .discord-2 {
   background-image: url(../img/subtract@2x.png);
   background-size: 100% 100%;
   cursor: pointer;
@@ -2301,14 +2325,14 @@
   width: 30px;
 }
 
-.mobile-large-u40iphone-maxu41 .github-7 {
+.mobile-large-u40iphone-maxu41 .github-5 {
   cursor: pointer;
   height: 29.25px;
   position: relative;
   width: 30px;
 }
 
-.mobile-large-u40iphone-maxu41 .facebook-3 {
+.mobile-large-u40iphone-maxu41 .facebook-2 {
   background-image: url(../img/shape@2x.png);
   background-size: 100% 100%;
   cursor: pointer;
@@ -2317,7 +2341,7 @@
   width: 29.88px;
 }
 
-.mobile-large-u40iphone-maxu41 .reddit-3 {
+.mobile-large-u40iphone-maxu41 .reddit-2 {
   background-image: url(../img/combined-shape-6@2x.png);
   background-size: 100% 100%;
   cursor: pointer;
@@ -4767,10 +4791,10 @@
   .screen.tablet-small-u40ipad-miniu41 { 
     display: none;
    }
-  .screen.homepage-dt-all-breakpoints { 
+  .screen.mobile-large-u40iphone-maxu41 { 
     display: none;
    }
-  .screen.mobile-large-u40iphone-maxu41 { 
+  .screen.homepage-dt-all-breakpoints { 
     display: none;
    }
 }
@@ -4789,10 +4813,10 @@
   .screen.mobile-small-u40android-smallu41 { 
     display: none;
    }
-  .screen.homepage-dt-all-breakpoints { 
+  .screen.mobile-large-u40iphone-maxu41 { 
     display: none;
    }
-  .screen.mobile-large-u40iphone-maxu41 { 
+  .screen.homepage-dt-all-breakpoints { 
     display: none;
    }
 }

@@ -34,13 +34,16 @@
   width: 140px;
 }
 
-.how-desktop .desktop-button-top-nav {
-  align-items: center;
+.how-desktop .desktop-button-top-nav-1 {
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+}
+
+.how-desktop .desktop-button-top-nav-2 {
+  cursor: pointer;
   display: flex;
-  gap: 10px;
-  justify-content: center;
-  position: relative;
-  width: 90px;
+  width: 37px;
 }
 
 .how-desktop .vpn {
@@ -53,12 +56,35 @@
   width: fit-content;
 }
 
+.how-desktop .desktop-button-top-nav-3 {
+  cursor: pointer;
+  display: flex;
+  width: 36px;
+}
+
 .how-desktop .vpn-1 {
   color: var(--white);
 }
 
+.how-desktop .desktop-button-top-nav-4 {
+  display: flex;
+  width: 44px;
+}
+
 .how-desktop .vpn-2 {
   color: var(--aquamarine);
+}
+
+.how-desktop .desktop-button-top-nav-5 {
+  cursor: pointer;
+  display: flex;
+  width: 61px;
+}
+
+.how-desktop .desktop-button-top-nav-6 {
+  cursor: pointer;
+  display: flex;
+  width: 50px;
 }
 
 .how-desktop .desktop-button-header {
@@ -848,6 +874,13 @@
   height: 30px;
   position: relative;
   width: 30px;
+}
+
+.how-desktop .desktop-button-top-nav-7 {
+  align-items: center;
+  gap: 10px;
+  justify-content: center;
+  position: relative;
 }
 
 .how-desktop .desktop-header-section {
