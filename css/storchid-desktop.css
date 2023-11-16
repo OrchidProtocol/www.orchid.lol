@@ -320,12 +320,6 @@
   position: relative;
 }
 
-.storchid-desktop .union {
-  height: 36px;
-  position: relative;
-  width: 140px;
-}
-
 .storchid-desktop .desktop-button-top-nav-1 {
   display: inline-flex;
   flex: 0 0 auto;
@@ -425,15 +419,6 @@
   font-weight: 700;
   line-height: 22.4px;
   width: 180px;
-}
-
-.storchid-desktop .apps-1 {
-  color: var(--white);
-  cursor: pointer;
-  font-weight: 700;
-  height: 22px;
-  line-height: 22.4px;
-  width: 198px;
 }
 
 .storchid-desktop .apps {

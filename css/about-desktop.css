@@ -75,12 +75,6 @@
   position: relative;
 }
 
-.about-desktop .union {
-  height: 36px;
-  position: relative;
-  width: 140px;
-}
-
 .about-desktop .x2023-orchid-1 {
   letter-spacing: 0.28px;
   line-height: 19.6px;
@@ -104,15 +98,6 @@
   font-weight: 700;
   line-height: 22.4px;
   width: 180px;
-}
-
-.about-desktop .apps-1 {
-  color: var(--white);
-  cursor: pointer;
-  font-weight: 700;
-  height: 22px;
-  line-height: 22.4px;
-  width: 198px;
 }
 
 .about-desktop .apps {
@@ -230,10 +215,6 @@
 .about-desktop .desktop-button-top-nav-5 {
   display: flex;
   width: 61px;
-}
-
-.about-desktop .vpn-2 {
-  color: var(--aquamarine);
 }
 
 .about-desktop .desktop-button-top-nav-6 {

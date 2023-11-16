@@ -520,12 +520,6 @@
   position: relative;
 }
 
-.oxt-desktop .union {
-  height: 36px;
-  position: relative;
-  width: 140px;
-}
-
 .oxt-desktop .x2023-orchid-1 {
   letter-spacing: 0.28px;
   line-height: 19.6px;
@@ -549,15 +543,6 @@
   font-weight: 700;
   line-height: 22.4px;
   width: 180px;
-}
-
-.oxt-desktop .apps-1 {
-  color: var(--white);
-  cursor: pointer;
-  font-weight: 700;
-  height: 22px;
-  line-height: 22.4px;
-  width: 198px;
 }
 
 .oxt-desktop .apps {

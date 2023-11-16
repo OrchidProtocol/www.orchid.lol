@@ -43,12 +43,6 @@
   position: relative;
 }
 
-.vpn-desktop .union {
-  height: 36px;
-  position: relative;
-  width: 140px;
-}
-
 .vpn-desktop .desktop-button-top-nav-1 {
   cursor: pointer;
   display: inline-flex;
@@ -895,15 +889,6 @@
   font-weight: 700;
   line-height: 22.4px;
   width: 180px;
-}
-
-.vpn-desktop .apps-1 {
-  color: var(--white);
-  cursor: pointer;
-  font-weight: 700;
-  height: 22px;
-  line-height: 22.4px;
-  width: 198px;
 }
 
 .vpn-desktop .apps {
