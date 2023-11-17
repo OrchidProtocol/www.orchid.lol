@@ -1,6 +1,6 @@
-/* screen - vpn-desktop */
+/* screen - vpn-dt */
 
-.vpn-desktop {
+.vpn-dt {
   align-items: center;
   background-color: var(--licorice);
   display: flex;
@@ -10,7 +10,7 @@
   width: 1440px;
 }
 
-.vpn-desktop .ellipses {
+.vpn-dt .ellipses {
   height: 7846px;
   left: calc(50.00% - 984px);
   position: absolute;
@@ -18,7 +18,7 @@
   width: 1967px;
 }
 
-.vpn-desktop .desktop-home-logo {
+.vpn-dt .desktop-home-logo {
   align-items: flex-start;
   cursor: pointer;
   display: inline-flex;
@@ -28,24 +28,24 @@
   position: relative;
 }
 
-.vpn-desktop .union {
+.vpn-dt .union {
   height: 36px;
   position: relative;
   width: 140px;
 }
 
-.vpn-desktop .desktop-button-top-nav-1 {
+.vpn-dt .desktop-button-top-nav-1 {
   cursor: pointer;
   display: inline-flex;
   flex: 0 0 auto;
 }
 
-.vpn-desktop .desktop-button-top-nav-2 {
+.vpn-dt .desktop-button-top-nav-2 {
   display: flex;
   width: 37px;
 }
 
-.vpn-desktop .vpn {
+.vpn-dt .vpn {
   color: var(--aquamarine);
   font-weight: 700;
   line-height: 14.4px;
@@ -55,13 +55,13 @@
   width: fit-content;
 }
 
-.vpn-desktop .desktop-button-top-nav-3 {
+.vpn-dt .desktop-button-top-nav-3 {
   cursor: pointer;
   display: flex;
   width: 36px;
 }
 
-.vpn-desktop .vpn-1 {
+.vpn-dt .vpn-1 {
   color: var(--white);
   font-weight: 700;
   line-height: 14.4px;
@@ -71,25 +71,25 @@
   width: fit-content;
 }
 
-.vpn-desktop .desktop-button-top-nav-4 {
+.vpn-dt .desktop-button-top-nav-4 {
   cursor: pointer;
   display: flex;
   width: 44px;
 }
 
-.vpn-desktop .desktop-button-top-nav-5 {
+.vpn-dt .desktop-button-top-nav-5 {
   cursor: pointer;
   display: flex;
   width: 61px;
 }
 
-.vpn-desktop .desktop-button-top-nav-6 {
+.vpn-dt .desktop-button-top-nav-6 {
   cursor: pointer;
   display: flex;
   width: 50px;
 }
 
-.vpn-desktop .desktop-button-header {
+.vpn-dt .desktop-button-header {
   background-image: url(../img/button-base-1@2x.png);
   background-size: 100% 100%;
   cursor: pointer;
@@ -99,7 +99,7 @@
   width: 196px;
 }
 
-.vpn-desktop .hero {
+.vpn-dt .hero {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -111,7 +111,7 @@
   width: 100%;
 }
 
-.vpn-desktop .frame-403 {
+.vpn-dt .frame-403 {
   align-items: flex-start;
   display: flex;
   flex-direction: column;
@@ -120,15 +120,15 @@
   width: 481px;
 }
 
-.vpn-desktop .span {
+.vpn-dt .span {
   color: var(--aquamarine);
 }
 
-.vpn-desktop .span-1 {
+.vpn-dt .span-1 {
   color: var(--white);
 }
 
-.vpn-desktop .hero-cta-button {
+.vpn-dt .hero-cta-button {
   align-items: flex-start;
   display: inline-flex;
   flex: 0 0 auto;
@@ -137,7 +137,7 @@
   position: relative;
 }
 
-.vpn-desktop .desktop-button-hero {
+.vpn-dt .desktop-button-hero {
   background-image: url(../img/rectangle-6-43@2x.png);
   background-size: 100% 100%;
   display: flex;
@@ -145,7 +145,7 @@
   width: 360px;
 }
 
-.vpn-desktop .frame-485 {
+.vpn-dt .frame-485 {
   align-items: flex-start;
   display: flex;
   flex: 0 0 auto;
@@ -154,7 +154,7 @@
   width: 1280px;
 }
 
-.vpn-desktop .desktop-header-section-full {
+.vpn-dt .desktop-header-section-full {
   align-items: flex-start;
   display: flex;
   flex: 0 0 auto;
@@ -162,7 +162,7 @@
   gap: 24px;
 }
 
-.vpn-desktop .desktop-caption-section {
+.vpn-dt .desktop-caption-section {
   align-items: center;
   align-self: stretch;
   display: flex;
@@ -173,7 +173,7 @@
   width: 100%;
 }
 
-.vpn-desktop .line {
+.vpn-dt .line {
   flex: 1;
   flex-grow: 1;
   height: 1px;
@@ -181,7 +181,7 @@
   position: relative;
 }
 
-.vpn-desktop .desktop-headline-section {
+.vpn-dt .desktop-headline-section {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -191,7 +191,7 @@
   width: 100%;
 }
 
-.vpn-desktop .two-color-headline {
+.vpn-dt .two-color-headline {
   color: transparent;
   font-weight: 600;
   line-height: 44.0px;
@@ -200,7 +200,7 @@
   width: 1280px;
 }
 
-.vpn-desktop .frame-355 {
+.vpn-dt .frame-355 {
   align-items: flex-start;
   display: flex;
   flex: 0 0 auto;
@@ -210,7 +210,7 @@
   width: 1180px;
 }
 
-.vpn-desktop .intro-copy-7 {
+.vpn-dt .intro-copy-7 {
   color: var(--white);
   flex: 1;
   font-weight: 400;
@@ -219,20 +219,20 @@
   position: relative;
 }
 
-.vpn-desktop .accounts {
+.vpn-dt .accounts {
   align-items: flex-start;
   display: flex;
   margin-left: 4px;
   min-width: 1284px;
 }
 
-.vpn-desktop .overlap-group {
+.vpn-dt .overlap-group {
   height: 160px;
   position: relative;
   width: 1280px;
 }
 
-.vpn-desktop .line-8 {
+.vpn-dt .line-8 {
   height: 86px;
   left: 597px;
   position: absolute;
@@ -240,7 +240,7 @@
   width: 6px;
 }
 
-.vpn-desktop .intro-copy {
+.vpn-dt .intro-copy {
   color: var(--white);
   font-weight: 500;
   left: 160px;
@@ -251,7 +251,7 @@
   width: 400px;
 }
 
-.vpn-desktop .intro-copy-1 {
+.vpn-dt .intro-copy-1 {
   color: var(--white);
   font-weight: 400;
   height: 112px;
@@ -262,7 +262,7 @@
   width: 600px;
 }
 
-.vpn-desktop .overlap-group-1 {
+.vpn-dt .overlap-group-1 {
   align-items: flex-start;
   background-color: var(--log-cabin);
   border: 1px solid;
@@ -275,7 +275,7 @@
   padding: 30px;
 }
 
-.vpn-desktop .frame-48 {
+.vpn-dt .frame-48 {
   display: flex;
   height: 120px;
   left: 0;
@@ -284,7 +284,7 @@
   width: 120px;
 }
 
-.vpn-desktop .ecosystem {
+.vpn-dt .ecosystem {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -297,7 +297,7 @@
   width: 100%;
 }
 
-.vpn-desktop .desktop-header-section-full-1 {
+.vpn-dt .desktop-header-section-full-1 {
   align-items: center;
   align-self: stretch;
   display: flex;
@@ -308,7 +308,7 @@
   width: 100%;
 }
 
-.vpn-desktop .desktop-headline-section-1 {
+.vpn-dt .desktop-headline-section-1 {
   align-items: center;
   align-self: stretch;
   display: flex;
@@ -320,7 +320,7 @@
   width: 100%;
 }
 
-.vpn-desktop .two-color-headline-1 {
+.vpn-dt .two-color-headline-1 {
   color: transparent;
   font-weight: 600;
   line-height: 44.0px;
@@ -330,14 +330,14 @@
   width: 1280px;
 }
 
-.vpn-desktop .flex-row {
+.vpn-dt .flex-row {
   align-items: flex-start;
   display: flex;
   height: 1288px;
   min-width: 1284px;
 }
 
-.vpn-desktop .overlap-group-2 {
+.vpn-dt .overlap-group-2 {
   align-items: center;
   background-color: var(--log-cabin);
   border-radius: 20px;
@@ -348,7 +348,7 @@
   width: 411px;
 }
 
-.vpn-desktop .intro-copy-2 {
+.vpn-dt .intro-copy-2 {
   color: var(--white);
   font-weight: 500;
   line-height: 34.7px;
@@ -358,7 +358,7 @@
   width: 331px;
 }
 
-.vpn-desktop .intro-copy-3 {
+.vpn-dt .intro-copy-3 {
   color: var(--white);
   font-weight: 400;
   line-height: 28.0px;
@@ -367,7 +367,7 @@
   width: 331px;
 }
 
-.vpn-desktop .group-317 {
+.vpn-dt .group-317 {
   align-self: flex-end;
   display: flex;
   gap: 15px;
@@ -375,7 +375,7 @@
   width: 180px;
 }
 
-.vpn-desktop .intro-copy-4 {
+.vpn-dt .intro-copy-4 {
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 1;
   color: var(--dull-lavender);
@@ -389,13 +389,13 @@
   width: 146px;
 }
 
-.vpn-desktop .arrow-10 {
+.vpn-dt .arrow-10 {
   height: 14.73px;
   margin-top: 4.6px;
   width: 18px;
 }
 
-.vpn-desktop .intro-copy-8 {
+.vpn-dt .intro-copy-8 {
   color: var(--white);
   font-weight: 500;
   line-height: 34.7px;
@@ -405,7 +405,7 @@
   width: 331px;
 }
 
-.vpn-desktop .intro-copy-9 {
+.vpn-dt .intro-copy-9 {
   color: var(--white);
   font-weight: 500;
   line-height: 34.7px;
@@ -415,7 +415,7 @@
   width: 331px;
 }
 
-.vpn-desktop .overlap-group2 {
+.vpn-dt .overlap-group2 {
   align-items: center;
   background-color: var(--log-cabin);
   border-radius: 20px;
@@ -426,7 +426,7 @@
   width: 411px;
 }
 
-.vpn-desktop .intro-copy-10 {
+.vpn-dt .intro-copy-10 {
   align-self: flex-start;
   color: var(--white);
   font-weight: 500;
@@ -437,7 +437,7 @@
   width: 331px;
 }
 
-.vpn-desktop .intro-copy-11 {
+.vpn-dt .intro-copy-11 {
   color: var(--white);
   font-weight: 500;
   line-height: 34.7px;
@@ -447,11 +447,11 @@
   width: 331px;
 }
 
-.vpn-desktop .desktop-header-section-simple {
+.vpn-dt .desktop-header-section-simple {
   height: 56px;
 }
 
-.vpn-desktop .line-2 {
+.vpn-dt .line-2 {
   height: 1px;
   left: 0;
   object-fit: cover;
@@ -460,7 +460,7 @@
   width: 1280px;
 }
 
-.vpn-desktop .title {
+.vpn-dt .title {
   color: transparent;
   font-weight: 600;
   height: 32px;
@@ -473,7 +473,7 @@
   width: 1280px;
 }
 
-.vpn-desktop .overlap-group6 {
+.vpn-dt .overlap-group6 {
   align-items: center;
   background-color: var(--cod-gray);
   border: 2px solid;
@@ -487,7 +487,7 @@
   width: 1200px;
 }
 
-.vpn-desktop .overlap-group-5 {
+.vpn-dt .overlap-group-5 {
   align-items: center;
   background-color: var(--log-cabin);
   border-radius: 20px;
@@ -499,7 +499,7 @@
   padding: 0 49.5px;
 }
 
-.vpn-desktop .intro-copy-12 {
+.vpn-dt .intro-copy-12 {
   color: var(--aquamarine);
   font-weight: 600;
   line-height: 22.0px;
@@ -507,12 +507,12 @@
   width: 852px;
 }
 
-.vpn-desktop .menu-icon {
+.vpn-dt .menu-icon {
   height: 40px;
   width: 45px;
 }
 
-.vpn-desktop .intro-copy-13 {
+.vpn-dt .intro-copy-13 {
   color: var(--white);
   font-weight: 400;
   line-height: 28.0px;
@@ -522,7 +522,7 @@
   width: 952px;
 }
 
-.vpn-desktop .intro-copy-14 {
+.vpn-dt .intro-copy-14 {
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 1;
   color: var(--dull-lavender);
@@ -536,7 +536,7 @@
   width: 952px;
 }
 
-.vpn-desktop .overlap-group-3 {
+.vpn-dt .overlap-group-3 {
   align-items: center;
   background-color: var(--cod-gray);
   border: 2px solid;
@@ -551,7 +551,7 @@
   width: 1200px;
 }
 
-.vpn-desktop .overlap-group-4 {
+.vpn-dt .overlap-group-4 {
   align-items: flex-end;
   background-color: var(--log-cabin);
   border-radius: 20px;
@@ -561,7 +561,7 @@
   padding: 24px 90.0px;
 }
 
-.vpn-desktop .intro-copy-5 {
+.vpn-dt .intro-copy-5 {
   color: var(--aquamarine);
   font-weight: 600;
   line-height: 22.0px;
@@ -569,7 +569,7 @@
   width: 852px;
 }
 
-.vpn-desktop .intro-copy-6 {
+.vpn-dt .intro-copy-6 {
   color: var(--white);
   font-weight: 400;
   line-height: 28.0px;
@@ -578,7 +578,7 @@
   width: 939px;
 }
 
-.vpn-desktop .intro-copy-15 {
+.vpn-dt .intro-copy-15 {
   color: var(--white);
   font-weight: 400;
   line-height: 28.0px;
@@ -587,7 +587,7 @@
   width: 939px;
 }
 
-.vpn-desktop .overlap-group4 {
+.vpn-dt .overlap-group4 {
   align-items: center;
   background-color: var(--cod-gray);
   border: 2px solid;
@@ -601,7 +601,7 @@
   width: 1200px;
 }
 
-.vpn-desktop .intro-copy-16 {
+.vpn-dt .intro-copy-16 {
   color: var(--white);
   font-weight: 400;
   line-height: 28.0px;
@@ -611,7 +611,7 @@
   width: 939px;
 }
 
-.vpn-desktop .intro-copy-17 {
+.vpn-dt .intro-copy-17 {
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 1;
   color: var(--dull-lavender);
@@ -626,7 +626,7 @@
   width: 952px;
 }
 
-.vpn-desktop .overlap-group5 {
+.vpn-dt .overlap-group5 {
   align-items: flex-start;
   background-color: var(--cod-gray);
   border: 2px solid;
@@ -640,7 +640,7 @@
   width: 1200px;
 }
 
-.vpn-desktop .overlap-group-6 {
+.vpn-dt .overlap-group-6 {
   align-items: flex-end;
   background-color: var(--log-cabin);
   border-radius: 20px;
@@ -651,7 +651,7 @@
   padding: 24px 90.0px;
 }
 
-.vpn-desktop .intro-copy-18 {
+.vpn-dt .intro-copy-18 {
   align-self: center;
   color: var(--white);
   font-weight: 400;
@@ -662,7 +662,7 @@
   width: 939px;
 }
 
-.vpn-desktop .intro-copy-19 {
+.vpn-dt .intro-copy-19 {
   cursor: pointer;
   height: 22px;
   margin-left: 115.66px;
@@ -670,7 +670,7 @@
   width: 369px;
 }
 
-.vpn-desktop .button {
+.vpn-dt .button {
   align-items: center;
   display: inline-flex;
   flex: 0 0 auto;
@@ -680,7 +680,7 @@
   position: relative;
 }
 
-.vpn-desktop .desktop-button-standard {
+.vpn-dt .desktop-button-standard {
   background-color: var(--log-cabin);
   border: 1px solid;
   border-color: var(--aquamarine);
@@ -692,7 +692,7 @@
   padding: 24px 80px;
 }
 
-.vpn-desktop .logo {
+.vpn-dt .logo {
   align-items: flex-start;
   display: inline-flex;
   flex: 0 0 auto;
@@ -701,7 +701,7 @@
   position: relative;
 }
 
-.vpn-desktop .hyperlinks {
+.vpn-dt .hyperlinks {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -712,20 +712,20 @@
   width: 100%;
 }
 
-.vpn-desktop .frame-42 {
+.vpn-dt .frame-42 {
   height: 114px;
   position: relative;
   width: 180px;
 }
 
-.vpn-desktop .github {
+.vpn-dt .github {
   cursor: pointer;
   height: 29.25px;
   position: relative;
   width: 30px;
 }
 
-.vpn-desktop .facebook {
+.vpn-dt .facebook {
   background-image: url(../img/shape@2x.png);
   background-size: 100% 100%;
   cursor: pointer;
@@ -734,14 +734,14 @@
   width: 29.87px;
 }
 
-.vpn-desktop .desktop-button-top-nav-7 {
+.vpn-dt .desktop-button-top-nav-7 {
   align-items: center;
   gap: 10px;
   justify-content: center;
   position: relative;
 }
 
-.vpn-desktop .desktop-header-section {
+.vpn-dt .desktop-header-section {
   position: relative;
   width: 1280px;
 }

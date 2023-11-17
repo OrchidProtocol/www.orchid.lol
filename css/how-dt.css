@@ -1,6 +1,6 @@
-/* screen - how-desktop */
+/* screen - how-dt */
 
-.how-desktop {
+.how-dt {
   align-items: center;
   background-color: var(--licorice);
   display: flex;
@@ -10,7 +10,7 @@
   width: 1440px;
 }
 
-.how-desktop .ellipses {
+.how-dt .ellipses {
   height: 6276px;
   left: calc(50.00% - 984px);
   position: absolute;
@@ -18,7 +18,7 @@
   width: 1967px;
 }
 
-.how-desktop .desktop-home-logo {
+.how-dt .desktop-home-logo {
   align-items: flex-start;
   cursor: pointer;
   display: inline-flex;
@@ -28,25 +28,25 @@
   position: relative;
 }
 
-.how-desktop .union {
+.how-dt .union {
   height: 36px;
   position: relative;
   width: 140px;
 }
 
-.how-desktop .desktop-button-top-nav-1 {
+.how-dt .desktop-button-top-nav-1 {
   cursor: pointer;
   display: inline-flex;
   flex: 0 0 auto;
 }
 
-.how-desktop .desktop-button-top-nav-2 {
+.how-dt .desktop-button-top-nav-2 {
   cursor: pointer;
   display: flex;
   width: 37px;
 }
 
-.how-desktop .vpn {
+.how-dt .vpn {
   color: var(--white);
   font-weight: 700;
   line-height: 14.4px;
@@ -56,38 +56,38 @@
   width: fit-content;
 }
 
-.how-desktop .desktop-button-top-nav-3 {
+.how-dt .desktop-button-top-nav-3 {
   cursor: pointer;
   display: flex;
   width: 36px;
 }
 
-.how-desktop .vpn-1 {
+.how-dt .vpn-1 {
   color: var(--white);
 }
 
-.how-desktop .desktop-button-top-nav-4 {
+.how-dt .desktop-button-top-nav-4 {
   display: flex;
   width: 44px;
 }
 
-.how-desktop .vpn-2 {
+.how-dt .vpn-2 {
   color: var(--aquamarine);
 }
 
-.how-desktop .desktop-button-top-nav-5 {
+.how-dt .desktop-button-top-nav-5 {
   cursor: pointer;
   display: flex;
   width: 61px;
 }
 
-.how-desktop .desktop-button-top-nav-6 {
+.how-dt .desktop-button-top-nav-6 {
   cursor: pointer;
   display: flex;
   width: 50px;
 }
 
-.how-desktop .desktop-button-header {
+.how-dt .desktop-button-header {
   background-image: url(../img/button-base-1@2x.png);
   background-size: 100% 100%;
   cursor: pointer;
@@ -97,7 +97,7 @@
   width: 196px;
 }
 
-.how-desktop .hero {
+.how-dt .hero {
   align-items: center;
   align-self: stretch;
   display: flex;
@@ -111,7 +111,7 @@
   width: 100%;
 }
 
-.how-desktop .decentralized-marketplace {
+.how-dt .decentralized-marketplace {
   color: transparent;
   font-weight: 800;
   height: 73px;
@@ -124,15 +124,15 @@
   width: 1062px;
 }
 
-.how-desktop .span {
+.how-dt .span {
   color: var(--white);
 }
 
-.how-desktop .span-1 {
+.how-dt .span-1 {
   color: var(--aquamarine);
 }
 
-.how-desktop .intro-copy-1 {
+.how-dt .intro-copy-1 {
   align-self: stretch;
   color: transparent;
   font-weight: 400;
@@ -140,12 +140,12 @@
   position: relative;
 }
 
-.how-desktop .span-2 {
+.how-dt .span-2 {
   color: var(--dull-lavender-2);
   font-weight: 600;
 }
 
-.how-desktop .hero-cta-button {
+.how-dt .hero-cta-button {
   align-items: flex-start;
   display: inline-flex;
   flex: 0 0 auto;
@@ -154,7 +154,7 @@
   position: relative;
 }
 
-.how-desktop .desktop-button-hero {
+.how-dt .desktop-button-hero {
   background-image: url(../img/rectangle-6-43@2x.png);
   background-size: 100% 100%;
   cursor: pointer;
@@ -163,7 +163,7 @@
   width: 360px;
 }
 
-.how-desktop .how-desktop-item {
+.how-dt .how-dt-item {
   align-items: center;
   align-self: stretch;
   display: flex;
@@ -175,7 +175,7 @@
   width: 100%;
 }
 
-.how-desktop .frame-485 {
+.how-dt .frame-485 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -185,7 +185,7 @@
   width: 100%;
 }
 
-.how-desktop .desktop-header-section-full {
+.how-dt .desktop-header-section-full {
   align-items: flex-start;
   display: flex;
   flex: 0 0 auto;
@@ -193,7 +193,7 @@
   gap: 24px;
 }
 
-.how-desktop .desktop-caption-section {
+.how-dt .desktop-caption-section {
   align-items: center;
   align-self: stretch;
   display: flex;
@@ -204,13 +204,13 @@
   width: 100%;
 }
 
-.how-desktop .line-10 {
+.how-dt .line-10 {
   flex: 1;
   flex-grow: 1;
   position: relative;
 }
 
-.how-desktop .desktop-headline-section {
+.how-dt .desktop-headline-section {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -220,7 +220,7 @@
   width: 100%;
 }
 
-.how-desktop .two-color-headline {
+.how-dt .two-color-headline {
   color: transparent;
   font-weight: 600;
   line-height: 44.0px;
@@ -229,13 +229,13 @@
   width: 1280px;
 }
 
-.how-desktop .about-button {
+.how-dt .about-button {
   height: 56px;
   position: relative;
   width: 182px;
 }
 
-.how-desktop .overlap-group-2 {
+.how-dt .overlap-group-2 {
   background-image: url(../img/rectangle-6-23@2x.png);
   background-size: 100% 100%;
   height: 60px;
@@ -247,7 +247,7 @@
   top: -2px;
 }
 
-.how-desktop .about-orchid-1 {
+.how-dt .about-orchid-1 {
   color: var(--aquamarine);
   font-weight: 600;
   line-height: 22.0px;
@@ -257,7 +257,7 @@
   width: 180px;
 }
 
-.how-desktop .overlap-group {
+.how-dt .overlap-group {
   align-items: center;
   background-image: url(../img/rectangle-6-24@2x.png);
   background-size: 100% 100%;
@@ -266,7 +266,7 @@
   min-width: 180px;
 }
 
-.how-desktop .about-orchid {
+.how-dt .about-orchid {
   color: var(--white);
   font-weight: 600;
   line-height: 22.0px;
@@ -276,14 +276,14 @@
   width: 180px;
 }
 
-.how-desktop .frame-11 {
+.how-dt .frame-11 {
   height: 48.25px;
   margin-left: 0.8px;
   margin-top: -0.2px;
   width: 45.3px;
 }
 
-.how-desktop .text {
+.how-dt .text {
   align-items: flex-start;
   display: inline-flex;
   flex: 0 0 auto;
@@ -293,7 +293,7 @@
   position: relative;
 }
 
-.how-desktop .intro-copy-2 {
+.how-dt .intro-copy-2 {
   color: var(--white);
   font-weight: 400;
   line-height: 28.0px;
@@ -301,7 +301,7 @@
   width: 904px;
 }
 
-.how-desktop .intro-copy-3 {
+.how-dt .intro-copy-3 {
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 1;
   color: var(--dull-lavender-2);
@@ -316,25 +316,25 @@
   width: fit-content;
 }
 
-.how-desktop .arrow-10 {
+.how-dt .arrow-10 {
   height: 14.73px;
   margin-right: -1.00px;
   position: relative;
   width: 18px;
 }
 
-.how-desktop .desktop-header-section-simple {
+.how-dt .desktop-header-section-simple {
   height: 56px;
 }
 
-.how-desktop .line-2 {
+.how-dt .line-2 {
   left: 0;
   position: absolute;
   top: 56px;
   width: 1280px;
 }
 
-.how-desktop .title {
+.how-dt .title {
   color: transparent;
   font-weight: 600;
   height: 32px;
@@ -347,7 +347,7 @@
   width: 1280px;
 }
 
-.how-desktop .overlap-group-3 {
+.how-dt .overlap-group-3 {
   background-color: var(--cod-gray);
   border: 2px solid;
   border-color: var(--true-v);
@@ -361,7 +361,7 @@
   width: 1067px;
 }
 
-.how-desktop .overlap-group1 {
+.how-dt .overlap-group1 {
   align-items: center;
   background-color: var(--log-cabin);
   border-radius: 20px;
@@ -373,7 +373,7 @@
   padding: 0 44px;
 }
 
-.how-desktop .intro-copy-4 {
+.how-dt .intro-copy-4 {
   color: var(--aquamarine);
   font-weight: 600;
   line-height: 22.0px;
@@ -381,12 +381,12 @@
   width: 757px;
 }
 
-.how-desktop .menu-icon {
+.how-dt .menu-icon {
   height: 40px;
   width: 40px;
 }
 
-.how-desktop .intro-copy-5 {
+.how-dt .intro-copy-5 {
   color: var(--white);
   font-weight: 400;
   line-height: 28.0px;
@@ -396,7 +396,7 @@
   width: 846px;
 }
 
-.how-desktop .intro-copy-6 {
+.how-dt .intro-copy-6 {
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 1;
   color: var(--dull-lavender);
@@ -410,11 +410,11 @@
   width: 846px;
 }
 
-.how-desktop .group-317 {
+.how-dt .group-317 {
   height: 343px;
 }
 
-.how-desktop .overlap-group2 {
+.how-dt .overlap-group2 {
   align-items: flex-start;
   background-color: var(--cod-gray);
   border: 2px solid;
@@ -430,7 +430,7 @@
   width: 1067px;
 }
 
-.how-desktop .overlap-group-1 {
+.how-dt .overlap-group-1 {
   background-color: var(--log-cabin);
   border-radius: 20px;
   gap: 142px;
@@ -441,7 +441,7 @@
   padding: 0 44px;
 }
 
-.how-desktop .intro-copy {
+.how-dt .intro-copy {
   color: var(--aquamarine);
   font-weight: 600;
   line-height: 22.0px;
@@ -450,7 +450,7 @@
   width: 757px;
 }
 
-.how-desktop .intro-copy-7 {
+.how-dt .intro-copy-7 {
   align-self: center;
   color: var(--white);
   font-weight: 400;
@@ -461,14 +461,14 @@
   width: 864px;
 }
 
-.how-desktop .intro-copy-8 {
+.how-dt .intro-copy-8 {
   height: 23px;
   margin-left: 101.14px;
   margin-top: 43px;
   width: 245px;
 }
 
-.how-desktop .intro-copy-9 {
+.how-dt .intro-copy-9 {
   align-self: center;
   color: var(--white);
   font-weight: 400;
@@ -479,18 +479,18 @@
   width: 864px;
 }
 
-.how-desktop .span-4 {
+.how-dt .span-4 {
   letter-spacing: 0.40px;
 }
 
-.how-desktop .intro-copy-10 {
+.how-dt .intro-copy-10 {
   height: 23px;
   margin-left: 101.14px;
   margin-top: 52px;
   width: 245px;
 }
 
-.how-desktop .overlap-group4 {
+.how-dt .overlap-group4 {
   align-items: flex-start;
   background-color: var(--cod-gray);
   border: 2px solid;
@@ -506,7 +506,7 @@
   width: 1067px;
 }
 
-.how-desktop .intro-copy-11 {
+.how-dt .intro-copy-11 {
   align-self: center;
   color: var(--white);
   font-weight: 400;
@@ -517,14 +517,14 @@
   width: 864px;
 }
 
-.how-desktop .intro-copy-12 {
+.how-dt .intro-copy-12 {
   height: 23px;
   margin-left: 101.14px;
   margin-top: 40px;
   width: 245px;
 }
 
-.how-desktop .overlap-group5 {
+.how-dt .overlap-group5 {
   align-items: center;
   background-color: var(--cod-gray);
   border: 2px solid;
@@ -540,7 +540,7 @@
   width: 1067px;
 }
 
-.how-desktop .overlap-group-4 {
+.how-dt .overlap-group-4 {
   background-color: var(--log-cabin);
   border-radius: 20px;
   gap: 142px;
@@ -550,7 +550,7 @@
   padding: 0 44px;
 }
 
-.how-desktop .intro-copy-13 {
+.how-dt .intro-copy-13 {
   color: var(--white);
   font-weight: 400;
   line-height: 28.0px;
@@ -560,7 +560,7 @@
   width: 864px;
 }
 
-.how-desktop .intro-copy-14 {
+.how-dt .intro-copy-14 {
   align-self: flex-start;
   height: 23px;
   margin-left: 101.14px;
@@ -568,7 +568,7 @@
   width: 245px;
 }
 
-.how-desktop .overlap-group6 {
+.how-dt .overlap-group6 {
   align-items: flex-start;
   background-color: var(--cod-gray);
   border: 2px solid;
@@ -585,7 +585,7 @@
   width: 1067px;
 }
 
-.how-desktop .intro-copy-15 {
+.how-dt .intro-copy-15 {
   align-self: center;
   color: var(--white);
   font-weight: 400;
@@ -595,13 +595,13 @@
   width: 864px;
 }
 
-.how-desktop .intro-copy-16 {
+.how-dt .intro-copy-16 {
   height: 23px;
   margin-left: 101.14px;
   width: 245px;
 }
 
-.how-desktop .button {
+.how-dt .button {
   align-items: center;
   display: inline-flex;
   flex: 0 0 auto;
@@ -611,7 +611,7 @@
   position: relative;
 }
 
-.how-desktop .desktop-button-standard {
+.how-dt .desktop-button-standard {
   background-color: var(--log-cabin);
   border: 1px solid;
   border-color: var(--aquamarine);
@@ -623,7 +623,7 @@
   padding: 24px 80px;
 }
 
-.how-desktop .logo {
+.how-dt .logo {
   align-items: flex-start;
   display: inline-flex;
   flex: 0 0 auto;
@@ -632,7 +632,7 @@
   position: relative;
 }
 
-.how-desktop .hyperlinks {
+.how-dt .hyperlinks {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -643,20 +643,20 @@
   width: 100%;
 }
 
-.how-desktop .frame-42 {
+.how-dt .frame-42 {
   height: 114px;
   position: relative;
   width: 180px;
 }
 
-.how-desktop .github {
+.how-dt .github {
   cursor: pointer;
   height: 29.25px;
   position: relative;
   width: 30px;
 }
 
-.how-desktop .facebook {
+.how-dt .facebook {
   background-image: url(../img/shape@2x.png);
   background-size: 100% 100%;
   cursor: pointer;
@@ -665,29 +665,29 @@
   width: 29.87px;
 }
 
-.how-desktop .desktop-button-top-nav-7 {
+.how-dt .desktop-button-top-nav-7 {
   align-items: center;
   gap: 10px;
   justify-content: center;
   position: relative;
 }
 
-.how-desktop .desktop-header-section {
+.how-dt .desktop-header-section {
   position: relative;
   width: 1280px;
 }
 
-.how-desktop .line {
+.how-dt .line {
   height: 1px;
   object-fit: cover;
 }
 
-.how-desktop .overlap-group-5 {
+.how-dt .overlap-group-5 {
   align-items: center;
   display: flex;
 }
 
-.how-desktop .vpn-3 {
+.how-dt .vpn-3 {
   font-weight: 700;
   line-height: 14.4px;
   margin-top: -1.00px;

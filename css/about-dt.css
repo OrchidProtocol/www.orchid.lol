@@ -1,6 +1,6 @@
-/* screen - about-desktop */
+/* screen - about-dt */
 
-.about-desktop {
+.about-dt {
   align-items: center;
   background-color: var(--licorice);
   display: flex;
@@ -10,7 +10,7 @@
   width: 1440px;
 }
 
-.about-desktop .ellipses {
+.about-dt .ellipses {
   height: 6276px;
   left: calc(50.00% - 983px);
   position: absolute;
@@ -18,21 +18,21 @@
   width: 1967px;
 }
 
-.about-desktop .flex-col {
+.about-dt .flex-col {
   align-items: flex-start;
   display: flex;
   flex-direction: column;
   min-height: 4708px;
 }
 
-.about-desktop .overlap-group1 {
+.about-dt .overlap-group1 {
   height: 775px;
   margin-left: 90.0px;
   position: relative;
   width: 936px;
 }
 
-.about-desktop .ellipse-container {
+.about-dt .ellipse-container {
   height: 775px;
   left: 0;
   position: absolute;
@@ -40,7 +40,7 @@
   width: 912px;
 }
 
-.about-desktop .flex-row {
+.about-dt .flex-row {
   align-items: center;
   display: flex;
   gap: 276px;
@@ -49,7 +49,7 @@
   min-width: 1967px;
 }
 
-.about-desktop .ellipse-container-1 {
+.about-dt .ellipse-container-1 {
   align-items: flex-start;
   display: flex;
   flex-direction: column;
@@ -58,7 +58,7 @@
   width: 808px;
 }
 
-.about-desktop .ellipse-35 {
+.about-dt .ellipse-35 {
   align-self: flex-end;
   background-color: var(--black-2);
   border-radius: 585px;
@@ -69,7 +69,7 @@
   width: 1170px;
 }
 
-.about-desktop .logo {
+.about-dt .logo {
   height: 604px;
   left: calc(50.00% + 240px);
   position: absolute;
@@ -77,7 +77,7 @@
   width: 680px;
 }
 
-.about-desktop .union-1 {
+.about-dt .union-1 {
   height: 736px;
   left: -52px;
   position: absolute;
@@ -85,7 +85,7 @@
   width: 812px;
 }
 
-.about-desktop .desktop-home-logo {
+.about-dt .desktop-home-logo {
   align-items: flex-start;
   cursor: pointer;
   display: inline-flex;
@@ -95,25 +95,25 @@
   position: relative;
 }
 
-.about-desktop .union {
+.about-dt .union {
   height: 36px;
   position: relative;
   width: 140px;
 }
 
-.about-desktop .desktop-button-top-nav-1 {
+.about-dt .desktop-button-top-nav-1 {
   cursor: pointer;
   display: inline-flex;
   flex: 0 0 auto;
 }
 
-.about-desktop .desktop-button-top-nav-2 {
+.about-dt .desktop-button-top-nav-2 {
   cursor: pointer;
   display: flex;
   width: 37px;
 }
 
-.about-desktop .vpn {
+.about-dt .vpn {
   color: var(--white);
   font-weight: 700;
   line-height: 14.4px;
@@ -123,38 +123,38 @@
   width: fit-content;
 }
 
-.about-desktop .desktop-button-top-nav-3 {
+.about-dt .desktop-button-top-nav-3 {
   cursor: pointer;
   display: flex;
   width: 36px;
 }
 
-.about-desktop .vpn-1 {
+.about-dt .vpn-1 {
   color: var(--white);
 }
 
-.about-desktop .desktop-button-top-nav-4 {
+.about-dt .desktop-button-top-nav-4 {
   cursor: pointer;
   display: flex;
   width: 44px;
 }
 
-.about-desktop .desktop-button-top-nav-5 {
+.about-dt .desktop-button-top-nav-5 {
   display: flex;
   width: 61px;
 }
 
-.about-desktop .vpn-2 {
+.about-dt .vpn-2 {
   color: var(--aquamarine);
 }
 
-.about-desktop .desktop-button-top-nav-6 {
+.about-dt .desktop-button-top-nav-6 {
   cursor: pointer;
   display: flex;
   width: 50px;
 }
 
-.about-desktop .desktop-button-header {
+.about-dt .desktop-button-header {
   background-image: url(../img/button-base-1@2x.png);
   background-size: 100% 100%;
   cursor: pointer;
@@ -164,7 +164,7 @@
   width: 196px;
 }
 
-.about-desktop .hero {
+.about-dt .hero {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -178,7 +178,7 @@
   width: 100%;
 }
 
-.about-desktop .frame-403 {
+.about-dt .frame-403 {
   align-items: center;
   display: flex;
   flex: 0 0 auto;
@@ -188,7 +188,7 @@
   width: 855px;
 }
 
-.about-desktop .decentralized-marketplace {
+.about-dt .decentralized-marketplace {
   align-self: stretch;
   color: transparent;
   font-weight: 800;
@@ -197,11 +197,11 @@
   position: relative;
 }
 
-.about-desktop .span {
+.about-dt .span {
   color: var(--white);
 }
 
-.about-desktop .frame-491 {
+.about-dt .frame-491 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -212,14 +212,14 @@
   width: 100%;
 }
 
-.about-desktop .line-10 {
+.about-dt .line-10 {
   align-self: stretch;
   margin-top: -1.00px;
   position: relative;
   width: 100%;
 }
 
-.about-desktop .intro-copy {
+.about-dt .intro-copy {
   align-self: stretch;
   color: var(--white);
   font-weight: 400;
@@ -228,7 +228,7 @@
   position: relative;
 }
 
-.about-desktop .desktop-header-section-full {
+.about-dt .desktop-header-section-full {
   align-items: center;
   display: flex;
   flex: 0 0 auto;
@@ -236,7 +236,7 @@
   gap: 24px;
 }
 
-.about-desktop .desktop-caption-section {
+.about-dt .desktop-caption-section {
   align-items: center;
   align-self: stretch;
   display: flex;
@@ -247,7 +247,7 @@
   width: 100%;
 }
 
-.about-desktop .line {
+.about-dt .line {
   flex: 1;
   flex-grow: 1;
   height: 1px;
@@ -255,7 +255,7 @@
   position: relative;
 }
 
-.about-desktop .desktop-headline-section {
+.about-dt .desktop-headline-section {
   align-items: center;
   align-self: stretch;
   display: flex;
@@ -267,7 +267,7 @@
   width: 100%;
 }
 
-.about-desktop .two-color-headline {
+.about-dt .two-color-headline {
   color: transparent;
   font-weight: 600;
   line-height: 44.0px;
@@ -279,14 +279,14 @@
   width: 1280px;
 }
 
-.about-desktop .intro-copy-1 {
+.about-dt .intro-copy-1 {
   align-self: stretch;
   font-weight: 400;
   height: 511px;
   line-height: 28.0px;
 }
 
-.about-desktop .copy {
+.about-dt .copy {
   align-items: center;
   display: inline-flex;
   flex: 0 0 auto;
@@ -296,7 +296,7 @@
   position: relative;
 }
 
-.about-desktop .decentralized-marketplace-1 {
+.about-dt .decentralized-marketplace-1 {
   color: transparent;
   font-weight: 600;
   height: 96px;
@@ -308,38 +308,38 @@
   width: 880px;
 }
 
-.about-desktop .intro-copy-2 {
+.about-dt .intro-copy-2 {
   font-weight: 500;
   line-height: 34.7px;
   text-align: center;
   width: 880px;
 }
 
-.about-desktop .line-2 {
+.about-dt .line-2 {
   margin-bottom: -1.00px;
   position: relative;
   width: 880px;
 }
 
-.about-desktop .buttons {
+.about-dt .buttons {
   display: flex;
   height: 72px;
   position: relative;
   width: 361px;
 }
 
-.about-desktop .desktop-header-section-simple {
+.about-dt .desktop-header-section-simple {
   height: 56px;
 }
 
-.about-desktop .line-1 {
+.about-dt .line-1 {
   left: 0;
   position: absolute;
   top: 55px;
   width: 1280px;
 }
 
-.about-desktop .title {
+.about-dt .title {
   color: var(--white);
   font-weight: 600;
   height: 32px;
@@ -353,14 +353,14 @@
   width: 1280px;
 }
 
-.about-desktop .intro-copy-3 {
+.about-dt .intro-copy-3 {
   align-self: stretch;
   font-weight: 400;
   line-height: 28.0px;
   text-align: center;
 }
 
-.about-desktop .frame-396 {
+.about-dt .frame-396 {
   align-items: center;
   display: inline-flex;
   flex: 0 0 auto;
@@ -369,7 +369,7 @@
   position: relative;
 }
 
-.about-desktop .about-orchid {
+.about-dt .about-orchid {
   color: var(--aquamarine);
   font-weight: 700;
   line-height: 24px;
@@ -378,7 +378,7 @@
   width: fit-content;
 }
 
-.about-desktop .desktop-button-standard {
+.about-dt .desktop-button-standard {
   background-color: var(--log-cabin);
   border: 1px solid;
   border-color: var(--aquamarine);
@@ -390,7 +390,7 @@
   padding: 24px 80px;
 }
 
-.about-desktop .line-2-1 {
+.about-dt .line-2-1 {
   height: 1px;
   left: 0;
   object-fit: cover;
@@ -399,7 +399,7 @@
   width: 1200px;
 }
 
-.about-desktop .title-1 {
+.about-dt .title-1 {
   color: transparent;
   font-weight: 600;
   height: 32px;
@@ -412,7 +412,7 @@
   width: 1200px;
 }
 
-.about-desktop .intro-copy-4 {
+.about-dt .intro-copy-4 {
   flex: 1;
   font-weight: 400;
   height: 156px;
@@ -420,14 +420,14 @@
   margin-top: -1.00px;
 }
 
-.about-desktop .about-button {
+.about-dt .about-button {
   display: flex;
   height: 72px;
   position: relative;
   width: 299px;
 }
 
-.about-desktop .hyperlinks {
+.about-dt .hyperlinks {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -438,20 +438,20 @@
   width: 100%;
 }
 
-.about-desktop .frame-42 {
+.about-dt .frame-42 {
   height: 114px;
   position: relative;
   width: 180px;
 }
 
-.about-desktop .github {
+.about-dt .github {
   cursor: pointer;
   height: 29.25px;
   position: relative;
   width: 30px;
 }
 
-.about-desktop .facebook {
+.about-dt .facebook {
   background-image: url(../img/shape@2x.png);
   background-size: 100% 100%;
   cursor: pointer;
@@ -460,30 +460,30 @@
   width: 29.87px;
 }
 
-.about-desktop .desktop-button-top-nav-7 {
+.about-dt .desktop-button-top-nav-7 {
   align-items: center;
   gap: 10px;
   justify-content: center;
   position: relative;
 }
 
-.about-desktop .desktop-header-section {
+.about-dt .desktop-header-section {
   align-self: stretch;
   position: relative;
   width: 100%;
 }
 
-.about-desktop .intro-copy-5 {
+.about-dt .intro-copy-5 {
   color: var(--white);
   position: relative;
 }
 
-.about-desktop .line-3 {
+.about-dt .line-3 {
   height: 1px;
   object-fit: cover;
 }
 
-.about-desktop .vpn-3 {
+.about-dt .vpn-3 {
   font-weight: 700;
   line-height: 14.4px;
   margin-top: -1.00px;

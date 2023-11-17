@@ -54,16 +54,6 @@
   width: 912px;
 }
 
-.storchid-desktop .hero-image {
-  display: flex;
-  height: 759px;
-  justify-content: center;
-  left: calc(50.00% - 796px);
-  position: absolute;
-  top: 0;
-  width: 1593px;
-}
-
 .storchid-desktop .storage-splash-1 {
   height: 739px;
   margin-left: 96px;
@@ -188,26 +178,6 @@
   width: 100%;
 }
 
-.storchid-desktop .storchid-is-a-new-op {
-  align-self: stretch;
-  color: transparent;
-  font-weight: 500;
-  line-height: 34.7px;
-  position: relative;
-  text-align: center;
-}
-
-.storchid-desktop .storchid-concepts {
-  align-items: center;
-  display: flex;
-  flex-direction: column;
-  gap: 24px;
-  height: 789px;
-  padding: 0px 160px;
-  position: relative;
-  width: 1440px;
-}
-
 .storchid-desktop .desktop-header-section-full {
   align-items: flex-start;
   align-self: stretch;
@@ -290,17 +260,6 @@
   line-height: 22.0px;
 }
 
-.storchid-desktop .storage-design {
-  align-items: center;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 24px;
-  padding: 0px 160px;
-  position: relative;
-  width: 1440px;
-}
-
 .storchid-desktop .two-color-headline-1 {
   color: transparent;
   flex: 1;
@@ -309,14 +268,6 @@
   margin-top: -1.00px;
   position: relative;
   text-align: right;
-}
-
-.storchid-desktop .frame-496 {
-  align-self: stretch;
-  display: flex;
-  height: 140px;
-  position: relative;
-  width: 100%;
 }
 
 .storchid-desktop .intro-copy {
@@ -343,14 +294,6 @@
   display: flex;
   height: 80px;
   width: 360px;
-}
-
-.storchid-desktop .cta {
-  align-items: center;
-  display: inline-flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  position: relative;
 }
 
 .storchid-desktop .desktop-header-section-simple {
@@ -403,19 +346,6 @@
   padding: 24px 80px;
 }
 
-.storchid-desktop .desktopfooter {
-  align-items: flex-start;
-  align-self: stretch;
-  background-color: var(--cod-gray);
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 10px;
-  padding: 80px 80px 160px;
-  position: relative;
-  width: 100%;
-}
-
 .storchid-desktop .logo {
   align-items: flex-start;
   display: inline-flex;
@@ -423,13 +353,6 @@
   flex-direction: column;
   gap: 12px;
   position: relative;
-}
-
-.storchid-desktop .x2023-orchid-1 {
-  letter-spacing: 0.28px;
-  line-height: 19.6px;
-  position: relative;
-  width: 299px;
 }
 
 .storchid-desktop .hyperlinks {
@@ -443,54 +366,10 @@
   width: 100%;
 }
 
-.storchid-desktop .frame-421 {
-  display: flex;
-  flex-direction: column;
-  gap: 24px;
-  height: 68px;
-  position: relative;
-  width: 180px;
-}
-
-.storchid-desktop .x2023-orchid {
-  color: var(--white);
-  cursor: pointer;
-  flex: 1;
-  font-weight: 700;
-  line-height: 22.4px;
-  width: 180px;
-}
-
 .storchid-desktop .frame-42 {
   height: 114px;
   position: relative;
   width: 180px;
-}
-
-.storchid-desktop .apps {
-  color: var(--white);
-  font-weight: 700;
-  height: 22px;
-  line-height: 22.4px;
-  width: 198px;
-}
-
-.storchid-desktop .twitter {
-  background-image: url(../img/twitter-8@2x.png);
-  background-size: 100% 100%;
-  cursor: pointer;
-  height: 29.99px;
-  position: relative;
-  width: 30px;
-}
-
-.storchid-desktop .discord {
-  background-image: url(../img/subtract@2x.png);
-  background-size: 100% 100%;
-  cursor: pointer;
-  height: 29.99px;
-  position: relative;
-  width: 30px;
 }
 
 .storchid-desktop .github {
@@ -507,15 +386,6 @@
   height: 29.95px;
   position: relative;
   width: 29.88px;
-}
-
-.storchid-desktop .reddit {
-  background-image: url(../img/combined-shape-6@2x.png);
-  background-size: 100% 100%;
-  cursor: pointer;
-  height: 30px;
-  position: relative;
-  width: 30px;
 }
 
 .storchid-desktop .desktop-button-top-nav-7 {
