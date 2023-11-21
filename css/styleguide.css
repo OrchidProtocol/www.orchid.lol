@@ -5,17 +5,17 @@
   --cod-gray: #090909;
   --dull-lavender: #ae9aff;
   --dull-lavender-2: #a789ff;
+  --gravel: #46434d;
   --heavy-metal: #2c2c2c;
   --hunter-green: #161616;
-  --licorice: #121212;
   --log-cabin: #212121;
   --manatee: #9c96ac;
   --pixie-powder: #441a86;
   --true-v: #8263ff;
   --white: #ffffff;
+  --woodsmoke: #0f0f0f;
  
-  --font-size-21px: 21px;
-  --font-size-36px: 36px;
+  --font-size-24px: 24px;
   --font-size-60px: 60px;
   --font-size-l: 28px;
   --font-size-m: 20px;
@@ -91,6 +91,14 @@
   letter-spacing: 1.6px;
 }
 
+.desktopcaption {
+  font-family: var(--font-family-figtree);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 300;
+  letter-spacing: 0.28px;
+}
+
 .mobilebutton {
   font-family: var(--font-family-figtree);
   font-size: var(--font-size-xxxs);
@@ -101,10 +109,10 @@
 
 .mobilesuper-headline {
   font-family: var(--font-family-figtree);
-  font-size: var(--font-size-36px);
+  font-size: var(--font-size-xl);
   font-style: normal;
   font-weight: 800;
-  letter-spacing: 0.72px;
+  letter-spacing: 0.8px;
 }
 
 .mobilesubhead {
@@ -133,7 +141,7 @@
 
 .mobileheadline {
   font-family: var(--font-family-figtree);
-  font-size: var(--font-size-21px);
+  font-size: var(--font-size-24px);
   font-style: normal;
   font-weight: 800;
   letter-spacing: 0;
@@ -145,20 +153,4 @@
   font-size: 12px;
   font-style: normal;
   font-weight: 600;
-}
-
-.figtree-light-white-14px {
-  color: var(--white);
-  font-family: var(--font-family-figtree);
-  font-size: var(--font-size-xxxs);
-  font-style: normal;
-  font-weight: 300;
-}
-
-.figtree-normal-white-20px {
-  color: var(--white);
-  font-family: var(--font-family-figtree);
-  font-size: var(--font-size-m);
-  font-style: italic;
-  font-weight: 400;
 }

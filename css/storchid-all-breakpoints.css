@@ -1,0 +1,1388 @@
+/* screen - storchid-all-breakpoints */
+
+.storchid-all-breakpoints {
+  align-items: center;
+  background-color: var(--cod-gray);
+  display: flex;
+  flex-direction: column;
+  gap: 240px;
+  min-width: 1440px;
+  position: relative;
+}
+
+.storchid-all-breakpoints .ellipses {
+  display: flex;
+  height: 3407px;
+  justify-content: center;
+  left: calc(50.00% - 984px);
+  position: absolute;
+  top: -90px;
+  width: 1967px;
+}
+
+.storchid-all-breakpoints .frame-531 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 441px;
+  min-height: 3119px;
+  width: 1967px;
+}
+
+.storchid-all-breakpoints .overlap-group1 {
+  height: 775px;
+  margin-left: 90px;
+  position: relative;
+  width: 936px;
+}
+
+.storchid-all-breakpoints .flex-row {
+  align-items: center;
+  display: flex;
+  gap: 276px;
+  height: 1903px;
+  margin-left: 0;
+  min-width: 1967px;
+}
+
+.storchid-all-breakpoints .ellipse-container-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 770px;
+  min-height: 1903px;
+  width: 808px;
+}
+
+.storchid-all-breakpoints .hero-image {
+  display: flex;
+  height: 759px;
+  justify-content: center;
+  left: -5.28%;
+  position: absolute;
+  top: 0;
+  width: 110.62%;
+}
+
+.storchid-all-breakpoints .storage-splash-1 {
+  height: 739px;
+  margin-left: -4px;
+  margin-top: -10px;
+  width: 1573px;
+}
+
+.storchid-all-breakpoints .desktop-home-logo {
+  cursor: pointer;
+  flex: 0 0 auto;
+  height: 36px;
+  position: relative;
+}
+
+.storchid-all-breakpoints .desktop-button-top-nav-1 {
+  display: inline-flex;
+  flex: 0 0 auto;
+}
+
+.storchid-all-breakpoints .vpn {
+  color: var(--aquamarine);
+  font-weight: 700;
+  line-height: 14.4px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.storchid-all-breakpoints .desktop-button-top-nav-2 {
+  cursor: pointer;
+  display: flex;
+  width: 37px;
+}
+
+.storchid-all-breakpoints .desktop-button-top-nav-3 {
+  cursor: pointer;
+  display: flex;
+  width: 36px;
+}
+
+.storchid-all-breakpoints .desktop-button-top-nav-4 {
+  cursor: pointer;
+  display: flex;
+  width: 44px;
+}
+
+.storchid-all-breakpoints .desktop-button-top-nav-5 {
+  cursor: pointer;
+  display: flex;
+  width: 61px;
+}
+
+.storchid-all-breakpoints .desktop-button-top-nav-6 {
+  cursor: pointer;
+  display: flex;
+  width: 50px;
+}
+
+.storchid-all-breakpoints .desktop-button-header {
+  background-image: url(../img/button-base-1@2x.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  display: flex;
+  height: 48px;
+  justify-content: flex-end;
+  width: 196px;
+}
+
+.storchid-all-breakpoints .hero {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 72px;
+  max-width: 1800px;
+  padding: 200px 160px 0px;
+  position: relative;
+  width: 1440px;
+}
+
+.storchid-all-breakpoints .frame-403 {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 40px;
+  position: relative;
+  width: 855px;
+}
+
+.storchid-all-breakpoints .decentralized-marketplace {
+  align-self: stretch;
+  color: transparent;
+  font-weight: 800;
+  line-height: 54.0px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.storchid-all-breakpoints .span {
+  color: var(--aquamarine);
+}
+
+.storchid-all-breakpoints .span-1 {
+  color: var(--white);
+}
+
+.storchid-all-breakpoints .line-10 {
+  align-self: stretch;
+  height: 1px;
+  object-fit: cover;
+  position: relative;
+  width: 100%;
+}
+
+.storchid-all-breakpoints .storchid-is-a-new-op {
+  align-self: stretch;
+  color: transparent;
+  font-weight: 500;
+  line-height: 34.7px;
+  position: relative;
+  text-align: center;
+}
+
+.storchid-all-breakpoints .storchid-concepts {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  height: 789px;
+  padding: 0px 160px;
+  position: relative;
+  width: 1440px;
+}
+
+.storchid-all-breakpoints .desktop-header-section-full {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  position: relative;
+  width: 100%;
+}
+
+.storchid-all-breakpoints .line {
+  flex: 1;
+  flex-grow: 1;
+  height: 1px;
+  object-fit: cover;
+  position: relative;
+}
+
+.storchid-all-breakpoints .desktop-headline-section {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 24px;
+  padding: 0px 0px 24px;
+  position: relative;
+  width: 100%;
+}
+
+.storchid-all-breakpoints .two-color-headline {
+  color: transparent;
+  flex: 1;
+  font-weight: 600;
+  line-height: 44.0px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.storchid-all-breakpoints .copy {
+  align-self: stretch;
+  display: flex;
+  height: 651px;
+  position: relative;
+  width: 100%;
+}
+
+.storchid-all-breakpoints .text {
+  color: transparent;
+  font-family: var(--font-family-figtree);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  height: 651px;
+  line-height: 28px;
+  width: 1120px;
+}
+
+.storchid-all-breakpoints .span-2 {
+  color: var(--aquamarine);
+  font-weight: 500;
+  line-height: 34.7px;
+}
+
+.storchid-all-breakpoints .span-3 {
+  color: var(--white);
+  line-height: 28.0px;
+}
+
+.storchid-all-breakpoints .span6 {
+  color: var(--white);
+  font-weight: 600;
+  line-height: 22.0px;
+}
+
+.storchid-all-breakpoints .storage-design {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  padding: 0px 160px;
+  position: relative;
+  width: 1440px;
+}
+
+.storchid-all-breakpoints .desktop-header-section-full-1 {
+  align-self: stretch;
+  width: 100%;
+}
+
+.storchid-all-breakpoints .two-color-headline-1 {
+  color: transparent;
+  text-align: right;
+}
+
+.storchid-all-breakpoints .frame-496 {
+  align-self: stretch;
+  display: flex;
+  height: 140px;
+  position: relative;
+  width: 100%;
+}
+
+.storchid-all-breakpoints .intro-copy {
+  color: transparent;
+  font-weight: 400;
+  height: 140px;
+  line-height: 28.0px;
+  text-align: right;
+  width: 1120px;
+}
+
+.storchid-all-breakpoints .hero-cta-button {
+  align-items: flex-end;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 96px 0px 0px;
+  position: relative;
+}
+
+.storchid-all-breakpoints .desktop-button-hero {
+  background-image: url(../img/rectangle-6-43@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 80px;
+  width: 360px;
+}
+
+.storchid-all-breakpoints .cta {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.storchid-all-breakpoints .desktop-header-section-full-2 {
+  width: 1438px;
+}
+
+.storchid-all-breakpoints .two-color-headline-2 {
+  color: var(--aquamarine);
+  text-align: center;
+}
+
+.storchid-all-breakpoints .buttons {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 80px;
+  padding: 120px 0px 0px;
+  position: relative;
+}
+
+.storchid-all-breakpoints .desktop-button-standard {
+  background-color: var(--log-cabin);
+  border: 1px solid;
+  border-color: var(--aquamarine);
+  border-radius: 48px;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: center;
+  padding: 24px 80px;
+}
+
+.storchid-all-breakpoints .logo {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 12px;
+  position: relative;
+}
+
+.storchid-all-breakpoints .desktop-home-logo-1 {
+  height: 36px;
+  position: relative;
+}
+
+.storchid-all-breakpoints .hyperlinks {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 60px 60px;
+  justify-content: space-between;
+  position: relative;
+  width: 100%;
+}
+
+.storchid-all-breakpoints .frame-42 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  position: relative;
+}
+
+.storchid-all-breakpoints .dapp {
+  display: flex;
+  height: 22px;
+  position: relative;
+  width: 198px;
+}
+
+.storchid-all-breakpoints .apps-1 {
+  color: var(--white);
+  cursor: pointer;
+  font-weight: 700;
+  height: 22px;
+  line-height: 22.4px;
+  width: 198px;
+}
+
+.storchid-all-breakpoints .link {
+  cursor: pointer;
+  display: flex;
+  height: 22px;
+  position: relative;
+  width: 198px;
+}
+
+.storchid-all-breakpoints .social-link-github {
+  height: 33px;
+  margin-bottom: -1.00px;
+}
+
+.storchid-all-breakpoints .social-link-reddit {
+  background-image: url(../img/combined-shape@2x.png);
+  background-size: 100% 100%;
+  border-radius: 40px;
+  height: 32px;
+}
+
+.storchid-all-breakpoints .desktop-button {
+  align-items: center;
+  position: relative;
+}
+
+.storchid-all-breakpoints .desktop-button-top-nav-7 {
+  align-items: center;
+  gap: 10px;
+  justify-content: center;
+  position: relative;
+}
+
+.storchid-all-breakpoints .desktop-header-section-full-3 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  position: relative;
+}
+
+.storchid-all-breakpoints .social-link-1 {
+  cursor: pointer;
+  position: relative;
+  width: 32px;
+}
+
+.storchid-all-breakpoints .two-color-headline-3 {
+  flex: 1;
+  font-weight: 600;
+  line-height: 44.0px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.storchid-all-breakpoints .vpn-3 {
+  color: var(--white);
+  font-weight: 700;
+  line-height: 14.4px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+/* screen - storchidu95mobsm */
+
+.storchidu95mobsm {
+  align-items: center;
+  background-color: var(--woodsmoke);
+  display: flex;
+  flex-direction: column;
+  gap: 100px;
+  min-width: 360px;
+  position: relative;
+}
+
+.storchidu95mobsm .ellipses-2 {
+  height: 2556px;
+  left: -247px;
+  position: absolute;
+  top: -43px;
+  width: 836px;
+}
+
+.storchidu95mobsm .flex-col-2 {
+  min-height: 2555px;
+}
+
+.storchidu95mobsm .overlap-group1-2 {
+  height: 322px;
+  margin-left: 99.0px;
+  position: relative;
+  width: 389px;
+}
+
+.storchidu95mobsm .ellipse-container-3 {
+  height: 322px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 378px;
+}
+
+.storchidu95mobsm .ellipse-28-2 {
+  background-color: var(--cod-gray);
+  border-radius: 129.5px/128px;
+  height: 256px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 259px;
+}
+
+.storchidu95mobsm .ellipse-29-2 {
+  background-color: var(--cod-gray);
+  border-radius: 63.5px/64.5px;
+  height: 129px;
+  left: 251px;
+  position: absolute;
+  top: 193px;
+  width: 127px;
+}
+
+.storchidu95mobsm .ellipse-30-2 {
+  background-color: var(--cod-gray);
+  border-radius: 41.5px;
+  height: 83px;
+  left: 306px;
+  position: absolute;
+  top: 8px;
+  width: 83px;
+}
+
+.storchidu95mobsm .ellipse-34-2 {
+  align-self: flex-end;
+  background-color: var(--black-2);
+  border-radius: 153.5px/153px;
+  height: 306px;
+  margin-right: 92.63px;
+  margin-top: 103px;
+  width: 307px;
+}
+
+.storchidu95mobsm .ellipse-37-2 {
+  background-color: var(--black-2);
+  border-radius: 238px/237.5px;
+  height: 475px;
+  margin-top: 130px;
+  transform: rotate(180.00deg);
+  width: 476px;
+}
+
+.storchidu95mobsm .ellipse-33-2 {
+  align-self: center;
+  background-color: var(--black-2);
+  border-radius: 89px;
+  height: 178px;
+  margin-left: 86.37px;
+  margin-top: 112px;
+  transform: rotate(180.00deg);
+  width: 178px;
+}
+
+.storchidu95mobsm .ellipse-35 {
+  align-self: flex-end;
+  background-color: var(--black-2);
+  border-radius: 242.81px;
+  height: 486px;
+  margin-right: 0;
+  margin-top: 443px;
+  transform: rotate(90.00deg);
+  width: 486px;
+}
+
+.storchidu95mobsm .orchid-grid-hero {
+  height: 266px;
+  left: 232px;
+  position: absolute;
+  top: 140px;
+  width: 275px;
+}
+
+.storchidu95mobsm .hero-image-2 {
+  background-image: url(../img/storage-splash-1.png);
+  background-size: 100% 100%;
+  height: 209px;
+  left: calc(50.00% - 227px);
+  position: absolute;
+  top: -1px;
+  width: 444px;
+}
+
+.storchidu95mobsm .union-1 {
+  height: 24px;
+  position: relative;
+  width: 26.47px;
+}
+
+.storchidu95mobsm .frame-403-2 {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  padding: 0px 24px;
+  position: relative;
+  width: 357px;
+}
+
+.storchidu95mobsm .decentralized-marketplace-2 {
+  align-self: stretch;
+  color: transparent;
+  font-weight: 800;
+  line-height: 26.4px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.storchidu95mobsm .line-10-2 {
+  align-self: stretch;
+  height: 1px;
+  object-fit: cover;
+  position: relative;
+  width: 100%;
+}
+
+.storchidu95mobsm .storchid-is-a-new-op-2 {
+  align-self: stretch;
+  color: transparent;
+  font-weight: 600;
+  line-height: 19.8px;
+  position: relative;
+  text-align: center;
+}
+
+.storchidu95mobsm .marketplaces {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  padding: 0px 24px;
+  position: relative;
+  width: 100%;
+}
+
+.storchidu95mobsm .mobile-3 {
+  align-items: center;
+}
+
+.storchidu95mobsm .line-2 {
+  flex: 1;
+  flex-grow: 1;
+  height: 1px;
+  object-fit: cover;
+  position: relative;
+}
+
+.storchidu95mobsm .mobile-headline-section-3 {
+  align-items: flex-start;
+  align-self: stretch;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.storchidu95mobsm .the-orchid-ecosystem-3 {
+  color: transparent;
+}
+
+.storchidu95mobsm .copy-2 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  position: relative;
+  width: 100%;
+}
+
+.storchidu95mobsm .title-1 {
+  align-self: stretch;
+  color: var(--aquamarine);
+  font-weight: 600;
+  height: 18px;
+  line-height: 19.8px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.storchidu95mobsm .body-3 {
+  margin-top: -1.00px;
+}
+
+.storchidu95mobsm .developers {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  padding: 0px 40px;
+  position: relative;
+  width: 100%;
+}
+
+.storchidu95mobsm .mobile-4 {
+  align-items: flex-end;
+}
+
+.storchidu95mobsm .mobile-caption-section-4 {
+  justify-content: flex-end;
+}
+
+.storchidu95mobsm .discover-4 {
+  text-align: right;
+}
+
+.storchidu95mobsm .mobile-headline-section-4 {
+  align-items: center;
+  justify-content: flex-end;
+  margin-left: -32.00px;
+  padding: 0px 0px 24px;
+  width: 312px;
+}
+
+.storchidu95mobsm .the-orchid-ecosystem-4 {
+  color: transparent;
+  text-align: right;
+}
+
+.storchidu95mobsm .intro-copy-2 {
+  align-self: stretch;
+  color: transparent;
+  font-weight: 300;
+  line-height: 16.5px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: right;
+}
+
+.storchidu95mobsm .frame-476-2 {
+  gap: 10px;
+}
+
+.storchidu95mobsm .mobile-5 {
+  align-items: center;
+}
+
+.storchidu95mobsm .mobile-caption-section-5 {
+  justify-content: center;
+}
+
+.storchidu95mobsm .discover-5 {
+  text-align: center;
+}
+
+.storchidu95mobsm .mobile-headline-section-5 {
+  align-items: center;
+  justify-content: center;
+  margin-left: -16.00px;
+  margin-right: -16.00px;
+  padding: 0px 0px 24px;
+  width: 312px;
+}
+
+.storchidu95mobsm .the-orchid-ecosystem-5 {
+  color: var(--aquamarine);
+  text-align: center;
+}
+
+.storchidu95mobsm .frame-476-3 {
+  gap: 40px;
+}
+
+.storchidu95mobsm .logo-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 12px;
+  margin-right: -19.00px;
+  position: relative;
+}
+
+.storchidu95mobsm .desktop-home-logo-3 {
+  height: 36px;
+  position: relative;
+}
+
+.storchidu95mobsm .hyperlinks-2 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 60px 60px;
+  margin-right: -80.00px;
+  position: relative;
+  width: 360px;
+}
+
+.storchidu95mobsm .flex-col-1 {
+  gap: 24px;
+  min-height: 114px;
+  width: 198px;
+}
+
+.storchidu95mobsm .link-2 {
+  cursor: pointer;
+  display: flex;
+  width: 198px;
+}
+
+.storchidu95mobsm .body {
+  align-self: stretch;
+  color: var(--white);
+  font-weight: 300;
+  line-height: 16.5px;
+  position: relative;
+}
+
+.storchidu95mobsm .discover {
+  letter-spacing: 1.92px;
+  line-height: 13.2px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.storchidu95mobsm .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+}
+
+.storchidu95mobsm .frame-476 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  margin-left: -16.00px;
+  margin-right: -16.00px;
+  padding: 60px 0px 0px;
+  position: relative;
+}
+
+.storchidu95mobsm .mobile {
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+  width: 100%;
+}
+
+.storchidu95mobsm .mobile-caption-section {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  gap: 8px;
+  height: 16px;
+  position: relative;
+  width: 100%;
+}
+
+.storchidu95mobsm .mobile-headline-section {
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  position: relative;
+}
+
+.storchidu95mobsm .the-orchid-ecosystem {
+  flex: 1;
+  font-weight: 600;
+  line-height: 18.7px;
+  margin-top: -1.00px;
+  position: relative;
+}
+/* screen - storchidu95tabsm */
+
+.storchidu95tabsm {
+  align-items: center;
+  background-color: var(--woodsmoke);
+  display: flex;
+  flex-direction: column;
+  gap: 120px;
+  min-width: 744px;
+  position: relative;
+}
+
+.storchidu95tabsm .frame-506 {
+  display: flex;
+  height: 2982px;
+  justify-content: center;
+  left: calc(50.00% - 784px);
+  position: absolute;
+  top: -74px;
+  width: 1400px;
+}
+
+.storchidu95tabsm .ellipses-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  min-height: 2982px;
+  padding: 0 0.5px;
+  width: 1400px;
+}
+
+.storchidu95tabsm .overlap-group1-1 {
+  height: 605px;
+  margin-right: 212.0px;
+  position: relative;
+  width: 731px;
+}
+
+.storchidu95tabsm .ellipse-container-2 {
+  height: 605px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 712px;
+}
+
+.storchidu95tabsm .ellipse-28-1 {
+  background-color: var(--cod-gray);
+  border-radius: 242px;
+  height: 484px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 484px;
+}
+
+.storchidu95tabsm .ellipse-29-1 {
+  background-color: var(--cod-gray);
+  border-radius: 121px/120.5px;
+  height: 241px;
+  left: 470px;
+  position: absolute;
+  top: 364px;
+  width: 242px;
+}
+
+.storchidu95tabsm .ellipse-30-1 {
+  background-color: var(--cod-gray);
+  border-radius: 78.5px/78px;
+  height: 156px;
+  left: 574px;
+  position: absolute;
+  top: 14px;
+  width: 157px;
+}
+
+.storchidu95tabsm .ellipse-34-1 {
+  align-self: flex-end;
+  background-color: var(--black-2);
+  border-radius: 288px/288.5px;
+  height: 577px;
+  margin-top: 113px;
+  width: 576px;
+}
+
+.storchidu95tabsm .ellipse-37-1 {
+  align-self: flex-start;
+  background-color: var(--black-2);
+  border-radius: 448px;
+  height: 896px;
+  margin-left: 0;
+  margin-top: 245px;
+  transform: rotate(180.00deg);
+  width: 896px;
+}
+
+.storchidu95tabsm .ellipse-33-1 {
+  background-color: var(--black-2);
+  border-radius: 168px;
+  height: 336px;
+  margin-left: 337.0px;
+  margin-top: 210px;
+  transform: rotate(180.00deg);
+  width: 336px;
+}
+
+.storchidu95tabsm .hero-image-1 {
+  background-image: url(../img/storage-splash-1.png);
+  background-size: 100% 100%;
+  height: 389px;
+  left: -6.45%;
+  position: absolute;
+  top: 0;
+  width: 111.29%;
+}
+
+.storchidu95tabsm .mobile-header {
+  align-items: flex-start;
+  gap: 293px;
+  justify-content: space-around;
+  padding: 32px 24px;
+}
+
+.storchidu95tabsm .union {
+  height: 24px;
+  position: relative;
+  width: 26.47px;
+}
+
+.storchidu95tabsm .frame-403-1 {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  padding: 80px 40px;
+  position: relative;
+  width: 744px;
+}
+
+.storchidu95tabsm .decentralized-marketplace-1 {
+  align-self: stretch;
+  color: transparent;
+  font-weight: 800;
+  line-height: 36.0px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.storchidu95tabsm .span-4 {
+  color: var(--aquamarine);
+}
+
+.storchidu95tabsm .span-5 {
+  color: var(--white);
+}
+
+.storchidu95tabsm .line-10-1 {
+  align-self: stretch;
+  height: 1px;
+  object-fit: cover;
+  position: relative;
+  width: 100%;
+}
+
+.storchidu95tabsm .storchid-is-a-new-op-1 {
+  align-self: stretch;
+  color: transparent;
+  font-weight: 600;
+  line-height: 18.7px;
+  position: relative;
+  text-align: center;
+}
+
+.storchidu95tabsm .storchidu95tabsm-item {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  padding: 0px 40px;
+  position: relative;
+  width: 100%;
+}
+
+.storchidu95tabsm .mobile {
+  align-items: center;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.storchidu95tabsm .mobile-caption-section {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  gap: 8px;
+  height: 16px;
+  position: relative;
+  width: 100%;
+}
+
+.storchidu95tabsm .line-1 {
+  flex: 1;
+  flex-grow: 1;
+  height: 1px;
+  object-fit: cover;
+  position: relative;
+}
+
+.storchidu95tabsm .mobile-headline-section {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: space-around;
+  position: relative;
+  width: 100%;
+}
+
+.storchidu95tabsm .the-orchid-ecosystem {
+  color: transparent;
+  flex: 1;
+  font-weight: 600;
+  line-height: 18.7px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.storchidu95tabsm .copy-1 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  position: relative;
+  width: 100%;
+}
+
+.storchidu95tabsm .title {
+  align-self: stretch;
+  color: var(--aquamarine);
+  font-weight: 600;
+  height: 18px;
+  line-height: 19.8px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.storchidu95tabsm .body-1 {
+  margin-top: -1.00px;
+}
+
+.storchidu95tabsm .mobile-1 {
+  align-items: flex-end;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.storchidu95tabsm .mobile-caption-section-1 {
+  justify-content: flex-end;
+}
+
+.storchidu95tabsm .discover-1 {
+  text-align: right;
+}
+
+.storchidu95tabsm .mobile-headline-section-1 {
+  justify-content: flex-end;
+}
+
+.storchidu95tabsm .the-orchid-ecosystem-1 {
+  color: transparent;
+  text-align: right;
+}
+
+.storchidu95tabsm .intro-copy-1 {
+  align-self: stretch;
+  color: transparent;
+  font-weight: 300;
+  line-height: 16.5px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: right;
+}
+
+.storchidu95tabsm .frame-476 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  padding: 60px 0px 0px;
+  position: relative;
+}
+
+.storchidu95tabsm .mobile-button-hero {
+  align-items: center;
+  background-image: url(../img/rectangle-6@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 56px;
+  position: relative;
+  width: 312px;
+}
+
+.storchidu95tabsm .mobile-2 {
+  align-items: center;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.storchidu95tabsm .mobile-caption-section-2 {
+  justify-content: center;
+}
+
+.storchidu95tabsm .discover-2 {
+  text-align: center;
+}
+
+.storchidu95tabsm .mobile-headline-section-2 {
+  justify-content: center;
+}
+
+.storchidu95tabsm .the-orchid-ecosystem-2 {
+  color: var(--aquamarine);
+  text-align: center;
+}
+
+.storchidu95tabsm .frame-476-1 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 40px;
+  padding: 60px 0px 0px;
+  position: relative;
+}
+
+.storchidu95tabsm .hyperlinks-1 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 60px 60px;
+  position: relative;
+  width: 360px;
+}
+
+.storchidu95tabsm .frame-42-1 {
+  height: 114px;
+  position: relative;
+  width: 199px;
+}
+
+.storchidu95tabsm .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  min-height: 114px;
+  width: 198px;
+}
+
+.storchidu95tabsm .dapp-1 {
+  display: flex;
+  width: 198px;
+}
+
+.storchidu95tabsm .link-1 {
+  cursor: pointer;
+  display: flex;
+  width: 198px;
+}
+
+.storchidu95tabsm .social-link-1 {
+  cursor: pointer;
+  height: 32px;
+  position: relative;
+  width: 32px;
+}
+
+.storchidu95tabsm .social-link-reddit-1 {
+  background-image: url(../img/combined-shape@2x.png);
+  background-size: 100% 100%;
+  border-radius: 40px;
+  cursor: pointer;
+  height: 32px;
+  position: relative;
+  width: 32px;
+}
+
+.storchidu95tabsm .body-2 {
+  align-self: stretch;
+  color: var(--white);
+  font-weight: 300;
+  line-height: 16.5px;
+  position: relative;
+}
+
+.storchidu95tabsm .discover-3 {
+  letter-spacing: 1.92px;
+  line-height: 13.2px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.storchidu95tabsm .mobile-3 {
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  position: relative;
+  width: 100%;
+}
+
+.storchidu95tabsm .mobile-caption-section-3 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  gap: 8px;
+  height: 16px;
+  position: relative;
+  width: 100%;
+}
+
+.storchidu95tabsm .mobile-headline-section-3 {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  padding: 0px 0px 24px;
+  position: relative;
+  width: 312px;
+}
+
+.storchidu95tabsm .nanopay-3 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+  width: 100%;
+}
+
+.storchidu95tabsm .the-orchid-ecosystem-3 {
+  flex: 1;
+  font-weight: 600;
+  line-height: 18.7px;
+  margin-top: -1.00px;
+  position: relative;
+}
+@media screen and (max-width: 743px) {
+  .screen.storchid-all-breakpoints { 
+    display: none;
+   }
+  .screen.storchidu95tabsm { 
+    display: none;
+   }
+}
+@media screen and (min-width: 744px) and (max-width: 1439px) {
+  .screen.storchid-all-breakpoints { 
+    display: none;
+   }
+  .screen.storchidu95mobsm { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1440px) {
+  .screen.storchidu95tabsm { 
+    display: none;
+   }
+  .screen.storchidu95mobsm { 
+    display: none;
+   }
+}
