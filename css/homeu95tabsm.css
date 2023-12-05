@@ -7,11 +7,12 @@
   flex-direction: column;
   gap: 200px;
   min-width: 1440px;
+  padding: 320px 0px 0px;
   position: relative;
 }
 
 .home-all-breakpoints .ellipses-3 {
-  height: 7846px;
+  height: 7968px;
   left: calc(50.00% - 1009px);
   position: absolute;
   top: -106px;
@@ -32,70 +33,6 @@
   position: absolute;
   top: 348px;
   width: 1150px;
-}
-
-.home-all-breakpoints .desktop-home-logo-3 {
-  cursor: pointer;
-  flex: 0 0 auto;
-}
-
-.home-all-breakpoints .desktop-button-top-nav-1 {
-  display: inline-flex;
-  flex: 0 0 auto;
-}
-
-.home-all-breakpoints .desktop-button-top-nav-2 {
-  display: flex;
-  width: 37px;
-}
-
-.home-all-breakpoints .vpn-3 {
-  color: var(--white);
-  font-weight: 700;
-  line-height: 14.4px;
-  margin-top: -1.00px;
-  position: relative;
-  white-space: nowrap;
-  width: fit-content;
-}
-
-.home-all-breakpoints .desktop-button-top-nav-3 {
-  display: flex;
-  width: 36px;
-}
-
-.home-all-breakpoints .vpn-4 {
-  color: var(--white);
-  font-weight: 700;
-  line-height: 14.4px;
-  margin-top: -1.00px;
-  position: relative;
-  white-space: nowrap;
-  width: fit-content;
-}
-
-.home-all-breakpoints .desktop-button-top-nav-4 {
-  display: flex;
-  width: 44px;
-}
-
-.home-all-breakpoints .desktop-button-top-nav-5 {
-  display: flex;
-  width: 61px;
-}
-
-.home-all-breakpoints .desktop-button-top-nav-6 {
-  display: flex;
-  width: 50px;
-}
-
-.home-all-breakpoints .desktop-button-header {
-  background-image: url(../img/button-base-1@2x.png);
-  background-size: 100% 100%;
-  display: flex;
-  height: 48px;
-  justify-content: flex-end;
-  width: 196px;
 }
 
 .home-all-breakpoints .hero-3 {
@@ -504,7 +441,7 @@
   padding: 24px 80px;
 }
 
-.home-all-breakpoints .vpn-5 {
+.home-all-breakpoints .vpn-3 {
   align-items: flex-start;
   display: flex;
   gap: 24px;
@@ -1203,6 +1140,82 @@
   width: 32px;
 }
 
+.home-all-breakpoints .desktop-header {
+  align-items: center;
+  display: flex;
+  height: 96px;
+  justify-content: space-between;
+  left: 0;
+  padding: 24px 80px;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.home-all-breakpoints .desktop-home-logo-4 {
+  cursor: pointer;
+  flex: 0 0 auto;
+}
+
+.home-all-breakpoints .desktop-button-top-nav-1 {
+  display: inline-flex;
+  flex: 0 0 auto;
+}
+
+.home-all-breakpoints .desktop-button-top-nav-2 {
+  display: flex;
+  width: 37px;
+}
+
+.home-all-breakpoints .vpn-4 {
+  color: var(--white);
+  font-weight: 700;
+  line-height: 14.4px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.home-all-breakpoints .desktop-button-top-nav-3 {
+  display: flex;
+  width: 36px;
+}
+
+.home-all-breakpoints .vpn-5 {
+  color: var(--white);
+  font-weight: 700;
+  line-height: 14.4px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.home-all-breakpoints .desktop-button-top-nav-4 {
+  display: flex;
+  width: 44px;
+}
+
+.home-all-breakpoints .desktop-button-top-nav-5 {
+  display: flex;
+  width: 61px;
+}
+
+.home-all-breakpoints .desktop-button-top-nav-6 {
+  display: flex;
+  width: 50px;
+}
+
+.home-all-breakpoints .desktop-button-header {
+  background-image: url(../img/button-base-1@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 48px;
+  justify-content: flex-end;
+  width: 196px;
+}
+
 .home-all-breakpoints .about-orchid {
   color: var(--aquamarine);
   font-weight: 700;
@@ -1303,12 +1316,13 @@
   flex-direction: column;
   gap: 80px;
   min-width: 430px;
+  padding: 160px 0px 0px;
   position: relative;
 }
 
 .homeu95moblg .ellipses-2 {
-  height: 5826px;
-  left: -418px;
+  height: 6242px;
+  left: -419px;
   position: absolute;
   top: -60px;
   width: 1197px;
@@ -1328,45 +1342,6 @@
   position: absolute;
   top: 190px;
   width: 275px;
-}
-
-.homeu95moblg .mobile-12 {
-  align-self: stretch;
-  height: 88px;
-  width: 100%;
-}
-
-.homeu95moblg .nav-bar-2 {
-  align-items: flex-start;
-  display: flex;
-  flex: 1;
-  height: 24px;
-  justify-content: space-between;
-  margin-left: 32px;
-  margin-right: 32px;
-  margin-top: 32px;
-  position: relative;
-  width: 366px;
-}
-
-.homeu95moblg .icon-orchid-logo-2 {
-  align-items: center;
-  display: flex;
-  height: 24px;
-  justify-content: center;
-  position: relative;
-  width: 28.47px;
-}
-
-.homeu95moblg .union-6 {
-  height: 24px;
-  width: 26.47px;
-}
-
-.homeu95moblg .iconmenu-2 {
-  height: 24px;
-  position: relative;
-  width: 24px;
 }
 
 .homeu95moblg .hero-2 {
@@ -1458,22 +1433,15 @@
   width: 100%;
 }
 
-.homeu95moblg .mobile-13 {
+.homeu95moblg .mobile-10 {
   align-items: center;
   align-self: stretch;
   flex: 0 0 auto;
-  flex-direction: column;
-  gap: 8px;
   width: 100%;
 }
 
 .homeu95moblg .mobile-caption-section-7 {
   justify-content: center;
-}
-
-.homeu95moblg .line-4 {
-  flex: 1;
-  flex-grow: 1;
 }
 
 .homeu95moblg .discover-7 {
@@ -1533,12 +1501,10 @@
   text-align: center;
 }
 
-.homeu95moblg .mobile-14 {
+.homeu95moblg .mobile-11 {
   align-items: center;
   align-self: stretch;
   flex: 0 0 auto;
-  flex-direction: column;
-  gap: 8px;
   width: 100%;
 }
 
@@ -1642,11 +1608,9 @@
   width: 100%;
 }
 
-.homeu95moblg .mobile-15 {
+.homeu95moblg .mobile-12 {
   align-items: flex-start;
   align-self: stretch;
-  flex-direction: column;
-  gap: 8px;
   height: 65px;
   padding: 0px 24px;
   width: 100%;
@@ -1802,10 +1766,8 @@
   width: 88px;
 }
 
-.homeu95moblg .mobile-16 {
+.homeu95moblg .mobile-13 {
   align-items: center;
-  flex-direction: column;
-  gap: 8px;
   height: 65px;
   width: 360px;
 }
@@ -1905,12 +1867,10 @@
   position: relative;
 }
 
-.homeu95moblg .mobile-17 {
+.homeu95moblg .mobile-14 {
   align-items: flex-end;
   align-self: stretch;
   flex: 0 0 auto;
-  flex-direction: column;
-  gap: 8px;
   width: 100%;
 }
 
@@ -2090,7 +2050,7 @@
   padding: 13.3px 8.0px;
 }
 
-.homeu95moblg .union-7 {
+.homeu95moblg .union-2 {
   height: 13px;
   width: 24px;
 }
@@ -2123,7 +2083,7 @@
   width: 40px;
 }
 
-.homeu95moblg .union-8 {
+.homeu95moblg .cnet-2 {
   height: 22px;
   left: 5px;
   position: absolute;
@@ -2314,6 +2274,50 @@
   width: 32px;
 }
 
+.homeu95moblg .mobile-nav-2 {
+  display: flex;
+  height: 88px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+
+.homeu95moblg .nav-bar-2 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  height: 24px;
+  justify-content: space-between;
+  margin-left: 32px;
+  margin-right: 32px;
+  margin-top: 32px;
+  position: relative;
+  width: 366px;
+}
+
+.homeu95moblg .orchid-icon-3 {
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  height: 24px;
+  justify-content: center;
+  position: relative;
+  width: 28.47px;
+}
+
+.homeu95moblg .orchid-icon-4 {
+  height: 24px;
+  width: 26.47px;
+}
+
+.homeu95moblg .menu-icon-2 {
+  cursor: pointer;
+  height: 24px;
+  position: relative;
+  width: 24px;
+}
+
 .homeu95moblg .about-orchid {
   color: var(--aquamarine);
   font-weight: 700;
@@ -2408,6 +2412,8 @@
 
 .homeu95moblg .mobile {
   display: flex;
+  flex-direction: column;
+  gap: 8px;
   position: relative;
 }
 
@@ -2464,11 +2470,12 @@
   flex-direction: column;
   gap: 80px;
   min-width: 360px;
+  padding: 160px 0px 0px;
   position: relative;
 }
 
 .homeu95mobsm .ellipses {
-  height: 5826px;
+  height: 6621px;
   left: -469px;
   position: absolute;
   top: -64px;
@@ -2489,34 +2496,6 @@
   position: absolute;
   top: 210px;
   width: 275px;
-}
-
-.homeu95mobsm .mobile {
-  align-self: stretch;
-  height: 88px;
-  width: 100%;
-}
-
-.homeu95mobsm .nav-bar {
-  align-items: flex-start;
-  display: flex;
-  flex: 1;
-  height: 24px;
-  justify-content: space-between;
-  margin-left: 32px;
-  margin-right: 32px;
-  margin-top: 32px;
-  position: relative;
-  width: 296px;
-}
-
-.homeu95mobsm .icon-orchid-logo {
-  align-items: center;
-  display: flex;
-  height: 24px;
-  justify-content: center;
-  position: relative;
-  width: 28.47px;
 }
 
 .homeu95mobsm .hero {
@@ -2608,12 +2587,14 @@
   width: 100%;
 }
 
-.homeu95mobsm .mobile-1 {
+.homeu95mobsm .mobile {
   align-items: center;
   align-self: stretch;
+  display: flex;
   flex: 0 0 auto;
   flex-direction: column;
   gap: 8px;
+  position: relative;
   width: 100%;
 }
 
@@ -2687,12 +2668,14 @@
   text-align: center;
 }
 
-.homeu95mobsm .mobile-2 {
+.homeu95mobsm .mobile-1 {
   align-items: center;
   align-self: stretch;
+  display: flex;
   flex: 0 0 auto;
   flex-direction: column;
   gap: 8px;
+  position: relative;
   width: 100%;
 }
 
@@ -2774,13 +2757,15 @@
   width: 100%;
 }
 
-.homeu95mobsm .mobile-3 {
+.homeu95mobsm .mobile-2 {
   align-items: flex-start;
   align-self: stretch;
+  display: flex;
   flex-direction: column;
   gap: 8px;
   height: 65px;
   padding: 0px 24px;
+  position: relative;
   width: 100%;
 }
 
@@ -2935,11 +2920,13 @@
   width: 88px;
 }
 
-.homeu95mobsm .mobile-4 {
+.homeu95mobsm .mobile-3 {
   align-items: center;
+  display: flex;
   flex-direction: column;
   gap: 8px;
   height: 65px;
+  position: relative;
   width: 360px;
 }
 
@@ -3047,12 +3034,14 @@
   position: relative;
 }
 
-.homeu95mobsm .mobile-5 {
+.homeu95mobsm .mobile-4 {
   align-items: center;
   align-self: stretch;
+  display: flex;
   flex: 0 0 auto;
   flex-direction: column;
   gap: 8px;
+  position: relative;
   width: 100%;
 }
 
@@ -3062,17 +3051,6 @@
   margin-left: -24.00px;
   margin-right: -24.00px;
   width: 360px;
-}
-
-.homeu95mobsm .frame-478 {
-  align-items: center;
-  align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 24px;
-  position: relative;
-  width: 100%;
 }
 
 .homeu95mobsm .intro-copy-4 {
@@ -3244,7 +3222,7 @@
   padding: 13.3px 8.0px;
 }
 
-.homeu95mobsm .union-1 {
+.homeu95mobsm .union {
   height: 13px;
   width: 24px;
 }
@@ -3280,7 +3258,7 @@
   width: 40px;
 }
 
-.homeu95mobsm .union-2 {
+.homeu95mobsm .cnet {
   height: 22px;
   left: 5px;
   position: absolute;
@@ -3442,6 +3420,28 @@
   height: 32px;
 }
 
+.homeu95mobsm .mobile-nav {
+  display: flex;
+  height: 88px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+
+.homeu95mobsm .nav-bar {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  height: 24px;
+  justify-content: space-between;
+  margin-left: 32px;
+  margin-right: 32px;
+  margin-top: 32px;
+  position: relative;
+  width: 296px;
+}
+
 .homeu95mobsm .apps-8 {
   color: var(--white);
   font-weight: 700;
@@ -3499,11 +3499,6 @@
 .homeu95mobsm .line-2 {
   height: 1px;
   object-fit: cover;
-  position: relative;
-}
-
-.homeu95mobsm .mobile-6 {
-  display: flex;
   position: relative;
 }
 
@@ -3586,60 +3581,39 @@
   flex-direction: column;
   gap: 120px;
   min-width: 744px;
+  padding: 160px 0px 0px;
   position: relative;
 }
 
 .homeu95tabsm .ellipses-1 {
-  align-items: center;
-  background-image: url(../img/ellipses-2.png);
-  background-size: 100% 100%;
-  display: flex;
-  flex-direction: column;
-  gap: 4102px;
-  height: 5448px;
+  height: 5632px;
   left: calc(50.00% - 784px);
   position: absolute;
   top: -74px;
   width: 1574px;
 }
 
+.homeu95tabsm .orchid-grid-container {
+  align-items: flex-end;
+  background-image: url(../img/ellipses-2.png);
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 4102px;
+  min-height: 5448px;
+  padding: 77px 226px;
+}
+
 .homeu95tabsm .orchid-grid-hero-1 {
   height: 481px;
-  margin-left: 625px;
-  margin-top: 240px;
+  margin-top: 163px;
   width: 497px;
 }
 
 .homeu95tabsm .orchid-grid-foot-1 {
   height: 548px;
-  margin-left: 465px;
+  margin-right: 45px;
   width: 567px;
-}
-
-.homeu95tabsm .mobile-6 {
-  height: 88px;
-}
-
-.homeu95tabsm .nav-bar-1 {
-  align-items: flex-start;
-  display: flex;
-  flex: 1;
-  height: 24px;
-  justify-content: space-between;
-  margin-left: 32px;
-  margin-right: 32px;
-  margin-top: 32px;
-  position: relative;
-  width: 680px;
-}
-
-.homeu95tabsm .icon-orchid-logo-1 {
-  align-items: center;
-  display: flex;
-  height: 24px;
-  justify-content: center;
-  position: relative;
-  width: 28.47px;
 }
 
 .homeu95tabsm .hero-1 {
@@ -3707,6 +3681,17 @@
   position: relative;
 }
 
+.homeu95tabsm .learn-more-1 {
+  color: var(--white);
+  font-weight: 700;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
 .homeu95tabsm .ecosystem {
   align-items: center;
   align-self: stretch;
@@ -3716,6 +3701,11 @@
   gap: 24px;
   position: relative;
   width: 100%;
+}
+
+.homeu95tabsm .mobile-5 {
+  align-items: center;
+  flex: 0 0 auto;
 }
 
 .homeu95tabsm .mobile-caption-section-4 {
@@ -3796,11 +3786,9 @@
   width: 100%;
 }
 
-.homeu95tabsm .mobile-8 {
+.homeu95tabsm .mobile-6 {
   align-items: center;
   flex: 0 0 auto;
-  flex-direction: column;
-  gap: 8px;
 }
 
 .homeu95tabsm .mobile-caption-section-5 {
@@ -3880,10 +3868,8 @@
   width: 744px;
 }
 
-.homeu95tabsm .mobile-9 {
+.homeu95tabsm .mobile-7 {
   align-items: flex-start;
-  flex-direction: column;
-  gap: 8px;
   height: 65px;
 }
 
@@ -4041,10 +4027,8 @@
   width: 88px;
 }
 
-.homeu95tabsm .mobile-10 {
+.homeu95tabsm .mobile-8 {
   align-items: center;
-  flex-direction: column;
-  gap: 8px;
   height: 65px;
 }
 
@@ -4143,11 +4127,9 @@
   position: relative;
 }
 
-.homeu95tabsm .mobile-11 {
+.homeu95tabsm .mobile-9 {
   align-items: flex-end;
   flex: 0 0 auto;
-  flex-direction: column;
-  gap: 8px;
 }
 
 .homeu95tabsm .mobile-headline-section-10 {
@@ -4315,7 +4297,7 @@
   padding: 13.3px 8.0px;
 }
 
-.homeu95tabsm .union-4 {
+.homeu95tabsm .union-1 {
   height: 13px;
   width: 24px;
 }
@@ -4348,7 +4330,7 @@
   width: 40px;
 }
 
-.homeu95tabsm .union-5 {
+.homeu95tabsm .cnet-1 {
   height: 22px;
   left: 5px;
   position: absolute;
@@ -4502,6 +4484,43 @@
   width: 32px;
 }
 
+.homeu95tabsm .mobile-nav-1 {
+  display: flex;
+  height: 88px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 744px;
+}
+
+.homeu95tabsm .nav-bar-1 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  height: 24px;
+  justify-content: space-between;
+  margin-left: 32px;
+  margin-right: 32px;
+  margin-top: 32px;
+  position: relative;
+  width: 680px;
+}
+
+.homeu95tabsm .orchid-logo {
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  height: 24px;
+  justify-content: center;
+  position: relative;
+  width: 28.47px;
+}
+
+.homeu95tabsm .orchid-icon-2 {
+  height: 24px;
+  width: 26.47px;
+}
+
 .homeu95tabsm .about-orchid {
   color: var(--aquamarine);
   font-weight: 700;
@@ -4597,6 +4616,8 @@
 .homeu95tabsm .mobile {
   align-self: stretch;
   display: flex;
+  flex-direction: column;
+  gap: 8px;
   position: relative;
   width: 100%;
 }
