@@ -10,7 +10,7 @@
   position: relative;
 }
 
-.how-all-breakpoints .ellipses {
+.how-all-breakpoints .ellipses-2 {
   height: 6276px;
   left: calc(50.00% - 984px);
   position: absolute;
@@ -18,11 +18,9 @@
   width: 1967px;
 }
 
-.how-all-breakpoints .desktop-home-logo {
+.how-all-breakpoints .desktop-home-logo-2 {
   cursor: pointer;
   flex: 0 0 auto;
-  height: 36px;
-  position: relative;
 }
 
 .how-all-breakpoints .desktop-button-top-nav-1 {
@@ -88,7 +86,7 @@
   width: 196px;
 }
 
-.how-all-breakpoints .hero {
+.how-all-breakpoints .hero-2 {
   align-items: center;
   align-self: stretch;
   display: flex;
@@ -115,15 +113,15 @@
   width: 1062px;
 }
 
-.how-all-breakpoints .span {
+.how-all-breakpoints .span-8 {
   color: var(--white);
 }
 
-.how-all-breakpoints .span-1 {
+.how-all-breakpoints .span-9 {
   color: var(--aquamarine);
 }
 
-.how-all-breakpoints .intro-copy {
+.how-all-breakpoints .intro-copy-16 {
   align-self: stretch;
   color: transparent;
   font-weight: 400;
@@ -131,7 +129,7 @@
   position: relative;
 }
 
-.how-all-breakpoints .span-2 {
+.how-all-breakpoints .span-10 {
   color: var(--dull-lavender);
   font-weight: 700;
 }
@@ -172,7 +170,7 @@
   width: 360px;
 }
 
-.how-all-breakpoints .learn-more {
+.how-all-breakpoints .learn-more-2 {
   color: var(--white);
   flex: 1;
   font-weight: 700;
@@ -233,7 +231,7 @@
   width: fit-content;
 }
 
-.how-all-breakpoints .line {
+.how-all-breakpoints .line-2 {
   flex: 1;
   flex-grow: 1;
   height: 1px;
@@ -260,7 +258,7 @@
   width: 1280px;
 }
 
-.how-all-breakpoints .cards {
+.how-all-breakpoints .cards-2 {
   align-items: center;
   align-self: stretch;
   display: flex;
@@ -271,7 +269,7 @@
   width: 100%;
 }
 
-.how-all-breakpoints .cards-item {
+.how-all-breakpoints .cards-item-2 {
   align-items: flex-start;
   align-self: stretch;
   background-color: var(--black-2);
@@ -288,7 +286,7 @@
   width: 100%;
 }
 
-.how-all-breakpoints .intro-copy-1 {
+.how-all-breakpoints .intro-copy-17 {
   align-self: stretch;
   color: var(--white);
   font-weight: 500;
@@ -297,7 +295,7 @@
   position: relative;
 }
 
-.how-all-breakpoints .line-8 {
+.how-all-breakpoints .line-8-2 {
   align-self: stretch;
   height: 2px;
   margin-left: -1.00px;
@@ -306,7 +304,7 @@
   width: 100%;
 }
 
-.how-all-breakpoints .intro-copy-2 {
+.how-all-breakpoints .intro-copy-18 {
   align-self: stretch;
   color: var(--white);
   font-weight: 400;
@@ -314,7 +312,7 @@
   position: relative;
 }
 
-.how-all-breakpoints .intro-copy-3 {
+.how-all-breakpoints .intro-copy-19 {
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 1;
   align-self: stretch;
@@ -327,7 +325,7 @@
   text-overflow: ellipsis;
 }
 
-.how-all-breakpoints .span-3 {
+.how-all-breakpoints .span-11 {
   color: var(--dull-lavender);
 }
 
@@ -395,6 +393,22 @@
   width: 100%;
 }
 
+.how-all-breakpoints .run-the-server-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--black);
+  border: 1px solid;
+  border-color: var(--aquamarine);
+  border-radius: 24px;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 60px;
+  padding: 40px 40px 60px;
+  position: relative;
+  width: 100%;
+}
+
 .how-all-breakpoints .how-do-i-fund-my-account {
   color: var(--aquamarine);
   font-weight: 500;
@@ -404,7 +418,7 @@
   width: 878px;
 }
 
-.how-all-breakpoints .intro-copy-4 {
+.how-all-breakpoints .intro-copy-20 {
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 1;
   color: var(--dull-lavender);
@@ -486,7 +500,7 @@
   padding: 24px 80px;
 }
 
-.how-all-breakpoints .logo {
+.how-all-breakpoints .logo-2 {
   align-items: flex-start;
   display: inline-flex;
   flex: 0 0 auto;
@@ -495,7 +509,7 @@
   position: relative;
 }
 
-.how-all-breakpoints .x2023-orchid-1 {
+.how-all-breakpoints .x2023-orchid-7 {
   color: var(--white);
   font-weight: 300;
   line-height: 19.6px;
@@ -503,7 +517,7 @@
   width: 299px;
 }
 
-.how-all-breakpoints .hyperlinks {
+.how-all-breakpoints .hyperlinks-2 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -515,7 +529,16 @@
   width: 100%;
 }
 
-.how-all-breakpoints .x2023-orchid {
+.how-all-breakpoints .frame-42 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  position: relative;
+}
+
+.how-all-breakpoints .x2023-orchid-6 {
   color: var(--white);
   cursor: pointer;
   flex: 1;
@@ -524,16 +547,11 @@
   width: 180px;
 }
 
-.how-all-breakpoints .apps-1 {
-  color: var(--white);
+.how-all-breakpoints .apps-17 {
   cursor: pointer;
-  font-weight: 700;
-  height: 22px;
-  line-height: 22.4px;
-  width: 198px;
 }
 
-.how-all-breakpoints .link {
+.how-all-breakpoints .link-4 {
   cursor: pointer;
   display: flex;
   height: 22px;
@@ -541,15 +559,7 @@
   width: 198px;
 }
 
-.how-all-breakpoints .apps {
-  color: var(--white);
-  font-weight: 700;
-  height: 22px;
-  line-height: 22.4px;
-  width: 198px;
-}
-
-.how-all-breakpoints .social-icons {
+.how-all-breakpoints .social-icons-2 {
   align-items: flex-start;
   display: inline-flex;
   flex: 0 0 auto;
@@ -559,23 +569,22 @@
   position: relative;
 }
 
-.how-all-breakpoints .social-link {
+.how-all-breakpoints .social-link-reddit-2 {
+  background-image: url(../img/combined-shape-5@2x.png);
+  background-size: 100% 100%;
+  border-radius: 40px;
   cursor: pointer;
   height: 32px;
   position: relative;
   width: 32px;
 }
 
-.how-all-breakpoints .social-link-github {
-  height: 33px;
-  margin-bottom: -1.00px;
-}
-
-.how-all-breakpoints .social-link-reddit {
-  background-image: url(../img/combined-shape-5@2x.png);
-  background-size: 100% 100%;
-  border-radius: 40px;
-  height: 32px;
+.how-all-breakpoints .apps {
+  color: var(--white);
+  font-weight: 700;
+  height: 22px;
+  line-height: 22.4px;
+  width: 198px;
 }
 
 .how-all-breakpoints .desktop-button {
@@ -590,6 +599,11 @@
   position: relative;
 }
 
+.how-all-breakpoints .desktop-home-logo {
+  height: 36px;
+  position: relative;
+}
+
 .how-all-breakpoints .frame-544-6 {
   align-items: flex-start;
   align-self: stretch;
@@ -599,12 +613,6 @@
   gap: 24px;
   position: relative;
   width: 100%;
-}
-
-.how-all-breakpoints .social-link-1 {
-  cursor: pointer;
-  position: relative;
-  width: 32px;
 }
 
 .how-all-breakpoints .vpn-3 {
@@ -627,7 +635,7 @@
   position: relative;
 }
 
-.howu95mobsm .ellipses-2 {
+.howu95mobsm .ellipses {
   height: 5826px;
   left: -468px;
   position: absolute;
@@ -761,13 +769,34 @@
   width: 145px;
 }
 
-.howu95mobsm .union-1 {
-  height: 24px;
-  position: relative;
-  width: 26.47px;
+.howu95mobsm .mobile-1 {
+  height: 88px;
 }
 
-.howu95mobsm .hero-2 {
+.howu95mobsm .nav-bar {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  height: 24px;
+  justify-content: space-between;
+  margin-left: 32px;
+  margin-right: 32px;
+  margin-top: 32px;
+  position: relative;
+  width: 296px;
+}
+
+.howu95mobsm .icon-orchid-logo {
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  height: 24px;
+  justify-content: center;
+  position: relative;
+  width: 28.47px;
+}
+
+.howu95mobsm .hero {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -779,42 +808,42 @@
   width: 100%;
 }
 
-.howu95mobsm .frame-403-1 {
+.howu95mobsm .frame-403 {
   align-items: flex-start;
   display: flex;
   flex: 1;
-  flex-direction: column;
   flex-grow: 1;
   gap: 24px;
-  position: relative;
 }
 
-.howu95mobsm .title-3 {
+.howu95mobsm .title-1 {
   color: transparent;
   font-weight: 800;
   line-height: 36.0px;
   text-align: center;
 }
 
-.howu95mobsm .span-8 {
+.howu95mobsm .span {
   color: var(--white);
 }
 
-.howu95mobsm .span-9 {
+.howu95mobsm .span-1 {
   color: var(--aquamarine);
 }
 
-.howu95mobsm .intro-copy-13 {
+.howu95mobsm .intro-copy {
+  align-self: stretch;
   color: transparent;
   font-weight: 300;
   line-height: 18.0px;
+  position: relative;
 }
 
-.howu95mobsm .span-10 {
+.howu95mobsm .span-2 {
   color: var(--dull-lavender);
 }
 
-.howu95mobsm .buttons-1 {
+.howu95mobsm .buttons {
   align-items: center;
   align-self: stretch;
   display: flex;
@@ -826,368 +855,6 @@
   width: 100%;
 }
 
-.howu95mobsm .mobile-button-hero-1 {
-  margin-left: -23.50px;
-  margin-right: -23.50px;
-}
-
-.howu95mobsm .mobile-button-hero-2 {
-  margin-left: -11.00px;
-  margin-right: -11.00px;
-}
-
-.howu95mobsm .features-1 {
-  align-items: center;
-  align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 24px;
-  padding: 0px 24px;
-  position: relative;
-  width: 100%;
-}
-
-.howu95mobsm .mobile-1 {
-  align-items: center;
-  align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 8px;
-  position: relative;
-  width: 100%;
-}
-
-.howu95mobsm .line-2 {
-  flex: 1;
-  flex-grow: 1;
-  height: 1px;
-  object-fit: cover;
-  position: relative;
-}
-
-.howu95mobsm .mobile-headline-section-2 {
-  align-items: center;
-  align-self: stretch;
-  width: 100%;
-}
-
-.howu95mobsm .the-orchid-ecosystem-2 {
-  flex: 1;
-}
-
-.howu95mobsm .cards-2 {
-  align-items: center;
-  align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 16px;
-  position: relative;
-  width: 100%;
-}
-
-.howu95mobsm .cards-item-2 {
-  align-items: flex-start;
-  align-self: stretch;
-  background-color: var(--black-2);
-  border: 1px solid;
-  border-color: var(--true-v);
-  border-radius: 16px;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 16px;
-  overflow: hidden;
-  padding: 24px 24px 40px;
-  position: relative;
-  width: 100%;
-}
-
-.howu95mobsm .intro-copy-14 {
-  color: var(--white);
-  font-weight: 600;
-  line-height: 19.8px;
-  margin-top: -1.00px;
-}
-
-.howu95mobsm .line-8-2 {
-  align-self: stretch;
-  height: 1px;
-  margin-left: -0.50px;
-  margin-right: -0.50px;
-  object-fit: cover;
-  position: relative;
-  width: 100%;
-}
-
-.howu95mobsm .intro-copy-16 {
-  color: var(--white);
-  font-weight: 300;
-  line-height: 18.0px;
-}
-
-.howu95mobsm .intro-copy-15 {
-  -webkit-box-orient: vertical;
-  -webkit-line-clamp: 1;
-  color: var(--dull-lavender-2);
-  display: -webkit-box;
-  font-weight: 700;
-  line-height: 24px;
-  overflow: hidden;
-  text-overflow: ellipsis;
-}
-
-.howu95mobsm .intro-copy-17 {
-  color: var(--white);
-  font-weight: 300;
-  line-height: 18.0px;
-}
-
-.howu95mobsm .intro-copy-18 {
-  flex: 0 0 auto;
-  margin-bottom: -1.20px;
-  margin-left: -2.94px;
-  width: 100%;
-}
-
-.howu95mobsm .intro-copy-19 {
-  color: var(--white);
-  font-weight: 300;
-  line-height: 18.0px;
-}
-
-.howu95mobsm .intro-copy-20 {
-  flex: 0 0 auto;
-  margin-bottom: -1.17px;
-  margin-left: -2.94px;
-  width: 100%;
-}
-
-.howu95mobsm .mobile-caption-section-3 {
-  justify-content: center;
-}
-
-.howu95mobsm .discover-3 {
-  text-align: center;
-}
-
-.howu95mobsm .mobile-headline-section-3 {
-  align-items: flex-start;
-  gap: 10px;
-  justify-content: center;
-  margin-left: -24.00px;
-  margin-right: -24.00px;
-  width: 360px;
-}
-
-.howu95mobsm .the-orchid-ecosystem-3 {
-  text-align: center;
-  white-space: nowrap;
-  width: fit-content;
-}
-
-.howu95mobsm .step-card-1 {
-  align-items: center;
-  align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 24px;
-  position: relative;
-  width: 100%;
-}
-
-.howu95mobsm .title-2 {
-  color: var(--aquamarine);
-  font-weight: 600;
-  line-height: 19.8px;
-}
-
-.howu95mobsm .body-6 {
-  color: var(--white);
-  font-weight: 300;
-  line-height: 18.0px;
-}
-
-.howu95mobsm .link-3 {
-  -webkit-box-orient: vertical;
-  -webkit-line-clamp: 1;
-  align-self: stretch;
-  color: var(--dull-lavender);
-  display: -webkit-box;
-  font-weight: 700;
-  height: 24px;
-  line-height: 24px;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  white-space: nowrap;
-}
-
-.howu95mobsm .body-7 {
-  color: var(--white);
-  font-weight: 300;
-  line-height: 18.0px;
-}
-
-.howu95mobsm .body-8 {
-  color: var(--white);
-  font-weight: 300;
-  line-height: 18.0px;
-}
-
-.howu95mobsm .body-9 {
-  color: var(--white);
-  font-weight: 300;
-  line-height: 18.0px;
-}
-
-.howu95mobsm .body-10 {
-  color: transparent;
-  font-weight: 400;
-  line-height: 15px;
-}
-
-.howu95mobsm .span-11 {
-  color: var(--white);
-  font-weight: 300;
-  line-height: 18.0px;
-}
-
-.howu95mobsm .span1-1 {
-  color: var(--dull-lavender);
-  font-weight: 700;
-  line-height: 16.5px;
-}
-
-.howu95mobsm .body-11 {
-  color: var(--white);
-  font-weight: 300;
-  line-height: 18.0px;
-}
-
-.howu95mobsm .frame-543-1 {
-  align-items: center;
-  display: inline-flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 10px;
-  padding: 80px 0px 0px;
-  position: relative;
-}
-
-.howu95mobsm .logo-2 {
-  align-items: flex-start;
-  display: inline-flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 12px;
-  margin-right: -39.00px;
-  position: relative;
-}
-
-.howu95mobsm .desktop-home-logo-3 {
-  height: 36px;
-  position: relative;
-}
-
-.howu95mobsm .x2023-orchid-5 {
-  color: var(--white);
-  font-weight: 300;
-  line-height: 19.6px;
-  position: relative;
-  width: 299px;
-}
-
-.howu95mobsm .x2023-orchid-6 {
-  color: var(--white);
-  cursor: pointer;
-  flex: 1;
-  font-weight: 700;
-  line-height: 24px;
-  width: 151px;
-}
-
-.howu95mobsm .x2023-orchid-7 {
-  color: var(--white);
-  cursor: pointer;
-  flex: 1;
-  font-weight: 700;
-  line-height: 24px;
-  width: 132px;
-}
-
-.howu95mobsm .link-4 {
-  display: flex;
-  height: 22px;
-  width: 198px;
-}
-
-.howu95mobsm .apps-10 {
-  width: 102px;
-}
-
-.howu95mobsm .apps-11 {
-  width: 132px;
-}
-
-.howu95mobsm .apps-12 {
-  cursor: pointer;
-  width: 113px;
-}
-
-.howu95mobsm .apps-13 {
-  width: 85px;
-}
-
-.howu95mobsm .apps-14 {
-  width: 122px;
-}
-
-.howu95mobsm .apps-15 {
-  width: 76px;
-}
-
-.howu95mobsm .apps-16 {
-  width: 42px;
-}
-
-.howu95mobsm .apps-17 {
-  width: 75px;
-}
-
-.howu95mobsm .apps {
-  color: var(--white);
-  font-weight: 700;
-  height: 24px;
-  line-height: 24px;
-}
-
-.howu95mobsm .body {
-  align-self: stretch;
-  position: relative;
-}
-
-.howu95mobsm .discover {
-  color: var(--white);
-  font-weight: 600;
-  line-height: 13.2px;
-  position: relative;
-  white-space: nowrap;
-  width: fit-content;
-}
-
-.howu95mobsm .intro-copy {
-  align-self: stretch;
-  position: relative;
-}
-
-.howu95mobsm .link {
-  cursor: pointer;
-  position: relative;
-}
-
 .howu95mobsm .mobile-button-hero {
   align-items: center;
   background-color: var(--log-cabin);
@@ -1197,8 +864,33 @@
   display: inline-flex;
   flex: 0 0 auto;
   justify-content: center;
+  margin-left: -23.50px;
+  margin-right: -23.50px;
   padding: 16px 80px;
   position: relative;
+}
+
+.howu95mobsm .learn-more {
+  color: var(--white);
+  font-weight: 700;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.howu95mobsm .mobile-button-hero-1 {
+  margin-left: -11.00px;
+  margin-right: -11.00px;
+}
+
+.howu95mobsm .mobile {
+  align-items: center;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
 }
 
 .howu95mobsm .mobile-caption-section {
@@ -1211,24 +903,444 @@
   width: 100%;
 }
 
+.howu95mobsm .line {
+  flex: 1;
+  flex-grow: 1;
+}
+
 .howu95mobsm .mobile-headline-section {
+  align-items: center;
+  align-self: stretch;
   display: flex;
   flex: 0 0 auto;
   position: relative;
+  width: 100%;
 }
 
 .howu95mobsm .the-orchid-ecosystem {
   color: transparent;
+  flex: 1;
   font-weight: 600;
   line-height: 25.2px;
   margin-top: -1.00px;
   position: relative;
 }
 
+.howu95mobsm .cards {
+  align-items: center;
+}
+
+.howu95mobsm .cards-item {
+  align-items: flex-start;
+  background-color: var(--black-2);
+  border: 1px solid;
+  border-color: var(--true-v);
+  border-radius: 16px;
+  overflow: hidden;
+  padding: 24px 24px 40px;
+}
+
+.howu95mobsm .intro-copy-1 {
+  color: var(--white);
+  font-weight: 600;
+  line-height: 19.8px;
+  margin-top: -1.00px;
+}
+
+.howu95mobsm .line-8 {
+  align-self: stretch;
+  margin-left: -0.50px;
+  margin-right: -0.50px;
+  width: 100%;
+}
+
+.howu95mobsm .intro-copy-3 {
+  color: var(--white);
+  font-weight: 300;
+  line-height: 18.0px;
+}
+
+.howu95mobsm .intro-copy-2 {
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 1;
+  color: var(--dull-lavender-2);
+  display: -webkit-box;
+  font-weight: 700;
+  line-height: 24px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.howu95mobsm .intro-copy-4 {
+  color: var(--white);
+  font-weight: 300;
+  line-height: 18.0px;
+}
+
+.howu95mobsm .intro-copy-5 {
+  flex: 0 0 auto;
+  margin-bottom: -1.20px;
+  margin-left: -2.94px;
+  width: 100%;
+}
+
+.howu95mobsm .intro-copy-6 {
+  color: var(--white);
+  font-weight: 300;
+  line-height: 18.0px;
+}
+
+.howu95mobsm .intro-copy-7 {
+  flex: 0 0 auto;
+  margin-bottom: -1.17px;
+  margin-left: -2.94px;
+  width: 100%;
+}
+
+.howu95mobsm .mobile-caption-section-1 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  gap: 8px;
+  height: 16px;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.howu95mobsm .discover-1 {
+  text-align: center;
+}
+
+.howu95mobsm .mobile-headline-section-1 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  margin-left: -24.00px;
+  margin-right: -24.00px;
+  position: relative;
+  width: 360px;
+}
+
+.howu95mobsm .the-orchid-ecosystem-1 {
+  color: transparent;
+  font-weight: 600;
+  line-height: 25.2px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.howu95mobsm .frame-497 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 40px;
+  width: 100%;
+}
+
+.howu95mobsm .run-the-server {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--black);
+  border: 1px solid;
+  border-color: var(--aquamarine);
+  border-radius: 16px;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 24px 24px 48px;
+  position: relative;
+  width: 100%;
+}
+
 .howu95mobsm .title {
+  color: var(--aquamarine);
+  font-weight: 600;
+  line-height: 19.8px;
+}
+
+.howu95mobsm .body {
+  color: var(--white);
+  font-weight: 300;
+  line-height: 18.0px;
+}
+
+.howu95mobsm .link {
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 1;
+  align-self: stretch;
+  color: var(--dull-lavender);
+  display: -webkit-box;
+  font-weight: 700;
+  height: 24px;
+  line-height: 24px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.howu95mobsm .body-1 {
+  color: var(--white);
+  font-weight: 300;
+  line-height: 18.0px;
+}
+
+.howu95mobsm .body-2 {
+  color: var(--white);
+  font-weight: 300;
+  line-height: 18.0px;
+}
+
+.howu95mobsm .body-3 {
+  color: var(--white);
+  font-weight: 300;
+  line-height: 18.0px;
+}
+
+.howu95mobsm .body-4 {
+  color: transparent;
+  font-weight: 400;
+  line-height: 15px;
+}
+
+.howu95mobsm .span-3 {
+  color: var(--white);
+  font-weight: 300;
+  line-height: 18.0px;
+}
+
+.howu95mobsm .span1 {
+  color: var(--dull-lavender);
+  font-weight: 700;
+  line-height: 16.5px;
+}
+
+.howu95mobsm .body-5 {
+  color: var(--white);
+  font-weight: 300;
+  line-height: 18.0px;
+}
+
+.howu95mobsm .frame-543 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  padding: 80px 0px 0px;
+}
+
+.howu95mobsm .logo {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 12px;
+  margin-right: -39.00px;
+  position: relative;
+}
+
+.howu95mobsm .desktop-home-logo {
+  height: 36px;
+  position: relative;
+}
+
+.howu95mobsm .x2023-orchid {
+  color: var(--white);
+  font-weight: 300;
+  line-height: 19.6px;
+  position: relative;
+  width: 299px;
+}
+
+.howu95mobsm .hyperlinks {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 40px;
+  position: relative;
+  width: 100%;
+}
+
+.howu95mobsm .frame-532 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 32px;
+  padding: 24px 0px;
+  width: 100%;
+}
+
+.howu95mobsm .x2023-orchid-1 {
+  width: 151px;
+}
+
+.howu95mobsm .x2023-orchid-2 {
+  width: 132px;
+}
+
+.howu95mobsm .link-1 {
+  display: flex;
+  height: 22px;
+  width: 198px;
+}
+
+.howu95mobsm .apps {
+  width: 102px;
+}
+
+.howu95mobsm .apps-1 {
+  width: 132px;
+}
+
+.howu95mobsm .apps-2 {
+  cursor: pointer;
+  width: 113px;
+}
+
+.howu95mobsm .apps-3 {
+  width: 85px;
+}
+
+.howu95mobsm .apps-4 {
+  width: 122px;
+}
+
+.howu95mobsm .apps-5 {
+  width: 76px;
+}
+
+.howu95mobsm .apps-6 {
+  width: 42px;
+}
+
+.howu95mobsm .apps-7 {
+  width: 75px;
+}
+
+.howu95mobsm .social-icons {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 60px 60px;
+  justify-content: space-between;
+  padding: 24px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.howu95mobsm .social-link-github {
+  height: 33px;
+  margin-bottom: -1.00px;
+}
+
+.howu95mobsm .social-link-reddit {
+  background-image: url(../img/combined-shape@2x.png);
+  background-size: 100% 100%;
+  border-radius: 40px;
+  height: 32px;
+}
+
+.howu95mobsm .apps-8 {
+  color: var(--white);
+  font-weight: 700;
+  height: 24px;
+  line-height: 24px;
+}
+
+.howu95mobsm .body-6 {
+  align-self: stretch;
+  position: relative;
+}
+
+.howu95mobsm .cards-1 {
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+  width: 100%;
+}
+
+.howu95mobsm .discover-2 {
+  color: var(--white);
+  font-weight: 600;
+  line-height: 13.2px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.howu95mobsm .frame {
+  flex-direction: column;
+  position: relative;
+}
+
+.howu95mobsm .intro-copy-8 {
+  align-self: stretch;
+  position: relative;
+}
+
+.howu95mobsm .line-1 {
+  height: 1px;
+  object-fit: cover;
+  position: relative;
+}
+
+.howu95mobsm .link-2 {
+  cursor: pointer;
+  position: relative;
+}
+
+.howu95mobsm .mobile-2 {
+  align-self: stretch;
+  display: flex;
+  position: relative;
+  width: 100%;
+}
+
+.howu95mobsm .mobile-button-hero-3 {
+  align-items: center;
+  background-color: var(--log-cabin);
+  border: 1px solid;
+  border-color: var(--aquamarine);
+  border-radius: 60px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  padding: 16px 80px;
+  position: relative;
+}
+
+.howu95mobsm .social-link-1 {
+  cursor: pointer;
+  position: relative;
+  width: 32px;
+}
+
+.howu95mobsm .title-2 {
   align-self: stretch;
   margin-top: -1.00px;
   position: relative;
+}
+
+.howu95mobsm .x2023-orchid-3 {
+  color: var(--white);
+  cursor: pointer;
+  flex: 1;
+  font-weight: 700;
+  line-height: 24px;
 }
 /* screen - howu95tabsm */
 
@@ -1250,16 +1362,35 @@
   width: 1231px;
 }
 
-.howu95tabsm .mobile-header {
-  align-items: flex-start;
-  gap: 293px;
-  justify-content: space-around;
-  padding: 32px 24px;
+.howu95tabsm .mobile-3 {
+  height: 88px;
 }
 
-.howu95tabsm .union {
+.howu95tabsm .nav-bar-1 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
   height: 24px;
+  justify-content: space-between;
+  margin-left: 32px;
+  margin-right: 32px;
+  margin-top: 32px;
   position: relative;
+  width: 680px;
+}
+
+.howu95tabsm .icon-orchid-logo-1 {
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  height: 24px;
+  justify-content: center;
+  position: relative;
+  width: 28.47px;
+}
+
+.howu95tabsm .union-1 {
+  height: 24px;
   width: 26.47px;
 }
 
@@ -1275,7 +1406,7 @@
   width: 100%;
 }
 
-.howu95tabsm .frame-403 {
+.howu95tabsm .frame-403-1 {
   align-items: flex-start;
   display: flex;
   flex: 1;
@@ -1285,7 +1416,7 @@
   position: relative;
 }
 
-.howu95tabsm .title-1 {
+.howu95tabsm .title-3 {
   color: transparent;
   font-weight: 800;
   line-height: 36.0px;
@@ -1300,7 +1431,7 @@
   color: var(--aquamarine);
 }
 
-.howu95tabsm .intro-copy-5 {
+.howu95tabsm .intro-copy-8 {
   color: transparent;
   font-weight: 300;
   line-height: 18.0px;
@@ -1310,7 +1441,7 @@
   color: var(--dull-lavender);
 }
 
-.howu95tabsm .buttons {
+.howu95tabsm .buttons-1 {
   align-items: center;
   align-self: stretch;
   display: flex;
@@ -1322,7 +1453,7 @@
   width: 100%;
 }
 
-.howu95tabsm .mobile-button-hero {
+.howu95tabsm .mobile-button-hero-3 {
   align-items: center;
   background-color: var(--log-cabin);
   border: 1px solid;
@@ -1335,7 +1466,7 @@
   position: relative;
 }
 
-.howu95tabsm .features {
+.howu95tabsm .features-1 {
   align-items: center;
   align-self: stretch;
   display: flex;
@@ -1347,20 +1478,11 @@
   width: 100%;
 }
 
-.howu95tabsm .mobile {
+.howu95tabsm .mobile-2 {
   align-items: center;
+  flex: 0 0 auto;
   flex-direction: column;
   gap: 8px;
-}
-
-.howu95tabsm .mobile-caption-section {
-  align-items: center;
-  align-self: stretch;
-  display: flex;
-  gap: 8px;
-  height: 16px;
-  position: relative;
-  width: 100%;
 }
 
 .howu95tabsm .line-1 {
@@ -1371,22 +1493,14 @@
   position: relative;
 }
 
-.howu95tabsm .mobile-headline-section {
+.howu95tabsm .mobile-headline-section-2 {
   align-items: center;
   align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  position: relative;
   width: 100%;
 }
 
-.howu95tabsm .the-orchid-ecosystem {
-  color: transparent;
+.howu95tabsm .the-orchid-ecosystem-2 {
   flex: 1;
-  font-weight: 600;
-  line-height: 25.2px;
-  margin-top: -1.00px;
-  position: relative;
 }
 
 .howu95tabsm .cards-1 {
@@ -1400,24 +1514,7 @@
   width: 100%;
 }
 
-.howu95tabsm .cards-item-1 {
-  align-items: flex-start;
-  align-self: stretch;
-  background-color: var(--black-2);
-  border: 1px solid;
-  border-color: var(--true-v);
-  border-radius: 16px;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 16px;
-  overflow: hidden;
-  padding: 24px 24px 40px;
-  position: relative;
-  width: 100%;
-}
-
-.howu95tabsm .intro-copy-6 {
+.howu95tabsm .intro-copy-9 {
   color: var(--white);
   font-weight: 600;
   line-height: 19.8px;
@@ -1434,13 +1531,13 @@
   width: 100%;
 }
 
-.howu95tabsm .intro-copy-8 {
+.howu95tabsm .intro-copy-11 {
   color: var(--white);
   font-weight: 300;
   line-height: 18.0px;
 }
 
-.howu95tabsm .intro-copy-7 {
+.howu95tabsm .intro-copy-10 {
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 1;
   color: var(--dull-lavender-2);
@@ -1451,81 +1548,77 @@
   text-overflow: ellipsis;
 }
 
-.howu95tabsm .intro-copy-9 {
+.howu95tabsm .intro-copy-12 {
   color: var(--white);
   font-weight: 300;
   line-height: 18.0px;
 }
 
-.howu95tabsm .intro-copy-10 {
+.howu95tabsm .intro-copy-13 {
   flex: 0 0 auto;
   margin-bottom: -1.20px;
   margin-left: -2.94px;
   width: 100%;
 }
 
-.howu95tabsm .intro-copy-11 {
+.howu95tabsm .intro-copy-14 {
   color: var(--white);
   font-weight: 300;
   line-height: 18.0px;
 }
 
-.howu95tabsm .intro-copy-12 {
+.howu95tabsm .intro-copy-15 {
   flex: 0 0 auto;
   margin-bottom: -1.17px;
   margin-left: -2.94px;
   width: 100%;
 }
 
-.howu95tabsm .mobile-caption-section-1 {
-  align-items: center;
-  align-self: stretch;
-  display: flex;
-  gap: 8px;
-  height: 16px;
+.howu95tabsm .mobile-caption-section-3 {
   justify-content: center;
-  position: relative;
-  width: 100%;
 }
 
-.howu95tabsm .discover-1 {
+.howu95tabsm .discover-3 {
   text-align: center;
 }
 
-.howu95tabsm .mobile-headline-section-1 {
+.howu95tabsm .mobile-headline-section-3 {
   align-items: flex-start;
-  display: flex;
-  flex: 0 0 auto;
   gap: 10px;
   justify-content: center;
-  position: relative;
   width: 360px;
 }
 
-.howu95tabsm .the-orchid-ecosystem-1 {
-  color: transparent;
-  font-weight: 600;
-  line-height: 25.2px;
-  margin-top: -1.00px;
-  position: relative;
+.howu95tabsm .the-orchid-ecosystem-3 {
   text-align: center;
   white-space: nowrap;
   width: fit-content;
 }
 
-.howu95tabsm .title {
+.howu95tabsm .step-card-1 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  position: relative;
+  width: 100%;
+}
+
+.howu95tabsm .title-2 {
   color: var(--aquamarine);
   font-weight: 600;
   line-height: 19.8px;
 }
 
-.howu95tabsm .body {
+.howu95tabsm .body-6 {
   color: var(--white);
   font-weight: 300;
   line-height: 18.0px;
 }
 
-.howu95tabsm .link-1 {
+.howu95tabsm .link-2 {
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 1;
   align-self: stretch;
@@ -1539,25 +1632,25 @@
   white-space: nowrap;
 }
 
-.howu95tabsm .body-1 {
+.howu95tabsm .body-7 {
   color: var(--white);
   font-weight: 300;
   line-height: 18.0px;
 }
 
-.howu95tabsm .body-2 {
+.howu95tabsm .body-8 {
   color: var(--white);
   font-weight: 300;
   line-height: 18.0px;
 }
 
-.howu95tabsm .body-3 {
+.howu95tabsm .body-9 {
   color: var(--white);
   font-weight: 300;
   line-height: 18.0px;
 }
 
-.howu95tabsm .body-4 {
+.howu95tabsm .body-10 {
   color: transparent;
   font-weight: 400;
   line-height: 15px;
@@ -1569,19 +1662,19 @@
   line-height: 18.0px;
 }
 
-.howu95tabsm .span1 {
+.howu95tabsm .span1-1 {
   color: var(--dull-lavender);
   font-weight: 700;
   line-height: 16.5px;
 }
 
-.howu95tabsm .body-5 {
+.howu95tabsm .body-11 {
   color: var(--white);
   font-weight: 300;
   line-height: 18.0px;
 }
 
-.howu95tabsm .frame-543 {
+.howu95tabsm .frame-543-1 {
   align-items: center;
   display: inline-flex;
   flex: 0 0 auto;
@@ -1591,7 +1684,21 @@
   position: relative;
 }
 
-.howu95tabsm .x2023-orchid-2 {
+.howu95tabsm .logo-1 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 12px;
+  position: relative;
+}
+
+.howu95tabsm .desktop-home-logo-1 {
+  height: 36px;
+  position: relative;
+}
+
+.howu95tabsm .x2023-orchid-3 {
   color: var(--white);
   font-weight: 300;
   line-height: 19.6px;
@@ -1599,13 +1706,15 @@
   width: 299px;
 }
 
-.howu95tabsm .x2023-orchid-3 {
-  color: var(--white);
-  cursor: pointer;
-  flex: 1;
-  font-weight: 700;
-  line-height: 24px;
-  width: 151px;
+.howu95tabsm .hyperlinks-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 40px;
+  position: relative;
+  width: 100%;
 }
 
 .howu95tabsm .x2023-orchid-4 {
@@ -1614,46 +1723,68 @@
   flex: 1;
   font-weight: 700;
   line-height: 24px;
+  width: 151px;
+}
+
+.howu95tabsm .x2023-orchid-5 {
+  color: var(--white);
+  cursor: pointer;
+  flex: 1;
+  font-weight: 700;
+  line-height: 24px;
   width: 132px;
 }
 
-.howu95tabsm .link-2 {
+.howu95tabsm .link-3 {
   display: flex;
   height: 22px;
   width: 198px;
 }
 
-.howu95tabsm .apps-2 {
+.howu95tabsm .apps-8 {
   width: 102px;
 }
 
-.howu95tabsm .apps-3 {
+.howu95tabsm .apps-9 {
   width: 132px;
 }
 
-.howu95tabsm .apps-4 {
+.howu95tabsm .apps-10 {
   cursor: pointer;
   width: 113px;
 }
 
-.howu95tabsm .apps-5 {
+.howu95tabsm .apps-11 {
   width: 85px;
 }
 
-.howu95tabsm .apps-6 {
+.howu95tabsm .apps-12 {
   width: 122px;
 }
 
-.howu95tabsm .apps-7 {
+.howu95tabsm .apps-13 {
   width: 76px;
 }
 
-.howu95tabsm .apps-8 {
+.howu95tabsm .apps-14 {
   width: 42px;
 }
 
-.howu95tabsm .apps-9 {
+.howu95tabsm .apps-15 {
   width: 75px;
+}
+
+.howu95tabsm .social-icons-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 60px 60px;
+  justify-content: space-between;
+  padding: 24px 0px 0px;
+  position: relative;
+  width: 100%;
 }
 
 .howu95tabsm .social-link-1 {
@@ -1680,12 +1811,12 @@
   line-height: 24px;
 }
 
-.howu95tabsm .body-6 {
+.howu95tabsm .body {
   align-self: stretch;
   position: relative;
 }
 
-.howu95tabsm .discover-2 {
+.howu95tabsm .discover {
   color: var(--white);
   font-weight: 600;
   line-height: 13.2px;
@@ -1704,40 +1835,63 @@
   position: relative;
 }
 
-.howu95tabsm .mobile-1 {
+.howu95tabsm .mobile {
   align-self: stretch;
   display: flex;
-  flex: 0 0 auto;
   position: relative;
   width: 100%;
 }
 
-.howu95tabsm .title-2 {
+.howu95tabsm .mobile-caption-section {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  gap: 8px;
+  height: 16px;
+  position: relative;
+  width: 100%;
+}
+
+.howu95tabsm .mobile-headline-section {
+  display: flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.howu95tabsm .the-orchid-ecosystem {
+  color: transparent;
+  font-weight: 600;
+  line-height: 25.2px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.howu95tabsm .title {
   align-self: stretch;
   margin-top: -1.00px;
   position: relative;
 }
 @media screen and (max-width: 743px) {
-  .screen.how-all-breakpoints { 
+  .screen.howu95tabsm { 
     display: none;
    }
-  .screen.howu95tabsm { 
+  .screen.how-all-breakpoints { 
     display: none;
    }
 }
 @media screen and (min-width: 744px) and (max-width: 1439px) {
-  .screen.how-all-breakpoints { 
+  .screen.howu95mobsm { 
     display: none;
    }
-  .screen.howu95mobsm { 
+  .screen.how-all-breakpoints { 
     display: none;
    }
 }
 @media screen and (min-width: 1440px) {
-  .screen.howu95tabsm { 
+  .screen.howu95mobsm { 
     display: none;
    }
-  .screen.howu95mobsm { 
+  .screen.howu95tabsm { 
     display: none;
    }
 }
