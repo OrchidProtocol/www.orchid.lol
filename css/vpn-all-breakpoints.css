@@ -10,8 +10,8 @@
   position: relative;
 }
 
-.vpn-all-breakpoints .ellipses-1 {
-  height: 5952px;
+.vpn-all-breakpoints .ellipses {
+  height: 5219px;
   left: calc(50.00% - 984px);
   position: absolute;
   top: -90px;
@@ -19,8 +19,6 @@
 }
 
 .vpn-all-breakpoints .flex-col {
-  align-items: flex-start;
-  display: flex;
   flex-direction: column;
   left: 1px;
   min-height: 5219px;
@@ -43,41 +41,9 @@
   width: 912px;
 }
 
-.vpn-all-breakpoints .ellipse-28 {
-  background-color: var(--cod-gray);
-  border-radius: 310px;
-  height: 620px;
-  left: 0;
-  position: absolute;
-  top: 0;
-  width: 620px;
-}
-
-.vpn-all-breakpoints .ellipse-29 {
-  background-color: var(--cod-gray);
-  border-radius: 155px;
-  height: 310px;
-  left: 602px;
-  position: absolute;
-  top: 465px;
-  width: 310px;
-}
-
-.vpn-all-breakpoints .ellipse-30 {
-  background-color: var(--cod-gray);
-  border-radius: 100px;
-  height: 200px;
-  left: 736px;
-  position: absolute;
-  top: 18px;
-  width: 200px;
-}
-
 .vpn-all-breakpoints .flex-row {
-  align-items: center;
-  display: flex;
-  gap: 276px;
-  height: 1903px;
+  gap: 109px;
+  height: 3442px;
   margin-top: 441px;
   min-width: 1967px;
 }
@@ -86,55 +52,45 @@
   background-color: var(--black-2);
   border-radius: 441.5px;
   height: 883px;
-  margin-top: 106.0px;
+  margin-top: 563.0px;
   transform: rotate(180.00deg);
   width: 883px;
 }
 
 .vpn-all-breakpoints .ellipse-container-1 {
-  gap: 770px;
-  min-height: 1903px;
-  width: 808px;
-}
-
-.vpn-all-breakpoints .ellipse-34 {
-  align-self: flex-end;
-  background-color: var(--black-2);
-  border-radius: 306.5px;
-  height: 613px;
-  width: 613px;
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 3442px;
+  width: 975px;
 }
 
 .vpn-all-breakpoints .ellipse-33 {
+  align-self: center;
   background-color: var(--black-2);
   border-radius: 260px;
   height: 520px;
+  margin-right: 121.35px;
+  margin-top: 770px;
   transform: rotate(180.00deg);
   width: 520px;
 }
 
-.vpn-all-breakpoints .ellipse-container-2 {
-  align-self: center;
-  gap: 131px;
-  margin-left: 141.0px;
-  margin-top: 419px;
-  min-height: 1681px;
-  width: 1468px;
-}
-
 .vpn-all-breakpoints .ellipse-35 {
-  align-self: flex-end;
   background-color: var(--black-2);
-  border-radius: 585px;
-  height: 1170px;
+  border-radius: 422.83px;
+  height: 846px;
+  margin-top: 694px;
   transform: rotate(90.00deg);
-  width: 1170px;
+  width: 846px;
 }
 
 .vpn-all-breakpoints .ellipse-32 {
   background-color: var(--black-2);
   border-radius: 190px;
   height: 380px;
+  margin-left: 320.0px;
+  margin-top: 181px;
   transform: rotate(180.00deg);
   width: 380px;
 }
@@ -279,14 +235,6 @@
   flex-direction: column;
   padding: 96px 0px 0px;
   position: relative;
-}
-
-.vpn-all-breakpoints .desktop-button-hero {
-  background-image: url(../img/rectangle-6-43@2x.png);
-  background-size: 100% 100%;
-  display: flex;
-  height: 80px;
-  width: 360px;
 }
 
 .vpn-all-breakpoints .marketplace {
@@ -833,10 +781,9 @@
   position: relative;
 }
 
-.vpn-all-breakpoints .ellipse-container-3 {
+.vpn-all-breakpoints .flex {
   align-items: flex-start;
   display: flex;
-  flex-direction: column;
 }
 
 .vpn-all-breakpoints .frame-518 {
@@ -878,14 +825,6 @@
   gap: 100px;
   min-width: 360px;
   position: relative;
-}
-
-.vpnu95mobsm .ellipses {
-  height: 6438px;
-  left: -469px;
-  position: absolute;
-  top: -60px;
-  width: 1197px;
 }
 
 .vpnu95mobsm .mobile-nav-header {
@@ -1508,14 +1447,6 @@
   position: relative;
 }
 
-.vpnu95tabsm .ellipses-2 {
-  height: 4917px;
-  left: calc(50.00% - 629px);
-  position: absolute;
-  top: -60px;
-  width: 1035px;
-}
-
 .vpnu95tabsm .mobile-nav-header-1 {
   align-items: flex-start;
   align-self: stretch;
@@ -1575,10 +1506,6 @@
 
 .vpnu95tabsm .span-4 {
   color: var(--aquamarine);
-}
-
-.vpnu95tabsm .span-5 {
-  color: var(--white);
 }
 
 .vpnu95tabsm .with-orchids-decent-2 {

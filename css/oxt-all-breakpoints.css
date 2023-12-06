@@ -11,7 +11,7 @@
 }
 
 .oxt-all-breakpoints .ellipses {
-  height: 3698px;
+  height: 3119px;
   left: calc(50.00% - 984px);
   position: absolute;
   top: -80px;
@@ -45,14 +45,6 @@
   width: 808px;
 }
 
-.oxt-all-breakpoints .ellipse-34 {
-  align-self: flex-end;
-  background-color: var(--black-2);
-  border-radius: 306.5px;
-  height: 613px;
-  width: 613px;
-}
-
 .oxt-all-breakpoints .ellipse-33 {
   background-color: var(--black-2);
   border-radius: 260px;
@@ -75,36 +67,6 @@
   position: absolute;
   top: 0;
   width: 912px;
-}
-
-.oxt-all-breakpoints .ellipse-28 {
-  background-color: var(--cod-gray);
-  border-radius: 310px;
-  height: 620px;
-  left: 0;
-  position: absolute;
-  top: 0;
-  width: 620px;
-}
-
-.oxt-all-breakpoints .ellipse-29 {
-  background-color: var(--cod-gray);
-  border-radius: 155px;
-  height: 310px;
-  left: 602px;
-  position: absolute;
-  top: 465px;
-  width: 310px;
-}
-
-.oxt-all-breakpoints .ellipse-30 {
-  background-color: var(--cod-gray);
-  border-radius: 100px;
-  height: 200px;
-  left: 736px;
-  position: absolute;
-  top: 18px;
-  width: 200px;
 }
 
 .oxt-all-breakpoints .token-graphic {
@@ -543,6 +505,7 @@
 
 .oxt-all-breakpoints .about-orchid-4 {
   color: var(--dull-lavender);
+  cursor: pointer;
   font-weight: 700;
   line-height: 24px;
   margin-top: -1.00px;
@@ -729,118 +692,6 @@
   position: relative;
 }
 
-.oxtu95mobsm .ellipses-2 {
-  height: 4498px;
-  left: -468px;
-  position: absolute;
-  top: -60px;
-  width: 1197px;
-}
-
-.oxtu95mobsm .flex-col-2 {
-  align-items: center;
-  display: flex;
-  flex-direction: column;
-  left: 162px;
-  min-height: 3866px;
-  position: relative;
-  width: 920px;
-}
-
-.oxtu95mobsm .overlap-group1-2 {
-  height: 398px;
-  margin-right: 192.0px;
-  position: relative;
-  width: 480px;
-}
-
-.oxtu95mobsm .ellipse-container-3 {
-  height: 398px;
-  left: 0;
-  position: absolute;
-  top: 0;
-  width: 468px;
-}
-
-.oxtu95mobsm .ellipse-28-2 {
-  background-color: var(--cod-gray);
-  border-radius: 159px;
-  height: 318px;
-  left: 0;
-  position: absolute;
-  top: 0;
-  width: 318px;
-}
-
-.oxtu95mobsm .ellipse-29-2 {
-  background-color: var(--cod-gray);
-  border-radius: 79.5px;
-  height: 159px;
-  left: 309px;
-  position: absolute;
-  top: 239px;
-  width: 159px;
-}
-
-.oxtu95mobsm .ellipse-30-2 {
-  background-color: var(--cod-gray);
-  border-radius: 51.5px;
-  height: 103px;
-  left: 377px;
-  position: absolute;
-  top: 9px;
-  width: 103px;
-}
-
-.oxtu95mobsm .ellipse-34-2 {
-  align-self: flex-end;
-  background-color: var(--black-2);
-  border-radius: 189.5px;
-  height: 379px;
-  margin-top: 127px;
-  width: 379px;
-}
-
-.oxtu95mobsm .ellipse-37-2 {
-  align-self: flex-start;
-  background-color: var(--black-2);
-  border-radius: 294.5px;
-  height: 589px;
-  margin-top: 161px;
-  transform: rotate(180.00deg);
-  width: 589px;
-}
-
-.oxtu95mobsm .ellipse-33-2 {
-  background-color: var(--black-2);
-  border-radius: 110.5px;
-  height: 221px;
-  margin-left: 221.0px;
-  margin-top: 138px;
-  transform: rotate(180.00deg);
-  width: 221px;
-}
-
-.oxtu95mobsm .ellipse-35-1 {
-  background-color: var(--black-2);
-  border-radius: 302px;
-  height: 604px;
-  margin-left: 62.0px;
-  margin-top: 548px;
-  transform: rotate(90.00deg);
-  width: 604px;
-}
-
-.oxtu95mobsm .ellipse-32 {
-  background-color: var(--black-2);
-  border-radius: 126.5px;
-  height: 253px;
-  margin-right: 289.0px;
-  margin-top: 448px;
-  transform: rotate(180.00deg);
-  width: 253px;
-}
-
 .oxtu95mobsm .mobile-nav-header-1 {
   align-items: flex-start;
   align-self: stretch;
@@ -899,10 +750,6 @@
   margin-right: -40.00px;
   position: relative;
   width: 322px;
-}
-
-.oxtu95mobsm .span-5 {
-  color: var(--white);
 }
 
 .oxtu95mobsm .span-6 {
@@ -1126,6 +973,7 @@
 .oxtu95mobsm .about-orchid-15 {
   align-self: stretch;
   color: var(--dull-lavender);
+  cursor: pointer;
   margin-top: -1.00px;
   text-align: center;
 }
@@ -1133,6 +981,7 @@
 .oxtu95mobsm .about-orchid-13 {
   align-self: stretch;
   color: var(--dull-lavender);
+  cursor: pointer;
   text-align: center;
 }
 
@@ -1290,109 +1139,6 @@
   gap: 120px;
   min-width: 744px;
   position: relative;
-}
-
-.oxtu95tabsm .ellipses-1 {
-  height: 3674px;
-  left: -257px;
-  position: absolute;
-  top: -60px;
-  width: 1035px;
-}
-
-.oxtu95tabsm .flex-col-1 {
-  align-items: flex-start;
-  display: flex;
-  flex-direction: column;
-  left: 1px;
-  min-height: 3406px;
-  position: relative;
-  width: 1034px;
-}
-
-.oxtu95tabsm .overlap-group1-1 {
-  height: 398px;
-  margin-left: 124.0px;
-  position: relative;
-  width: 480px;
-}
-
-.oxtu95tabsm .ellipse-container-2 {
-  height: 398px;
-  left: 0;
-  position: absolute;
-  top: 0;
-  width: 468px;
-}
-
-.oxtu95tabsm .ellipse-28-1 {
-  background-color: var(--cod-gray);
-  border-radius: 159px;
-  height: 318px;
-  left: 0;
-  position: absolute;
-  top: 0;
-  width: 318px;
-}
-
-.oxtu95tabsm .ellipse-29-1 {
-  background-color: var(--cod-gray);
-  border-radius: 79.5px;
-  height: 159px;
-  left: 309px;
-  position: absolute;
-  top: 239px;
-  width: 159px;
-}
-
-.oxtu95tabsm .ellipse-30-1 {
-  background-color: var(--cod-gray);
-  border-radius: 51.5px;
-  height: 103px;
-  left: 377px;
-  position: absolute;
-  top: 9px;
-  width: 103px;
-}
-
-.oxtu95tabsm .ellipse-34-1 {
-  align-self: flex-end;
-  background-color: var(--black-2);
-  border-radius: 189.5px;
-  height: 379px;
-  margin-right: 114.3px;
-  margin-top: 127px;
-  width: 379px;
-}
-
-.oxtu95tabsm .ellipse-37-1 {
-  background-color: var(--black-2);
-  border-radius: 294.5px;
-  height: 589px;
-  margin-top: 161px;
-  transform: rotate(180.00deg);
-  width: 589px;
-}
-
-.oxtu95tabsm .ellipse-33-1 {
-  align-self: center;
-  background-color: var(--black-2);
-  border-radius: 110.5px;
-  height: 221px;
-  margin-left: 106.7px;
-  margin-top: 138px;
-  transform: rotate(180.00deg);
-  width: 221px;
-}
-
-.oxtu95tabsm .ellipse-35 {
-  align-self: flex-end;
-  background-color: var(--black-2);
-  border-radius: 422.65px;
-  height: 845px;
-  margin-top: 548px;
-  transform: rotate(90.00deg);
-  width: 845px;
 }
 
 .oxtu95tabsm .mobile-nav-header {
@@ -1563,12 +1309,6 @@
   line-height: 18.0px;
 }
 
-.oxtu95tabsm .span1-1 {
-  color: var(--white);
-  font-weight: 700;
-  line-height: 16.5px;
-}
-
 .oxtu95tabsm .span2 {
   color: var(--dull-lavender);
   font-weight: 700;
@@ -1693,6 +1433,7 @@
 
 .oxtu95tabsm .about-orchid-8 {
   color: var(--dull-lavender);
+  cursor: pointer;
   margin-top: -1.00px;
   width: fit-content;
 }

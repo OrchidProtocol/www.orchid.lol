@@ -10,12 +10,121 @@
   position: relative;
 }
 
-.how-all-breakpoints .ellipses-2 {
-  height: 6448px;
-  left: calc(50.00% - 983px);
+.how-all-breakpoints .ellipses {
+  height: 5623px;
+  left: calc(50.00% - 984px);
   position: absolute;
   top: -80px;
   width: 1968px;
+}
+
+.how-all-breakpoints .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 1px;
+  min-height: 5623px;
+  position: relative;
+  width: 1967px;
+}
+
+.how-all-breakpoints .overlap-group2 {
+  height: 775px;
+  margin-left: 90.0px;
+  position: relative;
+  width: 936px;
+}
+
+.how-all-breakpoints .ellipse-container {
+  height: 775px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 912px;
+}
+
+.how-all-breakpoints .flex-row {
+  align-items: center;
+  display: flex;
+  gap: 276px;
+  height: 1903px;
+  margin-top: 441px;
+  min-width: 1967px;
+}
+
+.how-all-breakpoints .ellipse-37 {
+  background-color: var(--black-2);
+  border-radius: 441.5px;
+  height: 883px;
+  margin-top: 106.0px;
+  transform: rotate(180.00deg);
+  width: 883px;
+}
+
+.how-all-breakpoints .ellipse-container-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 770px;
+  min-height: 1903px;
+  width: 808px;
+}
+
+.how-all-breakpoints .ellipse-33 {
+  background-color: var(--black-2);
+  border-radius: 260px;
+  height: 520px;
+  transform: rotate(180.00deg);
+  width: 520px;
+}
+
+.how-all-breakpoints .flex-col-1 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  gap: 131px;
+  margin-left: 141.0px;
+  margin-top: 419px;
+  min-height: 2085px;
+  width: 1468px;
+}
+
+.how-all-breakpoints .ellipse-35 {
+  align-self: flex-end;
+  background-color: var(--black-2);
+  border-radius: 585px;
+  height: 1170px;
+  transform: rotate(90.00deg);
+  width: 1170px;
+}
+
+.how-all-breakpoints .ellipse-container-2 {
+  height: 784px;
+  position: relative;
+  width: 583px;
+}
+
+.how-all-breakpoints .ellipse-36 {
+  background-color: var(--black-2);
+  border-radius: 237px;
+  height: 474px;
+  left: 109px;
+  position: absolute;
+  top: 310px;
+  transform: rotate(90.00deg);
+  width: 474px;
+}
+
+.how-all-breakpoints .ellipse-32 {
+  background-color: var(--black-2);
+  border-radius: 190px;
+  height: 380px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  transform: rotate(180.00deg);
+  width: 380px;
 }
 
 .how-all-breakpoints .desktop-home-logo-2 {
@@ -79,7 +188,6 @@
 .how-all-breakpoints .desktop-button-header {
   background-image: url(../img/button-base-1@2x.png);
   background-size: 100% 100%;
-  cursor: pointer;
   display: flex;
   height: 48px;
   justify-content: flex-end;
@@ -113,15 +221,15 @@
   width: 1062px;
 }
 
-.how-all-breakpoints .span-8 {
+.how-all-breakpoints .span-10 {
   color: var(--white);
 }
 
-.how-all-breakpoints .span-9 {
+.how-all-breakpoints .span-11 {
   color: var(--aquamarine);
 }
 
-.how-all-breakpoints .intro-copy-16 {
+.how-all-breakpoints .intro-copy-18 {
   align-self: stretch;
   color: transparent;
   font-weight: 400;
@@ -129,7 +237,7 @@
   position: relative;
 }
 
-.how-all-breakpoints .span-10 {
+.how-all-breakpoints .span-12 {
   color: var(--dull-lavender);
   font-weight: 700;
 }
@@ -159,15 +267,6 @@
   flex-direction: column;
   padding: 96px 0px 0px;
   position: relative;
-}
-
-.how-all-breakpoints .desktop-button-hero {
-  background-image: url(../img/rectangle-6-43@2x.png);
-  background-size: 100% 100%;
-  cursor: pointer;
-  display: flex;
-  height: 80px;
-  width: 360px;
 }
 
 .how-all-breakpoints .how-all-breakpoints-item {
@@ -277,7 +376,7 @@
   width: 100%;
 }
 
-.how-all-breakpoints .intro-copy-17 {
+.how-all-breakpoints .intro-copy-19 {
   align-self: stretch;
   color: var(--white);
   font-weight: 500;
@@ -295,7 +394,7 @@
   width: 100%;
 }
 
-.how-all-breakpoints .intro-copy-18 {
+.how-all-breakpoints .intro-copy-20 {
   align-self: stretch;
   color: var(--white);
   font-weight: 400;
@@ -303,11 +402,12 @@
   position: relative;
 }
 
-.how-all-breakpoints .intro-copy-19 {
+.how-all-breakpoints .intro-copy-21 {
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 1;
   align-self: stretch;
   color: var(--dull-lavender-2);
+  cursor: pointer;
   display: -webkit-box;
   font-weight: 700;
   line-height: 24px;
@@ -316,8 +416,9 @@
   text-overflow: ellipsis;
 }
 
-.how-all-breakpoints .span-11 {
-  color: var(--dull-lavender);
+.how-all-breakpoints .span1-2 {
+  color: var(--white);
+  font-weight: 700;
 }
 
 .how-all-breakpoints .frame-485-1 {
@@ -420,7 +521,7 @@
   width: 878px;
 }
 
-.how-all-breakpoints .intro-copy-20 {
+.how-all-breakpoints .intro-copy-22 {
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 1;
   color: var(--dull-lavender);
@@ -454,15 +555,6 @@
 }
 
 .how-all-breakpoints .why-hasnt-my-balance-changed {
-  color: var(--aquamarine);
-  font-weight: 500;
-  line-height: 34.7px;
-  margin-top: -1.00px;
-  position: relative;
-  width: 878px;
-}
-
-.how-all-breakpoints .how-do-i-fund-my-account-1 {
   color: var(--aquamarine);
   font-weight: 500;
   line-height: 34.7px;
@@ -589,6 +681,7 @@
 
 .how-all-breakpoints .desktop-button {
   align-items: center;
+  cursor: pointer;
   position: relative;
 }
 
@@ -604,7 +697,7 @@
   position: relative;
 }
 
-.how-all-breakpoints .frame-544-6 {
+.how-all-breakpoints .frame-544-5 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -633,140 +726,6 @@
   gap: 100px;
   min-width: 360px;
   position: relative;
-}
-
-.howu95mobsm .ellipses {
-  height: 6543px;
-  left: -308px;
-  position: absolute;
-  top: -60px;
-  width: 1037px;
-}
-
-.howu95mobsm .flex-col {
-  align-items: flex-start;
-  display: flex;
-  flex-direction: column;
-  left: 2px;
-  min-height: 4706px;
-  position: relative;
-  width: 1034px;
-}
-
-.howu95mobsm .overlap-group1 {
-  height: 398px;
-  margin-left: 124.0px;
-  position: relative;
-  width: 480px;
-}
-
-.howu95mobsm .ellipse-container {
-  height: 398px;
-  left: 0;
-  position: absolute;
-  top: 0;
-  width: 468px;
-}
-
-.howu95mobsm .ellipse-28 {
-  background-color: var(--cod-gray);
-  border-radius: 159px;
-  height: 318px;
-  left: 0;
-  position: absolute;
-  top: 0;
-  width: 318px;
-}
-
-.howu95mobsm .ellipse-29 {
-  background-color: var(--cod-gray);
-  border-radius: 79.5px;
-  height: 159px;
-  left: 309px;
-  position: absolute;
-  top: 239px;
-  width: 159px;
-}
-
-.howu95mobsm .ellipse-30 {
-  background-color: var(--cod-gray);
-  border-radius: 51.5px;
-  height: 103px;
-  left: 377px;
-  position: absolute;
-  top: 9px;
-  width: 103px;
-}
-
-.howu95mobsm .ellipse-34 {
-  align-self: flex-end;
-  background-color: var(--black-2);
-  border-radius: 189.5px;
-  height: 379px;
-  margin-right: 114.3px;
-  margin-top: 127px;
-  width: 379px;
-}
-
-.howu95mobsm .ellipse-37 {
-  background-color: var(--black-2);
-  border-radius: 294.5px;
-  height: 589px;
-  margin-top: 161px;
-  transform: rotate(180.00deg);
-  width: 589px;
-}
-
-.howu95mobsm .ellipse-33 {
-  align-self: center;
-  background-color: var(--black-2);
-  border-radius: 110.5px;
-  height: 221px;
-  margin-left: 106.7px;
-  margin-top: 138px;
-  transform: rotate(180.00deg);
-  width: 221px;
-}
-
-.howu95mobsm .ellipse-35 {
-  align-self: flex-end;
-  background-color: var(--black-2);
-  border-radius: 422.65px;
-  height: 845px;
-  margin-top: 548px;
-  transform: rotate(90.00deg);
-  width: 845px;
-}
-
-.howu95mobsm .ellipse-32 {
-  background-color: var(--black-2);
-  border-radius: 126.5px;
-  height: 253px;
-  margin-left: 189.0px;
-  margin-top: 207px;
-  transform: rotate(180.00deg);
-  width: 253px;
-}
-
-.howu95mobsm .ellipse-36 {
-  align-self: flex-end;
-  background-color: var(--black-2);
-  border-radius: 227px/226.5px;
-  height: 453px;
-  margin-right: 113.8px;
-  margin-top: 135px;
-  transform: rotate(90.00deg);
-  width: 454px;
-}
-
-.howu95mobsm .ellipse-37-1 {
-  align-self: center;
-  background-color: var(--black-2);
-  border-radius: 72.5px/72px;
-  height: 144px;
-  margin-right: 139.3px;
-  margin-top: 109px;
-  width: 145px;
 }
 
 .howu95mobsm .mobile-nav-header {
@@ -953,6 +912,7 @@
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 1;
   color: var(--dull-lavender-2);
+  cursor: pointer;
   display: -webkit-box;
   font-weight: 700;
   line-height: 24px;
@@ -961,25 +921,51 @@
 }
 
 .howu95mobsm .intro-copy-4 {
+  color: transparent;
+  font-weight: 400;
+  line-height: 15px;
+}
+
+.howu95mobsm .span-3 {
   color: var(--white);
   font-weight: 300;
   line-height: 18.0px;
 }
 
+.howu95mobsm .span1 {
+  color: var(--white);
+  font-weight: 700;
+  line-height: 16.5px;
+}
+
+.howu95mobsm .span-4 {
+  color: var(--dull-lavender);
+  font-weight: 700;
+  line-height: 16.5px;
+}
+
 .howu95mobsm .intro-copy-5 {
+  color: var(--white);
+  font-weight: 300;
+  line-height: 18.0px;
+}
+
+.howu95mobsm .intro-copy-6 {
+  cursor: pointer;
   flex: 0 0 auto;
   margin-bottom: -1.20px;
   margin-left: -2.94px;
   width: 100%;
 }
 
-.howu95mobsm .intro-copy-6 {
+.howu95mobsm .intro-copy-7 {
   color: var(--white);
   font-weight: 300;
   line-height: 18.0px;
 }
 
-.howu95mobsm .intro-copy-7 {
+.howu95mobsm .intro-copy-8 {
+  cursor: pointer;
   flex: 0 0 auto;
   margin-bottom: -1.17px;
   margin-left: -2.94px;
@@ -1066,9 +1052,9 @@
 }
 
 .howu95mobsm .body {
-  color: var(--white);
-  font-weight: 300;
-  line-height: 18.0px;
+  color: transparent;
+  font-weight: 400;
+  line-height: 15px;
 }
 
 .howu95mobsm .link {
@@ -1104,24 +1090,6 @@
 }
 
 .howu95mobsm .body-4 {
-  color: transparent;
-  font-weight: 400;
-  line-height: 15px;
-}
-
-.howu95mobsm .span-3 {
-  color: var(--white);
-  font-weight: 300;
-  line-height: 18.0px;
-}
-
-.howu95mobsm .span1 {
-  color: var(--dull-lavender);
-  font-weight: 700;
-  line-height: 16.5px;
-}
-
-.howu95mobsm .body-5 {
   color: var(--white);
   font-weight: 300;
   line-height: 18.0px;
@@ -1133,6 +1101,10 @@
   flex: 0 0 auto;
   gap: 10px;
   padding: 80px 0px 0px;
+}
+
+.howu95mobsm .mobile-button-hero-2 {
+  cursor: pointer;
 }
 
 .howu95mobsm .logo {
@@ -1258,7 +1230,7 @@
   line-height: 24px;
 }
 
-.howu95mobsm .body-6 {
+.howu95mobsm .body-5 {
   align-self: stretch;
   position: relative;
 }
@@ -1287,7 +1259,7 @@
   position: relative;
 }
 
-.howu95mobsm .intro-copy-8 {
+.howu95mobsm .intro-copy-9 {
   align-self: stretch;
   position: relative;
 }
@@ -1347,14 +1319,6 @@
   position: relative;
 }
 
-.howu95tabsm .ellipses-1 {
-  height: 5220px;
-  left: calc(50.00% - 629px);
-  position: absolute;
-  top: -60px;
-  width: 1231px;
-}
-
 .howu95tabsm .mobile-nav-header-1 {
   align-items: flex-start;
   align-self: stretch;
@@ -1395,21 +1359,17 @@
   text-align: center;
 }
 
-.howu95tabsm .span-4 {
-  color: var(--white);
-}
-
-.howu95tabsm .span-5 {
+.howu95tabsm .span-6 {
   color: var(--aquamarine);
 }
 
-.howu95tabsm .intro-copy-8 {
+.howu95tabsm .intro-copy-9 {
   color: transparent;
   font-weight: 300;
   line-height: 18.0px;
 }
 
-.howu95tabsm .span-6 {
+.howu95tabsm .span-7 {
   color: var(--dull-lavender);
 }
 
@@ -1423,19 +1383,6 @@
   padding: 60px 0px 0px;
   position: relative;
   width: 100%;
-}
-
-.howu95tabsm .mobile-button-hero-3 {
-  align-items: center;
-  background-color: var(--log-cabin);
-  border: 1px solid;
-  border-color: var(--aquamarine);
-  border-radius: 60px;
-  display: inline-flex;
-  flex: 0 0 auto;
-  justify-content: center;
-  padding: 16px 80px;
-  position: relative;
 }
 
 .howu95tabsm .learn-more-1 {
@@ -1489,28 +1436,11 @@
   width: 100%;
 }
 
-.howu95tabsm .intro-copy-9 {
+.howu95tabsm .intro-copy-10 {
   color: var(--white);
   font-weight: 600;
   line-height: 19.8px;
   margin-top: -1.00px;
-}
-
-.howu95tabsm .intro-copy-11 {
-  color: var(--white);
-  font-weight: 300;
-  line-height: 18.0px;
-}
-
-.howu95tabsm .intro-copy-10 {
-  -webkit-box-orient: vertical;
-  -webkit-line-clamp: 1;
-  color: var(--dull-lavender-2);
-  display: -webkit-box;
-  font-weight: 700;
-  line-height: 24px;
-  overflow: hidden;
-  text-overflow: ellipsis;
 }
 
 .howu95tabsm .intro-copy-12 {
@@ -1519,11 +1449,34 @@
   line-height: 18.0px;
 }
 
+.howu95tabsm .intro-copy-11 {
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 1;
+  color: var(--dull-lavender-2);
+  cursor: pointer;
+  display: -webkit-box;
+  font-weight: 700;
+  line-height: 24px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
 .howu95tabsm .intro-copy-13 {
-  flex: 0 0 auto;
-  margin-bottom: -1.20px;
-  margin-left: -2.94px;
-  width: 100%;
+  color: transparent;
+  font-weight: 400;
+  line-height: 15px;
+}
+
+.howu95tabsm .span-8 {
+  color: var(--white);
+  font-weight: 300;
+  line-height: 18.0px;
+}
+
+.howu95tabsm .span-9 {
+  color: var(--dull-lavender);
+  font-weight: 700;
+  line-height: 16.5px;
 }
 
 .howu95tabsm .intro-copy-14 {
@@ -1533,6 +1486,21 @@
 }
 
 .howu95tabsm .intro-copy-15 {
+  cursor: pointer;
+  flex: 0 0 auto;
+  margin-bottom: -1.20px;
+  margin-left: -2.94px;
+  width: 100%;
+}
+
+.howu95tabsm .intro-copy-16 {
+  color: var(--white);
+  font-weight: 300;
+  line-height: 18.0px;
+}
+
+.howu95tabsm .intro-copy-17 {
+  cursor: pointer;
   flex: 0 0 auto;
   margin-bottom: -1.17px;
   margin-left: -2.94px;
@@ -1603,10 +1571,10 @@
   line-height: 19.8px;
 }
 
-.howu95tabsm .body-6 {
-  color: var(--white);
-  font-weight: 300;
-  line-height: 18.0px;
+.howu95tabsm .body-5 {
+  color: transparent;
+  font-weight: 400;
+  line-height: 15px;
 }
 
 .howu95tabsm .link-2 {
@@ -1621,6 +1589,12 @@
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
+}
+
+.howu95tabsm .body-6 {
+  color: var(--white);
+  font-weight: 300;
+  line-height: 18.0px;
 }
 
 .howu95tabsm .body-7 {
@@ -1641,30 +1615,6 @@
   line-height: 18.0px;
 }
 
-.howu95tabsm .body-10 {
-  color: transparent;
-  font-weight: 400;
-  line-height: 15px;
-}
-
-.howu95tabsm .span-7 {
-  color: var(--white);
-  font-weight: 300;
-  line-height: 18.0px;
-}
-
-.howu95tabsm .span1-1 {
-  color: var(--dull-lavender);
-  font-weight: 700;
-  line-height: 16.5px;
-}
-
-.howu95tabsm .body-11 {
-  color: var(--white);
-  font-weight: 300;
-  line-height: 18.0px;
-}
-
 .howu95tabsm .frame-543-1 {
   align-items: center;
   display: inline-flex;
@@ -1673,6 +1623,10 @@
   gap: 10px;
   padding: 80px 0px 0px;
   position: relative;
+}
+
+.howu95tabsm .mobile-button-hero-4 {
+  cursor: pointer;
 }
 
 .howu95tabsm .logo-1 {
@@ -1813,6 +1767,19 @@
 
 .howu95tabsm .link {
   cursor: pointer;
+  position: relative;
+}
+
+.howu95tabsm .mobile-button-hero {
+  align-items: center;
+  background-color: var(--log-cabin);
+  border: 1px solid;
+  border-color: var(--aquamarine);
+  border-radius: 60px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  padding: 16px 80px;
   position: relative;
 }
 
