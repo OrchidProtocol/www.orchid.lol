@@ -122,6 +122,15 @@
   color: var(--white);
 }
 
+.home-all-breakpoints .hero-cta-button-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 96px 0px 0px;
+  position: relative;
+}
+
 .home-all-breakpoints .desktop-button-hero {
   background-image: url(../img/rectangle-6-43@2x.png);
   background-size: 100% 100%;
@@ -1274,9 +1283,10 @@
 .homeu95mobsm {
   align-items: center;
   background-color: var(--woodsmoke);
-  display: inline-flex;
+  display: flex;
   flex-direction: column;
   gap: 80px;
+  min-width: 360px;
   position: relative;
 }
 
@@ -1385,17 +1395,6 @@
   justify-content: center;
   padding: 16px 80px;
   position: relative;
-}
-
-.homeu95mobsm .learn-more {
-  color: var(--white);
-  font-weight: 700;
-  line-height: 24px;
-  margin-top: -1.00px;
-  position: relative;
-  text-align: center;
-  white-space: nowrap;
-  width: fit-content;
 }
 
 .homeu95mobsm .homeu95mobsm-item {
@@ -3283,16 +3282,6 @@
 }
 
 .homeu95tab .social-link-1 {
-  cursor: pointer;
-  height: 32px;
-  position: relative;
-  width: 32px;
-}
-
-.homeu95tab .social-link-reddit-1 {
-  background-image: url(../img/combined-shape@2x.png);
-  background-size: 100% 100%;
-  border-radius: 40px;
   cursor: pointer;
   height: 32px;
   position: relative;

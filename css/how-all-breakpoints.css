@@ -10,7 +10,7 @@
   position: relative;
 }
 
-.how-all-breakpoints .ellipses-1 {
+.how-all-breakpoints .ellipses-2 {
   height: 6448px;
   left: calc(50.00% - 983px);
   position: absolute;
@@ -18,7 +18,7 @@
   width: 1968px;
 }
 
-.how-all-breakpoints .desktop-home-logo-1 {
+.how-all-breakpoints .desktop-home-logo-2 {
   cursor: pointer;
   flex: 0 0 auto;
 }
@@ -86,7 +86,7 @@
   width: 196px;
 }
 
-.how-all-breakpoints .hero-1 {
+.how-all-breakpoints .hero-2 {
   align-items: center;
   align-self: stretch;
   display: flex;
@@ -113,15 +113,15 @@
   width: 1062px;
 }
 
-.how-all-breakpoints .span-4 {
+.how-all-breakpoints .span-8 {
   color: var(--white);
 }
 
-.how-all-breakpoints .span-5 {
+.how-all-breakpoints .span-9 {
   color: var(--aquamarine);
 }
 
-.how-all-breakpoints .intro-copy-8 {
+.how-all-breakpoints .intro-copy-16 {
   align-self: stretch;
   color: transparent;
   font-weight: 400;
@@ -129,7 +129,7 @@
   position: relative;
 }
 
-.how-all-breakpoints .span-6 {
+.how-all-breakpoints .span-10 {
   color: var(--dull-lavender);
   font-weight: 700;
 }
@@ -170,7 +170,7 @@
   width: 360px;
 }
 
-.how-all-breakpoints .learn-more-1 {
+.how-all-breakpoints .learn-more-2 {
   color: var(--white);
   flex: 1;
   font-weight: 700;
@@ -231,7 +231,7 @@
   width: fit-content;
 }
 
-.how-all-breakpoints .line-1 {
+.how-all-breakpoints .line-2 {
   flex: 1;
   flex-grow: 1;
   height: 1px;
@@ -258,7 +258,7 @@
   width: 1280px;
 }
 
-.how-all-breakpoints .cards-1 {
+.how-all-breakpoints .cards-2 {
   align-items: center;
   align-self: stretch;
   display: flex;
@@ -269,7 +269,7 @@
   width: 100%;
 }
 
-.how-all-breakpoints .cards-item-1 {
+.how-all-breakpoints .cards-item-2 {
   align-items: flex-start;
   align-self: stretch;
   background-color: var(--black-2);
@@ -286,7 +286,7 @@
   width: 100%;
 }
 
-.how-all-breakpoints .intro-copy-9 {
+.how-all-breakpoints .intro-copy-17 {
   align-self: stretch;
   color: var(--white);
   font-weight: 500;
@@ -295,7 +295,7 @@
   position: relative;
 }
 
-.how-all-breakpoints .line-8-1 {
+.how-all-breakpoints .line-8-2 {
   align-self: stretch;
   height: 2px;
   margin-left: -1.00px;
@@ -304,7 +304,7 @@
   width: 100%;
 }
 
-.how-all-breakpoints .intro-copy-10 {
+.how-all-breakpoints .intro-copy-18 {
   align-self: stretch;
   color: var(--white);
   font-weight: 400;
@@ -312,7 +312,7 @@
   position: relative;
 }
 
-.how-all-breakpoints .intro-copy-11 {
+.how-all-breakpoints .intro-copy-19 {
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 1;
   align-self: stretch;
@@ -325,7 +325,7 @@
   text-overflow: ellipsis;
 }
 
-.how-all-breakpoints .span-7 {
+.how-all-breakpoints .span-11 {
   color: var(--dull-lavender);
 }
 
@@ -393,7 +393,7 @@
   width: 100%;
 }
 
-.how-all-breakpoints .run-the-server-1 {
+.how-all-breakpoints .run-the-server-2 {
   align-items: flex-start;
   align-self: stretch;
   background-color: var(--black);
@@ -429,7 +429,7 @@
   width: 878px;
 }
 
-.how-all-breakpoints .intro-copy-12 {
+.how-all-breakpoints .intro-copy-20 {
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 1;
   color: var(--dull-lavender);
@@ -511,7 +511,7 @@
   padding: 24px 80px;
 }
 
-.how-all-breakpoints .logo-1 {
+.how-all-breakpoints .logo-2 {
   align-items: flex-start;
   display: inline-flex;
   flex: 0 0 auto;
@@ -520,7 +520,7 @@
   position: relative;
 }
 
-.how-all-breakpoints .x2023-orchid-4 {
+.how-all-breakpoints .x2023-orchid-7 {
   color: var(--white);
   font-weight: 300;
   line-height: 19.6px;
@@ -528,7 +528,7 @@
   width: 299px;
 }
 
-.how-all-breakpoints .hyperlinks-1 {
+.how-all-breakpoints .hyperlinks-2 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -549,7 +549,7 @@
   position: relative;
 }
 
-.how-all-breakpoints .x2023-orchid-3 {
+.how-all-breakpoints .x2023-orchid-6 {
   color: var(--white);
   cursor: pointer;
   flex: 1;
@@ -558,11 +558,11 @@
   width: 180px;
 }
 
-.how-all-breakpoints .apps-9 {
+.how-all-breakpoints .apps-17 {
   cursor: pointer;
 }
 
-.how-all-breakpoints .link-2 {
+.how-all-breakpoints .link-4 {
   cursor: pointer;
   display: flex;
   height: 22px;
@@ -570,7 +570,7 @@
   width: 198px;
 }
 
-.how-all-breakpoints .social-icons-1 {
+.how-all-breakpoints .social-icons-2 {
   align-items: flex-start;
   display: inline-flex;
   flex: 0 0 auto;
@@ -580,19 +580,10 @@
   position: relative;
 }
 
-.how-all-breakpoints .social-link-1 {
+.how-all-breakpoints .social-link-github-2 {
   cursor: pointer;
-  height: 32px;
-  position: relative;
-  width: 32px;
-}
-
-.how-all-breakpoints .social-link-reddit-1 {
-  background-image: url(../img/combined-shape@2x.png);
-  background-size: 100% 100%;
-  border-radius: 40px;
-  cursor: pointer;
-  height: 32px;
+  height: 33px;
+  margin-bottom: -1.00px;
   position: relative;
   width: 32px;
 }
@@ -867,20 +858,21 @@
   position: relative;
 }
 
-.howu95mobsm .learn-more {
-  color: var(--white);
-  font-weight: 700;
-  line-height: 24px;
-  margin-top: -1.00px;
-  position: relative;
-  text-align: center;
-  white-space: nowrap;
-  width: fit-content;
-}
-
 .howu95mobsm .mobile-button-hero-1 {
   margin-left: -11.00px;
   margin-right: -11.00px;
+}
+
+.howu95mobsm .features {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  padding: 0px 24px;
+  position: relative;
+  width: 100%;
 }
 
 .howu95mobsm .mobile {
@@ -1359,7 +1351,7 @@
   position: relative;
 }
 
-.howu95tabsm .ellipses-2 {
+.howu95tabsm .ellipses-1 {
   height: 5220px;
   left: calc(50.00% - 629px);
   position: absolute;
@@ -1373,7 +1365,7 @@
   width: 744px;
 }
 
-.howu95tabsm .hero-2 {
+.howu95tabsm .hero-1 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -1402,21 +1394,21 @@
   text-align: center;
 }
 
-.howu95tabsm .span-8 {
+.howu95tabsm .span-4 {
   color: var(--white);
 }
 
-.howu95tabsm .span-9 {
+.howu95tabsm .span-5 {
   color: var(--aquamarine);
 }
 
-.howu95tabsm .intro-copy-13 {
+.howu95tabsm .intro-copy-8 {
   color: transparent;
   font-weight: 300;
   line-height: 18.0px;
 }
 
-.howu95tabsm .span-10 {
+.howu95tabsm .span-6 {
   color: var(--dull-lavender);
 }
 
@@ -1445,7 +1437,7 @@
   position: relative;
 }
 
-.howu95tabsm .learn-more-2 {
+.howu95tabsm .learn-more-1 {
   color: var(--white);
   font-weight: 700;
   line-height: 24px;
@@ -1454,18 +1446,6 @@
   text-align: center;
   white-space: nowrap;
   width: fit-content;
-}
-
-.howu95tabsm .features-1 {
-  align-items: center;
-  align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 24px;
-  padding: 0px 24px;
-  position: relative;
-  width: 100%;
 }
 
 .howu95tabsm .mobile-1 {
@@ -1479,7 +1459,7 @@
   width: 100%;
 }
 
-.howu95tabsm .line-2 {
+.howu95tabsm .line-1 {
   flex: 1;
   flex-grow: 1;
   height: 1px;
@@ -1497,7 +1477,7 @@
   flex: 1;
 }
 
-.howu95tabsm .cards-2 {
+.howu95tabsm .cards-1 {
   align-items: center;
   align-self: stretch;
   display: flex;
@@ -1508,47 +1488,20 @@
   width: 100%;
 }
 
-.howu95tabsm .cards-item-2 {
-  align-items: flex-start;
-  align-self: stretch;
-  background-color: var(--black-2);
-  border: 1px solid;
-  border-color: var(--true-v);
-  border-radius: 16px;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 16px;
-  overflow: hidden;
-  padding: 24px 24px 40px;
-  position: relative;
-  width: 100%;
-}
-
-.howu95tabsm .intro-copy-14 {
+.howu95tabsm .intro-copy-9 {
   color: var(--white);
   font-weight: 600;
   line-height: 19.8px;
   margin-top: -1.00px;
 }
 
-.howu95tabsm .line-8-2 {
-  align-self: stretch;
-  height: 1px;
-  margin-left: -0.50px;
-  margin-right: -0.50px;
-  object-fit: cover;
-  position: relative;
-  width: 100%;
-}
-
-.howu95tabsm .intro-copy-16 {
+.howu95tabsm .intro-copy-11 {
   color: var(--white);
   font-weight: 300;
   line-height: 18.0px;
 }
 
-.howu95tabsm .intro-copy-15 {
+.howu95tabsm .intro-copy-10 {
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 1;
   color: var(--dull-lavender-2);
@@ -1559,26 +1512,26 @@
   text-overflow: ellipsis;
 }
 
-.howu95tabsm .intro-copy-17 {
+.howu95tabsm .intro-copy-12 {
   color: var(--white);
   font-weight: 300;
   line-height: 18.0px;
 }
 
-.howu95tabsm .intro-copy-18 {
+.howu95tabsm .intro-copy-13 {
   flex: 0 0 auto;
   margin-bottom: -1.20px;
   margin-left: -2.94px;
   width: 100%;
 }
 
-.howu95tabsm .intro-copy-19 {
+.howu95tabsm .intro-copy-14 {
   color: var(--white);
   font-weight: 300;
   line-height: 18.0px;
 }
 
-.howu95tabsm .intro-copy-20 {
+.howu95tabsm .intro-copy-15 {
   flex: 0 0 auto;
   margin-bottom: -1.17px;
   margin-left: -2.94px;
@@ -1617,7 +1570,7 @@
   width: 100%;
 }
 
-.howu95tabsm .run-the-server-2 {
+.howu95tabsm .run-the-server-1 {
   align-items: center;
   align-self: stretch;
   background-color: var(--black);
@@ -1655,7 +1608,7 @@
   line-height: 18.0px;
 }
 
-.howu95tabsm .link-3 {
+.howu95tabsm .link-2 {
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 1;
   align-self: stretch;
@@ -1693,7 +1646,7 @@
   line-height: 15px;
 }
 
-.howu95tabsm .span-11 {
+.howu95tabsm .span-7 {
   color: var(--white);
   font-weight: 300;
   line-height: 18.0px;
@@ -1721,7 +1674,7 @@
   position: relative;
 }
 
-.howu95tabsm .logo-2 {
+.howu95tabsm .logo-1 {
   align-items: flex-start;
   display: inline-flex;
   flex: 0 0 auto;
@@ -1730,7 +1683,12 @@
   position: relative;
 }
 
-.howu95tabsm .x2023-orchid-5 {
+.howu95tabsm .desktop-home-logo-1 {
+  height: 36px;
+  position: relative;
+}
+
+.howu95tabsm .x2023-orchid-3 {
   color: var(--white);
   font-weight: 300;
   line-height: 19.6px;
@@ -1738,7 +1696,7 @@
   width: 299px;
 }
 
-.howu95tabsm .hyperlinks-2 {
+.howu95tabsm .hyperlinks-1 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -1749,7 +1707,7 @@
   width: 100%;
 }
 
-.howu95tabsm .x2023-orchid-6 {
+.howu95tabsm .x2023-orchid-4 {
   color: var(--white);
   cursor: pointer;
   flex: 1;
@@ -1758,7 +1716,7 @@
   width: 151px;
 }
 
-.howu95tabsm .x2023-orchid-7 {
+.howu95tabsm .x2023-orchid-5 {
   color: var(--white);
   cursor: pointer;
   flex: 1;
@@ -1767,42 +1725,46 @@
   width: 132px;
 }
 
-.howu95tabsm .link-4 {
+.howu95tabsm .link-3 {
   display: flex;
   height: 22px;
   width: 198px;
 }
 
-.howu95tabsm .apps-10 {
+.howu95tabsm .apps-8 {
   width: 102px;
 }
 
-.howu95tabsm .apps-11 {
+.howu95tabsm .apps-9 {
   width: 132px;
 }
 
-.howu95tabsm .apps-12 {
+.howu95tabsm .apps-10 {
   cursor: pointer;
   width: 113px;
 }
 
-.howu95tabsm .apps-13 {
+.howu95tabsm .apps-11 {
   width: 85px;
 }
 
-.howu95tabsm .apps-14 {
+.howu95tabsm .apps-12 {
   width: 122px;
 }
 
-.howu95tabsm .apps-15 {
+.howu95tabsm .apps-13 {
   width: 76px;
 }
 
-.howu95tabsm .apps-17 {
+.howu95tabsm .apps-14 {
+  width: 42px;
+}
+
+.howu95tabsm .apps-15 {
   width: 75px;
 }
 
-.howu95tabsm .social-icons-2 {
+.howu95tabsm .social-icons-1 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -1815,10 +1777,9 @@
   width: 100%;
 }
 
-.howu95tabsm .social-link-github-2 {
+.howu95tabsm .social-link-1 {
   cursor: pointer;
-  height: 33px;
-  margin-bottom: -1.00px;
+  height: 32px;
   position: relative;
   width: 32px;
 }
@@ -1884,10 +1845,10 @@
   position: relative;
 }
 @media screen and (max-width: 743px) {
-  .screen.how-all-breakpoints { 
+  .screen.howu95tabsm { 
     display: none;
    }
-  .screen.howu95tabsm { 
+  .screen.how-all-breakpoints { 
     display: none;
    }
 }
