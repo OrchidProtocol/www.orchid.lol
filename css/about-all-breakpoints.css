@@ -10,7 +10,7 @@
   position: relative;
 }
 
-.about-all-breakpoints .ellipses-1 {
+.about-all-breakpoints .ellipses {
   height: 6276px;
   left: calc(50.00% - 983px);
   position: absolute;
@@ -29,7 +29,7 @@
   top: 1216px;
 }
 
-.about-all-breakpoints .ellipse-37-1 {
+.about-all-breakpoints .ellipse-37 {
   background-color: var(--black-2);
   border-radius: 441.5px;
   height: 883px;
@@ -38,7 +38,7 @@
   width: 883px;
 }
 
-.about-all-breakpoints .ellipse-container-1 {
+.about-all-breakpoints .ellipse-container {
   align-items: flex-start;
   display: flex;
   flex-direction: column;
@@ -47,7 +47,7 @@
   width: 808px;
 }
 
-.about-all-breakpoints .ellipse-34-1 {
+.about-all-breakpoints .ellipse-34 {
   align-self: flex-end;
   background-color: var(--black-2);
   border-radius: 306.5px;
@@ -55,7 +55,7 @@
   width: 613px;
 }
 
-.about-all-breakpoints .ellipse-33-1 {
+.about-all-breakpoints .ellipse-33 {
   background-color: var(--black-2);
   border-radius: 260px;
   height: 520px;
@@ -63,7 +63,7 @@
   width: 520px;
 }
 
-.about-all-breakpoints .overlap-group1-1 {
+.about-all-breakpoints .overlap-group1 {
   height: 775px;
   left: 90px;
   position: absolute;
@@ -71,7 +71,7 @@
   width: 936px;
 }
 
-.about-all-breakpoints .ellipse-container-2 {
+.about-all-breakpoints .ellipse-container-1 {
   height: 775px;
   left: 0;
   position: absolute;
@@ -79,7 +79,7 @@
   width: 912px;
 }
 
-.about-all-breakpoints .ellipse-28-1 {
+.about-all-breakpoints .ellipse-28 {
   background-color: var(--cod-gray);
   border-radius: 310px;
   height: 620px;
@@ -89,7 +89,7 @@
   width: 620px;
 }
 
-.about-all-breakpoints .ellipse-29-1 {
+.about-all-breakpoints .ellipse-29 {
   background-color: var(--cod-gray);
   border-radius: 155px;
   height: 310px;
@@ -99,7 +99,7 @@
   width: 310px;
 }
 
-.about-all-breakpoints .ellipse-30-1 {
+.about-all-breakpoints .ellipse-30 {
   background-color: var(--cod-gray);
   border-radius: 100px;
   height: 200px;
@@ -109,7 +109,7 @@
   width: 200px;
 }
 
-.about-all-breakpoints .logo-2 {
+.about-all-breakpoints .logo {
   height: 604px;
   left: calc(50.00% + 240px);
   position: absolute;
@@ -117,7 +117,7 @@
   width: 680px;
 }
 
-.about-all-breakpoints .union-1 {
+.about-all-breakpoints .union {
   height: 736px;
   left: -52px;
   position: absolute;
@@ -136,9 +136,11 @@
   width: 100%;
 }
 
-.about-all-breakpoints .desktop-home-logo-1 {
+.about-all-breakpoints .desktop-home-logo {
   cursor: pointer;
   flex: 0 0 auto;
+  height: 36px;
+  position: relative;
 }
 
 .about-all-breakpoints .desktop-button-top-nav-1 {
@@ -184,10 +186,6 @@
   width: 61px;
 }
 
-.about-all-breakpoints .vpn-2 {
-  color: var(--aquamarine);
-}
-
 .about-all-breakpoints .desktop-button-top-nav-6 {
   cursor: pointer;
   display: flex;
@@ -204,7 +202,7 @@
   width: 196px;
 }
 
-.about-all-breakpoints .hero-1 {
+.about-all-breakpoints .hero {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -218,7 +216,7 @@
   width: 100%;
 }
 
-.about-all-breakpoints .frame-403-1 {
+.about-all-breakpoints .frame-403 {
   align-items: center;
   display: flex;
   flex: 0 0 auto;
@@ -228,7 +226,7 @@
   width: 855px;
 }
 
-.about-all-breakpoints .orchids-mission-is-1 {
+.about-all-breakpoints .orchids-mission-is {
   align-self: stretch;
   color: transparent;
   font-weight: 600;
@@ -246,31 +244,33 @@
 }
 
 .about-all-breakpoints .frame-491 {
+  align-items: flex-start;
   align-self: stretch;
   display: flex;
   flex-direction: column;
   gap: 40px;
   height: 392px;
+  position: relative;
   width: 100%;
 }
 
 .about-all-breakpoints .line-10 {
   align-self: stretch;
-  height: 1px;
   margin-top: -1.00px;
-  object-fit: cover;
   position: relative;
   width: 100%;
 }
 
-.about-all-breakpoints .intro-copy-4 {
+.about-all-breakpoints .intro-copy {
   align-self: stretch;
+  color: var(--white);
   font-weight: 400;
   height: 312px;
   line-height: 28.0px;
+  position: relative;
 }
 
-.about-all-breakpoints .media-kits-1 {
+.about-all-breakpoints .media-kits {
   align-items: center;
   background-color: var(--black);
   border: 1px solid;
@@ -285,7 +285,7 @@
   position: relative;
 }
 
-.about-all-breakpoints .copy-1 {
+.about-all-breakpoints .copy {
   align-items: center;
   display: inline-flex;
   flex: 0 0 auto;
@@ -295,7 +295,7 @@
   position: relative;
 }
 
-.about-all-breakpoints .decentralized-marketplace-1 {
+.about-all-breakpoints .decentralized-marketplace {
   color: transparent;
   font-weight: 600;
   height: 96px;
@@ -307,21 +307,23 @@
   width: 880px;
 }
 
-.about-all-breakpoints .intro-copy-5 {
+.about-all-breakpoints .intro-copy-1 {
   font-weight: 500;
   line-height: 34.7px;
   text-align: center;
   width: 880px;
 }
 
-.about-all-breakpoints .line-2-1 {
+.about-all-breakpoints .line-2 {
   margin-bottom: -1.00px;
   position: relative;
   width: 880px;
 }
 
-.about-all-breakpoints .buttons-1 {
+.about-all-breakpoints .buttons {
+  display: flex;
   height: 72px;
+  position: relative;
   width: 361px;
 }
 
@@ -332,7 +334,7 @@
   width: 361px;
 }
 
-.about-all-breakpoints .contact-1 {
+.about-all-breakpoints .contact {
   align-items: center;
   display: flex;
   flex: 0 0 auto;
@@ -350,10 +352,8 @@
   width: 100%;
 }
 
-.about-all-breakpoints .line-1-1 {
-  height: 1px;
+.about-all-breakpoints .line-1 {
   left: 0;
-  object-fit: cover;
   position: absolute;
   top: 55px;
   width: 1280px;
@@ -373,14 +373,14 @@
   width: 1280px;
 }
 
-.about-all-breakpoints .intro-copy-6 {
+.about-all-breakpoints .intro-copy-2 {
   align-self: stretch;
   font-weight: 400;
   line-height: 28.0px;
   text-align: center;
 }
 
-.about-all-breakpoints .frame-396-1 {
+.about-all-breakpoints .frame-396 {
   align-items: center;
   display: inline-flex;
   flex: 0 0 auto;
@@ -395,7 +395,7 @@
   width: 40px;
 }
 
-.about-all-breakpoints .about-orchid-1 {
+.about-all-breakpoints .about-orchid {
   color: var(--aquamarine);
   font-weight: 700;
   line-height: 24px;
@@ -404,7 +404,7 @@
   width: fit-content;
 }
 
-.about-all-breakpoints .frame-453-1 {
+.about-all-breakpoints .frame-453 {
   align-items: flex-start;
   display: inline-flex;
   flex: 0 0 auto;
@@ -417,9 +417,11 @@
 }
 
 .about-all-breakpoints .frame-492 {
+  align-items: flex-start;
   display: flex;
   flex: 0 0 auto;
   gap: 80px;
+  position: relative;
   width: 1280px;
 }
 
@@ -437,7 +439,7 @@
   position: relative;
 }
 
-.about-all-breakpoints .subject-3 {
+.about-all-breakpoints .subject {
   color: var(--manatee);
   flex: 1;
   font-weight: 700;
@@ -446,40 +448,22 @@
   position: relative;
 }
 
-.about-all-breakpoints .subject-4 {
-  align-items: flex-start;
-  background-color: var(--black);
-  border: 1px solid;
-  border-color: var(--dull-lavender);
-  border-radius: 16px;
-  display: flex;
-  flex: 0 0 auto;
-  gap: 16px;
+.about-all-breakpoints .subject-1 {
   padding: 24px 40px;
-  position: relative;
-  width: 1280px;
 }
 
-.about-all-breakpoints .subject-5 {
-  align-items: flex-start;
-  background-color: var(--black);
-  border: 1px solid;
-  border-color: var(--dull-lavender);
-  border-radius: 16px;
-  display: flex;
-  flex: 0 0 auto;
-  gap: 16px;
+.about-all-breakpoints .subject-2 {
   padding: 24px 40px 240px;
-  position: relative;
-  width: 1280px;
 }
 
-.about-all-breakpoints .buttons-2 {
+.about-all-breakpoints .buttons-1 {
   align-items: flex-start;
+  display: flex;
   flex: 0 0 auto;
   gap: 135px;
   justify-content: center;
   padding: 60px 0px 0px;
+  position: relative;
   width: 588.36px;
 }
 
@@ -495,7 +479,7 @@
   padding: 24px 80px;
 }
 
-.about-all-breakpoints .corp-info-1 {
+.about-all-breakpoints .corp-info {
   align-items: flex-start;
   display: flex;
   flex: 0 0 auto;
@@ -512,8 +496,10 @@
   width: 1200px;
 }
 
-.about-all-breakpoints .line-2-2 {
+.about-all-breakpoints .line-2-1 {
+  height: 1px;
   left: 0;
+  object-fit: cover;
   position: absolute;
   top: 56px;
   width: 1200px;
@@ -532,7 +518,7 @@
   width: 1200px;
 }
 
-.about-all-breakpoints .frame-493-1 {
+.about-all-breakpoints .frame-493 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -543,7 +529,7 @@
   width: 100%;
 }
 
-.about-all-breakpoints .frame-494-1 {
+.about-all-breakpoints .frame-494 {
   align-items: flex-start;
   display: flex;
   gap: 10px;
@@ -551,7 +537,7 @@
   width: 740px;
 }
 
-.about-all-breakpoints .intro-copy-7 {
+.about-all-breakpoints .intro-copy-3 {
   flex: 1;
   font-weight: 400;
   height: 156px;
@@ -572,7 +558,21 @@
   width: 299px;
 }
 
-.about-all-breakpoints .x2023-orchid-4 {
+.about-all-breakpoints .logo-1 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 12px;
+  position: relative;
+}
+
+.about-all-breakpoints .desktop-home-logo-1 {
+  height: 36px;
+  position: relative;
+}
+
+.about-all-breakpoints .x2023-orchid-1 {
   color: var(--white);
   font-weight: 300;
   line-height: 19.6px;
@@ -580,7 +580,7 @@
   width: 299px;
 }
 
-.about-all-breakpoints .hyperlinks-1 {
+.about-all-breakpoints .hyperlinks {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -592,14 +592,7 @@
   width: 100%;
 }
 
-.about-all-breakpoints .frame-42 {
-  display: inline-flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 24px;
-}
-
-.about-all-breakpoints .x2023-orchid-3 {
+.about-all-breakpoints .x2023-orchid {
   color: var(--white);
   cursor: pointer;
   flex: 1;
@@ -608,43 +601,21 @@
   width: 180px;
 }
 
-.about-all-breakpoints .apps-9 {
+.about-all-breakpoints .apps-1 {
+  color: var(--white);
   cursor: pointer;
+  font-weight: 700;
+  height: 22px;
+  line-height: 22.4px;
+  width: 198px;
 }
 
-.about-all-breakpoints .link-1 {
+.about-all-breakpoints .link {
   cursor: pointer;
   display: flex;
   height: 22px;
   position: relative;
   width: 198px;
-}
-
-.about-all-breakpoints .social-icons-1 {
-  align-items: flex-start;
-  display: inline-flex;
-  flex: 0 0 auto;
-  flex-wrap: wrap;
-  gap: 40px 24px;
-  justify-content: flex-end;
-  position: relative;
-}
-
-.about-all-breakpoints .social-link-1 {
-  cursor: pointer;
-  height: 32px;
-  position: relative;
-  width: 32px;
-}
-
-.about-all-breakpoints .social-link-reddit-1 {
-  background-image: url(../img/combined-shape@2x.png);
-  background-size: 100% 100%;
-  border-radius: 40px;
-  cursor: pointer;
-  height: 32px;
-  position: relative;
-  width: 32px;
 }
 
 .about-all-breakpoints .apps {
@@ -655,9 +626,33 @@
   width: 198px;
 }
 
-.about-all-breakpoints .buttons {
-  display: flex;
+.about-all-breakpoints .social-icons {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 40px 24px;
+  justify-content: flex-end;
   position: relative;
+}
+
+.about-all-breakpoints .social-link {
+  cursor: pointer;
+  height: 32px;
+  position: relative;
+  width: 32px;
+}
+
+.about-all-breakpoints .social-link-github {
+  height: 33px;
+  margin-bottom: -1.00px;
+}
+
+.about-all-breakpoints .social-link-reddit {
+  background-image: url(../img/combined-shape@2x.png);
+  background-size: 100% 100%;
+  border-radius: 40px;
+  height: 32px;
 }
 
 .about-all-breakpoints .desktop-button {
@@ -684,24 +679,33 @@
   position: relative;
 }
 
-.about-all-breakpoints .desktop-home-logo {
-  height: 36px;
-  position: relative;
-}
-
-.about-all-breakpoints .frame {
-  align-items: flex-start;
-  position: relative;
-}
-
-.about-all-breakpoints .intro-copy {
+.about-all-breakpoints .intro-copy-4 {
   color: var(--white);
   position: relative;
 }
 
-.about-all-breakpoints .line-2 {
+.about-all-breakpoints .line {
   height: 1px;
   object-fit: cover;
+}
+
+.about-all-breakpoints .social-link-1 {
+  cursor: pointer;
+  position: relative;
+  width: 32px;
+}
+
+.about-all-breakpoints .subject-3 {
+  align-items: flex-start;
+  background-color: var(--black);
+  border: 1px solid;
+  border-color: var(--dull-lavender);
+  border-radius: 16px;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 16px;
+  position: relative;
+  width: 1280px;
 }
 
 .about-all-breakpoints .vpn-3 {
@@ -725,7 +729,7 @@
   position: relative;
 }
 
-.aboutu95mobsm .ellipses {
+.aboutu95mobsm .ellipses-1 {
   height: 3668px;
   left: -468px;
   position: absolute;
@@ -743,14 +747,14 @@
   width: 920px;
 }
 
-.aboutu95mobsm .overlap-group1 {
+.aboutu95mobsm .overlap-group1-1 {
   height: 398px;
   margin-right: 192.0px;
   position: relative;
   width: 480px;
 }
 
-.aboutu95mobsm .ellipse-container {
+.aboutu95mobsm .ellipse-container-2 {
   height: 398px;
   left: 0;
   position: absolute;
@@ -758,7 +762,7 @@
   width: 468px;
 }
 
-.aboutu95mobsm .ellipse-28 {
+.aboutu95mobsm .ellipse-28-1 {
   background-color: var(--cod-gray);
   border-radius: 159px;
   height: 318px;
@@ -768,7 +772,7 @@
   width: 318px;
 }
 
-.aboutu95mobsm .ellipse-29 {
+.aboutu95mobsm .ellipse-29-1 {
   background-color: var(--cod-gray);
   border-radius: 79.5px;
   height: 159px;
@@ -778,7 +782,7 @@
   width: 159px;
 }
 
-.aboutu95mobsm .ellipse-30 {
+.aboutu95mobsm .ellipse-30-1 {
   background-color: var(--cod-gray);
   border-radius: 51.5px;
   height: 103px;
@@ -788,7 +792,7 @@
   width: 103px;
 }
 
-.aboutu95mobsm .ellipse-34 {
+.aboutu95mobsm .ellipse-34-1 {
   align-self: flex-end;
   background-color: var(--black-2);
   border-radius: 189.5px;
@@ -797,7 +801,7 @@
   width: 379px;
 }
 
-.aboutu95mobsm .ellipse-37 {
+.aboutu95mobsm .ellipse-37-1 {
   align-self: flex-start;
   background-color: var(--black-2);
   border-radius: 294.5px;
@@ -807,7 +811,7 @@
   width: 589px;
 }
 
-.aboutu95mobsm .ellipse-33 {
+.aboutu95mobsm .ellipse-33-1 {
   background-color: var(--black-2);
   border-radius: 110.5px;
   height: 221px;
@@ -827,7 +831,7 @@
   width: 245px;
 }
 
-.aboutu95mobsm .hero {
+.aboutu95mobsm .hero-1 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -839,7 +843,7 @@
   width: 100%;
 }
 
-.aboutu95mobsm .frame-403 {
+.aboutu95mobsm .frame-403-1 {
   align-items: flex-start;
   display: flex;
   flex: 1;
@@ -849,7 +853,7 @@
   position: relative;
 }
 
-.aboutu95mobsm .orchids-mission-is {
+.aboutu95mobsm .orchids-mission-is-1 {
   align-self: stretch;
   color: transparent;
   font-weight: 600;
@@ -871,15 +875,13 @@
   width: 100%;
 }
 
-.aboutu95mobsm .intro-copy {
+.aboutu95mobsm .intro-copy-4 {
   align-self: stretch;
-  color: var(--white);
   font-weight: 300;
   line-height: 18.0px;
-  position: relative;
 }
 
-.aboutu95mobsm .logo {
+.aboutu95mobsm .logo-2 {
   height: 159px;
   left: calc(50.00% + 52px);
   position: absolute;
@@ -887,7 +889,7 @@
   width: 178px;
 }
 
-.aboutu95mobsm .union {
+.aboutu95mobsm .union-1 {
   height: 289px;
   left: -51px;
   position: absolute;
@@ -895,7 +897,7 @@
   width: 308px;
 }
 
-.aboutu95mobsm .media-kits {
+.aboutu95mobsm .media-kits-1 {
   align-items: center;
   background-color: var(--black);
   border: 1px solid;
@@ -911,7 +913,7 @@
   width: 312px;
 }
 
-.aboutu95mobsm .copy {
+.aboutu95mobsm .copy-1 {
   align-items: center;
   align-self: stretch;
   display: flex;
@@ -924,7 +926,7 @@
   width: 100%;
 }
 
-.aboutu95mobsm .decentralized-marketplace {
+.aboutu95mobsm .decentralized-marketplace-1 {
   align-self: stretch;
   color: transparent;
   font-weight: 600;
@@ -935,28 +937,29 @@
   text-shadow: 0px 4px 16px #ffffff40;
 }
 
-.aboutu95mobsm .intro-copy-1 {
+.aboutu95mobsm .intro-copy-5 {
   align-self: stretch;
   font-weight: 600;
   line-height: 19.8px;
   text-align: center;
 }
 
-.aboutu95mobsm .line-2 {
+.aboutu95mobsm .line-2-2 {
   align-self: stretch;
+  height: 1px;
   margin-bottom: -1.00px;
+  object-fit: cover;
+  position: relative;
   width: 100%;
 }
 
 .aboutu95mobsm .frame-476 {
   align-items: center;
   display: inline-flex;
-  flex: 0 0 auto;
   flex-direction: column;
   gap: 10px;
   margin-bottom: -35.50px;
   padding: 40px 0px 0px;
-  position: relative;
 }
 
 .aboutu95mobsm .mobile-button-hero {
@@ -983,7 +986,7 @@
   width: fit-content;
 }
 
-.aboutu95mobsm .contact {
+.aboutu95mobsm .contact-1 {
   align-items: center;
   align-self: stretch;
   display: flex;
@@ -1017,7 +1020,7 @@
   width: 100%;
 }
 
-.aboutu95mobsm .line-1 {
+.aboutu95mobsm .line-3 {
   flex: 1;
   flex-grow: 1;
 }
@@ -1054,14 +1057,14 @@
   text-align: center;
 }
 
-.aboutu95mobsm .intro-copy-2 {
+.aboutu95mobsm .intro-copy-6 {
   align-self: stretch;
   font-weight: 300;
   line-height: 18.0px;
   text-align: center;
 }
 
-.aboutu95mobsm .frame-396 {
+.aboutu95mobsm .frame-396-1 {
   align-items: center;
   display: inline-flex;
   flex: 0 0 auto;
@@ -1071,11 +1074,10 @@
 }
 
 .aboutu95mobsm .social-link-discord {
-  height: 32px;
   width: 31px;
 }
 
-.aboutu95mobsm .about-orchid {
+.aboutu95mobsm .about-orchid-1 {
   color: var(--aquamarine);
   font-weight: 700;
   line-height: 24px;
@@ -1084,7 +1086,7 @@
   width: fit-content;
 }
 
-.aboutu95mobsm .frame-453 {
+.aboutu95mobsm .frame-453-1 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -1100,10 +1102,8 @@
   align-items: flex-start;
   align-self: stretch;
   display: flex;
-  flex: 0 0 auto;
   flex-direction: column;
   gap: 16px;
-  position: relative;
   width: 100%;
 }
 
@@ -1115,14 +1115,12 @@
   border-color: var(--dull-lavender);
   border-radius: 8px;
   display: flex;
-  flex: 0 0 auto;
   gap: 16px;
   padding: 16px 24px;
-  position: relative;
   width: 100%;
 }
 
-.aboutu95mobsm .subject {
+.aboutu95mobsm .subject-3 {
   color: var(--manatee);
   flex: 1;
   font-weight: 700;
@@ -1131,7 +1129,7 @@
   position: relative;
 }
 
-.aboutu95mobsm .subject-1 {
+.aboutu95mobsm .subject-4 {
   align-items: flex-start;
   align-self: stretch;
   background-color: var(--black);
@@ -1146,7 +1144,7 @@
   width: 100%;
 }
 
-.aboutu95mobsm .subject-2 {
+.aboutu95mobsm .subject-5 {
   align-items: flex-start;
   align-self: stretch;
   background-color: var(--black);
@@ -1161,7 +1159,7 @@
   width: 100%;
 }
 
-.aboutu95mobsm .buttons {
+.aboutu95mobsm .buttons-2 {
   align-items: center;
   align-self: stretch;
   display: flex;
@@ -1182,7 +1180,7 @@
   background-color: var(--heavy-metal);
 }
 
-.aboutu95mobsm .corp-info {
+.aboutu95mobsm .corp-info-1 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -1206,7 +1204,7 @@
   width: 504px;
 }
 
-.aboutu95mobsm .frame-493 {
+.aboutu95mobsm .frame-493-1 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -1218,7 +1216,7 @@
   width: 100%;
 }
 
-.aboutu95mobsm .frame-494 {
+.aboutu95mobsm .frame-494-1 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -1228,7 +1226,7 @@
   width: 100%;
 }
 
-.aboutu95mobsm .intro-copy-3 {
+.aboutu95mobsm .intro-copy-7 {
   flex: 1;
   font-weight: 300;
   line-height: 18.0px;
@@ -1240,7 +1238,18 @@
   background-color: var(--heavy-metal);
 }
 
-.aboutu95mobsm .logo-1 {
+.aboutu95mobsm .content {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  position: relative;
+  width: 100%;
+}
+
+.aboutu95mobsm .logo-3 {
   align-items: flex-start;
   display: inline-flex;
   flex: 0 0 auto;
@@ -1250,12 +1259,7 @@
   position: relative;
 }
 
-.aboutu95mobsm .desktop-home-logo {
-  height: 36px;
-  position: relative;
-}
-
-.aboutu95mobsm .x2023-orchid {
+.aboutu95mobsm .x2023-orchid-2 {
   color: var(--white);
   font-weight: 300;
   line-height: 19.6px;
@@ -1263,7 +1267,7 @@
   width: 299px;
 }
 
-.aboutu95mobsm .hyperlinks {
+.aboutu95mobsm .hyperlinks-1 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -1278,23 +1282,31 @@
   align-items: flex-start;
   align-self: stretch;
   display: flex;
-  flex: 0 0 auto;
   flex-direction: column;
   gap: 32px;
   padding: 24px 0px;
-  position: relative;
   width: 100%;
 }
 
-.aboutu95mobsm .x2023-orchid-1 {
+.aboutu95mobsm .x2023-orchid-3 {
+  color: var(--white);
+  cursor: pointer;
+  flex: 1;
+  font-weight: 700;
+  line-height: 24px;
   width: 151px;
 }
 
-.aboutu95mobsm .x2023-orchid-2 {
+.aboutu95mobsm .x2023-orchid-4 {
+  color: var(--white);
+  cursor: pointer;
+  flex: 1;
+  font-weight: 700;
+  line-height: 24px;
   width: 132px;
 }
 
-.aboutu95mobsm .link {
+.aboutu95mobsm .link-1 {
   cursor: pointer;
   display: flex;
   height: 22px;
@@ -1302,40 +1314,40 @@
   width: 198px;
 }
 
-.aboutu95mobsm .apps {
+.aboutu95mobsm .apps-2 {
   width: 102px;
 }
 
-.aboutu95mobsm .apps-1 {
+.aboutu95mobsm .apps-3 {
   width: 132px;
 }
 
-.aboutu95mobsm .apps-2 {
+.aboutu95mobsm .apps-4 {
   cursor: pointer;
   width: 113px;
 }
 
-.aboutu95mobsm .apps-3 {
+.aboutu95mobsm .apps-5 {
   width: 85px;
 }
 
-.aboutu95mobsm .apps-4 {
+.aboutu95mobsm .apps-6 {
   width: 122px;
 }
 
-.aboutu95mobsm .apps-5 {
+.aboutu95mobsm .apps-7 {
   width: 76px;
 }
 
-.aboutu95mobsm .apps-6 {
+.aboutu95mobsm .apps-8 {
   width: 42px;
 }
 
-.aboutu95mobsm .apps-7 {
+.aboutu95mobsm .apps-9 {
   width: 75px;
 }
 
-.aboutu95mobsm .social-icons {
+.aboutu95mobsm .social-icons-1 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -1348,17 +1360,7 @@
   width: 100%;
 }
 
-.aboutu95mobsm .social-link-github {
-  height: 33px;
-  margin-bottom: -1.00px;
-  width: 32px;
-}
-
-.aboutu95mobsm .social-link-reddit {
-  background-image: url(../img/combined-shape@2x.png);
-  background-size: 100% 100%;
-  border-radius: 40px;
-  height: 32px;
+.aboutu95mobsm .social-link-1 {
   width: 32px;
 }
 
@@ -1384,19 +1386,30 @@
   width: 296px;
 }
 
-.aboutu95mobsm .apps-8 {
+.aboutu95mobsm .menu-icon {
+  height: 24px;
+  position: relative;
+  width: 24px;
+}
+
+.aboutu95mobsm .apps {
   color: var(--white);
   font-weight: 700;
   height: 24px;
   line-height: 24px;
 }
 
-.aboutu95mobsm .intro-copy-4 {
+.aboutu95mobsm .frame-1 {
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.aboutu95mobsm .intro-copy {
   color: var(--white);
   position: relative;
 }
 
-.aboutu95mobsm .line-3 {
+.aboutu95mobsm .line-1 {
   height: 1px;
   object-fit: cover;
   position: relative;
@@ -1415,17 +1428,10 @@
   width: 100%;
 }
 
-.aboutu95mobsm .social-link-1 {
+.aboutu95mobsm .social-link {
   cursor: pointer;
+  height: 32px;
   position: relative;
-}
-
-.aboutu95mobsm .x2023-orchid-3 {
-  color: var(--white);
-  cursor: pointer;
-  flex: 1;
-  font-weight: 700;
-  line-height: 24px;
 }
 /* screen - aboutu95tabsm */
 
@@ -1488,8 +1494,11 @@
   color: var(--aquamarine);
 }
 
-.aboutu95tabsm .line-3 {
+.aboutu95tabsm .line-10-1 {
   align-self: stretch;
+  height: 1px;
+  object-fit: cover;
+  position: relative;
   width: 100%;
 }
 
@@ -1562,12 +1571,7 @@
 }
 
 .aboutu95tabsm .line-2-3 {
-  align-self: stretch;
-  height: 1px;
   margin-bottom: -1.00px;
-  object-fit: cover;
-  position: relative;
-  width: 100%;
 }
 
 .aboutu95tabsm .frame-476-1 {
@@ -1628,6 +1632,14 @@
   justify-content: center;
   position: relative;
   width: 100%;
+}
+
+.aboutu95tabsm .line-4 {
+  flex: 1;
+  flex-grow: 1;
+  height: 1px;
+  object-fit: cover;
+  position: relative;
 }
 
 .aboutu95tabsm .discover-1 {
@@ -1860,105 +1872,12 @@
   position: relative;
 }
 
-.aboutu95tabsm .x2023-orchid-5 {
-  color: var(--white);
-  font-weight: 300;
-  line-height: 19.6px;
-  position: relative;
-  width: 299px;
-}
-
-.aboutu95tabsm .hyperlinks-2 {
-  align-items: flex-start;
-  align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 40px;
-  position: relative;
-  width: 100%;
-}
-
-.aboutu95tabsm .x2023-orchid-6 {
-  color: var(--white);
-  cursor: pointer;
-  flex: 1;
-  font-weight: 700;
-  line-height: 24px;
-  width: 151px;
-}
-
-.aboutu95tabsm .x2023-orchid-7 {
-  color: var(--white);
-  cursor: pointer;
-  flex: 1;
-  font-weight: 700;
-  line-height: 24px;
-  width: 132px;
-}
-
 .aboutu95tabsm .link-2 {
   cursor: pointer;
   display: flex;
   height: 22px;
   position: relative;
   width: 198px;
-}
-
-.aboutu95tabsm .apps-10 {
-  width: 102px;
-}
-
-.aboutu95tabsm .apps-11 {
-  width: 132px;
-}
-
-.aboutu95tabsm .apps-12 {
-  cursor: pointer;
-  width: 113px;
-}
-
-.aboutu95tabsm .apps-13 {
-  width: 85px;
-}
-
-.aboutu95tabsm .apps-14 {
-  width: 122px;
-}
-
-.aboutu95tabsm .apps-15 {
-  width: 76px;
-}
-
-.aboutu95tabsm .apps-16 {
-  width: 42px;
-}
-
-.aboutu95tabsm .apps-17 {
-  width: 75px;
-}
-
-.aboutu95tabsm .social-icons-2 {
-  align-items: flex-start;
-  align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  flex-wrap: wrap;
-  gap: 60px 60px;
-  justify-content: space-between;
-  padding: 24px 0px 0px;
-  position: relative;
-  width: 100%;
-}
-
-.aboutu95tabsm .social-link-reddit-2 {
-  background-image: url(../img/combined-shape@2x.png);
-  background-size: 100% 100%;
-  border-radius: 40px;
-  cursor: pointer;
-  height: 32px;
-  position: relative;
-  width: 32px;
 }
 
 .aboutu95tabsm .mobile-nav-1 {
@@ -1983,19 +1902,10 @@
   width: 680px;
 }
 
-.aboutu95tabsm .orchid-icon-2 {
-  align-items: center;
-  cursor: pointer;
-  display: flex;
+.aboutu95tabsm .menu-icon-1 {
   height: 24px;
-  justify-content: center;
   position: relative;
-  width: 28.47px;
-}
-
-.aboutu95tabsm .orchid-icon-3 {
-  height: 24px;
-  width: 26.47px;
+  width: 24px;
 }
 
 .aboutu95tabsm .apps {
@@ -2016,10 +1926,12 @@
   position: relative;
 }
 
-.aboutu95tabsm .line {
+.aboutu95tabsm .line-2 {
+  align-self: stretch;
   height: 1px;
   object-fit: cover;
   position: relative;
+  width: 100%;
 }
 
 .aboutu95tabsm .mobile-button-hero {
@@ -2040,10 +1952,10 @@
    }
 }
 @media screen and (min-width: 744px) and (max-width: 1439px) {
-  .screen.aboutu95mobsm { 
+  .screen.about-all-breakpoints { 
     display: none;
    }
-  .screen.about-all-breakpoints { 
+  .screen.aboutu95mobsm { 
     display: none;
    }
 }
