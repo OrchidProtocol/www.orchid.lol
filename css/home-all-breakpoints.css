@@ -27,6 +27,7 @@
 }
 
 .home-all-breakpoints .desktop-home-logo-2 {
+  cursor: pointer;
   flex: 0 0 auto;
 }
 
