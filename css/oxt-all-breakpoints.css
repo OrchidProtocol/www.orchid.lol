@@ -1254,14 +1254,6 @@
   width: 100%;
 }
 
-.oxtu95mobsm .social-link-github-2 {
-  cursor: pointer;
-  height: 33px;
-  margin-bottom: -1.00px;
-  position: relative;
-  width: 32px;
-}
-
 .oxtu95mobsm .about-orchid {
   font-weight: 700;
   line-height: 24px;
@@ -1696,6 +1688,17 @@
   line-height: 24px;
   text-align: center;
   width: 696px;
+}
+
+.oxtu95tabsm .content {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  position: relative;
+  width: 100%;
 }
 
 .oxtu95tabsm .logo-1 {

@@ -628,14 +628,6 @@
   position: relative;
 }
 
-.about-all-breakpoints .social-link-github-2 {
-  cursor: pointer;
-  height: 33px;
-  margin-bottom: -1.00px;
-  position: relative;
-  width: 32px;
-}
-
 .about-all-breakpoints .apps {
   color: var(--white);
   font-weight: 700;
@@ -1232,6 +1224,17 @@
 .aboutu95mobsm .mobile-button-hero-3 {
   align-items: flex-start;
   background-color: var(--heavy-metal);
+}
+
+.aboutu95mobsm .content {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  position: relative;
+  width: 100%;
 }
 
 .aboutu95mobsm .logo-1 {

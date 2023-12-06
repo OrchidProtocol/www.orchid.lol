@@ -887,9 +887,31 @@
   width: 100%;
 }
 
+.storchidu95mobsm .accounts {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+  width: 100%;
+}
+
 .storchidu95mobsm .title {
   height: 18px;
   white-space: nowrap;
+}
+
+.storchidu95mobsm .directory {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+  width: 100%;
 }
 
 .storchidu95mobsm .body-1 {
@@ -1031,6 +1053,17 @@
   margin-right: -27.50px;
   padding: 60px 0px 0px;
   position: relative;
+}
+
+.storchidu95mobsm .content {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  position: relative;
+  width: 100%;
 }
 
 .storchidu95mobsm .logo-1 {
@@ -1633,14 +1666,6 @@
   padding: 24px 0px 0px;
   position: relative;
   width: 100%;
-}
-
-.storchidu95tabsm .social-link-github-2 {
-  cursor: pointer;
-  height: 33px;
-  margin-bottom: -1.00px;
-  position: relative;
-  width: 32px;
 }
 
 .storchidu95tabsm .apps {
