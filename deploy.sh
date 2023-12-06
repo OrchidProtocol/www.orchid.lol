@@ -90,6 +90,8 @@ function main() {
         local bucket="www.orchid.lol"
     elif [ "$stage" == "production" ]; then
         local bucket="www.orchid.lol"
+    elif [ "$stage" == "lol"]; then
+	local bucket="www.orchid.lol"
     fi
 
     distribution=$(get-distribution-id "$bucket")
