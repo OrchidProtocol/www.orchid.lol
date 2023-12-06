@@ -15,14 +15,6 @@
   width: 393px;
 }
 
-.nav-overlay-tablet .close-icon {
-  cursor: pointer;
-  height: 24px;
-  margin-right: 32px;
-  margin-top: 32px;
-  width: 24px;
-}
-
 .nav-overlay-tablet .account {
   align-items: center;
   cursor: pointer;

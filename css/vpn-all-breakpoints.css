@@ -289,15 +289,6 @@
   width: 360px;
 }
 
-.vpn-all-breakpoints .learn-more-1 {
-  color: var(--white);
-  flex: 1;
-  font-weight: 700;
-  height: 24px;
-  line-height: 24px;
-  text-align: center;
-}
-
 .vpn-all-breakpoints .marketplace {
   align-items: flex-start;
   align-self: stretch;
@@ -898,9 +889,14 @@
 }
 
 .vpnu95mobsm .mobile-nav-header {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
   height: 88px;
+  justify-content: space-between;
+  padding: 32px;
   position: relative;
-  width: 360px;
+  width: 100%;
 }
 
 .vpnu95mobsm .hero {
@@ -1283,14 +1279,13 @@
 
 .vpnu95mobsm .button {
   align-items: center;
-  display: inline-flex;
+  display: flex;
   flex: 0 0 auto;
   flex-direction: column;
   gap: 10px;
-  margin-left: -24.00px;
-  margin-right: -24.00px;
   padding: 60px 0px 0px;
   position: relative;
+  width: 312px;
 }
 
 .vpnu95mobsm .mobile-button-hero-1 {
@@ -1299,11 +1294,25 @@
   border: 1px solid;
   border-color: var(--aquamarine);
   border-radius: 60px;
-  display: inline-flex;
+  display: flex;
   flex: 0 0 auto;
   justify-content: center;
   padding: 16px 80px;
   position: relative;
+  width: 311px;
+}
+
+.vpnu95mobsm .learn-more-1 {
+  color: var(--white);
+  font-weight: 700;
+  line-height: 24px;
+  margin-left: -24.50px;
+  margin-right: -24.50px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
 }
 
 .vpnu95mobsm .logo {
@@ -1508,9 +1517,14 @@
 }
 
 .vpnu95tabsm .mobile-nav-header-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
   height: 88px;
+  justify-content: space-between;
+  padding: 32px;
   position: relative;
-  width: 744px;
+  width: 100%;
 }
 
 .vpnu95tabsm .hero-2 {
@@ -1590,7 +1604,7 @@
   align-self: stretch;
 }
 
-.vpnu95tabsm .learn-more-2 {
+.vpnu95tabsm .learn-more-3 {
   color: var(--white);
   font-weight: 700;
   line-height: 24px;

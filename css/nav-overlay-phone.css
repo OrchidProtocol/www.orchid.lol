@@ -15,14 +15,6 @@
   width: 360px;
 }
 
-.nav-overlay-phone .close-icon {
-  cursor: pointer;
-  height: 24px;
-  margin-right: 32px;
-  margin-top: 32px;
-  width: 24px;
-}
-
 .nav-overlay-phone .account {
   align-items: center;
   cursor: pointer;

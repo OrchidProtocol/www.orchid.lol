@@ -77,6 +77,28 @@
   box-sizing: border-box;
 }
 
+.close-icon {
+  cursor: pointer;
+  height: 24px;
+  margin-right: 32px;
+  margin-top: 32px;
+  width: 24px;
+}
+
+.orchid-icon {
+  cursor: pointer;
+  height: 24px;
+  position: relative;
+  width: 28.47px;
+}
+
+.menu-icon {
+  cursor: pointer;
+  height: 24px;
+  position: relative;
+  width: 24px;
+}
+
 .learn-more {
   color: var(--white);
   font-weight: 700;
@@ -165,6 +187,20 @@
   height: 32px;
   position: relative;
   width: 32px;
+}
+
+.orchid-icon-1 {
+  cursor: pointer;
+  height: 24px;
+  position: relative;
+  width: 28.47px;
+}
+
+.menu-icon-1 {
+  cursor: pointer;
+  height: 24px;
+  position: relative;
+  width: 24px;
 }
 
 .accounts-1 {
@@ -319,6 +355,15 @@
   line-height: 14.4px;
   text-align: center;
   width: 196px;
+}
+
+.learn-more-2 {
+  color: var(--white);
+  flex: 1;
+  font-weight: 700;
+  height: 24px;
+  line-height: 24px;
+  text-align: center;
 }
 
 .label {

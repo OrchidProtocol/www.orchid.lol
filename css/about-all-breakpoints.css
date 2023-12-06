@@ -816,9 +816,14 @@
 }
 
 .aboutu95mobsm .mobile-nav-header {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
   height: 88px;
+  justify-content: space-between;
+  padding: 32px;
   position: relative;
-  width: 360px;
+  width: 100%;
 }
 
 .aboutu95mobsm .hero {
@@ -1409,9 +1414,14 @@
 }
 
 .aboutu95tabsm .mobile-nav-header-1 {
-  height: 88px;
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: space-between;
+  padding: 32px;
   position: relative;
-  width: 744px;
+  width: 100%;
 }
 
 .aboutu95tabsm .hero-1 {
