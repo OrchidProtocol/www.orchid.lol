@@ -126,6 +126,10 @@
   color: var(--aquamarine);
 }
 
+.home-all-breakpoints .span-5 {
+  color: var(--white);
+}
+
 .home-all-breakpoints .hero-cta-button-2 {
   align-items: flex-start;
   display: inline-flex;
@@ -543,8 +547,13 @@
   width: 187px;
 }
 
-.home-all-breakpoints .google-play-badge-1 {
-  height: 56.3px;
+.home-all-breakpoints .apple-store {
+  background-image: url(../img/appstorebadge-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  cursor: pointer;
+  height: 56px;
+  position: relative;
   width: 188px;
 }
 
@@ -1060,7 +1069,7 @@
 .home-all-breakpoints .desktopfooter {
   align-items: center;
   align-self: stretch;
-  background-color: var(--cod-gray);
+  background-color: var(--black-2);
   display: flex;
   flex: 0 0 auto;
   flex-direction: column;
@@ -1238,17 +1247,6 @@
   gap: 80px;
   min-width: 360px;
   position: relative;
-}
-
-.homeu95mobsm .mobile-nav-header {
-  align-items: flex-start;
-  align-self: stretch;
-  display: flex;
-  height: 88px;
-  justify-content: space-between;
-  padding: 32px;
-  position: relative;
-  width: 100%;
 }
 
 .homeu95mobsm .hero {
@@ -2599,6 +2597,15 @@
   gap: 24px;
   justify-content: center;
   position: relative;
+}
+
+.homeu95tab .google-play {
+  background-image: url(../img/google-play-badge-2@2x.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  height: 42px;
+  position: relative;
+  width: 144px;
 }
 
 .homeu95tab .screen-img {
