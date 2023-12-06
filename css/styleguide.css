@@ -25,9 +25,10 @@
   --font-size-xxxxl: 40px;
  
   --font-family-figtree: "Figtree", Helvetica;
+  --font-family-figtree-extrabold: "Figtree-ExtraBold", Helvetica;
 }
 .desktopheadline {
-  font-family: var(--font-family-figtree);
+  font-family: var(--font-family-figtree-extrabold);
   font-size: var(--font-size-60px);
   font-style: normal;
   font-weight: 800;
@@ -107,7 +108,7 @@
 }
 
 .mobilesuper-headline {
-  font-family: var(--font-family-figtree);
+  font-family: var(--font-family-figtree-extrabold);
   font-size: var(--font-size-xxxxl);
   font-style: normal;
   font-weight: 800;
@@ -147,7 +148,7 @@
 }
 
 .mobilesuper-subhead {
-  font-family: var(--font-family-figtree);
+  font-family: var(--font-family-figtree-extrabold);
   font-size: var(--font-size-23px);
   font-style: normal;
   font-weight: 800;
