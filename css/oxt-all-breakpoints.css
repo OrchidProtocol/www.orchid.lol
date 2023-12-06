@@ -841,7 +841,7 @@
   width: 253px;
 }
 
-.oxtu95mobsm .mobile-nav-1 {
+.oxtu95mobsm .mobile-nav-header-1 {
   align-self: stretch;
   height: 88px;
   position: relative;
@@ -1254,6 +1254,14 @@
   width: 100%;
 }
 
+.oxtu95mobsm .social-link-github-2 {
+  cursor: pointer;
+  height: 33px;
+  margin-bottom: -1.00px;
+  position: relative;
+  width: 32px;
+}
+
 .oxtu95mobsm .about-orchid {
   font-weight: 700;
   line-height: 24px;
@@ -1395,8 +1403,11 @@
   width: 845px;
 }
 
-.oxtu95tabsm .mobile-nav {
+.oxtu95tabsm .mobile-nav-header {
+  align-self: stretch;
   height: 88px;
+  position: relative;
+  width: 100%;
 }
 
 .oxtu95tabsm .hero-1 {
@@ -1473,10 +1484,13 @@
 
 .oxtu95tabsm .mobile {
   align-items: center;
+  align-self: stretch;
   display: flex;
   flex: 0 0 auto;
   flex-direction: column;
   gap: 8px;
+  position: relative;
+  width: 100%;
 }
 
 .oxtu95tabsm .mobile-caption-section {
@@ -1690,17 +1704,6 @@
   width: 696px;
 }
 
-.oxtu95tabsm .content {
-  align-items: flex-start;
-  align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 24px;
-  position: relative;
-  width: 100%;
-}
-
 .oxtu95tabsm .logo-1 {
   align-items: flex-start;
   display: inline-flex;
@@ -1820,6 +1823,16 @@
   width: 32px;
 }
 
+.oxtu95tabsm .social-link-reddit-1 {
+  background-image: url(../img/combined-shape@2x.png);
+  background-size: 100% 100%;
+  border-radius: 40px;
+  cursor: pointer;
+  height: 32px;
+  position: relative;
+  width: 32px;
+}
+
 .oxtu95tabsm .about-orchid {
   font-weight: 700;
   line-height: 24px;
@@ -1843,12 +1856,6 @@
   cursor: pointer;
   display: flex;
   position: relative;
-}
-
-.oxtu95tabsm .mobile-1 {
-  align-self: stretch;
-  position: relative;
-  width: 100%;
 }
 @media screen and (max-width: 743px) {
   .screen.oxt-all-breakpoints { 

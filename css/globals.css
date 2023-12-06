@@ -1,5 +1,5 @@
 @import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
-@import url("https://fonts.googleapis.com/css?family=Figtree:400,600,300,500,700");
+@import url("https://fonts.googleapis.com/css?family=Figtree:400,600,300,800,500,700");
 /* The following line is used to measure usage of this code. You can remove it if you want. */
 @import url("https://px.animaapp.com/5e2a282a592dee7a2550cfd0.5ea6adb733c33a7ced6f8c4d.fO9Ui2A.hcp.png");
 
@@ -78,17 +78,6 @@
   width: 196px;
 }
 
-.label {
-  color: var(--white);
-  font-weight: 700;
-  line-height: 24px;
-  margin-top: -1.00px;
-  position: relative;
-  text-align: center;
-  white-space: nowrap;
-  width: fit-content;
-}
-
 .desktopfooter {
   align-items: flex-start;
   align-self: stretch;
@@ -135,14 +124,6 @@
   width: 32px;
 }
 
-.social-link-github-1 {
-  cursor: pointer;
-  height: 33px;
-  margin-bottom: -1.00px;
-  position: relative;
-  width: 32px;
-}
-
 .build-5 {
   color: var(--white);
   font-weight: 700;
@@ -153,27 +134,7 @@
   width: fit-content;
 }
 
-.caption-3 {
-  color: var(--white);
-  font-weight: 600;
-  line-height: 22.0px;
-  margin-top: -1.00px;
-  position: relative;
-  white-space: nowrap;
-  width: fit-content;
-}
-
-.desktop-caption-section-3 {
-  align-items: center;
-  align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  gap: 40px;
-  position: relative;
-  width: 100%;
-}
-
-.accounts-1 {
+.accounts {
   align-items: center;
   align-self: stretch;
   display: flex;
@@ -184,7 +145,7 @@
   width: 100%;
 }
 
-.directory-1 {
+.directory {
   align-items: center;
   align-self: stretch;
   display: flex;
@@ -220,7 +181,7 @@
   width: 100%;
 }
 
-.content-1 {
+.content {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -238,6 +199,18 @@
   width: 180px;
 }
 
+.features {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  padding: 0px 24px;
+  position: relative;
+  width: 100%;
+}
+
 .dapp-1 {
   display: flex;
   height: 22px;
@@ -245,7 +218,7 @@
   width: 198px;
 }
 
-.social-link-github-2 {
+.social-link-github-1 {
   cursor: pointer;
   height: 33px;
   margin-bottom: -1.00px;
@@ -253,14 +226,26 @@
   width: 32px;
 }
 
-.social-link-reddit-1 {
-  background-image: url(../img/combined-shape@2x.png);
-  background-size: 100% 100%;
-  border-radius: 40px;
-  cursor: pointer;
-  height: 32px;
+.accounts-1 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
   position: relative;
-  width: 32px;
+  width: 100%;
+}
+
+.directory-1 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+  width: 100%;
 }
 
 .frame-478-1 {
@@ -288,9 +273,15 @@
   width: 100%;
 }
 
-.desktop-home-logo-3 {
-  height: 36px;
+.content-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
   position: relative;
+  width: 100%;
 }
 
 .frame-532-1 {
@@ -312,15 +303,31 @@
   width: 180px;
 }
 
+.hero-cta-button-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 96px 0px 0px;
+  position: relative;
+}
+
+.label {
+  color: var(--white);
+  font-weight: 700;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
 .dapp-2 {
   display: flex;
   height: 22px;
   position: relative;
   width: 198px;
-}
-
-.apps-16 {
-  width: 42px;
 }
 
 .social-link-2 {
@@ -340,24 +347,22 @@
   width: 32px;
 }
 
-.features {
+.caption-3 {
+  color: var(--white);
+  font-weight: 600;
+  line-height: 22.0px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.desktop-caption-section-3 {
   align-items: center;
   align-self: stretch;
   display: flex;
   flex: 0 0 auto;
-  flex-direction: column;
-  gap: 24px;
-  padding: 0px 24px;
-  position: relative;
-  width: 100%;
-}
-
-.line-8-1 {
-  align-self: stretch;
-  height: 1px;
-  margin-left: -0.50px;
-  margin-right: -0.50px;
-  object-fit: cover;
+  gap: 40px;
   position: relative;
   width: 100%;
 }
@@ -368,6 +373,15 @@
   object-fit: cover;
   position: relative;
   width: 100%;
+}
+
+.desktop-home-logo-3 {
+  height: 36px;
+  position: relative;
+}
+
+.apps-16 {
+  width: 42px;
 }
 
 .build-4 {
