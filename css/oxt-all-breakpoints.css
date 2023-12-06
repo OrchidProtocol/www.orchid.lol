@@ -115,17 +115,6 @@
   width: 430px;
 }
 
-.oxt-all-breakpoints .desktop-header {
-  align-items: center;
-  align-self: stretch;
-  display: flex;
-  height: 96px;
-  justify-content: space-between;
-  padding: 24px 80px;
-  position: relative;
-  width: 100%;
-}
-
 .oxt-all-breakpoints .desktop-home-logo {
   cursor: pointer;
   flex: 0 0 auto;
@@ -610,6 +599,11 @@
   position: relative;
 }
 
+.oxt-all-breakpoints .desktop-home-logo-1 {
+  height: 36px;
+  position: relative;
+}
+
 .oxt-all-breakpoints .x2023-orchid-1 {
   color: var(--white);
   font-weight: 300;
@@ -849,23 +843,9 @@
 
 .oxtu95mobsm .mobile-nav-1 {
   align-self: stretch;
-  display: flex;
   height: 88px;
   position: relative;
   width: 100%;
-}
-
-.oxtu95mobsm .nav-bar-1 {
-  align-items: flex-start;
-  display: flex;
-  flex: 1;
-  height: 24px;
-  justify-content: space-between;
-  margin-left: 32px;
-  margin-right: 32px;
-  margin-top: 32px;
-  position: relative;
-  width: 296px;
 }
 
 .oxtu95mobsm .hero-2 {
@@ -1190,11 +1170,6 @@
   position: relative;
 }
 
-.oxtu95mobsm .desktop-home-logo-3 {
-  height: 36px;
-  position: relative;
-}
-
 .oxtu95mobsm .x2023-orchid-5 {
   color: var(--white);
   font-weight: 300;
@@ -1260,10 +1235,6 @@
 
 .oxtu95mobsm .apps-15 {
   width: 76px;
-}
-
-.oxtu95mobsm .apps-16 {
-  width: 42px;
 }
 
 .oxtu95mobsm .apps-17 {
@@ -1436,19 +1407,6 @@
   height: 88px;
 }
 
-.oxtu95tabsm .nav-bar {
-  align-items: flex-start;
-  display: flex;
-  flex: 1;
-  height: 24px;
-  justify-content: space-between;
-  margin-left: 32px;
-  margin-right: 32px;
-  margin-top: 32px;
-  position: relative;
-  width: 680px;
-}
-
 .oxtu95tabsm .hero-1 {
   align-items: flex-start;
   align-self: stretch;
@@ -1523,6 +1481,7 @@
 
 .oxtu95tabsm .mobile {
   align-items: center;
+  display: flex;
   flex: 0 0 auto;
   flex-direction: column;
   gap: 8px;
@@ -1761,6 +1720,17 @@
   width: 299px;
 }
 
+.oxtu95tabsm .hyperlinks-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 40px;
+  position: relative;
+  width: 100%;
+}
+
 .oxtu95tabsm .frame-532 {
   align-items: flex-start;
   align-self: stretch;
@@ -1827,6 +1797,19 @@
   width: 75px;
 }
 
+.oxtu95tabsm .social-icons-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 60px 60px;
+  justify-content: space-between;
+  padding: 24px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
 .oxtu95tabsm .social-link-1 {
   cursor: pointer;
   height: 32px;
@@ -1861,7 +1844,6 @@
 
 .oxtu95tabsm .mobile-1 {
   align-self: stretch;
-  display: flex;
   position: relative;
   width: 100%;
 }

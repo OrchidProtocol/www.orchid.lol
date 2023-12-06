@@ -1,12 +1,6 @@
 /* screen - mobile-nav-overlay */
 
 .mobile-nav-overlay {
-  align-items: flex-start;
-  display: flex;
-  min-width: 393px;
-}
-
-.mobile-nav-overlay .mobile-nav-overlay-1 {
   align-items: flex-end;
   background-color: var(--log-cabin);
   display: flex;
