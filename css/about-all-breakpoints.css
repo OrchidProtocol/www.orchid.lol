@@ -71,23 +71,15 @@
   width: 912px;
 }
 
-.about-all-breakpoints .logo-4 {
-  height: 604px;
-  left: calc(50.00% + 240px);
+.about-all-breakpoints .logo-2 {
+  height: 734px;
   position: absolute;
-  top: 192px;
-  width: 680px;
+  right: -279px;
+  top: 131px;
+  width: 810px;
 }
 
-.about-all-breakpoints .union {
-  height: 736px;
-  left: -52px;
-  position: absolute;
-  top: -62px;
-  width: 812px;
-}
-
-.about-all-breakpoints .desktop-home-logo-2 {
+.about-all-breakpoints .desktop-home-logo-1 {
   cursor: pointer;
   flex: 0 0 auto;
 }
@@ -154,7 +146,7 @@
   width: 196px;
 }
 
-.about-all-breakpoints .hero-2 {
+.about-all-breakpoints .hero-1 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -168,7 +160,7 @@
   width: 100%;
 }
 
-.about-all-breakpoints .frame-403-2 {
+.about-all-breakpoints .frame-403-1 {
   align-items: center;
   display: flex;
   flex: 0 0 auto;
@@ -178,7 +170,7 @@
   width: 855px;
 }
 
-.about-all-breakpoints .orchids-mission-is-2 {
+.about-all-breakpoints .orchids-mission-is-1 {
   align-self: stretch;
   color: transparent;
   font-weight: 600;
@@ -212,14 +204,14 @@
   width: 100%;
 }
 
-.about-all-breakpoints .intro-copy-8 {
+.about-all-breakpoints .intro-copy-4 {
   align-self: stretch;
   font-weight: 400;
   height: 312px;
   line-height: 28.0px;
 }
 
-.about-all-breakpoints .media-kits-2 {
+.about-all-breakpoints .media-kits-1 {
   align-items: center;
   background-color: var(--black);
   border: 1px solid;
@@ -234,7 +226,7 @@
   position: relative;
 }
 
-.about-all-breakpoints .copy-2 {
+.about-all-breakpoints .copy-1 {
   align-items: center;
   display: inline-flex;
   flex: 0 0 auto;
@@ -244,7 +236,7 @@
   position: relative;
 }
 
-.about-all-breakpoints .decentralized-marketplace-2 {
+.about-all-breakpoints .decentralized-marketplace-1 {
   color: transparent;
   font-weight: 600;
   height: 96px;
@@ -256,20 +248,20 @@
   width: 880px;
 }
 
-.about-all-breakpoints .intro-copy-9 {
+.about-all-breakpoints .intro-copy-5 {
   font-weight: 500;
   line-height: 34.7px;
   text-align: center;
   width: 880px;
 }
 
-.about-all-breakpoints .line-2-3 {
+.about-all-breakpoints .line-2-2 {
   margin-bottom: -1.00px;
   position: relative;
   width: 880px;
 }
 
-.about-all-breakpoints .buttons-2 {
+.about-all-breakpoints .buttons-1 {
   height: 72px;
   width: 361px;
 }
@@ -287,7 +279,7 @@
   width: 361px;
 }
 
-.about-all-breakpoints .contact-2 {
+.about-all-breakpoints .contact-1 {
   align-items: center;
   display: flex;
   flex: 0 0 auto;
@@ -305,7 +297,7 @@
   width: 100%;
 }
 
-.about-all-breakpoints .line-1-1 {
+.about-all-breakpoints .line-1 {
   height: 1px;
   left: 0;
   object-fit: cover;
@@ -328,7 +320,7 @@
   width: 1280px;
 }
 
-.about-all-breakpoints .intro-copy-10 {
+.about-all-breakpoints .intro-copy-6 {
   align-self: stretch;
   font-weight: 400;
   line-height: 28.0px;
@@ -351,7 +343,7 @@
   width: 40px;
 }
 
-.about-all-breakpoints .about-orchid-2 {
+.about-all-breakpoints .about-orchid-1 {
   color: var(--aquamarine);
   font-weight: 700;
   line-height: 24px;
@@ -360,7 +352,7 @@
   width: fit-content;
 }
 
-.about-all-breakpoints .buttons-3 {
+.about-all-breakpoints .buttons-2 {
   align-items: flex-start;
   flex: 0 0 auto;
   gap: 135px;
@@ -376,7 +368,7 @@
   justify-content: center;
 }
 
-.about-all-breakpoints .corp-info-2 {
+.about-all-breakpoints .corp-info-1 {
   align-items: flex-start;
   display: flex;
   flex: 0 0 auto;
@@ -393,7 +385,7 @@
   width: 1200px;
 }
 
-.about-all-breakpoints .line-2-4 {
+.about-all-breakpoints .line-2-3 {
   left: 0;
   position: absolute;
   top: 56px;
@@ -413,7 +405,7 @@
   width: 1200px;
 }
 
-.about-all-breakpoints .frame-493-2 {
+.about-all-breakpoints .frame-493-1 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -424,7 +416,7 @@
   width: 100%;
 }
 
-.about-all-breakpoints .frame-494-2 {
+.about-all-breakpoints .frame-494-1 {
   align-items: flex-start;
   display: flex;
   gap: 10px;
@@ -432,7 +424,7 @@
   width: 740px;
 }
 
-.about-all-breakpoints .intro-copy-11 {
+.about-all-breakpoints .intro-copy-7 {
   flex: 1;
   font-weight: 400;
   height: 156px;
@@ -454,7 +446,7 @@
   width: 299px;
 }
 
-.about-all-breakpoints .logo-5 {
+.about-all-breakpoints .logo-3 {
   align-items: flex-start;
   display: inline-flex;
   flex: 0 0 auto;
@@ -463,7 +455,7 @@
   position: relative;
 }
 
-.about-all-breakpoints .x2023-orchid-7 {
+.about-all-breakpoints .x2023-orchid-4 {
   color: var(--white);
   font-weight: 300;
   line-height: 19.6px;
@@ -471,7 +463,7 @@
   width: 299px;
 }
 
-.about-all-breakpoints .hyperlinks-2 {
+.about-all-breakpoints .hyperlinks-1 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -489,7 +481,7 @@
   gap: 24px;
 }
 
-.about-all-breakpoints .x2023-orchid-6 {
+.about-all-breakpoints .x2023-orchid-3 {
   color: var(--white);
   cursor: pointer;
   flex: 1;
@@ -498,11 +490,11 @@
   width: 180px;
 }
 
-.about-all-breakpoints .apps-17 {
+.about-all-breakpoints .apps-9 {
   cursor: pointer;
 }
 
-.about-all-breakpoints .link-2 {
+.about-all-breakpoints .link-1 {
   cursor: pointer;
   display: flex;
   height: 22px;
@@ -510,7 +502,7 @@
   width: 198px;
 }
 
-.about-all-breakpoints .social-icons-2 {
+.about-all-breakpoints .social-icons-1 {
   align-items: flex-start;
   display: inline-flex;
   flex: 0 0 auto;
@@ -520,10 +512,9 @@
   position: relative;
 }
 
-.about-all-breakpoints .social-link-github-2 {
+.about-all-breakpoints .social-link-1 {
   cursor: pointer;
-  height: 33px;
-  margin-bottom: -1.00px;
+  height: 32px;
   position: relative;
   width: 32px;
 }
@@ -606,7 +597,7 @@
   position: relative;
 }
 
-.aboutu95mobsm .mobile-nav-header {
+.aboutu95mobsm .mobile-nav-header-1 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -617,7 +608,7 @@
   width: 100%;
 }
 
-.aboutu95mobsm .hero {
+.aboutu95mobsm .hero-2 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -629,7 +620,7 @@
   width: 100%;
 }
 
-.aboutu95mobsm .frame-403 {
+.aboutu95mobsm .frame-403-2 {
   align-items: flex-start;
   display: flex;
   flex: 1;
@@ -639,7 +630,7 @@
   position: relative;
 }
 
-.aboutu95mobsm .orchids-mission-is {
+.aboutu95mobsm .orchids-mission-is-2 {
   align-self: stretch;
   color: transparent;
   font-weight: 600;
@@ -648,30 +639,26 @@
   position: relative;
 }
 
-.aboutu95mobsm .span {
+.aboutu95mobsm .span-2 {
   color: var(--white);
 }
 
-.aboutu95mobsm .span-1 {
+.aboutu95mobsm .span-3 {
   color: var(--aquamarine);
 }
 
-.aboutu95mobsm .line {
+.aboutu95mobsm .line-3 {
   align-self: stretch;
   width: 100%;
 }
 
-.aboutu95mobsm .intro-copy {
+.aboutu95mobsm .intro-copy-8 {
   align-self: stretch;
-  color: var(--white);
   font-weight: 300;
   line-height: 18.0px;
-  position: relative;
 }
 
-.aboutu95mobsm .logo {
-  background-image: url(../img/union-4@2x.png);
-  background-size: 100% 100%;
+.aboutu95mobsm .logo-4 {
   height: 159px;
   position: absolute;
   right: 0;
@@ -679,7 +666,7 @@
   width: 128px;
 }
 
-.aboutu95mobsm .media-kits {
+.aboutu95mobsm .media-kits-2 {
   align-items: center;
   background-color: var(--black);
   border: 1px solid;
@@ -695,7 +682,7 @@
   width: 312px;
 }
 
-.aboutu95mobsm .copy {
+.aboutu95mobsm .copy-2 {
   align-items: center;
   align-self: stretch;
   display: flex;
@@ -708,7 +695,7 @@
   width: 100%;
 }
 
-.aboutu95mobsm .decentralized-marketplace {
+.aboutu95mobsm .decentralized-marketplace-2 {
   align-self: stretch;
   color: transparent;
   font-weight: 600;
@@ -719,20 +706,23 @@
   text-shadow: 0px 4px 16px #ffffff40;
 }
 
-.aboutu95mobsm .intro-copy-1 {
+.aboutu95mobsm .intro-copy-9 {
   align-self: stretch;
   font-weight: 600;
   line-height: 19.8px;
   text-align: center;
 }
 
-.aboutu95mobsm .line-2 {
+.aboutu95mobsm .line-2-4 {
   align-self: stretch;
+  height: 1px;
   margin-bottom: -1.00px;
+  object-fit: cover;
+  position: relative;
   width: 100%;
 }
 
-.aboutu95mobsm .frame-476 {
+.aboutu95mobsm .frame-476-1 {
   align-items: center;
   display: inline-flex;
   flex: 0 0 auto;
@@ -743,20 +733,14 @@
   position: relative;
 }
 
-.aboutu95mobsm .mobile-button-hero {
+.aboutu95mobsm .mobile-button-hero-3 {
   align-items: center;
   background-color: var(--log-cabin);
-  border: 1px solid;
-  border-color: var(--aquamarine);
-  border-radius: 60px;
   display: inline-flex;
-  flex: 0 0 auto;
-  justify-content: center;
   padding: 16px 60px;
-  position: relative;
 }
 
-.aboutu95mobsm .contact {
+.aboutu95mobsm .contact-2 {
   align-items: center;
   align-self: stretch;
   display: flex;
@@ -768,7 +752,7 @@
   width: 100%;
 }
 
-.aboutu95mobsm .mobile {
+.aboutu95mobsm .mobile-1 {
   align-items: center;
   align-self: stretch;
   display: flex;
@@ -779,7 +763,7 @@
   width: 100%;
 }
 
-.aboutu95mobsm .mobile-caption-section {
+.aboutu95mobsm .mobile-caption-section-1 {
   align-items: center;
   align-self: stretch;
   display: flex;
@@ -790,12 +774,12 @@
   width: 100%;
 }
 
-.aboutu95mobsm .line-1 {
+.aboutu95mobsm .line-4 {
   flex: 1;
   flex-grow: 1;
 }
 
-.aboutu95mobsm .discover {
+.aboutu95mobsm .discover-1 {
   color: var(--white);
   font-weight: 600;
   line-height: 13.2px;
@@ -805,7 +789,7 @@
   width: fit-content;
 }
 
-.aboutu95mobsm .mobile-headline-section {
+.aboutu95mobsm .mobile-headline-section-1 {
   align-items: flex-start;
   display: flex;
   flex: 0 0 auto;
@@ -817,7 +801,7 @@
   width: 360px;
 }
 
-.aboutu95mobsm .the-orchid-ecosystem {
+.aboutu95mobsm .the-orchid-ecosystem-1 {
   color: transparent;
   flex: 1;
   font-weight: 600;
@@ -827,7 +811,7 @@
   text-align: center;
 }
 
-.aboutu95mobsm .intro-copy-2 {
+.aboutu95mobsm .intro-copy-10 {
   align-self: stretch;
   font-weight: 300;
   line-height: 18.0px;
@@ -844,13 +828,13 @@
   position: relative;
 }
 
-.aboutu95mobsm .social-link-discord {
+.aboutu95mobsm .social-link-discord-1 {
   height: 32px;
   position: relative;
   width: 31px;
 }
 
-.aboutu95mobsm .about-orchid {
+.aboutu95mobsm .about-orchid-2 {
   color: var(--aquamarine);
   font-weight: 700;
   line-height: 24px;
@@ -859,7 +843,7 @@
   width: fit-content;
 }
 
-.aboutu95mobsm .buttons {
+.aboutu95mobsm .buttons-3 {
   align-items: center;
   align-self: stretch;
   cursor: pointer;
@@ -871,12 +855,16 @@
   width: 100%;
 }
 
-.aboutu95mobsm .mobile-button-hero-1 {
+.aboutu95mobsm .mobile-button-hero-4 {
   align-items: center;
+  align-self: stretch;
   background-color: var(--log-cabin);
+  display: flex;
+  padding: 16px 80px;
+  width: 100%;
 }
 
-.aboutu95mobsm .corp-info {
+.aboutu95mobsm .corp-info-2 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -888,7 +876,7 @@
   width: 100%;
 }
 
-.aboutu95mobsm .corporate-info {
+.aboutu95mobsm .corporate-info-1 {
   color: transparent;
   font-weight: 600;
   height: 23px;
@@ -900,7 +888,7 @@
   width: 504px;
 }
 
-.aboutu95mobsm .frame-493 {
+.aboutu95mobsm .frame-493-2 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -912,7 +900,7 @@
   width: 100%;
 }
 
-.aboutu95mobsm .frame-494 {
+.aboutu95mobsm .frame-494-2 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -922,19 +910,23 @@
   width: 100%;
 }
 
-.aboutu95mobsm .intro-copy-3 {
+.aboutu95mobsm .intro-copy-11 {
   flex: 1;
   font-weight: 300;
   line-height: 18.0px;
   margin-top: -1.00px;
 }
 
-.aboutu95mobsm .mobile-button-hero-2 {
+.aboutu95mobsm .mobile-button-hero-5 {
   align-items: flex-start;
+  align-self: stretch;
   background-color: var(--heavy-metal);
+  display: flex;
+  padding: 16px 80px;
+  width: 100%;
 }
 
-.aboutu95mobsm .logo-1 {
+.aboutu95mobsm .logo-5 {
   align-items: flex-start;
   display: inline-flex;
   flex: 0 0 auto;
@@ -944,12 +936,7 @@
   position: relative;
 }
 
-.aboutu95mobsm .desktop-home-logo {
-  height: 36px;
-  position: relative;
-}
-
-.aboutu95mobsm .x2023-orchid {
+.aboutu95mobsm .x2023-orchid-5 {
   color: var(--white);
   font-weight: 300;
   line-height: 19.6px;
@@ -957,7 +944,7 @@
   width: 299px;
 }
 
-.aboutu95mobsm .hyperlinks {
+.aboutu95mobsm .hyperlinks-2 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -968,27 +955,25 @@
   width: 100%;
 }
 
-.aboutu95mobsm .frame-532 {
-  align-items: flex-start;
-  align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 32px;
-  padding: 24px 0px;
-  position: relative;
-  width: 100%;
-}
-
-.aboutu95mobsm .x2023-orchid-1 {
+.aboutu95mobsm .x2023-orchid-6 {
+  color: var(--white);
+  cursor: pointer;
+  flex: 1;
+  font-weight: 700;
+  line-height: 24px;
   width: 151px;
 }
 
-.aboutu95mobsm .x2023-orchid-2 {
+.aboutu95mobsm .x2023-orchid-7 {
+  color: var(--white);
+  cursor: pointer;
+  flex: 1;
+  font-weight: 700;
+  line-height: 24px;
   width: 132px;
 }
 
-.aboutu95mobsm .link {
+.aboutu95mobsm .link-2 {
   cursor: pointer;
   display: flex;
   height: 22px;
@@ -996,40 +981,36 @@
   width: 198px;
 }
 
-.aboutu95mobsm .apps {
+.aboutu95mobsm .apps-10 {
   width: 102px;
 }
 
-.aboutu95mobsm .apps-1 {
+.aboutu95mobsm .apps-11 {
   width: 132px;
 }
 
-.aboutu95mobsm .apps-2 {
+.aboutu95mobsm .apps-12 {
   cursor: pointer;
   width: 113px;
 }
 
-.aboutu95mobsm .apps-3 {
+.aboutu95mobsm .apps-13 {
   width: 85px;
 }
 
-.aboutu95mobsm .apps-4 {
+.aboutu95mobsm .apps-14 {
   width: 122px;
 }
 
-.aboutu95mobsm .apps-5 {
+.aboutu95mobsm .apps-15 {
   width: 76px;
 }
 
-.aboutu95mobsm .apps-6 {
-  width: 42px;
-}
-
-.aboutu95mobsm .apps-7 {
+.aboutu95mobsm .apps-17 {
   width: 75px;
 }
 
-.aboutu95mobsm .social-icons {
+.aboutu95mobsm .social-icons-2 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -1042,7 +1023,7 @@
   width: 100%;
 }
 
-.aboutu95mobsm .social-link-github {
+.aboutu95mobsm .social-link-github-2 {
   cursor: pointer;
   height: 33px;
   margin-bottom: -1.00px;
@@ -1050,53 +1031,31 @@
   width: 32px;
 }
 
-.aboutu95mobsm .social-link-reddit {
-  background-image: url(../img/combined-shape@2x.png);
-  background-size: 100% 100%;
-  border-radius: 40px;
-  cursor: pointer;
-  height: 32px;
-  position: relative;
-  width: 32px;
-}
-
-.aboutu95mobsm .apps-8 {
+.aboutu95mobsm .apps {
   color: var(--white);
   font-weight: 700;
   height: 24px;
   line-height: 24px;
 }
 
-.aboutu95mobsm .intro-copy-4 {
+.aboutu95mobsm .intro-copy {
   color: var(--white);
   position: relative;
 }
 
-.aboutu95mobsm .line-3 {
+.aboutu95mobsm .line {
   height: 1px;
   object-fit: cover;
   position: relative;
 }
 
-.aboutu95mobsm .mobile-button-hero-3 {
-  align-self: stretch;
+.aboutu95mobsm .mobile-button-hero {
   border: 1px solid;
   border-color: var(--aquamarine);
   border-radius: 60px;
-  display: flex;
   flex: 0 0 auto;
   justify-content: center;
-  padding: 16px 80px;
   position: relative;
-  width: 100%;
-}
-
-.aboutu95mobsm .x2023-orchid-3 {
-  color: var(--white);
-  cursor: pointer;
-  flex: 1;
-  font-weight: 700;
-  line-height: 24px;
 }
 /* screen - aboutu95tabsm */
 
@@ -1110,7 +1069,7 @@
   position: relative;
 }
 
-.aboutu95tabsm .mobile-nav-header-1 {
+.aboutu95tabsm .mobile-nav-header {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -1121,7 +1080,7 @@
   width: 100%;
 }
 
-.aboutu95tabsm .hero-1 {
+.aboutu95tabsm .hero {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -1133,7 +1092,7 @@
   width: 100%;
 }
 
-.aboutu95tabsm .frame-403-1 {
+.aboutu95tabsm .frame-403 {
   align-items: flex-start;
   display: flex;
   flex: 0 0 auto;
@@ -1144,7 +1103,7 @@
   width: 520px;
 }
 
-.aboutu95tabsm .orchids-mission-is-1 {
+.aboutu95tabsm .orchids-mission-is {
   color: transparent;
   font-weight: 600;
   line-height: 25.2px;
@@ -1153,11 +1112,11 @@
   width: 347px;
 }
 
-.aboutu95tabsm .span-2 {
+.aboutu95tabsm .span {
   color: var(--white);
 }
 
-.aboutu95tabsm .span-3 {
+.aboutu95tabsm .span-1 {
   color: var(--aquamarine);
 }
 
@@ -1166,15 +1125,15 @@
   width: 100%;
 }
 
-.aboutu95tabsm .intro-copy-4 {
+.aboutu95tabsm .intro-copy {
   align-self: stretch;
+  color: var(--white);
   font-weight: 300;
   line-height: 18.0px;
+  position: relative;
 }
 
-.aboutu95tabsm .logo-2 {
-  background-image: url(../img/union-6@2x.png);
-  background-size: 100% 100%;
+.aboutu95tabsm .logo {
   height: 326px;
   position: absolute;
   right: 0;
@@ -1182,7 +1141,7 @@
   width: 251px;
 }
 
-.aboutu95tabsm .media-kits-1 {
+.aboutu95tabsm .media-kits {
   align-items: center;
   background-color: var(--black);
   border: 1px solid;
@@ -1198,7 +1157,7 @@
   width: 696px;
 }
 
-.aboutu95tabsm .copy-1 {
+.aboutu95tabsm .copy {
   align-items: center;
   align-self: stretch;
   display: flex;
@@ -1210,7 +1169,7 @@
   width: 100%;
 }
 
-.aboutu95tabsm .decentralized-marketplace-1 {
+.aboutu95tabsm .decentralized-marketplace {
   align-self: stretch;
   color: transparent;
   font-weight: 600;
@@ -1221,18 +1180,20 @@
   text-shadow: 0px 4px 16px #ffffff40;
 }
 
-.aboutu95tabsm .intro-copy-5 {
+.aboutu95tabsm .intro-copy-1 {
   align-self: stretch;
   font-weight: 600;
   line-height: 19.8px;
   text-align: center;
 }
 
-.aboutu95tabsm .line-2-1 {
+.aboutu95tabsm .line-2 {
+  align-self: stretch;
   margin-bottom: -1.00px;
+  width: 100%;
 }
 
-.aboutu95tabsm .frame-476-1 {
+.aboutu95tabsm .frame-476 {
   align-items: center;
   display: inline-flex;
   flex: 0 0 auto;
@@ -1242,13 +1203,20 @@
   position: relative;
 }
 
-.aboutu95tabsm .mobile-button-hero-3 {
+.aboutu95tabsm .mobile-button-hero {
   align-items: center;
   background-color: var(--log-cabin);
+  border: 1px solid;
+  border-color: var(--aquamarine);
+  border-radius: 60px;
+  display: inline-flex;
+  flex: 0 0 auto;
   justify-content: center;
+  padding: 16px 80px;
+  position: relative;
 }
 
-.aboutu95tabsm .learn-more-1 {
+.aboutu95tabsm .learn-more {
   color: var(--white);
   font-weight: 700;
   line-height: 24px;
@@ -1259,7 +1227,7 @@
   width: fit-content;
 }
 
-.aboutu95tabsm .contact-1 {
+.aboutu95tabsm .contact {
   align-items: center;
   display: flex;
   flex: 0 0 auto;
@@ -1270,7 +1238,7 @@
   width: 733px;
 }
 
-.aboutu95tabsm .mobile-1 {
+.aboutu95tabsm .mobile {
   align-items: center;
   align-self: stretch;
   display: flex;
@@ -1281,7 +1249,7 @@
   width: 100%;
 }
 
-.aboutu95tabsm .mobile-caption-section-1 {
+.aboutu95tabsm .mobile-caption-section {
   align-items: center;
   align-self: stretch;
   display: flex;
@@ -1292,12 +1260,12 @@
   width: 100%;
 }
 
-.aboutu95tabsm .line-3 {
+.aboutu95tabsm .line {
   flex: 1;
   flex-grow: 1;
 }
 
-.aboutu95tabsm .discover-1 {
+.aboutu95tabsm .discover {
   color: var(--white);
   font-weight: 600;
   line-height: 13.2px;
@@ -1307,7 +1275,7 @@
   width: fit-content;
 }
 
-.aboutu95tabsm .mobile-headline-section-1 {
+.aboutu95tabsm .mobile-headline-section {
   align-items: flex-start;
   display: flex;
   flex: 0 0 auto;
@@ -1317,7 +1285,7 @@
   width: 360px;
 }
 
-.aboutu95tabsm .the-orchid-ecosystem-1 {
+.aboutu95tabsm .the-orchid-ecosystem {
   color: transparent;
   flex: 1;
   font-weight: 600;
@@ -1327,7 +1295,7 @@
   text-align: center;
 }
 
-.aboutu95tabsm .intro-copy-6 {
+.aboutu95tabsm .intro-copy-2 {
   align-self: stretch;
   font-weight: 300;
   line-height: 18.0px;
@@ -1344,13 +1312,13 @@
   position: relative;
 }
 
-.aboutu95tabsm .social-link-discord-1 {
+.aboutu95tabsm .social-link-discord {
   height: 32px;
   position: relative;
   width: 31px;
 }
 
-.aboutu95tabsm .about-orchid-1 {
+.aboutu95tabsm .about-orchid {
   color: var(--aquamarine);
   font-weight: 700;
   line-height: 24px;
@@ -1359,7 +1327,7 @@
   width: fit-content;
 }
 
-.aboutu95tabsm .buttons-1 {
+.aboutu95tabsm .buttons {
   align-items: flex-start;
   display: flex;
   flex: 0 0 auto;
@@ -1370,14 +1338,13 @@
   width: 588.36px;
 }
 
-.aboutu95tabsm .mobile-button-hero-4 {
+.aboutu95tabsm .mobile-button-hero-1 {
   align-items: center;
-  background-color: var(--heavy-metal);
   cursor: pointer;
   justify-content: center;
 }
 
-.aboutu95tabsm .corp-info-1 {
+.aboutu95tabsm .corp-info {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -1389,7 +1356,7 @@
   width: 100%;
 }
 
-.aboutu95tabsm .corporate-info-1 {
+.aboutu95tabsm .corporate-info {
   color: transparent;
   font-weight: 600;
   height: 23px;
@@ -1400,7 +1367,15 @@
   width: 504px;
 }
 
-.aboutu95tabsm .frame-493-1 {
+.aboutu95tabsm .line-2-1 {
+  align-self: stretch;
+  height: 1px;
+  object-fit: cover;
+  position: relative;
+  width: 100%;
+}
+
+.aboutu95tabsm .frame-493 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -1411,7 +1386,7 @@
   width: 100%;
 }
 
-.aboutu95tabsm .frame-494-1 {
+.aboutu95tabsm .frame-494 {
   align-items: flex-start;
   display: flex;
   flex: 1;
@@ -1420,20 +1395,19 @@
   position: relative;
 }
 
-.aboutu95tabsm .intro-copy-7 {
+.aboutu95tabsm .intro-copy-3 {
   flex: 1;
   font-weight: 300;
   line-height: 18.0px;
   margin-top: -1.00px;
 }
 
-.aboutu95tabsm .mobile-button-hero-5 {
+.aboutu95tabsm .mobile-button-hero-2 {
   align-items: flex-start;
-  background-color: var(--heavy-metal);
   justify-content: flex-end;
 }
 
-.aboutu95tabsm .logo-3 {
+.aboutu95tabsm .logo-1 {
   align-items: flex-start;
   display: inline-flex;
   flex: 0 0 auto;
@@ -1442,12 +1416,12 @@
   position: relative;
 }
 
-.aboutu95tabsm .desktop-home-logo-1 {
+.aboutu95tabsm .desktop-home-logo {
   height: 36px;
   position: relative;
 }
 
-.aboutu95tabsm .x2023-orchid-3 {
+.aboutu95tabsm .x2023-orchid {
   color: var(--white);
   font-weight: 300;
   line-height: 19.6px;
@@ -1455,7 +1429,7 @@
   width: 299px;
 }
 
-.aboutu95tabsm .hyperlinks-1 {
+.aboutu95tabsm .hyperlinks {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -1466,25 +1440,27 @@
   width: 100%;
 }
 
-.aboutu95tabsm .x2023-orchid-4 {
-  color: var(--white);
-  cursor: pointer;
-  flex: 1;
-  font-weight: 700;
-  line-height: 24px;
+.aboutu95tabsm .frame-532 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 32px;
+  padding: 24px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.aboutu95tabsm .x2023-orchid-1 {
   width: 151px;
 }
 
-.aboutu95tabsm .x2023-orchid-5 {
-  color: var(--white);
-  cursor: pointer;
-  flex: 1;
-  font-weight: 700;
-  line-height: 24px;
+.aboutu95tabsm .x2023-orchid-2 {
   width: 132px;
 }
 
-.aboutu95tabsm .link-1 {
+.aboutu95tabsm .link {
   cursor: pointer;
   display: flex;
   height: 22px;
@@ -1492,40 +1468,40 @@
   width: 198px;
 }
 
-.aboutu95tabsm .apps-8 {
+.aboutu95tabsm .apps {
   width: 102px;
 }
 
-.aboutu95tabsm .apps-9 {
+.aboutu95tabsm .apps-1 {
   width: 132px;
 }
 
-.aboutu95tabsm .apps-10 {
+.aboutu95tabsm .apps-2 {
   cursor: pointer;
   width: 113px;
 }
 
-.aboutu95tabsm .apps-11 {
+.aboutu95tabsm .apps-3 {
   width: 85px;
 }
 
-.aboutu95tabsm .apps-12 {
+.aboutu95tabsm .apps-4 {
   width: 122px;
 }
 
-.aboutu95tabsm .apps-13 {
+.aboutu95tabsm .apps-5 {
   width: 76px;
 }
 
-.aboutu95tabsm .apps-14 {
+.aboutu95tabsm .apps-6 {
   width: 42px;
 }
 
-.aboutu95tabsm .apps-15 {
+.aboutu95tabsm .apps-7 {
   width: 75px;
 }
 
-.aboutu95tabsm .social-icons-1 {
+.aboutu95tabsm .social-icons {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -1538,40 +1514,44 @@
   width: 100%;
 }
 
-.aboutu95tabsm .social-link-1 {
+.aboutu95tabsm .social-link-github {
+  cursor: pointer;
+  height: 33px;
+  margin-bottom: -1.00px;
+  position: relative;
+  width: 32px;
+}
+
+.aboutu95tabsm .social-link-reddit {
+  background-image: url(../img/combined-shape@2x.png);
+  background-size: 100% 100%;
+  border-radius: 40px;
   cursor: pointer;
   height: 32px;
   position: relative;
   width: 32px;
 }
 
-.aboutu95tabsm .apps {
+.aboutu95tabsm .apps-8 {
   color: var(--white);
   font-weight: 700;
   height: 24px;
   line-height: 24px;
 }
 
-.aboutu95tabsm .intro-copy {
+.aboutu95tabsm .intro-copy-4 {
   color: var(--white);
   position: relative;
 }
 
-.aboutu95tabsm .line {
+.aboutu95tabsm .line-1 {
   height: 1px;
   object-fit: cover;
   position: relative;
 }
 
-.aboutu95tabsm .line-2 {
-  align-self: stretch;
-  height: 1px;
-  object-fit: cover;
-  position: relative;
-  width: 100%;
-}
-
-.aboutu95tabsm .mobile-button-hero {
+.aboutu95tabsm .mobile-button-hero-3 {
+  background-color: var(--heavy-metal);
   border: 1px solid;
   border-color: var(--aquamarine);
   border-radius: 60px;
@@ -1579,6 +1559,14 @@
   flex: 0 0 auto;
   padding: 16px 80px;
   position: relative;
+}
+
+.aboutu95tabsm .x2023-orchid-3 {
+  color: var(--white);
+  cursor: pointer;
+  flex: 1;
+  font-weight: 700;
+  line-height: 24px;
 }
 @media screen and (max-width: 743px) {
   .screen.aboutu95tabsm { 
@@ -1589,18 +1577,18 @@
    }
 }
 @media screen and (min-width: 744px) and (max-width: 1439px) {
-  .screen.aboutu95mobsm { 
+  .screen.about-all-breakpoints { 
     display: none;
    }
-  .screen.about-all-breakpoints { 
+  .screen.aboutu95mobsm { 
     display: none;
    }
 }
 @media screen and (min-width: 1440px) {
-  .screen.aboutu95mobsm { 
+  .screen.aboutu95tabsm { 
     display: none;
    }
-  .screen.aboutu95tabsm { 
+  .screen.aboutu95mobsm { 
     display: none;
    }
 }

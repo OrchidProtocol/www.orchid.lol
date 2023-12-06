@@ -95,9 +95,11 @@
   width: 380px;
 }
 
-.vpn-all-breakpoints .desktop-home-logo-1 {
+.vpn-all-breakpoints .desktop-home-logo {
   cursor: pointer;
   flex: 0 0 auto;
+  height: 36px;
+  position: relative;
 }
 
 .vpn-all-breakpoints .desktop-button-top-nav-1 {
@@ -165,7 +167,7 @@
   width: 196px;
 }
 
-.vpn-all-breakpoints .hero-1 {
+.vpn-all-breakpoints .hero {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -203,7 +205,7 @@
   width: 481px;
 }
 
-.vpn-all-breakpoints .unblock-your-internet-1 {
+.vpn-all-breakpoints .unblock-your-internet {
   align-self: stretch;
   color: transparent;
   font-weight: 800;
@@ -212,15 +214,15 @@
   position: relative;
 }
 
-.vpn-all-breakpoints .span-2 {
+.vpn-all-breakpoints .span {
   color: var(--aquamarine);
 }
 
-.vpn-all-breakpoints .span-3 {
+.vpn-all-breakpoints .span-1 {
   color: var(--white);
 }
 
-.vpn-all-breakpoints .with-orchids-decent-1 {
+.vpn-all-breakpoints .with-orchids-decent {
   align-self: stretch;
   color: transparent;
   font-weight: 600;
@@ -228,13 +230,22 @@
   position: relative;
 }
 
-.vpn-all-breakpoints .hero-cta-button-1 {
+.vpn-all-breakpoints .hero-cta-button {
   align-items: flex-start;
   display: inline-flex;
   flex: 0 0 auto;
   flex-direction: column;
   padding: 96px 0px 0px;
   position: relative;
+}
+
+.vpn-all-breakpoints .learn-more {
+  color: var(--white);
+  flex: 1;
+  font-weight: 700;
+  height: 24px;
+  line-height: 24px;
+  text-align: center;
 }
 
 .vpn-all-breakpoints .marketplace {
@@ -286,9 +297,11 @@
   width: fit-content;
 }
 
-.vpn-all-breakpoints .line-1 {
+.vpn-all-breakpoints .line {
   flex: 1;
   flex-grow: 1;
+  height: 1px;
+  object-fit: cover;
   position: relative;
 }
 
@@ -321,7 +334,7 @@
   width: 1180px;
 }
 
-.vpn-all-breakpoints .intro-copy-7 {
+.vpn-all-breakpoints .intro-copy {
   color: var(--white);
   flex: 1;
   font-weight: 400;
@@ -330,23 +343,40 @@
   position: relative;
 }
 
-.vpn-all-breakpoints .cards-2 {
+.vpn-all-breakpoints .cards {
   align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
   flex-direction: column;
   gap: 24px;
   min-width: 560px;
   padding: 24px 0px;
-}
-
-.vpn-all-breakpoints .cards-item-2 {
-  align-items: center;
-  align-self: stretch;
-  display: flex;
-  padding: 0px 0px 0px 60px;
+  position: relative;
   width: 100%;
 }
 
-.vpn-all-breakpoints .intro-copy-8 {
+.vpn-all-breakpoints .cards-item {
+  align-items: center;
+  padding: 0px 0px 0px 60px;
+}
+
+.vpn-all-breakpoints .frame-518 {
+  align-items: center;
+  background-color: var(--black-2);
+  border: 1px solid;
+  border-color: var(--true-v);
+  border-radius: 16px;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 24px;
+  overflow: hidden;
+  padding: 40px 24px 40px 100px;
+  position: relative;
+}
+
+.vpn-all-breakpoints .intro-copy-1 {
   color: var(--white);
   flex: 1;
   font-weight: 500;
@@ -354,9 +384,11 @@
   position: relative;
 }
 
-.vpn-all-breakpoints .line-8-2 {
+.vpn-all-breakpoints .line-8 {
+  align-self: stretch;
   margin-bottom: -2.00px;
   margin-top: -2.00px;
+  position: relative;
   width: 4px;
 }
 
@@ -368,8 +400,20 @@
   width: 120px;
 }
 
-.vpn-all-breakpoints .frame-518-2 {
+.vpn-all-breakpoints .frame-518-1 {
+  align-items: center;
+  background-color: var(--black-2);
+  border: 1px solid;
+  border-color: var(--true-v);
+  border-radius: 16px;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 24px;
   justify-content: center;
+  overflow: hidden;
+  padding: 40px 24px 40px 100px;
+  position: relative;
 }
 
 .vpn-all-breakpoints .features {
@@ -449,25 +493,25 @@
   width: 1280px;
 }
 
-.vpn-all-breakpoints .cards-3 {
+.vpn-all-breakpoints .cards-1 {
   align-items: flex-start;
   flex-wrap: wrap;
   gap: 24px 24px;
   justify-content: center;
 }
 
-.vpn-all-breakpoints .cards-item-3 {
+.vpn-all-breakpoints .cards-item-1 {
   align-items: center;
   background-color: var(--log-cabin);
-  border-radius: 16px;
   display: inline-flex;
-  flex-direction: column;
   gap: 24px;
   min-height: 364px;
   padding: 60px 40px;
 }
 
-.vpn-all-breakpoints .icon-1 {
+.vpn-all-breakpoints .icon {
+  height: 120px;
+  position: relative;
   width: 120px;
 }
 
@@ -481,7 +525,7 @@
   position: relative;
 }
 
-.vpn-all-breakpoints .title-1 {
+.vpn-all-breakpoints .title {
   color: var(--white);
   font-weight: 500;
   line-height: 34.7px;
@@ -491,7 +535,7 @@
   width: 280px;
 }
 
-.vpn-all-breakpoints .body-2 {
+.vpn-all-breakpoints .body {
   color: var(--white);
   font-weight: 400;
   line-height: 28.0px;
@@ -499,7 +543,7 @@
   width: 280px;
 }
 
-.vpn-all-breakpoints .intro-copy-9 {
+.vpn-all-breakpoints .intro-copy-2 {
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 1;
   color: var(--dull-lavender-2);
@@ -539,13 +583,15 @@
 }
 
 .vpn-all-breakpoints .line-2 {
+  height: 1px;
   left: 0;
+  object-fit: cover;
   position: absolute;
   top: 56px;
   width: 1280px;
 }
 
-.vpn-all-breakpoints .title-2 {
+.vpn-all-breakpoints .title-1 {
   color: transparent;
   font-weight: 600;
   height: 32px;
@@ -558,28 +604,26 @@
   width: 1280px;
 }
 
-.vpn-all-breakpoints .cards-4 {
+.vpn-all-breakpoints .cards-2 {
   align-items: center;
   flex-direction: column;
   gap: 24px;
 }
 
-.vpn-all-breakpoints .cards-item-4 {
+.vpn-all-breakpoints .cards-item-2 {
   align-items: flex-start;
   align-self: stretch;
   background-color: var(--black-2);
   border: 1px solid;
   border-color: var(--true-v);
-  border-radius: 16px;
   display: flex;
-  flex-direction: column;
   gap: 16px;
   overflow: hidden;
   padding: 24px 40px 40px;
   width: 100%;
 }
 
-.vpn-all-breakpoints .intro-copy-10 {
+.vpn-all-breakpoints .intro-copy-3 {
   align-self: stretch;
   color: var(--white);
   font-weight: 500;
@@ -588,14 +632,16 @@
   position: relative;
 }
 
-.vpn-all-breakpoints .line-8-3 {
+.vpn-all-breakpoints .line-8-1 {
+  align-self: stretch;
   height: 2px;
   margin-left: -1.00px;
   margin-right: -1.00px;
+  position: relative;
   width: 100%;
 }
 
-.vpn-all-breakpoints .intro-copy-11 {
+.vpn-all-breakpoints .intro-copy-4 {
   align-self: stretch;
   color: var(--white);
   font-weight: 400;
@@ -603,7 +649,7 @@
   position: relative;
 }
 
-.vpn-all-breakpoints .intro-copy-12 {
+.vpn-all-breakpoints .intro-copy-5 {
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 1;
   align-self: stretch;
@@ -616,7 +662,7 @@
   text-overflow: ellipsis;
 }
 
-.vpn-all-breakpoints .intro-copy-13 {
+.vpn-all-breakpoints .intro-copy-6 {
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 1;
   align-self: stretch;
@@ -630,7 +676,7 @@
   text-overflow: ellipsis;
 }
 
-.vpn-all-breakpoints .intro-copy-14 {
+.vpn-all-breakpoints .intro-copy-7 {
   align-self: stretch;
   cursor: pointer;
   flex: 0 0 auto;
@@ -640,7 +686,7 @@
   width: 100%;
 }
 
-.vpn-all-breakpoints .button-1 {
+.vpn-all-breakpoints .button {
   align-items: center;
   display: inline-flex;
   flex: 0 0 auto;
@@ -662,7 +708,7 @@
   padding: 24px 80px;
 }
 
-.vpn-all-breakpoints .logo-1 {
+.vpn-all-breakpoints .logo {
   align-items: flex-start;
   display: inline-flex;
   flex: 0 0 auto;
@@ -671,7 +717,12 @@
   position: relative;
 }
 
-.vpn-all-breakpoints .x2023-orchid-4 {
+.vpn-all-breakpoints .desktop-home-logo-1 {
+  height: 36px;
+  position: relative;
+}
+
+.vpn-all-breakpoints .x2023-orchid-1 {
   color: var(--white);
   font-weight: 300;
   line-height: 19.6px;
@@ -679,7 +730,7 @@
   width: 299px;
 }
 
-.vpn-all-breakpoints .hyperlinks-1 {
+.vpn-all-breakpoints .hyperlinks {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -700,7 +751,7 @@
   position: relative;
 }
 
-.vpn-all-breakpoints .x2023-orchid-3 {
+.vpn-all-breakpoints .x2023-orchid {
   color: var(--white);
   cursor: pointer;
   flex: 1;
@@ -709,33 +760,21 @@
   width: 180px;
 }
 
-.vpn-all-breakpoints .apps-9 {
+.vpn-all-breakpoints .apps-1 {
+  color: var(--white);
   cursor: pointer;
+  font-weight: 700;
+  height: 22px;
+  line-height: 22.4px;
+  width: 198px;
 }
 
-.vpn-all-breakpoints .link-1 {
+.vpn-all-breakpoints .link {
   cursor: pointer;
   display: flex;
   height: 22px;
   position: relative;
   width: 198px;
-}
-
-.vpn-all-breakpoints .social-icons-1 {
-  align-items: flex-start;
-  display: inline-flex;
-  flex: 0 0 auto;
-  flex-wrap: wrap;
-  gap: 40px 24px;
-  justify-content: flex-end;
-  position: relative;
-}
-
-.vpn-all-breakpoints .social-link-1 {
-  cursor: pointer;
-  height: 32px;
-  position: relative;
-  width: 32px;
 }
 
 .vpn-all-breakpoints .apps {
@@ -746,7 +785,29 @@
   width: 198px;
 }
 
-.vpn-all-breakpoints .cards {
+.vpn-all-breakpoints .social-icons {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 40px 24px;
+  justify-content: flex-end;
+  position: relative;
+}
+
+.vpn-all-breakpoints .social-link-github {
+  height: 33px;
+  margin-bottom: -1.00px;
+}
+
+.vpn-all-breakpoints .social-link-reddit {
+  background-image: url(../img/combined-shape@2x.png);
+  background-size: 100% 100%;
+  border-radius: 40px;
+  height: 32px;
+}
+
+.vpn-all-breakpoints .cards-3 {
   align-self: stretch;
   display: flex;
   flex: 0 0 auto;
@@ -754,8 +815,10 @@
   width: 100%;
 }
 
-.vpn-all-breakpoints .cards-item {
+.vpn-all-breakpoints .cards-item-3 {
+  border-radius: 16px;
   flex: 0 0 auto;
+  flex-direction: column;
   position: relative;
 }
 
@@ -776,44 +839,20 @@
   width: 1280px;
 }
 
-.vpn-all-breakpoints .desktop-home-logo {
-  height: 36px;
-  position: relative;
-}
-
 .vpn-all-breakpoints .flex {
   align-items: flex-start;
   display: flex;
 }
 
-.vpn-all-breakpoints .frame-518 {
-  align-items: center;
-  background-color: var(--black-2);
-  border: 1px solid;
-  border-color: var(--true-v);
-  border-radius: 16px;
-  display: flex;
-  flex: 1;
-  flex-grow: 1;
-  gap: 24px;
-  overflow: hidden;
-  padding: 40px 24px 40px 100px;
-  position: relative;
-}
-
-.vpn-all-breakpoints .icon {
+.vpn-all-breakpoints .icon-1 {
   height: 120px;
   position: relative;
 }
 
-.vpn-all-breakpoints .line {
-  height: 1px;
-  object-fit: cover;
-}
-
-.vpn-all-breakpoints .line-8 {
-  align-self: stretch;
+.vpn-all-breakpoints .social-link-1 {
+  cursor: pointer;
   position: relative;
+  width: 32px;
 }
 /* screen - vpnu95mobsm */
 
@@ -827,7 +866,7 @@
   position: relative;
 }
 
-.vpnu95mobsm .mobile-nav-header {
+.vpnu95mobsm .mobile-nav-header-1 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -838,7 +877,7 @@
   width: 100%;
 }
 
-.vpnu95mobsm .hero {
+.vpnu95mobsm .hero-2 {
   align-self: stretch;
   padding: 0px 60px;
   width: 100%;
@@ -873,7 +912,7 @@
   width: 362px;
 }
 
-.vpnu95mobsm .unblock-your-internet {
+.vpnu95mobsm .unblock-your-internet-2 {
   align-self: stretch;
   color: transparent;
   font-weight: 800;
@@ -883,15 +922,15 @@
   text-align: center;
 }
 
-.vpnu95mobsm .span {
+.vpnu95mobsm .span-4 {
   color: var(--aquamarine);
 }
 
-.vpnu95mobsm .span-1 {
+.vpnu95mobsm .span-5 {
   color: var(--white);
 }
 
-.vpnu95mobsm .with-orchids-decent {
+.vpnu95mobsm .with-orchids-decent-2 {
   align-self: stretch;
   color: transparent;
   font-weight: 600;
@@ -900,7 +939,7 @@
   text-align: center;
 }
 
-.vpnu95mobsm .hero-cta-button {
+.vpnu95mobsm .hero-cta-button-2 {
   align-items: center;
   align-self: stretch;
   display: flex;
@@ -911,18 +950,9 @@
   width: 100%;
 }
 
-.vpnu95mobsm .mobile-button-hero {
-  align-items: center;
+.vpnu95mobsm .mobile-button-hero-2 {
   align-self: stretch;
-  background-color: var(--log-cabin);
-  border: 1px solid;
-  border-color: var(--aquamarine);
-  border-radius: 60px;
   display: inline-flex;
-  flex: 0 0 auto;
-  justify-content: center;
-  padding: 16px 80px;
-  position: relative;
 }
 
 .vpnu95mobsm .vpnu95mobsm-item {
@@ -937,7 +967,7 @@
   width: 100%;
 }
 
-.vpnu95mobsm .mobile {
+.vpnu95mobsm .mobile-1 {
   align-items: center;
   align-self: stretch;
   display: flex;
@@ -948,17 +978,7 @@
   width: 100%;
 }
 
-.vpnu95mobsm .mobile-caption-section {
-  align-items: center;
-  align-self: stretch;
-  display: flex;
-  gap: 8px;
-  height: 16px;
-  position: relative;
-  width: 100%;
-}
-
-.vpnu95mobsm .line {
+.vpnu95mobsm .line-3 {
   flex: 1;
   flex-grow: 1;
   height: 1px;
@@ -966,26 +986,14 @@
   position: relative;
 }
 
-.vpnu95mobsm .mobile-headline-section {
+.vpnu95mobsm .mobile-headline-section-2 {
   align-items: flex-start;
   align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
   justify-content: space-around;
-  position: relative;
   width: 100%;
 }
 
-.vpnu95mobsm .the-orchid-ecosystem {
-  color: transparent;
-  flex: 1;
-  font-weight: 600;
-  line-height: 25.2px;
-  margin-top: -1.00px;
-  position: relative;
-}
-
-.vpnu95mobsm .copy {
+.vpnu95mobsm .copy-1 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -996,7 +1004,7 @@
   width: 100%;
 }
 
-.vpnu95mobsm .body-1 {
+.vpnu95mobsm .body-4 {
   margin-top: -1.00px;
 }
 
@@ -1010,18 +1018,25 @@
   width: 100%;
 }
 
-.vpnu95mobsm .frame-518 {
+.vpnu95mobsm .frame-518-3 {
+  align-items: flex-start;
+  align-self: stretch;
   background-color: var(--black-2);
   border: 1px solid;
   border-color: var(--true-v);
   border-radius: 16px;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
   gap: 16px;
   justify-content: center;
   overflow: hidden;
   padding: 24px;
+  position: relative;
+  width: 100%;
 }
 
-.vpnu95mobsm .intro-copy {
+.vpnu95mobsm .intro-copy-17 {
   color: var(--white);
   font-weight: 600;
   line-height: 19.8px;
@@ -1030,16 +1045,13 @@
   width: 200px;
 }
 
-.vpnu95mobsm .line-8 {
-  align-self: stretch;
+.vpnu95mobsm .line-8-4 {
   height: 2px;
   margin-left: -1.00px;
   margin-right: -1.00px;
-  position: relative;
-  width: 100%;
 }
 
-.vpnu95mobsm .intro-copy-1 {
+.vpnu95mobsm .intro-copy-18 {
   align-self: stretch;
   color: var(--white);
   font-weight: 300;
@@ -1047,66 +1059,48 @@
   position: relative;
 }
 
-.vpnu95mobsm .mobile-caption-section-1 {
-  align-items: center;
-  align-self: stretch;
-  display: flex;
-  gap: 8px;
-  height: 16px;
+.vpnu95mobsm .mobile-caption-section-3 {
   justify-content: center;
-  position: relative;
-  width: 100%;
 }
 
-.vpnu95mobsm .discover-1 {
+.vpnu95mobsm .discover-3 {
   text-align: center;
 }
 
-.vpnu95mobsm .mobile-headline-section-1 {
+.vpnu95mobsm .mobile-headline-section-3 {
   align-items: flex-start;
+  gap: 10px;
   justify-content: center;
   margin-left: -24.00px;
   margin-right: -24.00px;
   width: 360px;
 }
 
-.vpnu95mobsm .the-orchid-ecosystem-1 {
-  color: transparent;
-  flex: 1;
-  font-weight: 600;
-  line-height: 25.2px;
-  margin-top: -1.00px;
-  position: relative;
+.vpnu95mobsm .the-orchid-ecosystem-3 {
   text-align: center;
 }
 
-.vpnu95mobsm .cards {
+.vpnu95mobsm .cards-6 {
   align-items: flex-start;
-  align-self: stretch;
-  flex: 0 0 auto;
   flex-wrap: wrap;
   gap: 16px 16px;
   justify-content: center;
-  width: 100%;
 }
 
-.vpnu95mobsm .cards-item {
+.vpnu95mobsm .cards-item-6 {
   align-items: center;
   background-color: var(--log-cabin);
-  border-radius: 16px;
-  flex-direction: column;
-  gap: 16px;
   padding: 32px 24px 40px;
   width: 312px;
 }
 
-.vpnu95mobsm .icon {
+.vpnu95mobsm .icon-2 {
   height: 40px;
   position: relative;
   width: 40px;
 }
 
-.vpnu95mobsm .title {
+.vpnu95mobsm .title-3 {
   align-self: stretch;
   color: var(--white);
   font-weight: 600;
@@ -1115,11 +1109,11 @@
   text-align: center;
 }
 
-.vpnu95mobsm .body {
+.vpnu95mobsm .body-3 {
   text-align: center;
 }
 
-.vpnu95mobsm .intro-copy-2 {
+.vpnu95mobsm .intro-copy-19 {
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 1;
   color: var(--dull-lavender-2);
@@ -1145,10 +1139,11 @@
   width: 41px;
 }
 
-.vpnu95mobsm .mobile-headline-section-2 {
+.vpnu95mobsm .mobile-headline-section-4 {
   align-items: center;
   align-self: stretch;
   flex-direction: column;
+  gap: 10px;
   width: 100%;
 }
 
@@ -1161,16 +1156,25 @@
   position: relative;
 }
 
-.vpnu95mobsm .cards-1 {
+.vpnu95mobsm .cards-7 {
   align-items: center;
-  align-self: stretch;
-  flex: 0 0 auto;
   flex-direction: column;
   gap: 16px;
+}
+
+.vpnu95mobsm .cards-item-7 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--black-2);
+  border: 1px solid;
+  border-color: var(--true-v);
+  flex: 0 0 auto;
+  overflow: hidden;
+  padding: 24px 24px 40px;
   width: 100%;
 }
 
-.vpnu95mobsm .intro-copy-3 {
+.vpnu95mobsm .intro-copy-20 {
   align-self: stretch;
   color: var(--white);
   font-weight: 600;
@@ -1179,7 +1183,14 @@
   position: relative;
 }
 
-.vpnu95mobsm .intro-copy-4 {
+.vpnu95mobsm .line-8-5 {
+  height: 1px;
+  margin-left: -0.50px;
+  margin-right: -0.50px;
+  object-fit: cover;
+}
+
+.vpnu95mobsm .intro-copy-21 {
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 1;
   align-self: stretch;
@@ -1192,7 +1203,7 @@
   text-overflow: ellipsis;
 }
 
-.vpnu95mobsm .intro-copy-5 {
+.vpnu95mobsm .intro-copy-22 {
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 1;
   align-self: stretch;
@@ -1206,7 +1217,7 @@
   text-overflow: ellipsis;
 }
 
-.vpnu95mobsm .intro-copy-6 {
+.vpnu95mobsm .intro-copy-23 {
   align-self: stretch;
   cursor: pointer;
   flex: 0 0 auto;
@@ -1216,7 +1227,7 @@
   width: 100%;
 }
 
-.vpnu95mobsm .button {
+.vpnu95mobsm .button-1 {
   align-items: center;
   display: flex;
   flex: 0 0 auto;
@@ -1227,34 +1238,17 @@
   width: 312px;
 }
 
-.vpnu95mobsm .mobile-button-hero-1 {
-  align-items: center;
-  background-color: var(--log-cabin);
-  border: 1px solid;
-  border-color: var(--aquamarine);
-  border-radius: 60px;
+.vpnu95mobsm .mobile-button-hero-3 {
   display: flex;
-  flex: 0 0 auto;
-  justify-content: center;
-  padding: 16px 80px;
-  position: relative;
   width: 311px;
 }
 
-.vpnu95mobsm .learn-more-1 {
-  color: var(--white);
-  font-weight: 700;
-  line-height: 24px;
+.vpnu95mobsm .learn-more-3 {
   margin-left: -24.50px;
   margin-right: -24.50px;
-  margin-top: -1.00px;
-  position: relative;
-  text-align: center;
-  white-space: nowrap;
-  width: fit-content;
 }
 
-.vpnu95mobsm .logo {
+.vpnu95mobsm .logo-2 {
   align-items: flex-start;
   display: inline-flex;
   flex: 0 0 auto;
@@ -1264,12 +1258,7 @@
   position: relative;
 }
 
-.vpnu95mobsm .desktop-home-logo {
-  height: 36px;
-  position: relative;
-}
-
-.vpnu95mobsm .x2023-orchid {
+.vpnu95mobsm .x2023-orchid-5 {
   color: var(--white);
   font-weight: 300;
   line-height: 19.6px;
@@ -1277,7 +1266,7 @@
   width: 299px;
 }
 
-.vpnu95mobsm .hyperlinks {
+.vpnu95mobsm .hyperlinks-2 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -1288,20 +1277,25 @@
   width: 100%;
 }
 
-.vpnu95mobsm .frame-532 {
-  gap: 32px;
-  padding: 24px 0px;
-}
-
-.vpnu95mobsm .x2023-orchid-1 {
+.vpnu95mobsm .x2023-orchid-6 {
+  color: var(--white);
+  cursor: pointer;
+  flex: 1;
+  font-weight: 700;
+  line-height: 24px;
   width: 151px;
 }
 
-.vpnu95mobsm .x2023-orchid-2 {
+.vpnu95mobsm .x2023-orchid-7 {
+  color: var(--white);
+  cursor: pointer;
+  flex: 1;
+  font-weight: 700;
+  line-height: 24px;
   width: 132px;
 }
 
-.vpnu95mobsm .link {
+.vpnu95mobsm .link-6 {
   cursor: pointer;
   display: flex;
   height: 22px;
@@ -1309,40 +1303,36 @@
   width: 198px;
 }
 
-.vpnu95mobsm .apps {
+.vpnu95mobsm .apps-10 {
   width: 102px;
 }
 
-.vpnu95mobsm .apps-1 {
+.vpnu95mobsm .apps-11 {
   width: 132px;
 }
 
-.vpnu95mobsm .apps-2 {
+.vpnu95mobsm .apps-12 {
   cursor: pointer;
   width: 113px;
 }
 
-.vpnu95mobsm .apps-3 {
+.vpnu95mobsm .apps-13 {
   width: 85px;
 }
 
-.vpnu95mobsm .apps-4 {
+.vpnu95mobsm .apps-14 {
   width: 122px;
 }
 
-.vpnu95mobsm .apps-5 {
+.vpnu95mobsm .apps-15 {
   width: 76px;
 }
 
-.vpnu95mobsm .apps-6 {
-  width: 42px;
-}
-
-.vpnu95mobsm .apps-7 {
+.vpnu95mobsm .apps-17 {
   width: 75px;
 }
 
-.vpnu95mobsm .social-icons {
+.vpnu95mobsm .social-icons-2 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -1355,26 +1345,22 @@
   width: 100%;
 }
 
-.vpnu95mobsm .social-link-github {
+.vpnu95mobsm .social-link-github-2 {
+  cursor: pointer;
   height: 33px;
   margin-bottom: -1.00px;
+  position: relative;
+  width: 32px;
 }
 
-.vpnu95mobsm .social-link-reddit {
-  background-image: url(../img/combined-shape@2x.png);
-  background-size: 100% 100%;
-  border-radius: 40px;
-  height: 32px;
-}
-
-.vpnu95mobsm .apps-8 {
+.vpnu95mobsm .apps {
   color: var(--white);
   font-weight: 700;
   height: 24px;
   line-height: 24px;
 }
 
-.vpnu95mobsm .body-2 {
+.vpnu95mobsm .body {
   align-self: stretch;
   color: var(--white);
   font-weight: 300;
@@ -1382,12 +1368,23 @@
   position: relative;
 }
 
-.vpnu95mobsm .cards-2 {
+.vpnu95mobsm .cards {
+  align-self: stretch;
   display: flex;
+  flex: 0 0 auto;
+  position: relative;
+  width: 100%;
+}
+
+.vpnu95mobsm .cards-item {
+  border-radius: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
   position: relative;
 }
 
-.vpnu95mobsm .discover-2 {
+.vpnu95mobsm .discover {
   color: var(--white);
   font-weight: 600;
   line-height: 13.2px;
@@ -1396,17 +1393,7 @@
   width: fit-content;
 }
 
-.vpnu95mobsm .frame {
-  align-items: flex-start;
-  align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  position: relative;
-  width: 100%;
-}
-
-.vpnu95mobsm .hero-1 {
+.vpnu95mobsm .hero {
   align-items: center;
   display: flex;
   flex: 0 0 auto;
@@ -1415,25 +1402,58 @@
   position: relative;
 }
 
-.vpnu95mobsm .mobile-headline-section-3 {
-  display: flex;
-  flex: 0 0 auto;
-  gap: 10px;
-  position: relative;
-}
-
-.vpnu95mobsm .social-link-1 {
-  cursor: pointer;
-  position: relative;
-  width: 32px;
-}
-
-.vpnu95mobsm .x2023-orchid-3 {
+.vpnu95mobsm .learn-more {
   color: var(--white);
-  cursor: pointer;
-  flex: 1;
   font-weight: 700;
   line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.vpnu95mobsm .line-8 {
+  align-self: stretch;
+  position: relative;
+  width: 100%;
+}
+
+.vpnu95mobsm .mobile-button-hero {
+  align-items: center;
+  background-color: var(--log-cabin);
+  border: 1px solid;
+  border-color: var(--aquamarine);
+  border-radius: 60px;
+  flex: 0 0 auto;
+  justify-content: center;
+  padding: 16px 80px;
+  position: relative;
+}
+
+.vpnu95mobsm .mobile-caption-section {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  gap: 8px;
+  height: 16px;
+  position: relative;
+  width: 100%;
+}
+
+.vpnu95mobsm .mobile-headline-section {
+  display: flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.vpnu95mobsm .the-orchid-ecosystem {
+  color: transparent;
+  flex: 1;
+  font-weight: 600;
+  line-height: 25.2px;
+  margin-top: -1.00px;
+  position: relative;
 }
 /* screen - vpnu95tabsm */
 
@@ -1447,7 +1467,7 @@
   position: relative;
 }
 
-.vpnu95tabsm .mobile-nav-header-1 {
+.vpnu95tabsm .mobile-nav-header {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -1458,7 +1478,7 @@
   width: 100%;
 }
 
-.vpnu95tabsm .hero-2 {
+.vpnu95tabsm .hero-1 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -1495,7 +1515,7 @@
   width: 362px;
 }
 
-.vpnu95tabsm .unblock-your-internet-2 {
+.vpnu95tabsm .unblock-your-internet-1 {
   align-self: stretch;
   color: transparent;
   font-weight: 800;
@@ -1504,11 +1524,15 @@
   position: relative;
 }
 
-.vpnu95tabsm .span-4 {
+.vpnu95tabsm .span-2 {
   color: var(--aquamarine);
 }
 
-.vpnu95tabsm .with-orchids-decent-2 {
+.vpnu95tabsm .span-3 {
+  color: var(--white);
+}
+
+.vpnu95tabsm .with-orchids-decent-1 {
   align-self: stretch;
   color: transparent;
   font-weight: 600;
@@ -1516,7 +1540,7 @@
   position: relative;
 }
 
-.vpnu95tabsm .hero-cta-button-2 {
+.vpnu95tabsm .hero-cta-button-1 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -1527,19 +1551,18 @@
   width: 100%;
 }
 
-.vpnu95tabsm .mobile-button-hero-2 {
+.vpnu95tabsm .mobile-button-hero {
+  align-items: center;
   align-self: stretch;
-}
-
-.vpnu95tabsm .learn-more-3 {
-  color: var(--white);
-  font-weight: 700;
-  line-height: 24px;
-  margin-top: -1.00px;
+  background-color: var(--log-cabin);
+  border: 1px solid;
+  border-color: var(--aquamarine);
+  border-radius: 60px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  padding: 16px 80px;
   position: relative;
-  text-align: center;
-  white-space: nowrap;
-  width: fit-content;
 }
 
 .vpnu95tabsm .vpnu95tabsm-item {
@@ -1554,7 +1577,7 @@
   width: 100%;
 }
 
-.vpnu95tabsm .mobile-1 {
+.vpnu95tabsm .mobile {
   align-items: center;
   align-self: stretch;
   display: flex;
@@ -1565,7 +1588,17 @@
   width: 100%;
 }
 
-.vpnu95tabsm .line-3 {
+.vpnu95tabsm .mobile-caption-section {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  gap: 8px;
+  height: 16px;
+  position: relative;
+  width: 100%;
+}
+
+.vpnu95tabsm .line-1 {
   flex: 1;
   flex-grow: 1;
   height: 1px;
@@ -1573,13 +1606,26 @@
   position: relative;
 }
 
-.vpnu95tabsm .mobile-headline-section-3 {
+.vpnu95tabsm .mobile-headline-section {
+  align-items: flex-start;
   align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
   justify-content: space-around;
+  position: relative;
   width: 100%;
 }
 
-.vpnu95tabsm .copy-1 {
+.vpnu95tabsm .the-orchid-ecosystem {
+  color: transparent;
+  flex: 1;
+  font-weight: 600;
+  line-height: 25.2px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.vpnu95tabsm .copy {
   align-items: center;
   align-self: stretch;
   display: flex;
@@ -1590,19 +1636,19 @@
   width: 100%;
 }
 
-.vpnu95tabsm .body-4 {
+.vpnu95tabsm .body-2 {
   align-self: stretch;
   margin-top: -1.00px;
 }
 
-.vpnu95tabsm .cards-5 {
+.vpnu95tabsm .cards-3 {
   align-items: center;
   flex-direction: column;
   gap: 24px;
   padding: 24px 0px;
 }
 
-.vpnu95tabsm .cards-item-5 {
+.vpnu95tabsm .cards-item-3 {
   align-items: center;
   align-self: stretch;
   display: flex;
@@ -1610,7 +1656,7 @@
   width: 100%;
 }
 
-.vpnu95tabsm .frame-518-3 {
+.vpnu95tabsm .frame-518-2 {
   align-items: center;
   background-color: var(--black-2);
   border: 1px solid;
@@ -1625,7 +1671,7 @@
   position: relative;
 }
 
-.vpnu95tabsm .intro-copy-15 {
+.vpnu95tabsm .intro-copy-8 {
   color: var(--white);
   font-weight: 600;
   line-height: 19.8px;
@@ -1633,13 +1679,13 @@
   width: 200px;
 }
 
-.vpnu95tabsm .line-8-4 {
+.vpnu95tabsm .line-8-2 {
   margin-bottom: -1.00px;
   margin-top: -1.00px;
   width: 2px;
 }
 
-.vpnu95tabsm .intro-copy-16 {
+.vpnu95tabsm .intro-copy-9 {
   color: var(--white);
   flex: 1;
   font-weight: 300;
@@ -1656,32 +1702,49 @@
   width: 81px;
 }
 
-.vpnu95tabsm .mobile-caption-section-3 {
+.vpnu95tabsm .mobile-caption-section-1 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  gap: 8px;
+  height: 16px;
   justify-content: center;
+  position: relative;
+  width: 100%;
 }
 
-.vpnu95tabsm .discover-3 {
+.vpnu95tabsm .discover-1 {
   text-align: center;
 }
 
-.vpnu95tabsm .mobile-headline-section-4 {
+.vpnu95tabsm .mobile-headline-section-1 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
   gap: 10px;
   justify-content: center;
+  position: relative;
   width: 360px;
 }
 
-.vpnu95tabsm .the-orchid-ecosystem-3 {
+.vpnu95tabsm .the-orchid-ecosystem-1 {
+  color: transparent;
+  flex: 1;
+  font-weight: 600;
+  line-height: 25.2px;
+  margin-top: -1.00px;
+  position: relative;
   text-align: center;
 }
 
-.vpnu95tabsm .cards-6 {
+.vpnu95tabsm .cards-4 {
   align-items: flex-start;
   flex-wrap: wrap;
   gap: 16px 24px;
   justify-content: center;
 }
 
-.vpnu95tabsm .cards-item-6 {
+.vpnu95tabsm .cards-item-4 {
   align-items: center;
   background-color: var(--log-cabin);
   border-radius: 16px;
@@ -1692,13 +1755,13 @@
   padding: 40px 24px;
 }
 
-.vpnu95tabsm .icon-2 {
+.vpnu95tabsm .icon-1 {
   height: 80px;
   position: relative;
   width: 80px;
 }
 
-.vpnu95tabsm .title-3 {
+.vpnu95tabsm .title-2 {
   color: var(--white);
   font-weight: 600;
   line-height: 19.8px;
@@ -1707,11 +1770,11 @@
   width: 168px;
 }
 
-.vpnu95tabsm .body-3 {
+.vpnu95tabsm .body-1 {
   width: 168px;
 }
 
-.vpnu95tabsm .link-3 {
+.vpnu95tabsm .link-2 {
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 1;
   color: var(--dull-lavender-2);
@@ -1731,7 +1794,7 @@
   width: 100px;
 }
 
-.vpnu95tabsm .link-4 {
+.vpnu95tabsm .link-3 {
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 1;
   color: var(--dull-lavender-2);
@@ -1751,6 +1814,20 @@
   width: 75.88px;
 }
 
+.vpnu95tabsm .link-4 {
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 1;
+  color: var(--dull-lavender-2);
+  display: -webkit-box;
+  font-weight: 700;
+  line-height: 24px;
+  overflow: hidden;
+  position: relative;
+  text-align: right;
+  text-overflow: ellipsis;
+  width: 45px;
+}
+
 .vpnu95tabsm .link-5 {
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 1;
@@ -1765,7 +1842,7 @@
   width: 45px;
 }
 
-.vpnu95tabsm .link-6 {
+.vpnu95tabsm .intro-copy-12 {
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 1;
   color: var(--dull-lavender-2);
@@ -1779,7 +1856,7 @@
   width: 45px;
 }
 
-.vpnu95tabsm .intro-copy-19 {
+.vpnu95tabsm .intro-copy-13 {
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 1;
   color: var(--dull-lavender-2);
@@ -1793,27 +1870,13 @@
   width: 45px;
 }
 
-.vpnu95tabsm .intro-copy-20 {
-  -webkit-box-orient: vertical;
-  -webkit-line-clamp: 1;
-  color: var(--dull-lavender-2);
-  display: -webkit-box;
-  font-weight: 700;
-  line-height: 24px;
-  overflow: hidden;
-  position: relative;
-  text-align: right;
-  text-overflow: ellipsis;
-  width: 45px;
-}
-
-.vpnu95tabsm .cards-7 {
+.vpnu95tabsm .cards-5 {
   align-items: center;
   flex-direction: column;
   gap: 16px;
 }
 
-.vpnu95tabsm .cards-item-7 {
+.vpnu95tabsm .cards-item-5 {
   align-items: flex-start;
   align-self: stretch;
   background-color: var(--black-2);
@@ -1828,7 +1891,7 @@
   width: 100%;
 }
 
-.vpnu95tabsm .intro-copy-17 {
+.vpnu95tabsm .intro-copy-10 {
   align-self: stretch;
   color: var(--white);
   font-weight: 600;
@@ -1837,7 +1900,7 @@
   position: relative;
 }
 
-.vpnu95tabsm .line-8-5 {
+.vpnu95tabsm .line-8-3 {
   height: 1px;
   margin-left: -0.50px;
   margin-right: -0.50px;
@@ -1845,7 +1908,7 @@
   width: 100%;
 }
 
-.vpnu95tabsm .intro-copy-18 {
+.vpnu95tabsm .intro-copy-11 {
   align-self: stretch;
   color: var(--white);
   font-weight: 300;
@@ -1853,7 +1916,7 @@
   position: relative;
 }
 
-.vpnu95tabsm .intro-copy-21 {
+.vpnu95tabsm .intro-copy-14 {
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 1;
   align-self: stretch;
@@ -1866,7 +1929,7 @@
   text-overflow: ellipsis;
 }
 
-.vpnu95tabsm .intro-copy-22 {
+.vpnu95tabsm .intro-copy-15 {
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 1;
   align-self: stretch;
@@ -1880,7 +1943,7 @@
   text-overflow: ellipsis;
 }
 
-.vpnu95tabsm .intro-copy-23 {
+.vpnu95tabsm .intro-copy-16 {
   align-self: stretch;
   cursor: pointer;
   flex: 0 0 auto;
@@ -1893,14 +1956,24 @@
 .vpnu95tabsm .frame-476 {
   align-items: center;
   display: inline-flex;
-  flex: 0 0 auto;
-  flex-direction: column;
   gap: 10px;
   padding: 60px 0px 0px;
+}
+
+.vpnu95tabsm .mobile-button-hero-1 {
+  align-items: center;
+  background-color: var(--log-cabin);
+  border: 1px solid;
+  border-color: var(--aquamarine);
+  border-radius: 60px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  padding: 16px 80px;
   position: relative;
 }
 
-.vpnu95tabsm .logo-2 {
+.vpnu95tabsm .logo-1 {
   align-items: flex-start;
   display: inline-flex;
   flex: 0 0 auto;
@@ -1909,7 +1982,12 @@
   position: relative;
 }
 
-.vpnu95tabsm .x2023-orchid-5 {
+.vpnu95tabsm .desktop-home-logo-2 {
+  height: 36px;
+  position: relative;
+}
+
+.vpnu95tabsm .x2023-orchid-2 {
   color: var(--white);
   font-weight: 300;
   line-height: 19.6px;
@@ -1917,7 +1995,7 @@
   width: 299px;
 }
 
-.vpnu95tabsm .hyperlinks-2 {
+.vpnu95tabsm .hyperlinks-1 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -1928,7 +2006,16 @@
   width: 100%;
 }
 
-.vpnu95tabsm .x2023-orchid-6 {
+.vpnu95tabsm .frame-532 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 32px;
+  padding: 24px 0px;
+  width: 100%;
+}
+
+.vpnu95tabsm .x2023-orchid-3 {
   color: var(--white);
   cursor: pointer;
   flex: 1;
@@ -1937,7 +2024,7 @@
   width: 151px;
 }
 
-.vpnu95tabsm .x2023-orchid-7 {
+.vpnu95tabsm .x2023-orchid-4 {
   color: var(--white);
   cursor: pointer;
   flex: 1;
@@ -1946,7 +2033,7 @@
   width: 132px;
 }
 
-.vpnu95tabsm .link-2 {
+.vpnu95tabsm .link-1 {
   cursor: pointer;
   display: flex;
   height: 22px;
@@ -1954,36 +2041,40 @@
   width: 198px;
 }
 
-.vpnu95tabsm .apps-10 {
+.vpnu95tabsm .apps-2 {
   width: 102px;
 }
 
-.vpnu95tabsm .apps-11 {
+.vpnu95tabsm .apps-3 {
   width: 132px;
 }
 
-.vpnu95tabsm .apps-12 {
+.vpnu95tabsm .apps-4 {
   cursor: pointer;
   width: 113px;
 }
 
-.vpnu95tabsm .apps-13 {
+.vpnu95tabsm .apps-5 {
   width: 85px;
 }
 
-.vpnu95tabsm .apps-14 {
+.vpnu95tabsm .apps-6 {
   width: 122px;
 }
 
-.vpnu95tabsm .apps-15 {
+.vpnu95tabsm .apps-7 {
   width: 76px;
 }
 
-.vpnu95tabsm .apps-17 {
+.vpnu95tabsm .apps-8 {
+  width: 42px;
+}
+
+.vpnu95tabsm .apps-9 {
   width: 75px;
 }
 
-.vpnu95tabsm .social-icons-2 {
+.vpnu95tabsm .social-icons-1 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -1996,10 +2087,9 @@
   width: 100%;
 }
 
-.vpnu95tabsm .social-link-github-2 {
+.vpnu95tabsm .social-link-1 {
   cursor: pointer;
-  height: 33px;
-  margin-bottom: -1.00px;
+  height: 32px;
   position: relative;
   width: 32px;
 }
@@ -2031,7 +2121,7 @@
   position: relative;
 }
 
-.vpnu95tabsm .discover {
+.vpnu95tabsm .discover-2 {
   color: var(--white);
   font-weight: 600;
   line-height: 13.2px;
@@ -2040,47 +2130,14 @@
   width: fit-content;
 }
 
+.vpnu95tabsm .frame {
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
 .vpnu95tabsm .line-8 {
   align-self: stretch;
-  position: relative;
-}
-
-.vpnu95tabsm .mobile-button-hero {
-  align-items: center;
-  background-color: var(--log-cabin);
-  border: 1px solid;
-  border-color: var(--aquamarine);
-  border-radius: 60px;
-  display: inline-flex;
-  flex: 0 0 auto;
-  justify-content: center;
-  padding: 16px 80px;
-  position: relative;
-}
-
-.vpnu95tabsm .mobile-caption-section {
-  align-items: center;
-  align-self: stretch;
-  display: flex;
-  gap: 8px;
-  height: 16px;
-  position: relative;
-  width: 100%;
-}
-
-.vpnu95tabsm .mobile-headline-section {
-  align-items: flex-start;
-  display: flex;
-  flex: 0 0 auto;
-  position: relative;
-}
-
-.vpnu95tabsm .the-orchid-ecosystem {
-  color: transparent;
-  flex: 1;
-  font-weight: 600;
-  line-height: 25.2px;
-  margin-top: -1.00px;
   position: relative;
 }
 @media screen and (max-width: 743px) {
@@ -2092,18 +2149,18 @@
    }
 }
 @media screen and (min-width: 744px) and (max-width: 1439px) {
-  .screen.vpnu95mobsm { 
+  .screen.vpn-all-breakpoints { 
     display: none;
    }
-  .screen.vpn-all-breakpoints { 
+  .screen.vpnu95mobsm { 
     display: none;
    }
 }
 @media screen and (min-width: 1440px) {
-  .screen.vpnu95mobsm { 
+  .screen.vpnu95tabsm { 
     display: none;
    }
-  .screen.vpnu95tabsm { 
+  .screen.vpnu95mobsm { 
     display: none;
    }
 }

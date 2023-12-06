@@ -127,9 +127,11 @@
   width: 380px;
 }
 
-.how-all-breakpoints .desktop-home-logo-2 {
+.how-all-breakpoints .desktop-home-logo {
   cursor: pointer;
   flex: 0 0 auto;
+  height: 36px;
+  position: relative;
 }
 
 .how-all-breakpoints .desktop-button-top-nav-1 {
@@ -194,7 +196,7 @@
   width: 196px;
 }
 
-.how-all-breakpoints .hero-2 {
+.how-all-breakpoints .hero {
   align-items: center;
   align-self: stretch;
   display: flex;
@@ -221,15 +223,15 @@
   width: 1062px;
 }
 
-.how-all-breakpoints .span-10 {
+.how-all-breakpoints .span {
   color: var(--white);
 }
 
-.how-all-breakpoints .span-11 {
+.how-all-breakpoints .span-1 {
   color: var(--aquamarine);
 }
 
-.how-all-breakpoints .intro-copy-18 {
+.how-all-breakpoints .intro-copy {
   align-self: stretch;
   color: transparent;
   font-weight: 400;
@@ -237,7 +239,7 @@
   position: relative;
 }
 
-.how-all-breakpoints .span-12 {
+.how-all-breakpoints .span-2 {
   color: var(--dull-lavender);
   font-weight: 700;
 }
@@ -267,6 +269,15 @@
   flex-direction: column;
   padding: 96px 0px 0px;
   position: relative;
+}
+
+.how-all-breakpoints .learn-more {
+  color: var(--white);
+  flex: 1;
+  font-weight: 700;
+  height: 24px;
+  line-height: 24px;
+  text-align: center;
 }
 
 .how-all-breakpoints .how-all-breakpoints-item {
@@ -321,7 +332,7 @@
   width: fit-content;
 }
 
-.how-all-breakpoints .line-2 {
+.how-all-breakpoints .line {
   flex: 1;
   flex-grow: 1;
   height: 1px;
@@ -348,7 +359,7 @@
   width: 1280px;
 }
 
-.how-all-breakpoints .cards-2 {
+.how-all-breakpoints .cards {
   align-items: center;
   align-self: stretch;
   display: flex;
@@ -359,7 +370,7 @@
   width: 100%;
 }
 
-.how-all-breakpoints .cards-item-2 {
+.how-all-breakpoints .cards-item {
   align-items: flex-start;
   align-self: stretch;
   background-color: var(--black-2);
@@ -376,7 +387,7 @@
   width: 100%;
 }
 
-.how-all-breakpoints .intro-copy-19 {
+.how-all-breakpoints .intro-copy-1 {
   align-self: stretch;
   color: var(--white);
   font-weight: 500;
@@ -385,7 +396,7 @@
   position: relative;
 }
 
-.how-all-breakpoints .line-8-2 {
+.how-all-breakpoints .line-8 {
   align-self: stretch;
   height: 2px;
   margin-left: -1.00px;
@@ -394,7 +405,7 @@
   width: 100%;
 }
 
-.how-all-breakpoints .intro-copy-20 {
+.how-all-breakpoints .intro-copy-2 {
   align-self: stretch;
   color: var(--white);
   font-weight: 400;
@@ -402,7 +413,7 @@
   position: relative;
 }
 
-.how-all-breakpoints .intro-copy-21 {
+.how-all-breakpoints .intro-copy-3 {
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 1;
   align-self: stretch;
@@ -416,7 +427,7 @@
   text-overflow: ellipsis;
 }
 
-.how-all-breakpoints .span1-2 {
+.how-all-breakpoints .span1 {
   color: var(--white);
   font-weight: 700;
 }
@@ -485,7 +496,7 @@
   width: 100%;
 }
 
-.how-all-breakpoints .run-the-server-2 {
+.how-all-breakpoints .run-the-server {
   align-items: flex-start;
   align-self: stretch;
   background-color: var(--black);
@@ -521,7 +532,7 @@
   width: 878px;
 }
 
-.how-all-breakpoints .intro-copy-22 {
+.how-all-breakpoints .intro-copy-4 {
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 1;
   color: var(--dull-lavender);
@@ -594,7 +605,7 @@
   padding: 24px 80px;
 }
 
-.how-all-breakpoints .logo-2 {
+.how-all-breakpoints .logo {
   align-items: flex-start;
   display: inline-flex;
   flex: 0 0 auto;
@@ -603,7 +614,12 @@
   position: relative;
 }
 
-.how-all-breakpoints .x2023-orchid-7 {
+.how-all-breakpoints .desktop-home-logo-1 {
+  height: 36px;
+  position: relative;
+}
+
+.how-all-breakpoints .x2023-orchid-1 {
   color: var(--white);
   font-weight: 300;
   line-height: 19.6px;
@@ -611,7 +627,7 @@
   width: 299px;
 }
 
-.how-all-breakpoints .hyperlinks-2 {
+.how-all-breakpoints .hyperlinks {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -632,7 +648,7 @@
   position: relative;
 }
 
-.how-all-breakpoints .x2023-orchid-6 {
+.how-all-breakpoints .x2023-orchid {
   color: var(--white);
   cursor: pointer;
   flex: 1;
@@ -641,11 +657,16 @@
   width: 180px;
 }
 
-.how-all-breakpoints .apps-17 {
+.how-all-breakpoints .apps-1 {
+  color: var(--white);
   cursor: pointer;
+  font-weight: 700;
+  height: 22px;
+  line-height: 22.4px;
+  width: 198px;
 }
 
-.how-all-breakpoints .link-4 {
+.how-all-breakpoints .link {
   cursor: pointer;
   display: flex;
   height: 22px;
@@ -653,7 +674,15 @@
   width: 198px;
 }
 
-.how-all-breakpoints .social-icons-2 {
+.how-all-breakpoints .apps {
+  color: var(--white);
+  font-weight: 700;
+  height: 22px;
+  line-height: 22.4px;
+  width: 198px;
+}
+
+.how-all-breakpoints .social-icons {
   align-items: flex-start;
   display: inline-flex;
   flex: 0 0 auto;
@@ -663,20 +692,16 @@
   position: relative;
 }
 
-.how-all-breakpoints .social-link-github-2 {
-  cursor: pointer;
+.how-all-breakpoints .social-link-github {
   height: 33px;
   margin-bottom: -1.00px;
-  position: relative;
-  width: 32px;
 }
 
-.how-all-breakpoints .apps {
-  color: var(--white);
-  font-weight: 700;
-  height: 22px;
-  line-height: 22.4px;
-  width: 198px;
+.how-all-breakpoints .social-link-reddit {
+  background-image: url(../img/combined-shape@2x.png);
+  background-size: 100% 100%;
+  border-radius: 40px;
+  height: 32px;
 }
 
 .how-all-breakpoints .desktop-button {
@@ -692,11 +717,6 @@
   position: relative;
 }
 
-.how-all-breakpoints .desktop-home-logo {
-  height: 36px;
-  position: relative;
-}
-
 .how-all-breakpoints .frame-544-5 {
   align-items: flex-start;
   align-self: stretch;
@@ -706,6 +726,12 @@
   gap: 24px;
   position: relative;
   width: 100%;
+}
+
+.how-all-breakpoints .social-link-1 {
+  cursor: pointer;
+  position: relative;
+  width: 32px;
 }
 
 .how-all-breakpoints .vpn-3 {
@@ -739,7 +765,7 @@
   width: 100%;
 }
 
-.howu95mobsm .hero {
+.howu95mobsm .hero-1 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -766,23 +792,21 @@
   text-align: center;
 }
 
-.howu95mobsm .span {
+.howu95mobsm .span-3 {
   color: var(--white);
 }
 
-.howu95mobsm .span-1 {
+.howu95mobsm .span-4 {
   color: var(--aquamarine);
 }
 
-.howu95mobsm .intro-copy {
-  align-self: stretch;
+.howu95mobsm .intro-copy-5 {
   color: transparent;
   font-weight: 300;
   line-height: 18.0px;
-  position: relative;
 }
 
-.howu95mobsm .span-2 {
+.howu95mobsm .span-5 {
   color: var(--dull-lavender);
 }
 
@@ -851,9 +875,12 @@
   width: 100%;
 }
 
-.howu95mobsm .line {
+.howu95mobsm .line-1 {
   flex: 1;
   flex-grow: 1;
+  height: 1px;
+  object-fit: cover;
+  position: relative;
 }
 
 .howu95mobsm .mobile-headline-section {
@@ -874,41 +901,58 @@
   position: relative;
 }
 
-.howu95mobsm .cards {
+.howu95mobsm .cards-1 {
   align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+  width: 100%;
 }
 
-.howu95mobsm .cards-item {
+.howu95mobsm .cards-item-1 {
   align-items: flex-start;
+  align-self: stretch;
   background-color: var(--black-2);
   border: 1px solid;
   border-color: var(--true-v);
   border-radius: 16px;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
   overflow: hidden;
   padding: 24px 24px 40px;
+  position: relative;
+  width: 100%;
 }
 
-.howu95mobsm .intro-copy-1 {
+.howu95mobsm .intro-copy-6 {
   color: var(--white);
   font-weight: 600;
   line-height: 19.8px;
   margin-top: -1.00px;
 }
 
-.howu95mobsm .line-8 {
+.howu95mobsm .line-8-1 {
   align-self: stretch;
+  height: 1px;
   margin-left: -0.50px;
   margin-right: -0.50px;
+  object-fit: cover;
+  position: relative;
   width: 100%;
 }
 
-.howu95mobsm .intro-copy-3 {
+.howu95mobsm .intro-copy-8 {
   color: var(--white);
   font-weight: 300;
   line-height: 18.0px;
 }
 
-.howu95mobsm .intro-copy-2 {
+.howu95mobsm .intro-copy-7 {
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 1;
   color: var(--dull-lavender-2);
@@ -920,37 +964,31 @@
   text-overflow: ellipsis;
 }
 
-.howu95mobsm .intro-copy-4 {
+.howu95mobsm .intro-copy-9 {
   color: transparent;
   font-weight: 400;
   line-height: 15px;
 }
 
-.howu95mobsm .span-3 {
+.howu95mobsm .span-6 {
   color: var(--white);
   font-weight: 300;
   line-height: 18.0px;
 }
 
-.howu95mobsm .span1 {
-  color: var(--white);
-  font-weight: 700;
-  line-height: 16.5px;
-}
-
-.howu95mobsm .span-4 {
+.howu95mobsm .span-7 {
   color: var(--dull-lavender);
   font-weight: 700;
   line-height: 16.5px;
 }
 
-.howu95mobsm .intro-copy-5 {
+.howu95mobsm .intro-copy-10 {
   color: var(--white);
   font-weight: 300;
   line-height: 18.0px;
 }
 
-.howu95mobsm .intro-copy-6 {
+.howu95mobsm .intro-copy-11 {
   cursor: pointer;
   flex: 0 0 auto;
   margin-bottom: -1.20px;
@@ -958,13 +996,13 @@
   width: 100%;
 }
 
-.howu95mobsm .intro-copy-7 {
+.howu95mobsm .intro-copy-12 {
   color: var(--white);
   font-weight: 300;
   line-height: 18.0px;
 }
 
-.howu95mobsm .intro-copy-8 {
+.howu95mobsm .intro-copy-13 {
   cursor: pointer;
   flex: 0 0 auto;
   margin-bottom: -1.17px;
@@ -1019,7 +1057,7 @@
   width: 100%;
 }
 
-.howu95mobsm .run-the-server {
+.howu95mobsm .run-the-server-1 {
   align-items: center;
   align-self: stretch;
   background-color: var(--black);
@@ -1057,7 +1095,7 @@
   line-height: 15px;
 }
 
-.howu95mobsm .link {
+.howu95mobsm .link-1 {
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 1;
   align-self: stretch;
@@ -1107,7 +1145,7 @@
   cursor: pointer;
 }
 
-.howu95mobsm .logo {
+.howu95mobsm .logo-1 {
   align-items: flex-start;
   display: inline-flex;
   flex: 0 0 auto;
@@ -1117,12 +1155,12 @@
   position: relative;
 }
 
-.howu95mobsm .desktop-home-logo {
+.howu95mobsm .desktop-home-logo-2 {
   height: 36px;
   position: relative;
 }
 
-.howu95mobsm .x2023-orchid {
+.howu95mobsm .x2023-orchid-2 {
   color: var(--white);
   font-weight: 300;
   line-height: 19.6px;
@@ -1130,7 +1168,7 @@
   width: 299px;
 }
 
-.howu95mobsm .hyperlinks {
+.howu95mobsm .hyperlinks-1 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -1151,54 +1189,64 @@
   width: 100%;
 }
 
-.howu95mobsm .x2023-orchid-1 {
+.howu95mobsm .x2023-orchid-3 {
+  color: var(--white);
+  cursor: pointer;
+  flex: 1;
+  font-weight: 700;
+  line-height: 24px;
   width: 151px;
 }
 
-.howu95mobsm .x2023-orchid-2 {
+.howu95mobsm .x2023-orchid-4 {
+  color: var(--white);
+  cursor: pointer;
+  flex: 1;
+  font-weight: 700;
+  line-height: 24px;
   width: 132px;
 }
 
-.howu95mobsm .link-1 {
+.howu95mobsm .link-2 {
   display: flex;
   height: 22px;
   width: 198px;
 }
 
-.howu95mobsm .apps {
+.howu95mobsm .apps-2 {
   width: 102px;
 }
 
-.howu95mobsm .apps-1 {
+.howu95mobsm .apps-3 {
   width: 132px;
 }
 
-.howu95mobsm .apps-2 {
+.howu95mobsm .apps-4 {
   cursor: pointer;
   width: 113px;
 }
 
-.howu95mobsm .apps-3 {
+.howu95mobsm .apps-5 {
   width: 85px;
 }
 
-.howu95mobsm .apps-4 {
+.howu95mobsm .apps-6 {
   width: 122px;
 }
 
-.howu95mobsm .apps-5 {
+.howu95mobsm .apps-7 {
   width: 76px;
 }
 
-.howu95mobsm .apps-6 {
+.howu95mobsm .apps-8 {
   width: 42px;
 }
 
-.howu95mobsm .apps-7 {
+.howu95mobsm .apps-9 {
   width: 75px;
 }
 
-.howu95mobsm .social-icons {
+.howu95mobsm .social-icons-1 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -1211,19 +1259,14 @@
   width: 100%;
 }
 
-.howu95mobsm .social-link-github {
-  height: 33px;
-  margin-bottom: -1.00px;
-}
-
-.howu95mobsm .social-link-reddit {
-  background-image: url(../img/combined-shape@2x.png);
-  background-size: 100% 100%;
-  border-radius: 40px;
+.howu95mobsm .social-link-1 {
+  cursor: pointer;
   height: 32px;
+  position: relative;
+  width: 32px;
 }
 
-.howu95mobsm .apps-8 {
+.howu95mobsm .apps {
   color: var(--white);
   font-weight: 700;
   height: 24px;
@@ -1233,16 +1276,6 @@
 .howu95mobsm .body-5 {
   align-self: stretch;
   position: relative;
-}
-
-.howu95mobsm .cards-1 {
-  align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 16px;
-  position: relative;
-  width: 100%;
 }
 
 .howu95mobsm .discover-2 {
@@ -1259,18 +1292,12 @@
   position: relative;
 }
 
-.howu95mobsm .intro-copy-9 {
+.howu95mobsm .intro-copy {
   align-self: stretch;
   position: relative;
 }
 
-.howu95mobsm .line-1 {
-  height: 1px;
-  object-fit: cover;
-  position: relative;
-}
-
-.howu95mobsm .link-2 {
+.howu95mobsm .link {
   cursor: pointer;
   position: relative;
 }
@@ -1288,24 +1315,10 @@
   position: relative;
 }
 
-.howu95mobsm .social-link-1 {
-  cursor: pointer;
-  position: relative;
-  width: 32px;
-}
-
 .howu95mobsm .title-2 {
   align-self: stretch;
   margin-top: -1.00px;
   position: relative;
-}
-
-.howu95mobsm .x2023-orchid-3 {
-  color: var(--white);
-  cursor: pointer;
-  flex: 1;
-  font-weight: 700;
-  line-height: 24px;
 }
 /* screen - howu95tabsm */
 
@@ -1330,7 +1343,7 @@
   width: 100%;
 }
 
-.howu95tabsm .hero-1 {
+.howu95tabsm .hero-2 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -1359,17 +1372,21 @@
   text-align: center;
 }
 
-.howu95tabsm .span-6 {
+.howu95tabsm .span-8 {
+  color: var(--white);
+}
+
+.howu95tabsm .span-9 {
   color: var(--aquamarine);
 }
 
-.howu95tabsm .intro-copy-9 {
+.howu95tabsm .intro-copy-14 {
   color: transparent;
   font-weight: 300;
   line-height: 18.0px;
 }
 
-.howu95tabsm .span-7 {
+.howu95tabsm .span-10 {
   color: var(--dull-lavender);
 }
 
@@ -1385,7 +1402,7 @@
   width: 100%;
 }
 
-.howu95tabsm .learn-more-1 {
+.howu95tabsm .learn-more-2 {
   color: var(--white);
   font-weight: 700;
   line-height: 24px;
@@ -1407,7 +1424,7 @@
   width: 100%;
 }
 
-.howu95tabsm .line-1 {
+.howu95tabsm .line-2 {
   flex: 1;
   flex-grow: 1;
   height: 1px;
@@ -1425,7 +1442,7 @@
   flex: 1;
 }
 
-.howu95tabsm .cards-1 {
+.howu95tabsm .cards-2 {
   align-items: center;
   align-self: stretch;
   display: flex;
@@ -1436,20 +1453,47 @@
   width: 100%;
 }
 
-.howu95tabsm .intro-copy-10 {
+.howu95tabsm .cards-item-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--black-2);
+  border: 1px solid;
+  border-color: var(--true-v);
+  border-radius: 16px;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
+  overflow: hidden;
+  padding: 24px 24px 40px;
+  position: relative;
+  width: 100%;
+}
+
+.howu95tabsm .intro-copy-15 {
   color: var(--white);
   font-weight: 600;
   line-height: 19.8px;
   margin-top: -1.00px;
 }
 
-.howu95tabsm .intro-copy-12 {
+.howu95tabsm .line-8-2 {
+  align-self: stretch;
+  height: 1px;
+  margin-left: -0.50px;
+  margin-right: -0.50px;
+  object-fit: cover;
+  position: relative;
+  width: 100%;
+}
+
+.howu95tabsm .intro-copy-17 {
   color: var(--white);
   font-weight: 300;
   line-height: 18.0px;
 }
 
-.howu95tabsm .intro-copy-11 {
+.howu95tabsm .intro-copy-16 {
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 1;
   color: var(--dull-lavender-2);
@@ -1461,31 +1505,31 @@
   text-overflow: ellipsis;
 }
 
-.howu95tabsm .intro-copy-13 {
+.howu95tabsm .intro-copy-18 {
   color: transparent;
   font-weight: 400;
   line-height: 15px;
 }
 
-.howu95tabsm .span-8 {
+.howu95tabsm .span-11 {
   color: var(--white);
   font-weight: 300;
   line-height: 18.0px;
 }
 
-.howu95tabsm .span-9 {
+.howu95tabsm .span-12 {
   color: var(--dull-lavender);
   font-weight: 700;
   line-height: 16.5px;
 }
 
-.howu95tabsm .intro-copy-14 {
+.howu95tabsm .intro-copy-19 {
   color: var(--white);
   font-weight: 300;
   line-height: 18.0px;
 }
 
-.howu95tabsm .intro-copy-15 {
+.howu95tabsm .intro-copy-20 {
   cursor: pointer;
   flex: 0 0 auto;
   margin-bottom: -1.20px;
@@ -1493,13 +1537,13 @@
   width: 100%;
 }
 
-.howu95tabsm .intro-copy-16 {
+.howu95tabsm .intro-copy-21 {
   color: var(--white);
   font-weight: 300;
   line-height: 18.0px;
 }
 
-.howu95tabsm .intro-copy-17 {
+.howu95tabsm .intro-copy-22 {
   cursor: pointer;
   flex: 0 0 auto;
   margin-bottom: -1.17px;
@@ -1539,7 +1583,7 @@
   width: 100%;
 }
 
-.howu95tabsm .run-the-server-1 {
+.howu95tabsm .run-the-server-2 {
   align-items: center;
   align-self: stretch;
   background-color: var(--black);
@@ -1577,7 +1621,7 @@
   line-height: 15px;
 }
 
-.howu95tabsm .link-2 {
+.howu95tabsm .link-3 {
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 1;
   align-self: stretch;
@@ -1629,7 +1673,7 @@
   cursor: pointer;
 }
 
-.howu95tabsm .logo-1 {
+.howu95tabsm .logo-2 {
   align-items: flex-start;
   display: inline-flex;
   flex: 0 0 auto;
@@ -1638,12 +1682,7 @@
   position: relative;
 }
 
-.howu95tabsm .desktop-home-logo-1 {
-  height: 36px;
-  position: relative;
-}
-
-.howu95tabsm .x2023-orchid-3 {
+.howu95tabsm .x2023-orchid-5 {
   color: var(--white);
   font-weight: 300;
   line-height: 19.6px;
@@ -1651,7 +1690,7 @@
   width: 299px;
 }
 
-.howu95tabsm .hyperlinks-1 {
+.howu95tabsm .hyperlinks-2 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -1662,7 +1701,7 @@
   width: 100%;
 }
 
-.howu95tabsm .x2023-orchid-4 {
+.howu95tabsm .x2023-orchid-6 {
   color: var(--white);
   cursor: pointer;
   flex: 1;
@@ -1671,7 +1710,7 @@
   width: 151px;
 }
 
-.howu95tabsm .x2023-orchid-5 {
+.howu95tabsm .x2023-orchid-7 {
   color: var(--white);
   cursor: pointer;
   flex: 1;
@@ -1680,46 +1719,42 @@
   width: 132px;
 }
 
-.howu95tabsm .link-3 {
+.howu95tabsm .link-4 {
   display: flex;
   height: 22px;
   width: 198px;
 }
 
-.howu95tabsm .apps-8 {
+.howu95tabsm .apps-10 {
   width: 102px;
 }
 
-.howu95tabsm .apps-9 {
+.howu95tabsm .apps-11 {
   width: 132px;
 }
 
-.howu95tabsm .apps-10 {
+.howu95tabsm .apps-12 {
   cursor: pointer;
   width: 113px;
 }
 
-.howu95tabsm .apps-11 {
+.howu95tabsm .apps-13 {
   width: 85px;
 }
 
-.howu95tabsm .apps-12 {
+.howu95tabsm .apps-14 {
   width: 122px;
 }
 
-.howu95tabsm .apps-13 {
+.howu95tabsm .apps-15 {
   width: 76px;
 }
 
-.howu95tabsm .apps-14 {
-  width: 42px;
-}
-
-.howu95tabsm .apps-15 {
+.howu95tabsm .apps-17 {
   width: 75px;
 }
 
-.howu95tabsm .social-icons-1 {
+.howu95tabsm .social-icons-2 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -1732,9 +1767,10 @@
   width: 100%;
 }
 
-.howu95tabsm .social-link-1 {
+.howu95tabsm .social-link-github-2 {
   cursor: pointer;
-  height: 32px;
+  height: 33px;
+  margin-bottom: -1.00px;
   position: relative;
   width: 32px;
 }
@@ -1813,18 +1849,18 @@
   position: relative;
 }
 @media screen and (max-width: 743px) {
-  .screen.howu95tabsm { 
+  .screen.how-all-breakpoints { 
     display: none;
    }
-  .screen.how-all-breakpoints { 
+  .screen.howu95tabsm { 
     display: none;
    }
 }
 @media screen and (min-width: 744px) and (max-width: 1439px) {
-  .screen.howu95mobsm { 
+  .screen.how-all-breakpoints { 
     display: none;
    }
-  .screen.how-all-breakpoints { 
+  .screen.howu95mobsm { 
     display: none;
    }
 }
