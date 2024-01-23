@@ -564,6 +564,16 @@
   width: 32px;
 }
 
+.about-all-breakpoints .social-link-reddit-2 {
+  background-image: url(../img/combined-shape@2x.png);
+  background-size: 100% 100%;
+  border-radius: 40px;
+  cursor: pointer;
+  height: 32px;
+  position: relative;
+  width: 32px;
+}
+
 .about-all-breakpoints .apps {
   color: var(--white);
   font-weight: 700;
@@ -634,6 +644,17 @@
   gap: 100px;
   min-width: 360px;
   position: relative;
+}
+
+.aboutu95mobsm .mobile-nav-header {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  height: 88px;
+  justify-content: space-between;
+  padding: 32px;
+  position: relative;
+  width: 100%;
 }
 
 .aboutu95mobsm .hero {
@@ -765,6 +786,7 @@
   border: 1px solid;
   border-color: var(--aquamarine);
   border-radius: 60px;
+  cursor: pointer;
   display: inline-flex;
   flex: 0 0 auto;
   justify-content: center;
@@ -948,6 +970,7 @@
 .aboutu95mobsm .mobile-button-hero-2 {
   align-items: flex-start;
   background-color: var(--heavy-metal);
+  cursor: pointer;
 }
 
 .aboutu95mobsm .logo-1 {
@@ -1004,12 +1027,21 @@
   width: 100%;
 }
 
+.aboutu95mobsm .frame-532-item {
+  display: flex;
+  height: 22px;
+  margin-right: -21.00px;
+  position: relative;
+  width: 281px;
+}
+
 .aboutu95mobsm .x2023-orchid-2 {
   color: var(--white);
   cursor: pointer;
   flex: 1;
   font-weight: 700;
   line-height: 24px;
+  white-space: nowrap;
   width: 151px;
 }
 
@@ -1019,6 +1051,7 @@
   flex: 1;
   font-weight: 700;
   line-height: 24px;
+  white-space: nowrap;
   width: 132px;
 }
 
@@ -1026,8 +1059,9 @@
   cursor: pointer;
   display: flex;
   height: 22px;
+  margin-right: -21.00px;
   position: relative;
-  width: 198px;
+  width: 281px;
 }
 
 .aboutu95mobsm .apps {
@@ -1099,6 +1133,7 @@
   font-weight: 700;
   height: 24px;
   line-height: 24px;
+  white-space: nowrap;
 }
 
 .aboutu95mobsm .intro-copy-4 {
@@ -1270,6 +1305,17 @@
   justify-content: center;
 }
 
+.aboutu95tabsm .learn-more-1 {
+  color: var(--white);
+  font-weight: 700;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
 .aboutu95tabsm .contact-1 {
   align-items: center;
   display: flex;
@@ -1384,7 +1430,6 @@
 .aboutu95tabsm .mobile-button-hero-4 {
   align-items: center;
   background-color: var(--heavy-metal);
-  cursor: pointer;
   justify-content: center;
 }
 
@@ -1453,6 +1498,11 @@
   position: relative;
 }
 
+.aboutu95tabsm .desktop-home-logo-1 {
+  height: 36px;
+  position: relative;
+}
+
 .aboutu95tabsm .x2023-orchid-4 {
   color: var(--white);
   font-weight: 300;
@@ -1469,12 +1519,31 @@
   position: relative;
 }
 
+.aboutu95tabsm .hyperlinks-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 40px;
+  position: relative;
+  width: 100%;
+}
+
+.aboutu95tabsm .frame-532-item-1 {
+  display: flex;
+  height: 22px;
+  position: relative;
+  width: 281px;
+}
+
 .aboutu95tabsm .x2023-orchid-6 {
   color: var(--white);
   cursor: pointer;
   flex: 1;
   font-weight: 700;
   line-height: 24px;
+  white-space: nowrap;
   width: 151px;
 }
 
@@ -1484,6 +1553,7 @@
   flex: 1;
   font-weight: 700;
   line-height: 24px;
+  white-space: nowrap;
   width: 132px;
 }
 
@@ -1492,7 +1562,7 @@
   display: flex;
   height: 22px;
   position: relative;
-  width: 198px;
+  width: 281px;
 }
 
 .aboutu95tabsm .apps-8 {
@@ -1528,6 +1598,19 @@
   width: 75px;
 }
 
+.aboutu95tabsm .social-icons-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 60px 60px;
+  justify-content: space-between;
+  padding: 24px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
 .aboutu95tabsm .social-link-1 {
   cursor: pointer;
   height: 32px;
@@ -1540,6 +1623,7 @@
   font-weight: 700;
   height: 24px;
   line-height: 24px;
+  white-space: nowrap;
 }
 
 .aboutu95tabsm .intro-copy {
@@ -1565,6 +1649,7 @@
   border: 1px solid;
   border-color: var(--aquamarine);
   border-radius: 60px;
+  cursor: pointer;
   display: inline-flex;
   flex: 0 0 auto;
   padding: 16px 80px;

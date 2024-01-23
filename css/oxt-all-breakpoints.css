@@ -576,6 +576,11 @@
   position: relative;
 }
 
+.oxt-all-breakpoints .desktop-home-logo-1 {
+  height: 36px;
+  position: relative;
+}
+
 .oxt-all-breakpoints .x2023-orchid-1 {
   color: var(--white);
   font-weight: 300;
@@ -701,6 +706,17 @@
   position: relative;
 }
 
+.oxtu95mobsm .mobile-nav-header {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  height: 88px;
+  justify-content: space-between;
+  padding: 32px;
+  position: relative;
+  width: 100%;
+}
+
 .oxtu95mobsm .hero-1 {
   align-items: center;
   align-self: stretch;
@@ -772,6 +788,18 @@
   font-weight: 300;
   line-height: 18.0px;
   position: relative;
+}
+
+.oxtu95mobsm .features {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  padding: 0px 24px;
+  position: relative;
+  width: 100%;
 }
 
 .oxtu95mobsm .mobile {
@@ -848,6 +876,12 @@
   color: var(--white);
   font-weight: 300;
   line-height: 18.0px;
+}
+
+.oxtu95mobsm .span1-1 {
+  color: var(--white);
+  font-weight: 700;
+  line-height: 16.5px;
 }
 
 .oxtu95mobsm .span2 {
@@ -1038,6 +1072,17 @@
   position: relative;
 }
 
+.oxtu95mobsm .hyperlinks-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 40px;
+  position: relative;
+  width: 100%;
+}
+
 .oxtu95mobsm .frame-532 {
   align-items: flex-start;
   align-self: stretch;
@@ -1048,12 +1093,21 @@
   width: 100%;
 }
 
+.oxtu95mobsm .frame-532-item {
+  display: flex;
+  height: 22px;
+  margin-right: -21.00px;
+  position: relative;
+  width: 281px;
+}
+
 .oxtu95mobsm .x2023-orchid-4 {
   color: var(--white);
   cursor: pointer;
   flex: 1;
   font-weight: 700;
   line-height: 24px;
+  white-space: nowrap;
   width: 151px;
 }
 
@@ -1063,12 +1117,14 @@
   flex: 1;
   font-weight: 700;
   line-height: 24px;
+  white-space: nowrap;
   width: 132px;
 }
 
 .oxtu95mobsm .link-3 {
   height: 22px;
-  width: 198px;
+  margin-right: -21.00px;
+  width: 281px;
 }
 
 .oxtu95mobsm .apps-2 {
@@ -1104,6 +1160,19 @@
   width: 75px;
 }
 
+.oxtu95mobsm .social-icons-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 60px 60px;
+  justify-content: space-between;
+  padding: 24px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
 .oxtu95mobsm .social-link-1 {
   cursor: pointer;
   height: 32px;
@@ -1122,6 +1191,7 @@
   font-weight: 700;
   height: 24px;
   line-height: 24px;
+  white-space: nowrap;
 }
 
 .oxtu95mobsm .frame {
@@ -1221,18 +1291,6 @@
   width: 285px;
 }
 
-.oxtu95tabsm .features-1 {
-  align-items: center;
-  align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 24px;
-  padding: 0px 24px;
-  position: relative;
-  width: 100%;
-}
-
 .oxtu95tabsm .mobile-1 {
   align-items: center;
   align-self: stretch;
@@ -1299,12 +1357,6 @@
   color: var(--white);
   font-weight: 300;
   line-height: 18.0px;
-}
-
-.oxtu95tabsm .span1-2 {
-  color: var(--white);
-  font-weight: 700;
-  line-height: 16.5px;
 }
 
 .oxtu95tabsm .span2-1 {
@@ -1462,11 +1514,6 @@
   position: relative;
 }
 
-.oxtu95tabsm .desktop-home-logo-3 {
-  height: 36px;
-  position: relative;
-}
-
 .oxtu95tabsm .x2023-orchid-6 {
   color: var(--white);
   font-weight: 300;
@@ -1494,12 +1541,20 @@
   width: 100%;
 }
 
+.oxtu95tabsm .frame-532-item-1 {
+  display: flex;
+  height: 22px;
+  position: relative;
+  width: 281px;
+}
+
 .oxtu95tabsm .x2023-orchid-8 {
   color: var(--white);
   cursor: pointer;
   flex: 1;
   font-weight: 700;
   line-height: 24px;
+  white-space: nowrap;
   width: 151px;
 }
 
@@ -1509,12 +1564,13 @@
   flex: 1;
   font-weight: 700;
   line-height: 24px;
+  white-space: nowrap;
   width: 132px;
 }
 
 .oxtu95tabsm .link-5 {
   height: 22px;
-  width: 198px;
+  width: 281px;
 }
 
 .oxtu95tabsm .apps-10 {
@@ -1542,10 +1598,6 @@
   width: 76px;
 }
 
-.oxtu95tabsm .apps-16 {
-  width: 42px;
-}
-
 .oxtu95tabsm .apps-17 {
   width: 75px;
 }
@@ -1571,6 +1623,16 @@
   width: 32px;
 }
 
+.oxtu95tabsm .social-link-reddit-2 {
+  background-image: url(../img/combined-shape@2x.png);
+  background-size: 100% 100%;
+  border-radius: 40px;
+  cursor: pointer;
+  height: 32px;
+  position: relative;
+  width: 32px;
+}
+
 .oxtu95tabsm .about-orchid {
   font-weight: 700;
   line-height: 24px;
@@ -1583,6 +1645,7 @@
   font-weight: 700;
   height: 24px;
   line-height: 24px;
+  white-space: nowrap;
 }
 
 .oxtu95tabsm .link {

@@ -11,10 +11,13 @@
 }
 
 .home-all-breakpoints .ellipses {
+  align-items: flex-start;
   display: flex;
-  height: 7576px;
+  gap: 10px;
   justify-content: center;
   left: calc(50.00% - 1009px);
+  max-height: 7576px;
+  max-width: 1967px;
   position: absolute;
   top: -106px;
   width: 1967px;
@@ -22,15 +25,15 @@
 
 .home-all-breakpoints .frame-546 {
   height: 7575.5px;
-  margin-top: 0.5px;
+  position: relative;
   width: 1967px;
 }
 
 .home-all-breakpoints .hero-orchids-vec {
   height: 1110px;
-  left: calc(50.00% + 70px);
+  left: calc(50.00% + 20px);
   position: absolute;
-  top: 348px;
+  top: 193px;
   width: 1150px;
 }
 
@@ -137,6 +140,14 @@
   flex-direction: column;
   padding: 96px 0px 0px;
   position: relative;
+}
+
+.home-all-breakpoints .desktop-button-hero {
+  background-image: url(../img/rectangle-6-43@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 80px;
+  width: 360px;
 }
 
 .home-all-breakpoints .ecosystem-1 {
@@ -545,6 +556,11 @@
   height: 56px;
   position: relative;
   width: 187px;
+}
+
+.home-all-breakpoints .google-play-badge-1 {
+  height: 56.3px;
+  width: 188px;
 }
 
 .home-all-breakpoints .apple-store {
@@ -1157,6 +1173,16 @@
   width: 32px;
 }
 
+.home-all-breakpoints .social-link-reddit-2 {
+  background-image: url(../img/combined-shape@2x.png);
+  background-size: 100% 100%;
+  border-radius: 40px;
+  cursor: pointer;
+  height: 32px;
+  position: relative;
+  width: 32px;
+}
+
 .home-all-breakpoints .about-orchid {
   color: var(--aquamarine);
   font-weight: 700;
@@ -1244,9 +1270,32 @@
   background-color: var(--woodsmoke);
   display: flex;
   flex-direction: column;
-  gap: 80px;
+  gap: 60px;
   min-width: 360px;
+  overflow: hidden;
   position: relative;
+}
+
+.homeu95mobsm .mobile-nav-header {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  height: 88px;
+  justify-content: space-between;
+  padding: 32px;
+  position: relative;
+  width: 100%;
+}
+
+.homeu95mobsm .orchid-grid-hero {
+  background-image: url(../img/orchidgrid-mob-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 284px;
+  position: absolute;
+  right: -132px;
+  top: 212px;
+  width: 294px;
 }
 
 .homeu95mobsm .hero {
@@ -1302,12 +1351,13 @@
   position: relative;
 }
 
-.homeu95mobsm .mobile-button-hero {
+.homeu95mobsm .mobile-button-hero-1 {
   align-items: center;
   background-color: var(--log-cabin);
   border: 1px solid;
   border-color: var(--aquamarine);
   border-radius: 60px;
+  cursor: pointer;
   display: inline-flex;
   flex: 0 0 auto;
   justify-content: center;
@@ -1322,7 +1372,7 @@
   flex: 0 0 auto;
   flex-direction: column;
   gap: 24px;
-  padding: 0px 24px;
+  padding: 0px 24px 20px;
   position: relative;
   width: 100%;
 }
@@ -1478,7 +1528,20 @@
   flex: 0 0 auto;
   flex-direction: column;
   gap: 10px;
-  padding: 60px 0px 0px;
+  padding: 40px 0px 0px;
+  position: relative;
+}
+
+.homeu95mobsm .mobile-button-hero {
+  align-items: center;
+  background-color: var(--log-cabin);
+  border: 1px solid;
+  border-color: var(--aquamarine);
+  border-radius: 60px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  padding: 16px 80px;
   position: relative;
 }
 
@@ -1488,6 +1551,7 @@
   display: flex;
   flex: 0 0 auto;
   flex-direction: column;
+  padding: 0px 0px 20px;
   position: relative;
   width: 100%;
 }
@@ -1608,7 +1672,7 @@
   flex: 0 0 auto;
   flex-direction: column;
   gap: 10px;
-  padding: 80px 24px 0px;
+  padding: 40px 24px 0px;
   position: relative;
   width: 100%;
 }
@@ -1620,6 +1684,7 @@
   flex: 0 0 auto;
   flex-direction: column;
   gap: 24px;
+  padding: 0px 0px 20px;
   position: relative;
   width: 100%;
 }
@@ -1762,7 +1827,7 @@
   flex: 0 0 auto;
   flex-direction: column;
   gap: 10px;
-  padding: 80px 0px 0px;
+  padding: 40px 0px 0px;
   position: relative;
 }
 
@@ -2081,12 +2146,21 @@
   width: 100%;
 }
 
+.homeu95mobsm .frame-532-item {
+  display: flex;
+  height: 22px;
+  margin-right: -21.00px;
+  position: relative;
+  width: 281px;
+}
+
 .homeu95mobsm .x2023-orchid-2 {
   color: var(--white);
   cursor: pointer;
   flex: 1;
   font-weight: 700;
   line-height: 24px;
+  white-space: nowrap;
   width: 151px;
 }
 
@@ -2096,6 +2170,7 @@
   flex: 1;
   font-weight: 700;
   line-height: 24px;
+  white-space: nowrap;
   width: 132px;
 }
 
@@ -2103,8 +2178,9 @@
   cursor: pointer;
   display: flex;
   height: 22px;
+  margin-right: -21.00px;
   position: relative;
-  width: 198px;
+  width: 281px;
 }
 
 .homeu95mobsm .apps {
@@ -2170,6 +2246,7 @@
   font-weight: 700;
   height: 24px;
   line-height: 24px;
+  white-space: nowrap;
 }
 
 .homeu95mobsm .body-2 {
@@ -2301,15 +2378,19 @@
   flex-direction: column;
   gap: 120px;
   min-width: 744px;
+  overflow: hidden;
   position: relative;
 }
 
-.homeu95tab .orchid-grid-hero {
+.homeu95tab .orchid-grid-hero-1 {
+  background-image: url(../img/orchidgrid-mob-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
   height: 544px;
   position: absolute;
-  right: 0;
+  right: -238px;
   top: 231px;
-  width: 325px;
+  width: 563px;
 }
 
 .homeu95tab .mobile-nav-header-1 {
@@ -2374,17 +2455,19 @@
   position: relative;
 }
 
-.homeu95tab .mobile-button-hero-1 {
-  align-items: center;
-  background-color: var(--log-cabin);
-  border: 1px solid;
-  border-color: var(--aquamarine);
-  border-radius: 60px;
-  display: inline-flex;
-  flex: 0 0 auto;
-  justify-content: center;
-  padding: 16px 80px;
+.homeu95tab .mobile-button-hero-3 {
+  cursor: pointer;
+}
+
+.homeu95tab .learn-more-1 {
+  color: var(--white);
+  font-weight: 700;
+  line-height: 24px;
+  margin-top: -1.00px;
   position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
 }
 
 .homeu95tab .ecosystem {
@@ -3037,6 +3120,11 @@
   position: relative;
 }
 
+.homeu95tab .desktop-home-logo-1 {
+  height: 36px;
+  position: relative;
+}
+
 .homeu95tab .x2023-orchid-4 {
   color: var(--white);
   font-weight: 300;
@@ -3053,12 +3141,31 @@
   position: relative;
 }
 
+.homeu95tab .hyperlinks-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 40px;
+  position: relative;
+  width: 100%;
+}
+
+.homeu95tab .frame-532-item-1 {
+  display: flex;
+  height: 22px;
+  position: relative;
+  width: 281px;
+}
+
 .homeu95tab .x2023-orchid-6 {
   color: var(--white);
   cursor: pointer;
   flex: 1;
   font-weight: 700;
   line-height: 24px;
+  white-space: nowrap;
   width: 151px;
 }
 
@@ -3068,6 +3175,7 @@
   flex: 1;
   font-weight: 700;
   line-height: 24px;
+  white-space: nowrap;
   width: 132px;
 }
 
@@ -3076,7 +3184,7 @@
   display: flex;
   height: 22px;
   position: relative;
-  width: 198px;
+  width: 281px;
 }
 
 .homeu95tab .apps-8 {
@@ -3112,6 +3220,19 @@
   width: 75px;
 }
 
+.homeu95tab .social-icons-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 60px 60px;
+  justify-content: space-between;
+  padding: 24px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
 .homeu95tab .social-link-1 {
   cursor: pointer;
   height: 32px;
@@ -3133,6 +3254,7 @@
   font-weight: 700;
   height: 24px;
   line-height: 24px;
+  white-space: nowrap;
 }
 
 .homeu95tab .body {
@@ -3219,6 +3341,19 @@
   gap: 8px;
   position: relative;
   width: 100%;
+}
+
+.homeu95tab .mobile-button-hero {
+  align-items: center;
+  background-color: var(--log-cabin);
+  border: 1px solid;
+  border-color: var(--aquamarine);
+  border-radius: 60px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  padding: 16px 80px;
+  position: relative;
 }
 
 .homeu95tab .mobile-caption-section {
