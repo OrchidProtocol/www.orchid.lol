@@ -142,14 +142,6 @@
   position: relative;
 }
 
-.home-all-breakpoints .desktop-button-hero {
-  background-image: url(../img/rectangle-6-43@2x.png);
-  background-size: 100% 100%;
-  display: flex;
-  height: 80px;
-  width: 360px;
-}
-
 .home-all-breakpoints .ecosystem-1 {
   align-items: flex-start;
   display: flex;
@@ -223,14 +215,13 @@
 
 .home-all-breakpoints .cards-6 {
   align-items: flex-start;
-  align-self: stretch;
   display: flex;
   flex: 0 0 auto;
   flex-wrap: wrap;
   gap: 24px 24px;
   justify-content: center;
   position: relative;
-  width: 100%;
+  width: 1280px;
 }
 
 .home-all-breakpoints .card-springboard-desktop-default {
@@ -1169,16 +1160,6 @@
   cursor: pointer;
   height: 33px;
   margin-bottom: -1.00px;
-  position: relative;
-  width: 32px;
-}
-
-.home-all-breakpoints .social-link-reddit-2 {
-  background-image: url(../img/combined-shape@2x.png);
-  background-size: 100% 100%;
-  border-radius: 40px;
-  cursor: pointer;
-  height: 32px;
   position: relative;
   width: 32px;
 }
@@ -3120,11 +3101,6 @@
   position: relative;
 }
 
-.homeu95tab .desktop-home-logo-1 {
-  height: 36px;
-  position: relative;
-}
-
 .homeu95tab .x2023-orchid-4 {
   color: var(--white);
   font-weight: 300;
@@ -3139,17 +3115,6 @@
   font-weight: 300;
   line-height: 19.6px;
   position: relative;
-}
-
-.homeu95tab .hyperlinks-1 {
-  align-items: flex-start;
-  align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 40px;
-  position: relative;
-  width: 100%;
 }
 
 .homeu95tab .frame-532-item-1 {
@@ -3218,19 +3183,6 @@
 
 .homeu95tab .apps-15 {
   width: 75px;
-}
-
-.homeu95tab .social-icons-1 {
-  align-items: flex-start;
-  align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  flex-wrap: wrap;
-  gap: 60px 60px;
-  justify-content: space-between;
-  padding: 24px 0px 0px;
-  position: relative;
-  width: 100%;
 }
 
 .homeu95tab .social-link-1 {
