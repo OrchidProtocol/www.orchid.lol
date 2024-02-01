@@ -142,6 +142,15 @@
   position: relative;
 }
 
+.home-all-breakpoints .learn-more-2 {
+  color: var(--white);
+  flex: 1;
+  font-weight: 700;
+  height: 24px;
+  line-height: 24px;
+  text-align: center;
+}
+
 .home-all-breakpoints .ecosystem-1 {
   align-items: flex-start;
   display: flex;
@@ -967,7 +976,7 @@
 }
 
 .home-all-breakpoints .company-7 {
-  color: var(--dull-lavender-2);
+  color: var(--dull-lavender);
   font-weight: 700;
   height: 16px;
   left: 0;
@@ -1019,7 +1028,7 @@
 }
 
 .home-all-breakpoints .company-5 {
-  color: var(--dull-lavender-2);
+  color: var(--dull-lavender);
   font-weight: 700;
   height: 16px;
   line-height: 22.4px;
@@ -1114,15 +1123,6 @@
   justify-content: space-between;
   position: relative;
   width: 100%;
-}
-
-.home-all-breakpoints .frame-42 {
-  align-items: flex-start;
-  display: inline-flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 24px;
-  position: relative;
 }
 
 .home-all-breakpoints .x2023-orchid-8 {
@@ -2015,7 +2015,7 @@
 }
 
 .homeu95mobsm .company-1 {
-  color: var(--dull-lavender-2);
+  color: var(--dull-lavender);
   font-weight: 700;
   height: 16px;
   line-height: 24px;
@@ -2210,16 +2210,11 @@
   width: 100%;
 }
 
-.homeu95mobsm .social-link-github {
-  height: 33px;
-  margin-bottom: -1.00px;
-}
-
-.homeu95mobsm .social-link-reddit {
-  background-image: url(../img/combined-shape@2x.png);
-  background-size: 100% 100%;
-  border-radius: 40px;
+.homeu95mobsm .social-link {
+  cursor: pointer;
   height: 32px;
+  position: relative;
+  width: 32px;
 }
 
 .homeu95mobsm .apps-8 {
@@ -3045,7 +3040,7 @@
 }
 
 .homeu95tab .company-3 {
-  color: var(--dull-lavender-2);
+  color: var(--dull-lavender);
   font-weight: 700;
   height: 16px;
   line-height: 24px;
@@ -3101,6 +3096,11 @@
   position: relative;
 }
 
+.homeu95tab .desktop-home-logo-1 {
+  height: 36px;
+  position: relative;
+}
+
 .homeu95tab .x2023-orchid-4 {
   color: var(--white);
   font-weight: 300;
@@ -3115,6 +3115,17 @@
   font-weight: 300;
   line-height: 19.6px;
   position: relative;
+}
+
+.homeu95tab .hyperlinks-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 40px;
+  position: relative;
+  width: 100%;
 }
 
 .homeu95tab .frame-532-item-1 {
@@ -3183,6 +3194,19 @@
 
 .homeu95tab .apps-15 {
   width: 75px;
+}
+
+.homeu95tab .social-icons-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 60px 60px;
+  justify-content: space-between;
+  padding: 24px 0px 0px;
+  position: relative;
+  width: 100%;
 }
 
 .homeu95tab .social-link-1 {
