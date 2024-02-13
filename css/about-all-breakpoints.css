@@ -71,7 +71,7 @@
   width: 912px;
 }
 
-.about-all-breakpoints .logo {
+.about-all-breakpoints .logo-4 {
   height: 734px;
   position: absolute;
   right: -279px;
@@ -79,11 +79,9 @@
   width: 810px;
 }
 
-.about-all-breakpoints .desktop-home-logo {
+.about-all-breakpoints .desktop-home-logo-2 {
   cursor: pointer;
   flex: 0 0 auto;
-  height: 36px;
-  position: relative;
 }
 
 .about-all-breakpoints .desktop-button-top-nav-1 {
@@ -148,7 +146,7 @@
   width: 196px;
 }
 
-.about-all-breakpoints .hero {
+.about-all-breakpoints .hero-2 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -162,7 +160,7 @@
   width: 100%;
 }
 
-.about-all-breakpoints .frame-403 {
+.about-all-breakpoints .frame-403-2 {
   align-items: center;
   display: flex;
   flex: 0 0 auto;
@@ -172,7 +170,7 @@
   width: 855px;
 }
 
-.about-all-breakpoints .orchids-mission-is {
+.about-all-breakpoints .orchids-mission-is-2 {
   align-self: stretch;
   color: transparent;
   font-weight: 600;
@@ -181,41 +179,36 @@
   position: relative;
 }
 
-.about-all-breakpoints .span0 {
-  color: var(--white);
-}
-
-.about-all-breakpoints .span1 {
-  color: var(--aquamarine);
+.about-all-breakpoints .span {
+  letter-spacing: 0.32px;
 }
 
 .about-all-breakpoints .frame-491 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
-  flex-direction: column;
   gap: 40px;
   height: 392px;
+  width: 100%;
+}
+
+.about-all-breakpoints .line-10-1 {
+  align-self: stretch;
+  height: 1px;
+  margin-top: -1.00px;
+  object-fit: cover;
   position: relative;
   width: 100%;
 }
 
-.about-all-breakpoints .line-10 {
+.about-all-breakpoints .intro-copy-8 {
   align-self: stretch;
-  margin-top: -1.00px;
-  width: 100%;
-}
-
-.about-all-breakpoints .intro-copy {
-  align-self: stretch;
-  color: var(--white);
   font-weight: 400;
   height: 312px;
   line-height: 28.0px;
-  position: relative;
 }
 
-.about-all-breakpoints .media-kits {
+.about-all-breakpoints .media-kits-2 {
   align-items: center;
   background-color: var(--black);
   border: 1px solid;
@@ -230,7 +223,7 @@
   position: relative;
 }
 
-.about-all-breakpoints .copy {
+.about-all-breakpoints .copy-2 {
   align-items: center;
   display: inline-flex;
   flex: 0 0 auto;
@@ -240,7 +233,7 @@
   position: relative;
 }
 
-.about-all-breakpoints .decentralized-marketplace {
+.about-all-breakpoints .decentralized-marketplace-2 {
   color: transparent;
   font-weight: 600;
   height: 96px;
@@ -251,22 +244,21 @@
   width: 880px;
 }
 
-.about-all-breakpoints .intro-copy-1 {
+.about-all-breakpoints .intro-copy-9 {
   font-weight: 500;
   line-height: 34.7px;
   text-align: center;
   width: 880px;
 }
 
-.about-all-breakpoints .line-2 {
+.about-all-breakpoints .line-2-3 {
   margin-bottom: -1.00px;
+  position: relative;
   width: 880px;
 }
 
-.about-all-breakpoints .buttons {
-  display: flex;
+.about-all-breakpoints .buttons-2 {
   height: 72px;
-  position: relative;
   width: 361px;
 }
 
@@ -283,7 +275,7 @@
   width: 361px;
 }
 
-.about-all-breakpoints .contact {
+.about-all-breakpoints .contact-2 {
   align-items: center;
   display: flex;
   flex: 0 0 auto;
@@ -299,9 +291,7 @@
   align-self: stretch;
   display: flex;
   flex: 0 0 auto;
-  flex-direction: column;
   gap: 24px;
-  position: relative;
   width: 100%;
 }
 
@@ -327,7 +317,7 @@
   width: 100%;
 }
 
-.about-all-breakpoints .line {
+.about-all-breakpoints .line-4 {
   flex: 1;
   flex-grow: 1;
   height: 1px;
@@ -367,7 +357,7 @@
   width: 1280px;
 }
 
-.about-all-breakpoints .intro-copy-2 {
+.about-all-breakpoints .intro-copy-10 {
   align-self: stretch;
   font-weight: 400;
   line-height: 28.0px;
@@ -390,7 +380,7 @@
   width: 40px;
 }
 
-.about-all-breakpoints .about-orchid {
+.about-all-breakpoints .about-orchid-2 {
   color: var(--aquamarine);
   font-weight: 700;
   line-height: 24px;
@@ -399,14 +389,12 @@
   width: fit-content;
 }
 
-.about-all-breakpoints .buttons-1 {
+.about-all-breakpoints .buttons-3 {
   align-items: flex-start;
-  display: flex;
   flex: 0 0 auto;
   gap: 135px;
   justify-content: center;
   padding: 60px 0px 0px;
-  position: relative;
   width: 588.36px;
 }
 
@@ -417,7 +405,7 @@
   justify-content: center;
 }
 
-.about-all-breakpoints .corp-info {
+.about-all-breakpoints .corp-info-2 {
   align-items: flex-start;
   display: flex;
   flex: 0 0 auto;
@@ -434,10 +422,8 @@
   width: 1200px;
 }
 
-.about-all-breakpoints .line-2-1 {
-  height: 1px;
+.about-all-breakpoints .line-2-4 {
   left: 0;
-  object-fit: cover;
   position: absolute;
   top: 56px;
   width: 1200px;
@@ -455,7 +441,7 @@
   width: 1200px;
 }
 
-.about-all-breakpoints .frame-493 {
+.about-all-breakpoints .frame-493-2 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -466,7 +452,7 @@
   width: 100%;
 }
 
-.about-all-breakpoints .frame-494 {
+.about-all-breakpoints .frame-494-2 {
   align-items: flex-start;
   display: flex;
   gap: 10px;
@@ -474,7 +460,7 @@
   width: 740px;
 }
 
-.about-all-breakpoints .intro-copy-3 {
+.about-all-breakpoints .intro-copy-11 {
   flex: 1;
   font-weight: 400;
   height: 156px;
@@ -510,7 +496,7 @@
   width: 100%;
 }
 
-.about-all-breakpoints .logo-1 {
+.about-all-breakpoints .logo-5 {
   align-items: flex-start;
   display: inline-flex;
   flex: 0 0 auto;
@@ -519,12 +505,7 @@
   position: relative;
 }
 
-.about-all-breakpoints .desktop-home-logo-1 {
-  height: 36px;
-  position: relative;
-}
-
-.about-all-breakpoints .x2023-orchid-1 {
+.about-all-breakpoints .x2023-orchid-9 {
   color: var(--white);
   font-weight: 300;
   line-height: 19.6px;
@@ -532,7 +513,7 @@
   width: 676px;
 }
 
-.about-all-breakpoints .hyperlinks {
+.about-all-breakpoints .hyperlinks-2 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -544,7 +525,14 @@
   width: 100%;
 }
 
-.about-all-breakpoints .x2023-orchid {
+.about-all-breakpoints .frame-42 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 24px;
+}
+
+.about-all-breakpoints .x2023-orchid-8 {
   color: var(--white);
   cursor: pointer;
   flex: 1;
@@ -553,21 +541,44 @@
   width: 180px;
 }
 
-.about-all-breakpoints .apps-1 {
-  color: var(--white);
+.about-all-breakpoints .apps-17 {
   cursor: pointer;
-  font-weight: 700;
-  height: 22px;
-  line-height: 22.4px;
-  width: 198px;
 }
 
-.about-all-breakpoints .link {
+.about-all-breakpoints .link-2 {
   cursor: pointer;
   display: flex;
   height: 22px;
   position: relative;
   width: 198px;
+}
+
+.about-all-breakpoints .social-icons-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 40px 24px;
+  justify-content: flex-end;
+  position: relative;
+}
+
+.about-all-breakpoints .social-link-github-2 {
+  cursor: pointer;
+  height: 33px;
+  margin-bottom: -1.00px;
+  position: relative;
+  width: 32px;
+}
+
+.about-all-breakpoints .social-link-reddit-2 {
+  background-image: url(../img/combined-shape@2x.png);
+  background-size: 100% 100%;
+  border-radius: 40px;
+  cursor: pointer;
+  height: 32px;
+  position: relative;
+  width: 32px;
 }
 
 .about-all-breakpoints .apps {
@@ -578,21 +589,9 @@
   width: 198px;
 }
 
-.about-all-breakpoints .social-icons {
-  align-items: flex-start;
-  display: inline-flex;
-  flex: 0 0 auto;
-  flex-wrap: wrap;
-  gap: 40px 24px;
-  justify-content: flex-end;
+.about-all-breakpoints .buttons {
+  display: flex;
   position: relative;
-}
-
-.about-all-breakpoints .social-link {
-  cursor: pointer;
-  height: 32px;
-  position: relative;
-  width: 32px;
 }
 
 .about-all-breakpoints .desktop-button-standard-3 {
@@ -613,21 +612,24 @@
   position: relative;
 }
 
-.about-all-breakpoints .intro-copy-4 {
+.about-all-breakpoints .desktop-home-logo {
+  height: 36px;
+  position: relative;
+}
+
+.about-all-breakpoints .frame {
+  flex-direction: column;
+  position: relative;
+}
+
+.about-all-breakpoints .intro-copy {
   color: var(--white);
   position: relative;
 }
 
-.about-all-breakpoints .line-1 {
+.about-all-breakpoints .line-2 {
   height: 1px;
   object-fit: cover;
-  position: relative;
-}
-
-.about-all-breakpoints .social-link-1 {
-  cursor: pointer;
-  position: relative;
-  width: 32px;
 }
 
 .about-all-breakpoints .vpn-3 {
@@ -661,7 +663,7 @@
   width: 100%;
 }
 
-.aboutu95mobsm .hero-1 {
+.aboutu95mobsm .hero {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -673,7 +675,7 @@
   width: 100%;
 }
 
-.aboutu95mobsm .frame-403-1 {
+.aboutu95mobsm .frame-403 {
   align-items: flex-start;
   display: flex;
   flex: 1;
@@ -683,7 +685,7 @@
   position: relative;
 }
 
-.aboutu95mobsm .orchids-mission-is-1 {
+.aboutu95mobsm .orchids-mission-is {
   align-self: stretch;
   color: transparent;
   font-weight: 600;
@@ -692,26 +694,28 @@
   position: relative;
 }
 
-.aboutu95mobsm .span0-1 {
+.aboutu95mobsm .span0 {
   color: var(--white);
 }
 
-.aboutu95mobsm .span1-1 {
+.aboutu95mobsm .span1 {
   color: var(--aquamarine);
 }
 
-.aboutu95mobsm .line-1 {
+.aboutu95mobsm .line {
   align-self: stretch;
   width: 100%;
 }
 
-.aboutu95mobsm .intro-copy-4 {
+.aboutu95mobsm .intro-copy {
   align-self: stretch;
+  color: var(--white);
   font-weight: 300;
   line-height: 18.0px;
+  position: relative;
 }
 
-.aboutu95mobsm .logo-2 {
+.aboutu95mobsm .logo {
   height: 159px;
   position: absolute;
   right: 0;
@@ -719,7 +723,7 @@
   width: 128px;
 }
 
-.aboutu95mobsm .media-kits-1 {
+.aboutu95mobsm .media-kits {
   align-items: center;
   background-color: var(--black);
   border: 1px solid;
@@ -734,7 +738,7 @@
   width: 312px;
 }
 
-.aboutu95mobsm .copy-1 {
+.aboutu95mobsm .copy {
   align-items: center;
   align-self: stretch;
   display: flex;
@@ -747,7 +751,7 @@
   width: 100%;
 }
 
-.aboutu95mobsm .decentralized-marketplace-1 {
+.aboutu95mobsm .decentralized-marketplace {
   align-self: stretch;
   color: transparent;
   font-weight: 600;
@@ -758,29 +762,28 @@
   text-shadow: 0px 4px 16px #ffffff40;
 }
 
-.aboutu95mobsm .intro-copy-5 {
+.aboutu95mobsm .intro-copy-1 {
   align-self: stretch;
   font-weight: 600;
   line-height: 19.8px;
   text-align: center;
 }
 
-.aboutu95mobsm .line-2-2 {
+.aboutu95mobsm .line-2 {
   align-self: stretch;
-  height: 1px;
   margin-bottom: -1.00px;
-  object-fit: cover;
-  position: relative;
   width: 100%;
 }
 
 .aboutu95mobsm .frame-476 {
   align-items: center;
   display: inline-flex;
+  flex: 0 0 auto;
   flex-direction: column;
   gap: 10px;
   margin-bottom: -27.50px;
   padding: 40px 0px 0px;
+  position: relative;
 }
 
 .aboutu95mobsm .mobile-button-hero {
@@ -797,7 +800,7 @@
   position: relative;
 }
 
-.aboutu95mobsm .contact-1 {
+.aboutu95mobsm .contact {
   align-items: center;
   align-self: stretch;
   display: flex;
@@ -831,7 +834,7 @@
   width: 100%;
 }
 
-.aboutu95mobsm .line-3 {
+.aboutu95mobsm .line-1 {
   flex: 1;
   flex-grow: 1;
 }
@@ -868,7 +871,7 @@
   text-align: center;
 }
 
-.aboutu95mobsm .intro-copy-6 {
+.aboutu95mobsm .intro-copy-2 {
   align-self: stretch;
   font-weight: 300;
   line-height: 18.0px;
@@ -879,15 +882,19 @@
   align-items: center;
   cursor: pointer;
   display: inline-flex;
+  flex: 0 0 auto;
   gap: 16px;
   justify-content: center;
+  position: relative;
 }
 
 .aboutu95mobsm .social-link-discord {
+  height: 32px;
+  position: relative;
   width: 31px;
 }
 
-.aboutu95mobsm .about-orchid-1 {
+.aboutu95mobsm .about-orchid {
   color: var(--aquamarine);
   font-weight: 700;
   line-height: 24px;
@@ -896,7 +903,7 @@
   width: fit-content;
 }
 
-.aboutu95mobsm .buttons-2 {
+.aboutu95mobsm .buttons {
   align-items: center;
   align-self: stretch;
   cursor: pointer;
@@ -913,7 +920,7 @@
   background-color: var(--log-cabin);
 }
 
-.aboutu95mobsm .corp-info-1 {
+.aboutu95mobsm .corp-info {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -937,7 +944,7 @@
   width: 504px;
 }
 
-.aboutu95mobsm .frame-493-1 {
+.aboutu95mobsm .frame-493 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -949,7 +956,7 @@
   width: 100%;
 }
 
-.aboutu95mobsm .frame-494-1 {
+.aboutu95mobsm .frame-494 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -959,7 +966,7 @@
   width: 100%;
 }
 
-.aboutu95mobsm .intro-copy-7 {
+.aboutu95mobsm .intro-copy-3 {
   flex: 1;
   font-weight: 300;
   line-height: 18.0px;
@@ -972,7 +979,7 @@
   cursor: pointer;
 }
 
-.aboutu95mobsm .logo-3 {
+.aboutu95mobsm .logo-1 {
   align-items: flex-start;
   display: inline-flex;
   flex: 0 0 auto;
@@ -982,12 +989,12 @@
   position: relative;
 }
 
-.aboutu95mobsm .desktop-home-logo-2 {
+.aboutu95mobsm .desktop-home-logo {
   height: 36px;
   position: relative;
 }
 
-.aboutu95mobsm .x2023-orchid-2 {
+.aboutu95mobsm .x2023-orchid {
   color: var(--white);
   font-weight: 300;
   line-height: 19.6px;
@@ -995,7 +1002,7 @@
   width: 299px;
 }
 
-.aboutu95mobsm .x2023-orchid-3 {
+.aboutu95mobsm .x2023-orchid-1 {
   align-self: stretch;
   color: var(--white);
   font-weight: 300;
@@ -1003,7 +1010,7 @@
   position: relative;
 }
 
-.aboutu95mobsm .hyperlinks-1 {
+.aboutu95mobsm .hyperlinks {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -1018,9 +1025,11 @@
   align-items: flex-start;
   align-self: stretch;
   display: flex;
+  flex: 0 0 auto;
   flex-direction: column;
   gap: 32px;
   padding: 24px 0px;
+  position: relative;
   width: 100%;
 }
 
@@ -1032,7 +1041,7 @@
   width: 281px;
 }
 
-.aboutu95mobsm .x2023-orchid-4 {
+.aboutu95mobsm .x2023-orchid-2 {
   color: var(--white);
   cursor: pointer;
   flex: 1;
@@ -1042,7 +1051,7 @@
   width: 151px;
 }
 
-.aboutu95mobsm .x2023-orchid-5 {
+.aboutu95mobsm .x2023-orchid-3 {
   color: var(--white);
   cursor: pointer;
   flex: 1;
@@ -1052,7 +1061,7 @@
   width: 132px;
 }
 
-.aboutu95mobsm .link-1 {
+.aboutu95mobsm .link {
   cursor: pointer;
   display: flex;
   height: 22px;
@@ -1061,40 +1070,40 @@
   width: 281px;
 }
 
-.aboutu95mobsm .apps-2 {
+.aboutu95mobsm .apps {
   width: 102px;
 }
 
-.aboutu95mobsm .apps-3 {
+.aboutu95mobsm .apps-1 {
   width: 132px;
 }
 
-.aboutu95mobsm .apps-4 {
+.aboutu95mobsm .apps-2 {
   cursor: pointer;
   width: 113px;
 }
 
-.aboutu95mobsm .apps-5 {
+.aboutu95mobsm .apps-3 {
   width: 85px;
 }
 
-.aboutu95mobsm .apps-6 {
+.aboutu95mobsm .apps-4 {
   width: 122px;
 }
 
-.aboutu95mobsm .apps-7 {
+.aboutu95mobsm .apps-5 {
   width: 76px;
 }
 
-.aboutu95mobsm .apps-8 {
+.aboutu95mobsm .apps-6 {
   width: 42px;
 }
 
-.aboutu95mobsm .apps-9 {
+.aboutu95mobsm .apps-7 {
   width: 75px;
 }
 
-.aboutu95mobsm .social-icons-1 {
+.aboutu95mobsm .social-icons {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -1107,12 +1116,25 @@
   width: 100%;
 }
 
-.aboutu95mobsm .social-link-1 {
+.aboutu95mobsm .social-link-github {
   cursor: pointer;
+  height: 33px;
+  margin-bottom: -1.00px;
+  position: relative;
   width: 32px;
 }
 
-.aboutu95mobsm .apps {
+.aboutu95mobsm .social-link-reddit {
+  background-image: url(../img/combined-shape@2x.png);
+  background-size: 100% 100%;
+  border-radius: 40px;
+  cursor: pointer;
+  height: 32px;
+  position: relative;
+  width: 32px;
+}
+
+.aboutu95mobsm .apps-8 {
   color: var(--white);
   font-weight: 700;
   height: 24px;
@@ -1120,17 +1142,12 @@
   white-space: nowrap;
 }
 
-.aboutu95mobsm .frame {
-  flex: 0 0 auto;
-  position: relative;
-}
-
-.aboutu95mobsm .intro-copy {
+.aboutu95mobsm .intro-copy-4 {
   color: var(--white);
   position: relative;
 }
 
-.aboutu95mobsm .line {
+.aboutu95mobsm .line-3 {
   height: 1px;
   object-fit: cover;
   position: relative;
@@ -1147,11 +1164,6 @@
   padding: 16px 80px;
   position: relative;
   width: 100%;
-}
-
-.aboutu95mobsm .social-link {
-  height: 32px;
-  position: relative;
 }
 /* screen - aboutu95tabsm */
 
@@ -1176,7 +1188,7 @@
   width: 100%;
 }
 
-.aboutu95tabsm .hero-2 {
+.aboutu95tabsm .hero-1 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -1188,7 +1200,7 @@
   width: 100%;
 }
 
-.aboutu95tabsm .frame-403-2 {
+.aboutu95tabsm .frame-403-1 {
   align-items: flex-start;
   display: flex;
   flex: 0 0 auto;
@@ -1199,7 +1211,7 @@
   width: 520px;
 }
 
-.aboutu95tabsm .orchids-mission-is-2 {
+.aboutu95tabsm .orchids-mission-is-1 {
   color: transparent;
   font-weight: 600;
   line-height: 25.2px;
@@ -1208,29 +1220,26 @@
   width: 347px;
 }
 
-.aboutu95tabsm .span0-2 {
+.aboutu95tabsm .span0-1 {
   color: var(--white);
 }
 
-.aboutu95tabsm .span1-2 {
+.aboutu95tabsm .span1-1 {
   color: var(--aquamarine);
 }
 
-.aboutu95tabsm .line-10-1 {
+.aboutu95tabsm .line-10 {
   align-self: stretch;
-  height: 1px;
-  object-fit: cover;
-  position: relative;
   width: 100%;
 }
 
-.aboutu95tabsm .intro-copy-8 {
+.aboutu95tabsm .intro-copy-4 {
   align-self: stretch;
   font-weight: 300;
   line-height: 18.0px;
 }
 
-.aboutu95tabsm .logo-4 {
+.aboutu95tabsm .logo-2 {
   height: 326px;
   position: absolute;
   right: 0;
@@ -1238,7 +1247,7 @@
   width: 251px;
 }
 
-.aboutu95tabsm .media-kits-2 {
+.aboutu95tabsm .media-kits-1 {
   align-items: center;
   background-color: var(--black);
   border: 1px solid;
@@ -1253,7 +1262,7 @@
   width: 696px;
 }
 
-.aboutu95tabsm .copy-2 {
+.aboutu95tabsm .copy-1 {
   align-items: center;
   align-self: stretch;
   display: flex;
@@ -1265,7 +1274,7 @@
   width: 100%;
 }
 
-.aboutu95tabsm .decentralized-marketplace-2 {
+.aboutu95tabsm .decentralized-marketplace-1 {
   align-self: stretch;
   color: transparent;
   font-weight: 600;
@@ -1275,14 +1284,14 @@
   text-align: center;
 }
 
-.aboutu95tabsm .intro-copy-9 {
+.aboutu95tabsm .intro-copy-5 {
   align-self: stretch;
   font-weight: 600;
   line-height: 19.8px;
   text-align: center;
 }
 
-.aboutu95tabsm .line-2-3 {
+.aboutu95tabsm .line-2-1 {
   margin-bottom: -1.00px;
 }
 
@@ -1313,7 +1322,7 @@
   width: fit-content;
 }
 
-.aboutu95tabsm .contact-2 {
+.aboutu95tabsm .contact-1 {
   align-items: center;
   display: flex;
   flex: 0 0 auto;
@@ -1346,12 +1355,9 @@
   width: 100%;
 }
 
-.aboutu95tabsm .line-4 {
+.aboutu95tabsm .line-3 {
   flex: 1;
   flex-grow: 1;
-  height: 1px;
-  object-fit: cover;
-  position: relative;
 }
 
 .aboutu95tabsm .discover-1 {
@@ -1384,7 +1390,7 @@
   text-align: center;
 }
 
-.aboutu95tabsm .intro-copy-10 {
+.aboutu95tabsm .intro-copy-6 {
   align-self: stretch;
   font-weight: 300;
   line-height: 18.0px;
@@ -1407,7 +1413,7 @@
   width: 31px;
 }
 
-.aboutu95tabsm .about-orchid-2 {
+.aboutu95tabsm .about-orchid-1 {
   color: var(--aquamarine);
   font-weight: 700;
   line-height: 24px;
@@ -1416,7 +1422,7 @@
   width: fit-content;
 }
 
-.aboutu95tabsm .buttons-3 {
+.aboutu95tabsm .buttons-1 {
   align-items: flex-start;
   display: flex;
   flex: 0 0 auto;
@@ -1433,7 +1439,7 @@
   justify-content: center;
 }
 
-.aboutu95tabsm .corp-info-2 {
+.aboutu95tabsm .corp-info-1 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -1456,7 +1462,7 @@
   width: 504px;
 }
 
-.aboutu95tabsm .frame-493-2 {
+.aboutu95tabsm .frame-493-1 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -1467,7 +1473,7 @@
   width: 100%;
 }
 
-.aboutu95tabsm .frame-494-2 {
+.aboutu95tabsm .frame-494-1 {
   align-items: flex-start;
   display: flex;
   flex: 1;
@@ -1476,7 +1482,7 @@
   position: relative;
 }
 
-.aboutu95tabsm .intro-copy-11 {
+.aboutu95tabsm .intro-copy-7 {
   flex: 1;
   font-weight: 300;
   line-height: 18.0px;
@@ -1489,7 +1495,7 @@
   justify-content: flex-end;
 }
 
-.aboutu95tabsm .logo-5 {
+.aboutu95tabsm .logo-3 {
   align-items: flex-start;
   display: inline-flex;
   flex: 0 0 auto;
@@ -1498,7 +1504,7 @@
   position: relative;
 }
 
-.aboutu95tabsm .x2023-orchid-6 {
+.aboutu95tabsm .x2023-orchid-4 {
   color: var(--white);
   font-weight: 300;
   line-height: 19.6px;
@@ -1506,23 +1512,12 @@
   width: 299px;
 }
 
-.aboutu95tabsm .x2023-orchid-7 {
+.aboutu95tabsm .x2023-orchid-5 {
   align-self: stretch;
   color: var(--white);
   font-weight: 300;
   line-height: 19.6px;
   position: relative;
-}
-
-.aboutu95tabsm .hyperlinks-2 {
-  align-items: flex-start;
-  align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 40px;
-  position: relative;
-  width: 100%;
 }
 
 .aboutu95tabsm .frame-532-item-1 {
@@ -1532,7 +1527,7 @@
   width: 281px;
 }
 
-.aboutu95tabsm .x2023-orchid-8 {
+.aboutu95tabsm .x2023-orchid-6 {
   color: var(--white);
   cursor: pointer;
   flex: 1;
@@ -1542,7 +1537,7 @@
   width: 151px;
 }
 
-.aboutu95tabsm .x2023-orchid-9 {
+.aboutu95tabsm .x2023-orchid-7 {
   color: var(--white);
   cursor: pointer;
   flex: 1;
@@ -1552,7 +1547,7 @@
   width: 132px;
 }
 
-.aboutu95tabsm .link-2 {
+.aboutu95tabsm .link-1 {
   cursor: pointer;
   display: flex;
   height: 22px;
@@ -1560,52 +1555,42 @@
   width: 281px;
 }
 
-.aboutu95tabsm .apps-10 {
+.aboutu95tabsm .apps-8 {
   width: 102px;
 }
 
-.aboutu95tabsm .apps-11 {
+.aboutu95tabsm .apps-9 {
   width: 132px;
 }
 
-.aboutu95tabsm .apps-12 {
+.aboutu95tabsm .apps-10 {
   cursor: pointer;
   width: 113px;
 }
 
-.aboutu95tabsm .apps-13 {
+.aboutu95tabsm .apps-11 {
   width: 85px;
 }
 
-.aboutu95tabsm .apps-14 {
+.aboutu95tabsm .apps-12 {
   width: 122px;
 }
 
-.aboutu95tabsm .apps-15 {
+.aboutu95tabsm .apps-13 {
   width: 76px;
 }
 
-.aboutu95tabsm .apps-17 {
+.aboutu95tabsm .apps-14 {
+  width: 42px;
+}
+
+.aboutu95tabsm .apps-15 {
   width: 75px;
 }
 
-.aboutu95tabsm .social-icons-2 {
-  align-items: flex-start;
-  align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  flex-wrap: wrap;
-  gap: 60px 60px;
-  justify-content: space-between;
-  padding: 24px 0px 0px;
-  position: relative;
-  width: 100%;
-}
-
-.aboutu95tabsm .social-link-github-2 {
+.aboutu95tabsm .social-link-1 {
   cursor: pointer;
-  height: 33px;
-  margin-bottom: -1.00px;
+  height: 32px;
   position: relative;
   width: 32px;
 }
@@ -1620,6 +1605,12 @@
 
 .aboutu95tabsm .intro-copy {
   color: var(--white);
+  position: relative;
+}
+
+.aboutu95tabsm .line {
+  height: 1px;
+  object-fit: cover;
   position: relative;
 }
 
@@ -1642,18 +1633,18 @@
   position: relative;
 }
 @media screen and (max-width: 743px) {
-  .screen.about-all-breakpoints { 
+  .screen.aboutu95tabsm { 
     display: none;
    }
-  .screen.aboutu95tabsm { 
+  .screen.about-all-breakpoints { 
     display: none;
    }
 }
 @media screen and (min-width: 744px) and (max-width: 1439px) {
-  .screen.about-all-breakpoints { 
+  .screen.aboutu95mobsm { 
     display: none;
    }
-  .screen.aboutu95mobsm { 
+  .screen.about-all-breakpoints { 
     display: none;
    }
 }
