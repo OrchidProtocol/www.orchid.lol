@@ -242,6 +242,14 @@
   font-weight: 800;
 }
 
+.figtree-medium-white-28px {
+  color: var(--white);
+  font-family: var(--font-family-figtree);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 500;
+}
+
 .figtree-extra-bold-aquamarine-60px {
   color: var(--aquamarine);
   font-family: var(--font-family-figtree);

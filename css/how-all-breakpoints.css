@@ -264,14 +264,6 @@
   position: relative;
 }
 
-.how-all-breakpoints .desktop-button-hero {
-  background-image: url(../img/rectangle-6-43@2x.png);
-  background-size: 100% 100%;
-  display: flex;
-  height: 80px;
-  width: 360px;
-}
-
 .how-all-breakpoints .learn-more-4 {
   color: var(--white);
   flex: 1;
@@ -698,16 +690,6 @@
   cursor: pointer;
   height: 33px;
   margin-bottom: -1.00px;
-  position: relative;
-  width: 32px;
-}
-
-.how-all-breakpoints .social-link-reddit-2 {
-  background-image: url(../img/combined-shape@2x.png);
-  background-size: 100% 100%;
-  border-radius: 40px;
-  cursor: pointer;
-  height: 32px;
   position: relative;
   width: 32px;
 }
@@ -1515,6 +1497,23 @@
   gap: 16px;
   position: relative;
   width: 696px;
+}
+
+.howu95tabsm .cards-item-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--black-2);
+  border: 1px solid;
+  border-color: var(--true-v);
+  border-radius: 16px;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
+  overflow: hidden;
+  padding: 24px 24px 40px;
+  position: relative;
+  width: 100%;
 }
 
 .howu95tabsm .intro-copy-10 {
