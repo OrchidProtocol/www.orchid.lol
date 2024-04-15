@@ -541,6 +541,14 @@
   width: 739px;
 }
 
+.home-all-breakpoints .google-play-1 {
+  cursor: pointer;
+  display: flex;
+  height: 56px;
+  position: relative;
+  width: 187px;
+}
+
 .home-all-breakpoints .google-play-badge-1 {
   height: 56.3px;
   width: 188px;
@@ -3085,12 +3093,8 @@
   margin-right: -4.00px;
 }
 
-.homeu95tab .logo-1 {
-  align-items: flex-start;
-  display: inline-flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 12px;
+.homeu95tab .desktop-home-logo-1 {
+  height: 36px;
   position: relative;
 }
 
@@ -3108,6 +3112,17 @@
   font-weight: 300;
   line-height: 19.6px;
   position: relative;
+}
+
+.homeu95tab .hyperlinks-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 40px;
+  position: relative;
+  width: 100%;
 }
 
 .homeu95tab .frame-532-item-1 {
@@ -3176,6 +3191,19 @@
 
 .homeu95tab .apps-15 {
   width: 75px;
+}
+
+.homeu95tab .social-icons-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 60px 60px;
+  justify-content: space-between;
+  padding: 24px 0px 0px;
+  position: relative;
+  width: 100%;
 }
 
 .homeu95tab .social-link-1 {

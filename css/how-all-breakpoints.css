@@ -127,7 +127,7 @@
   width: 380px;
 }
 
-.how-all-breakpoints .desktop-home-logo-2 {
+.how-all-breakpoints .desktop-home-logo-1 {
   cursor: pointer;
   flex: 0 0 auto;
 }
@@ -194,7 +194,7 @@
   width: 196px;
 }
 
-.how-all-breakpoints .hero-2 {
+.how-all-breakpoints .hero-1 {
   align-items: center;
   align-self: stretch;
   display: flex;
@@ -221,11 +221,11 @@
   width: 1062px;
 }
 
-.how-all-breakpoints .span-12 {
+.how-all-breakpoints .span-6 {
   letter-spacing: 0.72px;
 }
 
-.how-all-breakpoints .intro-copy-18 {
+.how-all-breakpoints .intro-copy-9 {
   align-self: stretch;
   color: transparent;
   font-weight: 400;
@@ -233,7 +233,7 @@
   position: relative;
 }
 
-.how-all-breakpoints .span-13 {
+.how-all-breakpoints .span-7 {
   letter-spacing: 0.08px;
 }
 
@@ -262,15 +262,6 @@
   flex-direction: column;
   padding: 96px 0px 0px;
   position: relative;
-}
-
-.how-all-breakpoints .learn-more-4 {
-  color: var(--white);
-  flex: 1;
-  font-weight: 700;
-  height: 24px;
-  line-height: 24px;
-  text-align: center;
 }
 
 .how-all-breakpoints .how-all-breakpoints-item {
@@ -325,7 +316,7 @@
   width: fit-content;
 }
 
-.how-all-breakpoints .line-2 {
+.how-all-breakpoints .line-1 {
   flex: 1;
   flex-grow: 1;
   height: 1px;
@@ -352,11 +343,11 @@
   width: 1280px;
 }
 
-.how-all-breakpoints .span-14 {
+.how-all-breakpoints .span-8 {
   letter-spacing: 0.32px;
 }
 
-.how-all-breakpoints .cards-2 {
+.how-all-breakpoints .cards-1 {
   align-items: center;
   display: flex;
   flex: 0 0 auto;
@@ -366,7 +357,7 @@
   width: 1280px;
 }
 
-.how-all-breakpoints .cards-item-2 {
+.how-all-breakpoints .cards-item-1 {
   align-items: flex-start;
   align-self: stretch;
   background-color: var(--black-2);
@@ -383,7 +374,7 @@
   width: 100%;
 }
 
-.how-all-breakpoints .intro-copy-19 {
+.how-all-breakpoints .intro-copy-10 {
   align-self: stretch;
   color: var(--white);
   font-weight: 500;
@@ -392,7 +383,7 @@
   position: relative;
 }
 
-.how-all-breakpoints .line-8-2 {
+.how-all-breakpoints .line-8-1 {
   align-self: stretch;
   height: 2px;
   margin-left: -1.00px;
@@ -401,7 +392,7 @@
   width: 100%;
 }
 
-.how-all-breakpoints .intro-copy-20 {
+.how-all-breakpoints .intro-copy-11 {
   align-self: stretch;
   color: var(--white);
   font-weight: 400;
@@ -409,7 +400,7 @@
   position: relative;
 }
 
-.how-all-breakpoints .intro-copy-21 {
+.how-all-breakpoints .intro-copy-12 {
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 1;
   align-self: stretch;
@@ -423,7 +414,7 @@
   text-overflow: ellipsis;
 }
 
-.how-all-breakpoints .span1-2 {
+.how-all-breakpoints .span1-1 {
   color: var(--white);
   font-family: var(--font-family-figtree);
   font-size: var(--font-size-xl);
@@ -494,7 +485,7 @@
   width: 1280px;
 }
 
-.how-all-breakpoints .run-the-server-2 {
+.how-all-breakpoints .run-the-server-1 {
   align-items: flex-start;
   align-self: stretch;
   background-color: var(--black);
@@ -530,7 +521,7 @@
   width: 878px;
 }
 
-.how-all-breakpoints .intro-copy-22 {
+.how-all-breakpoints .intro-copy-13 {
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 1;
   color: var(--dull-lavender);
@@ -617,16 +608,7 @@
   width: 100%;
 }
 
-.how-all-breakpoints .logo-2 {
-  align-items: flex-start;
-  display: inline-flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 12px;
-  position: relative;
-}
-
-.how-all-breakpoints .x2023-orchid-9 {
+.how-all-breakpoints .x2023-orchid-5 {
   color: var(--white);
   font-weight: 300;
   line-height: 19.6px;
@@ -634,7 +616,7 @@
   width: 676px;
 }
 
-.how-all-breakpoints .hyperlinks-2 {
+.how-all-breakpoints .hyperlinks-1 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -655,7 +637,7 @@
   position: relative;
 }
 
-.how-all-breakpoints .x2023-orchid-8 {
+.how-all-breakpoints .x2023-orchid-4 {
   color: var(--white);
   cursor: pointer;
   flex: 1;
@@ -664,11 +646,11 @@
   width: 180px;
 }
 
-.how-all-breakpoints .apps-17 {
+.how-all-breakpoints .apps-9 {
   cursor: pointer;
 }
 
-.how-all-breakpoints .link-4 {
+.how-all-breakpoints .link-2 {
   cursor: pointer;
   display: flex;
   height: 22px;
@@ -676,7 +658,7 @@
   width: 198px;
 }
 
-.how-all-breakpoints .social-icons-2 {
+.how-all-breakpoints .social-icons-1 {
   align-items: flex-start;
   display: inline-flex;
   flex: 0 0 auto;
@@ -686,10 +668,9 @@
   position: relative;
 }
 
-.how-all-breakpoints .social-link-github-2 {
+.how-all-breakpoints .social-link-1 {
   cursor: pointer;
-  height: 33px;
-  margin-bottom: -1.00px;
+  height: 32px;
   position: relative;
   width: 32px;
 }
@@ -1382,7 +1363,7 @@
   width: 100%;
 }
 
-.howu95tabsm .hero-1 {
+.howu95tabsm .hero-2 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -1411,11 +1392,11 @@
   text-align: center;
 }
 
-.howu95tabsm .span-6 {
+.howu95tabsm .span-9 {
   letter-spacing: 0.32px;
 }
 
-.howu95tabsm .intro-copy-9 {
+.howu95tabsm .intro-copy-14 {
   align-self: stretch;
   color: transparent;
   font-weight: 300;
@@ -1423,11 +1404,11 @@
   position: relative;
 }
 
-.howu95tabsm .span-7 {
+.howu95tabsm .span-10 {
   color: var(--white);
 }
 
-.howu95tabsm .span-8 {
+.howu95tabsm .span-11 {
   color: var(--dull-lavender);
 }
 
@@ -1448,7 +1429,7 @@
   width: 275px;
 }
 
-.howu95tabsm .learn-more-3 {
+.howu95tabsm .learn-more-4 {
   margin-left: -6.00px;
   margin-right: -6.00px;
 }
@@ -1476,7 +1457,7 @@
   width: 100%;
 }
 
-.howu95tabsm .line-1 {
+.howu95tabsm .line-2 {
   flex: 1;
   flex-grow: 1;
   height: 1px;
@@ -1494,11 +1475,11 @@
   flex: 1;
 }
 
-.howu95tabsm .span-9 {
+.howu95tabsm .span-12 {
   color: var(--aquamarine);
 }
 
-.howu95tabsm .cards-1 {
+.howu95tabsm .cards-2 {
   align-items: center;
   display: flex;
   flex: 0 0 auto;
@@ -1508,7 +1489,7 @@
   width: 696px;
 }
 
-.howu95tabsm .cards-item-1 {
+.howu95tabsm .cards-item-2 {
   align-items: flex-start;
   align-self: stretch;
   background-color: var(--black-2);
@@ -1525,7 +1506,7 @@
   width: 100%;
 }
 
-.howu95tabsm .intro-copy-10 {
+.howu95tabsm .intro-copy-15 {
   align-self: stretch;
   color: var(--white);
   font-weight: 600;
@@ -1534,7 +1515,17 @@
   position: relative;
 }
 
-.howu95tabsm .intro-copy-12 {
+.howu95tabsm .line-8-2 {
+  align-self: stretch;
+  height: 1px;
+  margin-left: -0.50px;
+  margin-right: -0.50px;
+  object-fit: cover;
+  position: relative;
+  width: 100%;
+}
+
+.howu95tabsm .intro-copy-17 {
   align-self: stretch;
   color: var(--white);
   font-weight: 300;
@@ -1542,7 +1533,7 @@
   position: relative;
 }
 
-.howu95tabsm .intro-copy-11 {
+.howu95tabsm .intro-copy-16 {
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 1;
   color: var(--dull-lavender-2);
@@ -1557,7 +1548,7 @@
   width: fit-content;
 }
 
-.howu95tabsm .intro-copy-13 {
+.howu95tabsm .intro-copy-18 {
   align-self: stretch;
   color: transparent;
   font-weight: 400;
@@ -1565,25 +1556,25 @@
   position: relative;
 }
 
-.howu95tabsm .span-10 {
+.howu95tabsm .span-13 {
   color: var(--white);
   font-weight: 300;
   line-height: 18.0px;
 }
 
-.howu95tabsm .span1-1 {
+.howu95tabsm .span1-2 {
   color: var(--white);
   font-weight: 700;
   line-height: 16.5px;
 }
 
-.howu95tabsm .span-11 {
+.howu95tabsm .span-14 {
   color: var(--dull-lavender);
   font-weight: 700;
   line-height: 16.5px;
 }
 
-.howu95tabsm .intro-copy-14 {
+.howu95tabsm .intro-copy-19 {
   align-self: stretch;
   color: var(--white);
   font-weight: 300;
@@ -1591,7 +1582,7 @@
   position: relative;
 }
 
-.howu95tabsm .intro-copy-15 {
+.howu95tabsm .intro-copy-20 {
   cursor: pointer;
   flex: 0 0 auto;
   margin-bottom: -1.20px;
@@ -1599,7 +1590,7 @@
   position: relative;
 }
 
-.howu95tabsm .intro-copy-16 {
+.howu95tabsm .intro-copy-21 {
   align-self: stretch;
   color: var(--white);
   font-weight: 300;
@@ -1607,7 +1598,7 @@
   position: relative;
 }
 
-.howu95tabsm .intro-copy-17 {
+.howu95tabsm .intro-copy-22 {
   cursor: pointer;
   flex: 0 0 auto;
   margin-bottom: -1.17px;
@@ -1646,7 +1637,7 @@
   width: 696px;
 }
 
-.howu95tabsm .run-the-server-1 {
+.howu95tabsm .run-the-server-2 {
   align-items: center;
   align-self: stretch;
   background-color: var(--black);
@@ -1684,7 +1675,7 @@
   line-height: 15px;
 }
 
-.howu95tabsm .link-2 {
+.howu95tabsm .link-3 {
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 1;
   align-self: stretch;
@@ -1736,7 +1727,7 @@
   display: inline-flex;
 }
 
-.howu95tabsm .logo-1 {
+.howu95tabsm .logo-2 {
   align-items: flex-start;
   display: inline-flex;
   flex: 0 0 auto;
@@ -1745,7 +1736,7 @@
   position: relative;
 }
 
-.howu95tabsm .x2023-orchid-4 {
+.howu95tabsm .x2023-orchid-6 {
   color: var(--white);
   font-weight: 300;
   line-height: 19.6px;
@@ -1753,12 +1744,23 @@
   width: 299px;
 }
 
-.howu95tabsm .x2023-orchid-5 {
+.howu95tabsm .x2023-orchid-7 {
   align-self: stretch;
   color: var(--white);
   font-weight: 300;
   line-height: 19.6px;
   position: relative;
+}
+
+.howu95tabsm .hyperlinks-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 40px;
+  position: relative;
+  width: 100%;
 }
 
 .howu95tabsm .frame-532-item-1 {
@@ -1768,7 +1770,7 @@
   width: 281px;
 }
 
-.howu95tabsm .x2023-orchid-6 {
+.howu95tabsm .x2023-orchid-8 {
   color: var(--white);
   cursor: pointer;
   flex: 1;
@@ -1778,7 +1780,7 @@
   width: 151px;
 }
 
-.howu95tabsm .x2023-orchid-7 {
+.howu95tabsm .x2023-orchid-9 {
   color: var(--white);
   cursor: pointer;
   flex: 1;
@@ -1788,48 +1790,58 @@
   width: 132px;
 }
 
-.howu95tabsm .link-3 {
+.howu95tabsm .link-4 {
   display: flex;
   height: 22px;
   width: 281px;
 }
 
-.howu95tabsm .apps-8 {
+.howu95tabsm .apps-10 {
   width: 102px;
 }
 
-.howu95tabsm .apps-9 {
+.howu95tabsm .apps-11 {
   width: 132px;
 }
 
-.howu95tabsm .apps-10 {
+.howu95tabsm .apps-12 {
   cursor: pointer;
   width: 113px;
 }
 
-.howu95tabsm .apps-11 {
+.howu95tabsm .apps-13 {
   width: 85px;
 }
 
-.howu95tabsm .apps-12 {
+.howu95tabsm .apps-14 {
   width: 122px;
 }
 
-.howu95tabsm .apps-13 {
+.howu95tabsm .apps-15 {
   width: 76px;
 }
 
-.howu95tabsm .apps-14 {
-  width: 42px;
-}
-
-.howu95tabsm .apps-15 {
+.howu95tabsm .apps-17 {
   width: 75px;
 }
 
-.howu95tabsm .social-link-1 {
+.howu95tabsm .social-icons-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 60px 60px;
+  justify-content: space-between;
+  padding: 24px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.howu95tabsm .social-link-github-2 {
   cursor: pointer;
-  height: 32px;
+  height: 33px;
+  margin-bottom: -1.00px;
   position: relative;
   width: 32px;
 }
@@ -1903,10 +1915,10 @@
   position: relative;
 }
 @media screen and (max-width: 743px) {
-  .screen.howu95tabsm { 
+  .screen.how-all-breakpoints { 
     display: none;
    }
-  .screen.how-all-breakpoints { 
+  .screen.howu95tabsm { 
     display: none;
    }
 }

@@ -257,20 +257,13 @@
   width: 100%;
 }
 
-.desktop-home-logo-1 {
-  height: 36px;
-  position: relative;
-}
-
-.hyperlinks-1 {
+.logo-1 {
   align-items: flex-start;
-  align-self: stretch;
-  display: flex;
+  display: inline-flex;
   flex: 0 0 auto;
   flex-direction: column;
-  gap: 40px;
+  gap: 12px;
   position: relative;
-  width: 100%;
 }
 
 .frame-532-1 {
@@ -281,19 +274,6 @@
   flex-direction: column;
   gap: 32px;
   padding: 24px 0px;
-  position: relative;
-  width: 100%;
-}
-
-.social-icons-1 {
-  align-items: flex-start;
-  align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  flex-wrap: wrap;
-  gap: 60px 60px;
-  justify-content: space-between;
-  padding: 24px 0px 0px;
   position: relative;
   width: 100%;
 }
@@ -396,14 +376,6 @@
   width: fit-content;
 }
 
-.google-play-1 {
-  cursor: pointer;
-  display: flex;
-  height: 56px;
-  position: relative;
-  width: 187px;
-}
-
 .contents {
   align-items: flex-start;
   align-self: stretch;
@@ -494,16 +466,6 @@
   width: 100%;
 }
 
-.line-8-1 {
-  align-self: stretch;
-  height: 1px;
-  margin-left: -0.50px;
-  margin-right: -0.50px;
-  object-fit: cover;
-  position: relative;
-  width: 100%;
-}
-
 .ellipse-28 {
   background-color: var(--cod-gray);
   border-radius: 310px;
@@ -550,6 +512,15 @@
   position: relative;
   white-space: nowrap;
   width: fit-content;
+}
+
+.desktop-home-logo-3 {
+  height: 36px;
+  position: relative;
+}
+
+.apps-16 {
+  width: 42px;
 }
 
 .line-10-2 {
