@@ -1313,8 +1313,12 @@
   gap: 40px;
 }
 
-.storageu95tabsm .desktop-home-logo-1 {
-  height: 36px;
+.storageu95tabsm .logo-1 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 12px;
   position: relative;
 }
 
@@ -1332,17 +1336,6 @@
   font-weight: 300;
   line-height: 19.6px;
   position: relative;
-}
-
-.storageu95tabsm .hyperlinks-1 {
-  align-items: flex-start;
-  align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 40px;
-  position: relative;
-  width: 100%;
 }
 
 .storageu95tabsm .frame-532-item-1 {
@@ -1411,19 +1404,6 @@
 
 .storageu95tabsm .apps-15 {
   width: 75px;
-}
-
-.storageu95tabsm .social-icons-1 {
-  align-items: flex-start;
-  align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  flex-wrap: wrap;
-  gap: 60px 60px;
-  justify-content: space-between;
-  padding: 24px 0px 0px;
-  position: relative;
-  width: 100%;
 }
 
 .storageu95tabsm .social-link-1 {

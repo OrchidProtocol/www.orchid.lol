@@ -571,11 +571,6 @@
   position: relative;
 }
 
-.oxt-all-breakpoints .desktop-home-logo-1 {
-  height: 36px;
-  position: relative;
-}
-
 .oxt-all-breakpoints .x2023-orchid-1 {
   color: var(--white);
   font-weight: 300;
@@ -1037,6 +1032,11 @@
   position: relative;
 }
 
+.oxtu95mobsm .desktop-home-logo-3 {
+  height: 36px;
+  position: relative;
+}
+
 .oxtu95mobsm .x2023-orchid-6 {
   color: var(--white);
   font-weight: 300;
@@ -1121,6 +1121,10 @@
 
 .oxtu95mobsm .apps-15 {
   width: 76px;
+}
+
+.oxtu95mobsm .apps-16 {
+  width: 42px;
 }
 
 .oxtu95mobsm .apps-17 {
@@ -1493,6 +1497,15 @@
   width: 696px;
 }
 
+.oxtu95tabsm .logo-1 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 12px;
+  position: relative;
+}
+
 .oxtu95tabsm .desktop-home-logo-2 {
   height: 36px;
   position: relative;
@@ -1512,17 +1525,6 @@
   font-weight: 300;
   line-height: 19.6px;
   position: relative;
-}
-
-.oxtu95tabsm .hyperlinks-1 {
-  align-items: flex-start;
-  align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 40px;
-  position: relative;
-  width: 100%;
 }
 
 .oxtu95tabsm .frame-532 {
@@ -1598,19 +1600,6 @@
 
 .oxtu95tabsm .apps-9 {
   width: 75px;
-}
-
-.oxtu95tabsm .social-icons-1 {
-  align-items: flex-start;
-  align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  flex-wrap: wrap;
-  gap: 60px 60px;
-  justify-content: space-between;
-  padding: 24px 0px 0px;
-  position: relative;
-  width: 100%;
 }
 
 .oxtu95tabsm .social-link-1 {
