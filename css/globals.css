@@ -84,13 +84,6 @@
   width: 28.47px;
 }
 
-.menu-icon {
-  cursor: pointer;
-  height: 24px;
-  position: relative;
-  width: 24px;
-}
-
 .learn-more {
   color: var(--white);
   font-weight: 700;
@@ -219,6 +212,16 @@
   height: 42px;
   position: relative;
   width: 144px;
+}
+
+.button-1 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  padding: 80px 0px 0px;
+  position: relative;
 }
 
 .frame-478-1 {
@@ -494,14 +497,17 @@
   width: 100%;
 }
 
-.line-8-1 {
-  align-self: stretch;
-  height: 1px;
-  margin-left: -0.50px;
-  margin-right: -0.50px;
-  object-fit: cover;
+.discover-2 {
+  color: var(--white);
+  font-weight: 600;
+  line-height: 13.2px;
   position: relative;
-  width: 100%;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.menu-icon-3 {
+  cursor: pointer;
 }
 
 .ellipse-28 {
@@ -540,6 +546,16 @@
   border-radius: 306.5px;
   height: 613px;
   width: 613px;
+}
+
+.menu-icon-4 {
+  height: 40px;
+  position: relative;
+  width: 40px;
+}
+
+.span-9 {
+  letter-spacing: 0.08px;
 }
 
 .build-4 {

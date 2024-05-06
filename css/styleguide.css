@@ -66,14 +66,6 @@
   letter-spacing: 0.4px;
 }
 
-.desktophyperlink {
-  font-family: var(--font-family-figtree);
-  font-size: var(--font-size-xl);
-  font-style: normal;
-  font-weight: 700;
-  letter-spacing: 0.4px;
-}
-
 .desktopbutton {
   font-family: var(--font-family-figtree);
   font-size: var(--font-size-xl);
@@ -178,20 +170,20 @@
   font-weight: 600;
 }
 
-.figtree-normal-white-20px {
-  color: var(--white);
-  font-family: var(--font-family-figtree);
-  font-size: var(--font-size-xl);
-  font-style: normal;
-  font-weight: 400;
-}
-
 .figtree-semi-bold-aquamarine-40px {
   color: var(--aquamarine);
   font-family: var(--font-family-figtree);
   font-size: var(--font-size-xxxxl);
   font-style: normal;
   font-weight: 600;
+}
+
+.figtree-normal-white-20px {
+  color: var(--white);
+  font-family: var(--font-family-figtree);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
 }
 
 .figtree-bold-dull-lavender-20px {
@@ -208,14 +200,6 @@
   font-size: var(--font-size-xxxl);
   font-style: normal;
   font-weight: 500;
-}
-
-.figtree-normal-aquamarine-20px {
-  color: var(--aquamarine);
-  font-family: var(--font-family-figtree);
-  font-size: var(--font-size-xl);
-  font-style: normal;
-  font-weight: 400;
 }
 
 .figtree-extra-bold-aquamarine-40px {

@@ -653,6 +653,13 @@
   width: 100%;
 }
 
+.aboutu95mobsm .menu-icon {
+  cursor: pointer;
+  height: 24px;
+  position: relative;
+  width: 24px;
+}
+
 .aboutu95mobsm .hero {
   align-items: flex-start;
   align-self: stretch;
