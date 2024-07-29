@@ -72,6 +72,14 @@
   width: 808px;
 }
 
+.storage-all-breakpoints .ellipse-34 {
+  align-self: flex-end;
+  background-color: var(--black-2);
+  border-radius: 306.5px;
+  height: 613px;
+  width: 613px;
+}
+
 .storage-all-breakpoints .ellipse-33 {
   background-color: var(--black-2);
   border-radius: 260px;
@@ -185,6 +193,14 @@
   letter-spacing: 0.72px;
 }
 
+.storage-all-breakpoints .line-10-2 {
+  align-self: stretch;
+  height: 1px;
+  object-fit: cover;
+  position: relative;
+  width: 100%;
+}
+
 .storage-all-breakpoints .orchids-new-open-so-2 {
   align-self: stretch;
   color: transparent;
@@ -272,19 +288,11 @@
   letter-spacing: 0.32px;
 }
 
-.storage-all-breakpoints .copy-2 {
-  align-self: stretch;
-  display: flex;
+.storage-all-breakpoints .copy-4 {
   height: 651px;
-  position: relative;
-  width: 100%;
 }
 
-.storage-all-breakpoints .text {
-  color: transparent;
-  font-family: var(--font-family-figtree);
-  font-size: var(--font-size-xxxl);
-  font-weight: 400;
+.storage-all-breakpoints .text-4 {
   height: 644px;
   line-height: 28px;
   width: 1120px;
@@ -302,13 +310,14 @@
 
 .storage-all-breakpoints .span6 {
   color: var(--white);
+  font-family: var(--font-family-figtree);
   font-size: var(--font-size-xl);
   font-weight: 600;
   letter-spacing: 0.64px;
   line-height: 22.0px;
 }
 
-.storage-all-breakpoints .storage-design {
+.storage-all-breakpoints .stor {
   align-items: center;
   display: flex;
   flex: 0 0 auto;
@@ -353,12 +362,62 @@
   width: 1120px;
 }
 
+.storage-all-breakpoints .span-9 {
+  letter-spacing: 0.08px;
+}
+
 .storage-all-breakpoints .hero-cta-button {
   align-items: flex-end;
   display: inline-flex;
   flex: 0 0 auto;
   flex-direction: column;
+  gap: 80px;
   padding: 96px 0px 0px;
+  position: relative;
+}
+
+.storage-all-breakpoints .desktop-button-hero {
+  background-image: url(../img/rectangle-6-43@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 80px;
+  width: 360px;
+}
+
+.storage-all-breakpoints .learn-more-2 {
+  color: var(--white);
+  flex: 1;
+  font-weight: 700;
+  height: 24px;
+  line-height: 24px;
+  text-align: center;
+}
+
+.storage-all-breakpoints .desktop-header-section-full-2 {
+  align-items: flex-start;
+}
+
+.storage-all-breakpoints .copy-5 {
+  align-items: flex-start;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 40px;
+  padding: 10px 0px;
+}
+
+.storage-all-breakpoints .text-5 {
+  align-self: stretch;
+  cursor: pointer;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.storage-all-breakpoints .text-6 {
+  align-self: stretch;
+  color: var(--aquamarine);
+  font-weight: 500;
+  line-height: 34.7px;
   position: relative;
 }
 
@@ -372,7 +431,7 @@
   width: 100%;
 }
 
-.storage-all-breakpoints .desktop-header-section-full-2 {
+.storage-all-breakpoints .desktop-header-section-full-3 {
   align-items: center;
 }
 
@@ -446,7 +505,7 @@
   position: relative;
 }
 
-.storage-all-breakpoints .x2023-orchid-9 {
+.storage-all-breakpoints .x2023-orchid-6 {
   color: var(--white);
   font-weight: 300;
   line-height: 19.6px;
@@ -475,13 +534,36 @@
   position: relative;
 }
 
-.storage-all-breakpoints .x2023-orchid-8 {
+.storage-all-breakpoints .pp {
+  display: flex;
+  height: 22px;
+  position: relative;
+  width: 180px;
+}
+
+.storage-all-breakpoints .x2023-orchid-7 {
   color: var(--white);
   cursor: pointer;
   flex: 1;
   font-weight: 700;
   line-height: 22.4px;
   width: 180px;
+}
+
+.storage-all-breakpoints .pp-1 {
+  display: flex;
+  height: 44px;
+  position: relative;
+  width: 208px;
+}
+
+.storage-all-breakpoints .x2023-orchid-8 {
+  color: var(--white);
+  cursor: pointer;
+  flex: 1;
+  font-weight: 700;
+  line-height: 22.4px;
+  width: 208px;
 }
 
 .storage-all-breakpoints .apps-17 {
@@ -501,7 +583,7 @@
   display: inline-flex;
   flex: 0 0 auto;
   flex-wrap: wrap;
-  gap: 40px 24px;
+  gap: 24px 40px;
   justify-content: flex-end;
   position: relative;
 }
@@ -514,12 +596,35 @@
   width: 32px;
 }
 
+.storage-all-breakpoints .social-link-reddit-2 {
+  background-image: url(../img/combined-shape@2x.png);
+  background-size: 100% 100%;
+  border-radius: 40px;
+  cursor: pointer;
+  height: 32px;
+  position: relative;
+  width: 32px;
+}
+
 .storage-all-breakpoints .apps {
   color: var(--white);
   font-weight: 700;
   height: 22px;
   line-height: 22.4px;
   width: 198px;
+}
+
+.storage-all-breakpoints .copy {
+  align-self: stretch;
+  display: flex;
+  position: relative;
+  width: 100%;
+}
+
+.storage-all-breakpoints .desktop-button {
+  align-items: center;
+  cursor: pointer;
+  position: relative;
 }
 
 .storage-all-breakpoints .desktop-button-top-nav-7 {
@@ -529,7 +634,7 @@
   position: relative;
 }
 
-.storage-all-breakpoints .desktop-header-section-full-3 {
+.storage-all-breakpoints .desktop-header-section-full-4 {
   align-self: stretch;
   display: flex;
   flex: 0 0 auto;
@@ -660,7 +765,7 @@
   width: 100%;
 }
 
-.storageu95mobsm .mobile-3 {
+.storageu95mobsm .mobile-4 {
   align-items: center;
 }
 
@@ -683,15 +788,9 @@
   color: transparent;
 }
 
-.storageu95mobsm .copy-1 {
+.storageu95mobsm .copy-2 {
   align-items: center;
-  align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
   gap: 24px;
-  position: relative;
-  width: 100%;
 }
 
 .storageu95mobsm .title-1 {
@@ -703,7 +802,7 @@
   margin-top: -1.00px;
 }
 
-.storageu95mobsm .developers {
+.storageu95mobsm .storageu95mobsm-item {
   align-items: center;
   align-self: stretch;
   display: flex;
@@ -715,7 +814,7 @@
   width: 100%;
 }
 
-.storageu95mobsm .mobile-4 {
+.storageu95mobsm .mobile-5 {
   align-items: flex-end;
 }
 
@@ -780,7 +879,46 @@
   width: fit-content;
 }
 
-.storageu95mobsm .mobile-5 {
+.storageu95mobsm .mobile-6 {
+  align-items: center;
+}
+
+.storageu95mobsm .copy-3 {
+  align-items: flex-start;
+  gap: 40px;
+  padding: 10px 0px;
+}
+
+.storageu95mobsm .text-2 {
+  color: transparent;
+  cursor: pointer;
+  font-family: var(--font-family-figtree);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  line-height: 16px;
+  margin-top: -1.00px;
+}
+
+.storageu95mobsm .span0-1 {
+  color: var(--aquamarine);
+  font-weight: 600;
+  letter-spacing: 0.10px;
+  line-height: 19.8px;
+}
+
+.storageu95mobsm .span1-2 {
+  color: var(--white);
+  font-weight: 300;
+  line-height: 18.0px;
+}
+
+.storageu95mobsm .text-3 {
+  color: var(--aquamarine);
+  font-weight: 600;
+  line-height: 19.8px;
+}
+
+.storageu95mobsm .mobile-7 {
   align-items: center;
 }
 
@@ -821,20 +959,12 @@
   position: relative;
 }
 
-.storageu95mobsm .x2023-orchid-4 {
+.storageu95mobsm .x2023-orchid-3 {
   color: var(--white);
   font-weight: 300;
   line-height: 19.6px;
   position: relative;
   width: 299px;
-}
-
-.storageu95mobsm .x2023-orchid-5 {
-  align-self: stretch;
-  color: var(--white);
-  font-weight: 300;
-  line-height: 19.6px;
-  position: relative;
 }
 
 .storageu95mobsm .frame-532-item-1 {
@@ -843,26 +973,6 @@
   margin-right: -21.00px;
   position: relative;
   width: 281px;
-}
-
-.storageu95mobsm .x2023-orchid-6 {
-  color: var(--white);
-  cursor: pointer;
-  flex: 1;
-  font-weight: 700;
-  line-height: 24px;
-  white-space: nowrap;
-  width: 151px;
-}
-
-.storageu95mobsm .x2023-orchid-7 {
-  color: var(--white);
-  cursor: pointer;
-  flex: 1;
-  font-weight: 700;
-  line-height: 24px;
-  white-space: nowrap;
-  width: 132px;
 }
 
 .storageu95mobsm .link-1 {
@@ -930,6 +1040,15 @@
   position: relative;
 }
 
+.storageu95mobsm .copy {
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
 .storageu95mobsm .discover {
   color: var(--white);
   font-weight: 600;
@@ -971,6 +1090,22 @@
 .storageu95mobsm .mobile-headline-section {
   display: flex;
   flex: 0 0 auto;
+  position: relative;
+}
+
+.storageu95mobsm .nanopay {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+  width: 100%;
+}
+
+.storageu95mobsm .text {
+  align-self: stretch;
   position: relative;
 }
 
@@ -1032,10 +1167,9 @@
 
 .storageu95tabsm .frame-403 {
   align-items: center;
-  display: flex;
+  display: inline-flex;
   gap: 24px;
-  padding: 80px 40px;
-  width: 744px;
+  padding: 80px 40px 40px;
 }
 
 .storageu95tabsm .decentralized-marketplace {
@@ -1126,13 +1260,7 @@
 
 .storageu95tabsm .copy {
   align-items: center;
-  align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
   gap: 24px;
-  position: relative;
-  width: 100%;
 }
 
 .storageu95tabsm .title {
@@ -1217,7 +1345,57 @@
   position: relative;
 }
 
+.storageu95tabsm .learn-more {
+  color: var(--white);
+  font-weight: 700;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
 .storageu95tabsm .mobile-2 {
+  align-items: center;
+}
+
+.storageu95tabsm .copy-1 {
+  align-items: flex-start;
+  gap: 40px;
+  padding: 10px 0px;
+}
+
+.storageu95tabsm .text {
+  color: transparent;
+  cursor: pointer;
+  font-family: var(--font-family-figtree);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  line-height: 16px;
+  margin-top: -1.00px;
+}
+
+.storageu95tabsm .span0 {
+  color: var(--aquamarine);
+  font-weight: 600;
+  letter-spacing: 0.10px;
+  line-height: 19.8px;
+}
+
+.storageu95tabsm .span1-1 {
+  color: var(--white);
+  font-weight: 300;
+  line-height: 18.0px;
+}
+
+.storageu95tabsm .text-1 {
+  color: var(--aquamarine);
+  font-weight: 600;
+  line-height: 19.8px;
+}
+
+.storageu95tabsm .mobile-3 {
   align-items: center;
 }
 
@@ -1327,16 +1505,6 @@
   font-weight: 700;
   line-height: 24px;
   white-space: nowrap;
-  width: 151px;
-}
-
-.storageu95tabsm .x2023-orchid-3 {
-  color: var(--white);
-  cursor: pointer;
-  flex: 1;
-  font-weight: 700;
-  line-height: 24px;
-  white-space: nowrap;
   width: 132px;
 }
 
@@ -1422,6 +1590,15 @@
   position: relative;
 }
 
+.storageu95tabsm .copy-2 {
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
 .storageu95tabsm .frame {
   flex: 0 0 auto;
   flex-direction: column;
@@ -1434,7 +1611,7 @@
   position: relative;
 }
 
-.storageu95tabsm .mobile-3 {
+.storageu95tabsm .mobile-4 {
   align-self: stretch;
   display: flex;
   flex: 0 0 auto;
@@ -1475,6 +1652,11 @@
   cursor: pointer;
   position: relative;
   width: 32px;
+}
+
+.storageu95tabsm .text-2 {
+  align-self: stretch;
+  position: relative;
 }
 @media screen and (max-width: 743px) {
   .screen.storageu95tabsm { 

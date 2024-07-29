@@ -47,6 +47,14 @@
   width: 808px;
 }
 
+.about-all-breakpoints .ellipse-34 {
+  align-self: flex-end;
+  background-color: var(--black-2);
+  border-radius: 306.5px;
+  height: 613px;
+  width: 613px;
+}
+
 .about-all-breakpoints .ellipse-33 {
   background-color: var(--black-2);
   border-radius: 260px;
@@ -74,7 +82,7 @@
 .about-all-breakpoints .logo-4 {
   height: 734px;
   position: absolute;
-  right: -279px;
+  right: -296px;
   top: 131px;
   width: 810px;
 }
@@ -505,7 +513,7 @@
   position: relative;
 }
 
-.about-all-breakpoints .x2023-orchid-9 {
+.about-all-breakpoints .x2023-orchid-6 {
   color: var(--white);
   font-weight: 300;
   line-height: 19.6px;
@@ -532,13 +540,36 @@
   gap: 24px;
 }
 
-.about-all-breakpoints .x2023-orchid-8 {
+.about-all-breakpoints .pp {
+  display: flex;
+  height: 22px;
+  position: relative;
+  width: 180px;
+}
+
+.about-all-breakpoints .x2023-orchid-7 {
   color: var(--white);
   cursor: pointer;
   flex: 1;
   font-weight: 700;
   line-height: 22.4px;
   width: 180px;
+}
+
+.about-all-breakpoints .pp-1 {
+  display: flex;
+  height: 44px;
+  position: relative;
+  width: 208px;
+}
+
+.about-all-breakpoints .x2023-orchid-8 {
+  color: var(--white);
+  cursor: pointer;
+  flex: 1;
+  font-weight: 700;
+  line-height: 22.4px;
+  width: 208px;
 }
 
 .about-all-breakpoints .apps-17 {
@@ -558,7 +589,7 @@
   display: inline-flex;
   flex: 0 0 auto;
   flex-wrap: wrap;
-  gap: 40px 24px;
+  gap: 24px 40px;
   justify-content: flex-end;
   position: relative;
 }
@@ -567,6 +598,16 @@
   cursor: pointer;
   height: 33px;
   margin-bottom: -1.00px;
+  position: relative;
+  width: 32px;
+}
+
+.about-all-breakpoints .social-link-reddit-2 {
+  background-image: url(../img/combined-shape@2x.png);
+  background-size: 100% 100%;
+  border-radius: 40px;
+  cursor: pointer;
+  height: 32px;
   position: relative;
   width: 32px;
 }
@@ -581,6 +622,12 @@
 
 .about-all-breakpoints .buttons {
   display: flex;
+  position: relative;
+}
+
+.about-all-breakpoints .desktop-button {
+  align-items: center;
+  cursor: pointer;
   position: relative;
 }
 
@@ -795,6 +842,17 @@
   justify-content: center;
   padding: 16px 60px;
   position: relative;
+}
+
+.aboutu95mobsm .learn-more {
+  color: var(--white);
+  font-weight: 700;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
 }
 
 .aboutu95mobsm .contact {
@@ -1045,16 +1103,6 @@
   font-weight: 700;
   line-height: 24px;
   white-space: nowrap;
-  width: 151px;
-}
-
-.aboutu95mobsm .x2023-orchid-3 {
-  color: var(--white);
-  cursor: pointer;
-  flex: 1;
-  font-weight: 700;
-  line-height: 24px;
-  white-space: nowrap;
   width: 132px;
 }
 
@@ -1241,7 +1289,7 @@
   position: absolute;
   right: 0;
   top: 117px;
-  width: 251px;
+  width: 231px;
 }
 
 .aboutu95tabsm .media-kits-1 {
@@ -1501,7 +1549,7 @@
   position: relative;
 }
 
-.aboutu95tabsm .x2023-orchid-4 {
+.aboutu95tabsm .x2023-orchid-3 {
   color: var(--white);
   font-weight: 300;
   line-height: 19.6px;
@@ -1509,39 +1557,11 @@
   width: 299px;
 }
 
-.aboutu95tabsm .x2023-orchid-5 {
-  align-self: stretch;
-  color: var(--white);
-  font-weight: 300;
-  line-height: 19.6px;
-  position: relative;
-}
-
 .aboutu95tabsm .frame-532-item-1 {
   display: flex;
   height: 22px;
   position: relative;
   width: 281px;
-}
-
-.aboutu95tabsm .x2023-orchid-6 {
-  color: var(--white);
-  cursor: pointer;
-  flex: 1;
-  font-weight: 700;
-  line-height: 24px;
-  white-space: nowrap;
-  width: 151px;
-}
-
-.aboutu95tabsm .x2023-orchid-7 {
-  color: var(--white);
-  cursor: pointer;
-  flex: 1;
-  font-weight: 700;
-  line-height: 24px;
-  white-space: nowrap;
-  width: 132px;
 }
 
 .aboutu95tabsm .link-1 {
