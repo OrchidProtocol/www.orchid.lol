@@ -210,6 +210,14 @@
   font-weight: 700;
 }
 
+.figtree-bold-dull-lavender-20px {
+  color: var(--dull-lavender);
+  font-family: var(--font-family-figtree);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+
 .figtree-extra-bold-white-60px {
   color: var(--white);
   font-family: var(--font-family-figtree);
@@ -234,12 +242,12 @@
   font-weight: 800;
 }
 
-.figtree-bold-dull-lavender-20px {
-  color: var(--dull-lavender);
+.figtree-normal-aquamarine-20px {
+  color: var(--aquamarine);
   font-family: var(--font-family-figtree);
   font-size: var(--font-size-xl);
   font-style: normal;
-  font-weight: 700;
+  font-weight: 400;
 }
 
 .figtree-extra-bold-aquamarine-60px {

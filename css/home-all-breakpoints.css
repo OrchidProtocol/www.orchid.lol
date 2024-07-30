@@ -356,13 +356,6 @@
   letter-spacing: 0.08px;
 }
 
-.home-all-breakpoints .span1 {
-  color: var(--aquamarine);
-  font-family: var(--font-family-figtree);
-  font-size: var(--font-size-xl);
-  letter-spacing: 0.08px;
-}
-
 .home-all-breakpoints .bullet-points-2 {
   height: 703px;
   position: relative;
@@ -1149,13 +1142,6 @@
   position: relative;
 }
 
-.home-all-breakpoints .pp {
-  display: flex;
-  height: 22px;
-  position: relative;
-  width: 180px;
-}
-
 .home-all-breakpoints .x2023-orchid-7 {
   color: var(--white);
   cursor: pointer;
@@ -1163,13 +1149,6 @@
   font-weight: 700;
   line-height: 22.4px;
   width: 180px;
-}
-
-.home-all-breakpoints .pp-1 {
-  display: flex;
-  height: 44px;
-  position: relative;
-  width: 208px;
 }
 
 .home-all-breakpoints .x2023-orchid-8 {
@@ -1207,16 +1186,6 @@
   cursor: pointer;
   height: 33px;
   margin-bottom: -1.00px;
-  position: relative;
-  width: 32px;
-}
-
-.home-all-breakpoints .social-link-reddit-2 {
-  background-image: url(../img/combined-shape@2x.png);
-  background-size: 100% 100%;
-  border-radius: 40px;
-  cursor: pointer;
-  height: 32px;
   position: relative;
   width: 32px;
 }
@@ -3165,12 +3134,8 @@
   margin-right: -4.00px;
 }
 
-.homeu95tab .logo-1 {
-  align-items: flex-start;
-  display: inline-flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 12px;
+.homeu95tab .desktop-home-logo-1 {
+  height: 36px;
   position: relative;
 }
 
@@ -3182,11 +3147,40 @@
   width: 299px;
 }
 
+.homeu95tab .x2023-orchid-4 {
+  align-self: stretch;
+  color: var(--white);
+  font-weight: 300;
+  line-height: 19.6px;
+  position: relative;
+}
+
+.homeu95tab .hyperlinks-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 40px;
+  position: relative;
+  width: 100%;
+}
+
 .homeu95tab .frame-532-item-1 {
   display: flex;
   height: 22px;
   position: relative;
   width: 281px;
+}
+
+.homeu95tab .x2023-orchid-5 {
+  color: var(--white);
+  cursor: pointer;
+  flex: 1;
+  font-weight: 700;
+  line-height: 24px;
+  white-space: nowrap;
+  width: 132px;
 }
 
 .homeu95tab .link-1 {
@@ -3228,6 +3222,19 @@
 
 .homeu95tab .apps-15 {
   width: 75px;
+}
+
+.homeu95tab .social-icons-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 60px 60px;
+  justify-content: space-between;
+  padding: 24px 0px 0px;
+  position: relative;
+  width: 100%;
 }
 
 .homeu95tab .social-link-1 {
