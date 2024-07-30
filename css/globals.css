@@ -140,6 +140,16 @@
   width: 90px;
 }
 
+.build {
+  color: var(--white);
+  font-weight: 700;
+  line-height: 14.4px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
 .button-label {
   color: var(--white);
   font-weight: 700;
@@ -147,14 +157,6 @@
   line-height: 14.4px;
   text-align: center;
   width: 196px;
-}
-
-.frame-451 {
-  display: flex;
-  height: 176px;
-  justify-content: center;
-  position: relative;
-  width: 801px;
 }
 
 .contents {
@@ -245,16 +247,6 @@
   width: 24px;
 }
 
-.marketplaces-1 {
-  align-items: center;
-  display: inline-flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 24px;
-  padding: 0px 40px;
-  position: relative;
-}
-
 .copy-item-1 {
   align-items: center;
   align-self: stretch;
@@ -303,15 +295,6 @@
   width: 100%;
 }
 
-.desktop-home-logo-3 {
-  height: 36px;
-  position: relative;
-}
-
-.apps-16 {
-  width: 42px;
-}
-
 .social-link-2 {
   cursor: pointer;
   height: 32px;
@@ -337,14 +320,21 @@
   width: 32px;
 }
 
-.build {
-  color: var(--white);
-  font-weight: 700;
-  line-height: 14.4px;
-  margin-top: -1.00px;
+.desktop-home-logo-3 {
+  height: 36px;
   position: relative;
-  white-space: nowrap;
-  width: fit-content;
+}
+
+.apps-16 {
+  width: 42px;
+}
+
+.frame-451 {
+  display: flex;
+  height: 176px;
+  justify-content: center;
+  position: relative;
+  width: 801px;
 }
 
 .label {
