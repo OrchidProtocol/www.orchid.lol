@@ -255,11 +255,6 @@
   width: 187px;
 }
 
-.vpn-all-breakpoints .google-play-badge {
-  height: 56.3px;
-  width: 188px;
-}
-
 .vpn-all-breakpoints .apple-store {
   cursor: pointer;
   height: 56px;
@@ -713,6 +708,15 @@
   width: 100%;
 }
 
+.vpn-all-breakpoints .logo-1 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 12px;
+  position: relative;
+}
+
 .vpn-all-breakpoints .x2023-orchid-3 {
   color: var(--white);
   font-weight: 300;
@@ -742,6 +746,13 @@
   position: relative;
 }
 
+.vpn-all-breakpoints .pp {
+  display: flex;
+  height: 22px;
+  position: relative;
+  width: 180px;
+}
+
 .vpn-all-breakpoints .x2023-orchid-4 {
   color: var(--white);
   cursor: pointer;
@@ -749,6 +760,13 @@
   font-weight: 700;
   line-height: 22.4px;
   width: 180px;
+}
+
+.vpn-all-breakpoints .pp-1 {
+  display: flex;
+  height: 44px;
+  position: relative;
+  width: 208px;
 }
 
 .vpn-all-breakpoints .x2023-orchid-5 {
@@ -1289,13 +1307,15 @@
   width: 322px;
 }
 
-.vpnu95mobsm .google-play-1 {
-  background-image: url(../img/google-play-badge-2@2x.png);
-  background-size: 100% 100%;
-  cursor: pointer;
-  height: 42px;
+.vpnu95mobsm .content {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
   position: relative;
-  width: 144px;
+  width: 100%;
 }
 
 .vpnu95mobsm .logo {
@@ -1450,15 +1470,6 @@
 .vpnu95mobsm .cards-2 {
   display: flex;
   position: relative;
-}
-
-.vpnu95mobsm .discover-2 {
-  color: var(--white);
-  font-weight: 600;
-  line-height: 13.2px;
-  position: relative;
-  white-space: nowrap;
-  width: fit-content;
 }
 
 .vpnu95mobsm .frame {
@@ -2037,14 +2048,6 @@
   padding: 24px 0px 0px;
   position: relative;
   width: 100%;
-}
-
-.vpnu95tabsm .social-link-github-2 {
-  cursor: pointer;
-  height: 33px;
-  margin-bottom: -1.00px;
-  position: relative;
-  width: 32px;
 }
 
 .vpnu95tabsm .apps {

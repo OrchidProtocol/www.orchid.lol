@@ -140,16 +140,6 @@
   width: 90px;
 }
 
-.build {
-  color: var(--white);
-  font-weight: 700;
-  line-height: 14.4px;
-  margin-top: -1.00px;
-  position: relative;
-  white-space: nowrap;
-  width: fit-content;
-}
-
 .button-label {
   color: var(--white);
   font-weight: 700;
@@ -157,6 +147,14 @@
   line-height: 14.4px;
   text-align: center;
   width: 196px;
+}
+
+.frame-451 {
+  display: flex;
+  height: 176px;
+  justify-content: center;
+  position: relative;
+  width: 801px;
 }
 
 .contents {
@@ -168,20 +166,6 @@
   gap: 24px;
   position: relative;
   width: 100%;
-}
-
-.pp {
-  display: flex;
-  height: 22px;
-  position: relative;
-  width: 180px;
-}
-
-.pp-1 {
-  display: flex;
-  height: 44px;
-  position: relative;
-  width: 208px;
 }
 
 .dapp {
@@ -215,28 +199,6 @@
   width: 28.47px;
 }
 
-.accounts {
-  align-items: center;
-  align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 8px;
-  position: relative;
-  width: 100%;
-}
-
-.directory {
-  align-items: center;
-  align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 8px;
-  position: relative;
-  width: 100%;
-}
-
 .mobilefooter {
   align-items: center;
   align-self: stretch;
@@ -249,26 +211,6 @@
   padding: 80px 60px 120px 40px;
   position: relative;
   width: 100%;
-}
-
-.content {
-  align-items: flex-start;
-  align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 24px;
-  position: relative;
-  width: 100%;
-}
-
-.logo-1 {
-  align-items: flex-start;
-  display: inline-flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 12px;
-  position: relative;
 }
 
 .social-link-github-1 {
@@ -303,55 +245,23 @@
   width: 24px;
 }
 
-.accounts-1 {
-  align-items: center;
-  align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 8px;
-  position: relative;
-  width: 100%;
-}
-
-.directory-1 {
-  align-items: center;
-  align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 8px;
-  position: relative;
-  width: 100%;
-}
-
-.app-store {
-  background-image: url(../img/appstorebadge-2.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  cursor: pointer;
-  height: 42px;
-  position: relative;
-  width: 144px;
-}
-
-.button-1 {
+.marketplaces-1 {
   align-items: center;
   display: inline-flex;
   flex: 0 0 auto;
   flex-direction: column;
-  gap: 10px;
-  padding: 80px 0px 0px;
+  gap: 24px;
+  padding: 0px 40px;
   position: relative;
 }
 
-.frame-478-1 {
+.copy-item-1 {
   align-items: center;
   align-self: stretch;
   display: flex;
   flex: 0 0 auto;
   flex-direction: column;
-  gap: 24px;
+  gap: 8px;
   position: relative;
   width: 100%;
 }
@@ -393,20 +303,26 @@
   width: 100%;
 }
 
-.label {
-  color: var(--white);
-  font-weight: 700;
-  line-height: 24px;
-  margin-top: -1.00px;
+.desktop-home-logo-3 {
+  height: 36px;
   position: relative;
-  text-align: center;
-  white-space: nowrap;
-  width: fit-content;
+}
+
+.apps-16 {
+  width: 42px;
 }
 
 .social-link-2 {
   cursor: pointer;
   height: 32px;
+  position: relative;
+  width: 32px;
+}
+
+.social-link-github-2 {
+  cursor: pointer;
+  height: 33px;
+  margin-bottom: -1.00px;
   position: relative;
   width: 32px;
 }
@@ -419,6 +335,32 @@
   height: 32px;
   position: relative;
   width: 32px;
+}
+
+.build {
+  color: var(--white);
+  font-weight: 700;
+  line-height: 14.4px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.label {
+  color: var(--white);
+  font-weight: 700;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.google-play-badge {
+  height: 56.3px;
+  width: 188px;
 }
 
 .build-5 {
@@ -451,7 +393,7 @@
   width: 100%;
 }
 
-.copy-item-1 {
+.accounts-1 {
   align-items: center;
   align-self: stretch;
   display: flex;
@@ -462,13 +404,55 @@
   width: 100%;
 }
 
-.desktop-home-logo-3 {
-  height: 36px;
+.directory-1 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+  width: 100%;
+}
+
+.app-store {
+  background-image: url(../img/appstorebadge-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  cursor: pointer;
+  height: 42px;
+  position: relative;
+  width: 144px;
+}
+
+.google-play-1 {
+  background-image: url(../img/google-play-badge-2@2x.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  height: 42px;
+  position: relative;
+  width: 144px;
+}
+
+.button-1 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  padding: 80px 0px 0px;
   position: relative;
 }
 
-.apps-16 {
-  width: 42px;
+.frame-478-1 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  position: relative;
+  width: 100%;
 }
 
 .menu-icon-2 {
@@ -485,6 +469,15 @@
   width: 100%;
 }
 
+.discover-2 {
+  color: var(--white);
+  font-weight: 600;
+  line-height: 13.2px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
 .menu-icon-5 {
   cursor: pointer;
 }
@@ -499,14 +492,6 @@
   padding: 0px 24px;
   position: relative;
   width: 100%;
-}
-
-.frame-451 {
-  display: flex;
-  height: 176px;
-  justify-content: center;
-  position: relative;
-  width: 801px;
 }
 
 .close-icon {

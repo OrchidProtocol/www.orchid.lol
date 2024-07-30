@@ -622,6 +622,13 @@
   position: relative;
 }
 
+.how-all-breakpoints .pp {
+  display: flex;
+  height: 22px;
+  position: relative;
+  width: 180px;
+}
+
 .how-all-breakpoints .x2023-orchid-7 {
   color: var(--white);
   cursor: pointer;
@@ -629,6 +636,13 @@
   font-weight: 700;
   line-height: 22.4px;
   width: 180px;
+}
+
+.how-all-breakpoints .pp-1 {
+  display: flex;
+  height: 44px;
+  position: relative;
+  width: 208px;
 }
 
 .how-all-breakpoints .x2023-orchid-8 {
@@ -660,14 +674,6 @@
   gap: 24px 40px;
   justify-content: flex-end;
   position: relative;
-}
-
-.how-all-breakpoints .social-link-github-2 {
-  cursor: pointer;
-  height: 33px;
-  margin-bottom: -1.00px;
-  position: relative;
-  width: 32px;
 }
 
 .how-all-breakpoints .apps {
@@ -1194,6 +1200,17 @@
   cursor: pointer;
 }
 
+.howu95mobsm .content {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  position: relative;
+  width: 100%;
+}
+
 .howu95mobsm .logo {
   align-items: flex-start;
   display: inline-flex;
@@ -1349,15 +1366,6 @@
   flex-direction: column;
   position: relative;
   width: 100%;
-}
-
-.howu95mobsm .discover-2 {
-  color: var(--white);
-  font-weight: 600;
-  line-height: 13.2px;
-  position: relative;
-  white-space: nowrap;
-  width: fit-content;
 }
 
 .howu95mobsm .frame {
@@ -1767,6 +1775,15 @@
 .howu95tabsm .mobile-button-hero-4 {
   cursor: pointer;
   display: inline-flex;
+}
+
+.howu95tabsm .logo-1 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 12px;
+  position: relative;
 }
 
 .howu95tabsm .desktop-home-logo-1 {
