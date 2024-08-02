@@ -1472,6 +1472,15 @@
   position: relative;
 }
 
+.vpnu95mobsm .discover-2 {
+  color: var(--white);
+  font-weight: 600;
+  line-height: 13.2px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
 .vpnu95mobsm .frame {
   align-items: flex-start;
   align-self: stretch;
