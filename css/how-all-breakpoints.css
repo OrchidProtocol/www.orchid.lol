@@ -676,6 +676,14 @@
   position: relative;
 }
 
+.how-all-breakpoints .social-link-github-2 {
+  cursor: pointer;
+  height: 33px;
+  margin-bottom: -1.00px;
+  position: relative;
+  width: 32px;
+}
+
 .how-all-breakpoints .apps {
   color: var(--white);
   font-weight: 700;
@@ -1200,17 +1208,6 @@
   cursor: pointer;
 }
 
-.howu95mobsm .content {
-  align-items: flex-start;
-  align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 24px;
-  position: relative;
-  width: 100%;
-}
-
 .howu95mobsm .logo {
   align-items: flex-start;
   display: inline-flex;
@@ -1339,9 +1336,6 @@
 }
 
 .howu95mobsm .social-link-reddit {
-  background-image: url(../img/combined-shape@2x.png);
-  background-size: 100% 100%;
-  border-radius: 40px;
   height: 32px;
 }
 
@@ -1394,12 +1388,6 @@
   position: relative;
 }
 
-.howu95mobsm .menu-icon-3 {
-  height: 24px;
-  position: relative;
-  width: 24px;
-}
-
 .howu95mobsm .mobile-button-hero-3 {
   align-items: center;
   background-color: var(--log-cabin);
@@ -1444,6 +1432,10 @@
   padding: 32px;
   position: relative;
   width: 100%;
+}
+
+.howu95tabsm .menu-icon-5 {
+  cursor: pointer;
 }
 
 .howu95tabsm .hero-1 {

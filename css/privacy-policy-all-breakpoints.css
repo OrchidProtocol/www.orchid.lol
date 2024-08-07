@@ -156,17 +156,6 @@
   line-height: 18.0px;
 }
 
-.privacy-policy-all-breakpoints .content {
-  align-items: flex-start;
-  align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 24px;
-  position: relative;
-  width: 100%;
-}
-
 .privacy-policy-all-breakpoints .logo {
   align-items: flex-start;
   display: inline-flex;
@@ -301,9 +290,6 @@
 }
 
 .privacy-policy-all-breakpoints .social-link-reddit {
-  background-image: url(../img/combined-shape@2x.png);
-  background-size: 100% 100%;
-  border-radius: 40px;
   height: 32px;
 }
 
@@ -399,7 +385,7 @@
   width: 613px;
 }
 
-.privacy-policyu95dt .desktop-home-logo-2 {
+.privacy-policyu95dt .desktop-home-logo-1 {
   cursor: pointer;
   flex: 0 0 auto;
 }
@@ -473,7 +459,7 @@
   width: 1440px;
 }
 
-.privacy-policyu95dt .frame-403-2 {
+.privacy-policyu95dt .frame-403-1 {
   align-items: center;
   display: flex;
   flex: 0 0 auto;
@@ -483,7 +469,7 @@
   width: 855px;
 }
 
-.privacy-policyu95dt .decentralized-marketplace-2 {
+.privacy-policyu95dt .decentralized-marketplace-1 {
   align-self: stretch;
   color: transparent;
   font-weight: 800;
@@ -493,11 +479,11 @@
   text-align: center;
 }
 
-.privacy-policyu95dt .span-5 {
+.privacy-policyu95dt .span-2 {
   letter-spacing: 0.72px;
 }
 
-.privacy-policyu95dt .line-10-2 {
+.privacy-policyu95dt .line-10-1 {
   align-self: stretch;
   height: 1px;
   object-fit: cover;
@@ -516,7 +502,7 @@
   width: 1440px;
 }
 
-.privacy-policyu95dt .copy-2 {
+.privacy-policyu95dt .copy-1 {
   align-self: stretch;
   display: flex;
   height: 1134px;
@@ -530,17 +516,17 @@
   width: 1120px;
 }
 
-.privacy-policyu95dt .span-6 {
+.privacy-policyu95dt .span-3 {
   letter-spacing: 0.31px;
   line-height: 34.7px;
 }
 
-.privacy-policyu95dt .span-7 {
+.privacy-policyu95dt .span-4 {
   letter-spacing: 0.08px;
   line-height: 28.0px;
 }
 
-.privacy-policyu95dt .span-8 {
+.privacy-policyu95dt .span-5 {
   letter-spacing: 0.08px;
   line-height: 28.0px;
   text-decoration: underline;
@@ -560,7 +546,7 @@
   width: 100%;
 }
 
-.privacy-policyu95dt .logo-2 {
+.privacy-policyu95dt .logo-1 {
   align-items: flex-start;
   display: inline-flex;
   flex: 0 0 auto;
@@ -569,7 +555,7 @@
   position: relative;
 }
 
-.privacy-policyu95dt .x2023-orchid-6 {
+.privacy-policyu95dt .x2023-orchid-3 {
   color: var(--white);
   font-weight: 300;
   line-height: 19.6px;
@@ -577,7 +563,7 @@
   width: 676px;
 }
 
-.privacy-policyu95dt .hyperlinks-2 {
+.privacy-policyu95dt .hyperlinks-1 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -605,7 +591,7 @@
   width: 180px;
 }
 
-.privacy-policyu95dt .x2023-orchid-7 {
+.privacy-policyu95dt .x2023-orchid-4 {
   color: var(--white);
   cursor: pointer;
   flex: 1;
@@ -621,7 +607,7 @@
   width: 208px;
 }
 
-.privacy-policyu95dt .x2023-orchid-8 {
+.privacy-policyu95dt .x2023-orchid-5 {
   color: var(--white);
   cursor: pointer;
   flex: 1;
@@ -630,11 +616,11 @@
   width: 208px;
 }
 
-.privacy-policyu95dt .apps-17 {
+.privacy-policyu95dt .apps-9 {
   cursor: pointer;
 }
 
-.privacy-policyu95dt .link-2 {
+.privacy-policyu95dt .link-1 {
   cursor: pointer;
   display: flex;
   height: 22px;
@@ -642,7 +628,7 @@
   width: 198px;
 }
 
-.privacy-policyu95dt .social-icons-2 {
+.privacy-policyu95dt .social-icons-1 {
   align-items: flex-start;
   display: inline-flex;
   flex: 0 0 auto;
@@ -650,6 +636,13 @@
   gap: 24px 40px;
   justify-content: flex-end;
   position: relative;
+}
+
+.privacy-policyu95dt .social-link-1 {
+  cursor: pointer;
+  height: 32px;
+  position: relative;
+  width: 32px;
 }
 
 .privacy-policyu95dt .apps {
@@ -704,7 +697,7 @@
   width: 100%;
 }
 
-.privacy-policyu95tabsm .frame-403-1 {
+.privacy-policyu95tabsm .frame-403-2 {
   align-items: center;
   display: flex;
   flex: 0 0 auto;
@@ -715,7 +708,7 @@
   width: 744px;
 }
 
-.privacy-policyu95tabsm .decentralized-marketplace-1 {
+.privacy-policyu95tabsm .decentralized-marketplace-2 {
   align-self: stretch;
   color: transparent;
   font-weight: 800;
@@ -725,11 +718,11 @@
   text-align: center;
 }
 
-.privacy-policyu95tabsm .span-2 {
+.privacy-policyu95tabsm .span-6 {
   letter-spacing: 0.32px;
 }
 
-.privacy-policyu95tabsm .line-10-1 {
+.privacy-policyu95tabsm .line-10-2 {
   align-self: stretch;
   height: 1px;
   object-fit: cover;
@@ -747,7 +740,7 @@
   position: relative;
 }
 
-.privacy-policyu95tabsm .copy-1 {
+.privacy-policyu95tabsm .copy-2 {
   align-items: center;
   display: flex;
   flex: 0 0 auto;
@@ -780,7 +773,7 @@
   line-height: 15px;
 }
 
-.privacy-policyu95tabsm .span-3 {
+.privacy-policyu95tabsm .span-7 {
   color: var(--white);
   font-weight: 300;
   line-height: 18.0px;
@@ -792,7 +785,7 @@
   line-height: 16.5px;
 }
 
-.privacy-policyu95tabsm .span-4 {
+.privacy-policyu95tabsm .span-8 {
   color: var(--aquamarine);
   font-weight: 700;
   line-height: 16.5px;
@@ -812,7 +805,7 @@
   width: 100%;
 }
 
-.privacy-policyu95tabsm .logo-1 {
+.privacy-policyu95tabsm .logo-2 {
   align-items: flex-start;
   display: inline-flex;
   flex: 0 0 auto;
@@ -821,12 +814,7 @@
   position: relative;
 }
 
-.privacy-policyu95tabsm .desktop-home-logo-1 {
-  height: 36px;
-  position: relative;
-}
-
-.privacy-policyu95tabsm .x2023-orchid-3 {
+.privacy-policyu95tabsm .x2023-orchid-6 {
   color: var(--white);
   font-weight: 300;
   line-height: 19.6px;
@@ -834,7 +822,7 @@
   width: 299px;
 }
 
-.privacy-policyu95tabsm .x2023-orchid-4 {
+.privacy-policyu95tabsm .x2023-orchid-7 {
   align-self: stretch;
   color: var(--white);
   font-weight: 300;
@@ -842,7 +830,7 @@
   position: relative;
 }
 
-.privacy-policyu95tabsm .hyperlinks-1 {
+.privacy-policyu95tabsm .hyperlinks-2 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -860,7 +848,7 @@
   width: 281px;
 }
 
-.privacy-policyu95tabsm .x2023-orchid-5 {
+.privacy-policyu95tabsm .x2023-orchid-8 {
   color: var(--white);
   cursor: pointer;
   flex: 1;
@@ -870,7 +858,7 @@
   width: 132px;
 }
 
-.privacy-policyu95tabsm .link-1 {
+.privacy-policyu95tabsm .link-2 {
   cursor: pointer;
   display: flex;
   height: 22px;
@@ -878,40 +866,36 @@
   width: 281px;
 }
 
-.privacy-policyu95tabsm .apps-8 {
+.privacy-policyu95tabsm .apps-10 {
   width: 102px;
 }
 
-.privacy-policyu95tabsm .apps-9 {
+.privacy-policyu95tabsm .apps-11 {
   width: 132px;
 }
 
-.privacy-policyu95tabsm .apps-10 {
+.privacy-policyu95tabsm .apps-12 {
   cursor: pointer;
   width: 113px;
 }
 
-.privacy-policyu95tabsm .apps-11 {
+.privacy-policyu95tabsm .apps-13 {
   width: 85px;
 }
 
-.privacy-policyu95tabsm .apps-12 {
+.privacy-policyu95tabsm .apps-14 {
   width: 122px;
 }
 
-.privacy-policyu95tabsm .apps-13 {
+.privacy-policyu95tabsm .apps-15 {
   width: 76px;
 }
 
-.privacy-policyu95tabsm .apps-14 {
-  width: 42px;
-}
-
-.privacy-policyu95tabsm .apps-15 {
+.privacy-policyu95tabsm .apps-17 {
   width: 75px;
 }
 
-.privacy-policyu95tabsm .social-icons-1 {
+.privacy-policyu95tabsm .social-icons-2 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -924,9 +908,10 @@
   width: 100%;
 }
 
-.privacy-policyu95tabsm .social-link-1 {
+.privacy-policyu95tabsm .social-link-github-2 {
   cursor: pointer;
-  height: 32px;
+  height: 33px;
+  margin-bottom: -1.00px;
   position: relative;
   width: 32px;
 }
@@ -944,10 +929,10 @@
   position: relative;
 }
 @media screen and (max-width: 743px) {
-  .screen.privacy-policyu95tabsm { 
+  .screen.privacy-policyu95dt { 
     display: none;
    }
-  .screen.privacy-policyu95dt { 
+  .screen.privacy-policyu95tabsm { 
     display: none;
    }
 }

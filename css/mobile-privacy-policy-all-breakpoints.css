@@ -223,6 +223,14 @@
   width: 100%;
 }
 
+.mobile-privacy-policy-all-breakpoints .social-link-github-2 {
+  cursor: pointer;
+  height: 33px;
+  margin-bottom: -1.00px;
+  position: relative;
+  width: 32px;
+}
+
 .mobile-privacy-policy-all-breakpoints .apps {
   color: var(--white);
   font-weight: 700;
@@ -595,9 +603,6 @@
 }
 
 .mobile-privacy-policyu95dt .social-link-reddit {
-  background-image: url(../img/combined-shape@2x.png);
-  background-size: 100% 100%;
-  border-radius: 40px;
   height: 32px;
 }
 
@@ -778,17 +783,6 @@
 .mobile-privacy-policyu95tabsm .nanopay {
   align-self: stretch;
   flex: 0 0 auto;
-  position: relative;
-  width: 100%;
-}
-
-.mobile-privacy-policyu95tabsm .content {
-  align-items: flex-start;
-  align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 24px;
   position: relative;
   width: 100%;
 }

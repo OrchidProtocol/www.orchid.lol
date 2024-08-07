@@ -594,6 +594,14 @@
   position: relative;
 }
 
+.about-all-breakpoints .social-link-github-2 {
+  cursor: pointer;
+  height: 33px;
+  margin-bottom: -1.00px;
+  position: relative;
+  width: 32px;
+}
+
 .about-all-breakpoints .apps {
   color: var(--white);
   font-weight: 700;
@@ -1016,17 +1024,6 @@
   cursor: pointer;
 }
 
-.aboutu95mobsm .content {
-  align-items: flex-start;
-  align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 24px;
-  position: relative;
-  width: 100%;
-}
-
 .aboutu95mobsm .logo-1 {
   align-items: flex-start;
   display: inline-flex;
@@ -1163,9 +1160,6 @@
 }
 
 .aboutu95mobsm .social-link-reddit {
-  background-image: url(../img/combined-shape@2x.png);
-  background-size: 100% 100%;
-  border-radius: 40px;
   cursor: pointer;
   height: 32px;
   position: relative;
