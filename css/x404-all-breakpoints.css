@@ -259,11 +259,6 @@
   position: relative;
 }
 
-.x404u95dt .desktop-home-logo-1 {
-  height: 36px;
-  position: relative;
-}
-
 .x404u95dt .x2023-orchid {
   color: var(--white);
   font-weight: 300;
@@ -409,15 +404,9 @@
   display: flex;
   flex-direction: column;
   gap: 60px;
+  height: 2217px;
   min-width: 744px;
   position: relative;
-}
-
-.x404u95tabsm .mobile-nav-header {
-  align-self: stretch;
-  flex: 0 0 auto;
-  position: relative;
-  width: 100%;
 }
 
 .x404u95tabsm .frame-403-1 {
@@ -561,25 +550,6 @@
   width: 299px;
 }
 
-.x404u95tabsm .x2023-orchid-4 {
-  align-self: stretch;
-  color: var(--white);
-  font-weight: 300;
-  line-height: 19.6px;
-  position: relative;
-}
-
-.x404u95tabsm .hyperlinks-1 {
-  align-items: flex-start;
-  align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 40px;
-  position: relative;
-  width: 100%;
-}
-
 .x404u95tabsm .frame-532 {
   align-items: flex-start;
   align-self: stretch;
@@ -597,16 +567,6 @@
   height: 22px;
   position: relative;
   width: 281px;
-}
-
-.x404u95tabsm .x2023-orchid-5 {
-  color: var(--white);
-  cursor: pointer;
-  flex: 1;
-  font-weight: 700;
-  line-height: 24px;
-  white-space: nowrap;
-  width: 132px;
 }
 
 .x404u95tabsm .link-1 {
@@ -650,30 +610,9 @@
   width: 75px;
 }
 
-.x404u95tabsm .social-icons-1 {
-  align-items: flex-start;
-  align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  flex-wrap: wrap;
-  gap: 60px 60px;
-  justify-content: space-between;
-  padding: 24px 0px 0px;
-  position: relative;
-  width: 100%;
-}
-
 .x404u95tabsm .social-link-1 {
   cursor: pointer;
   height: 32px;
-  position: relative;
-  width: 32px;
-}
-
-.x404u95tabsm .social-link-github-1 {
-  cursor: pointer;
-  height: 33px;
-  margin-bottom: -1.00px;
   position: relative;
   width: 32px;
 }
@@ -699,15 +638,9 @@
   display: flex;
   flex-direction: column;
   gap: 24px;
+  height: 1925px;
   min-width: 360px;
   position: relative;
-}
-
-.x404-all-breakpoints .mobile-nav-header-1 {
-  align-self: stretch;
-  height: 88px;
-  position: relative;
-  width: 100%;
 }
 
 .x404-all-breakpoints .frame-404 {
@@ -828,17 +761,6 @@
   width: fit-content;
 }
 
-.x404-all-breakpoints .content-1 {
-  align-items: flex-start;
-  align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 24px;
-  position: relative;
-  width: 100%;
-}
-
 .x404-all-breakpoints .logo-2 {
   align-items: flex-start;
   display: inline-flex;
@@ -943,6 +865,14 @@
   padding: 24px 0px 0px;
   position: relative;
   width: 100%;
+}
+
+.x404-all-breakpoints .social-link-github-2 {
+  cursor: pointer;
+  height: 33px;
+  margin-bottom: -1.00px;
+  position: relative;
+  width: 32px;
 }
 
 .x404-all-breakpoints .apps {
