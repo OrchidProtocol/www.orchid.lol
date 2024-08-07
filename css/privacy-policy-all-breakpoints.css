@@ -11,6 +11,24 @@
   position: relative;
 }
 
+.privacy-policy-all-breakpoints .mobile-nav-header {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  height: 88px;
+  justify-content: space-between;
+  padding: 32px;
+  position: relative;
+  width: 100%;
+}
+
+.privacy-policy-all-breakpoints .menu-icon {
+  cursor: pointer;
+  height: 24px;
+  position: relative;
+  width: 24px;
+}
+
 .privacy-policy-all-breakpoints .frame-403-1 {
   align-items: center;
   display: flex;
@@ -152,6 +170,25 @@
   width: 299px;
 }
 
+.privacy-policy-all-breakpoints .x2023-orchid-4 {
+  align-self: stretch;
+  color: var(--white);
+  font-weight: 300;
+  line-height: 19.6px;
+  position: relative;
+}
+
+.privacy-policy-all-breakpoints .hyperlinks-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 40px;
+  position: relative;
+  width: 100%;
+}
+
 .privacy-policy-all-breakpoints .frame-532 {
   align-items: flex-start;
   align-self: stretch;
@@ -170,6 +207,16 @@
   margin-right: -21.00px;
   position: relative;
   width: 281px;
+}
+
+.privacy-policy-all-breakpoints .x2023-orchid-5 {
+  color: var(--white);
+  cursor: pointer;
+  flex: 1;
+  font-weight: 700;
+  line-height: 24px;
+  white-space: nowrap;
+  width: 132px;
 }
 
 .privacy-policy-all-breakpoints .link-1 {
@@ -212,6 +259,19 @@
 
 .privacy-policy-all-breakpoints .apps-9 {
   width: 75px;
+}
+
+.privacy-policy-all-breakpoints .social-icons-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 60px 60px;
+  justify-content: space-between;
+  padding: 24px 0px 0px;
+  position: relative;
+  width: 100%;
 }
 
 .privacy-policy-all-breakpoints .social-link-1 {
@@ -482,6 +542,11 @@
   position: relative;
 }
 
+.privacy-policyu95dt .desktop-home-logo-1 {
+  height: 36px;
+  position: relative;
+}
+
 .privacy-policyu95dt .x2023-orchid {
   color: var(--white);
   font-weight: 300;
@@ -620,6 +685,17 @@
   position: relative;
 }
 
+.privacy-policyu95tabsm .mobile-nav-header-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  height: 88px;
+  justify-content: space-between;
+  padding: 32px 72px;
+  position: relative;
+  width: 100%;
+}
+
 .privacy-policyu95tabsm .frame-403-2 {
   align-items: center;
   display: flex;
@@ -643,14 +719,6 @@
 
 .privacy-policyu95tabsm .span-6 {
   letter-spacing: 0.32px;
-}
-
-.privacy-policyu95tabsm .line-10-2 {
-  align-self: stretch;
-  height: 1px;
-  object-fit: cover;
-  position: relative;
-  width: 100%;
 }
 
 .privacy-policyu95tabsm .marketplaces-1 {

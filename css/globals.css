@@ -89,16 +89,6 @@
   width: 90px;
 }
 
-.build {
-  color: var(--white);
-  font-weight: 700;
-  line-height: 14.4px;
-  margin-top: -1.00px;
-  position: relative;
-  white-space: nowrap;
-  width: fit-content;
-}
-
 .button-label {
   color: var(--white);
   font-weight: 700;
@@ -106,6 +96,14 @@
   line-height: 14.4px;
   text-align: center;
   width: 196px;
+}
+
+.frame-451 {
+  display: flex;
+  height: 176px;
+  justify-content: center;
+  position: relative;
+  width: 801px;
 }
 
 .contents {
@@ -117,11 +115,6 @@
   gap: 24px;
   position: relative;
   width: 100%;
-}
-
-.desktop-home-logo-1 {
-  height: 36px;
-  position: relative;
 }
 
 .dapp {
@@ -138,7 +131,7 @@
   width: 32px;
 }
 
-.build-4 {
+.build-5 {
   color: var(--white);
   font-weight: 700;
   line-height: 14.4px;
@@ -148,11 +141,11 @@
   width: fit-content;
 }
 
-.mobile-nav-header {
-  align-self: stretch;
-  height: 88px;
+.orchid-icon {
+  cursor: pointer;
+  height: 24px;
   position: relative;
-  width: 100%;
+  width: 28.47px;
 }
 
 .mobilefooter {
@@ -180,48 +173,6 @@
   width: 100%;
 }
 
-.x2023-orchid-4 {
-  align-self: stretch;
-  color: var(--white);
-  font-weight: 300;
-  line-height: 19.6px;
-  position: relative;
-}
-
-.hyperlinks-1 {
-  align-items: flex-start;
-  align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 40px;
-  position: relative;
-  width: 100%;
-}
-
-.x2023-orchid-5 {
-  color: var(--white);
-  cursor: pointer;
-  flex: 1;
-  font-weight: 700;
-  line-height: 24px;
-  white-space: nowrap;
-  width: 132px;
-}
-
-.social-icons-1 {
-  align-items: flex-start;
-  align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  flex-wrap: wrap;
-  gap: 60px 60px;
-  justify-content: space-between;
-  padding: 24px 0px 0px;
-  position: relative;
-  width: 100%;
-}
-
 .social-link-github-1 {
   cursor: pointer;
   height: 33px;
@@ -237,20 +188,24 @@
   width: 32px;
 }
 
-.mobile-nav-header-1 {
-  align-self: stretch;
-  height: 88px;
+.orchid-icon-1 {
+  cursor: pointer;
+  height: 24px;
   position: relative;
-  width: 100%;
+  width: 28.47px;
 }
 
-.copy-item-1 {
-  align-items: center;
+.menu-icon-1 {
+  cursor: pointer;
+  height: 24px;
+  position: relative;
+  width: 24px;
+}
+
+.line-10-2 {
   align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 8px;
+  height: 1px;
+  object-fit: cover;
   position: relative;
   width: 100%;
 }
@@ -313,6 +268,37 @@
   height: 32px;
   position: relative;
   width: 32px;
+}
+
+.build {
+  color: var(--white);
+  font-weight: 700;
+  line-height: 14.4px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.build-4 {
+  color: var(--white);
+  font-weight: 700;
+  line-height: 14.4px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.copy-item-1 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+  width: 100%;
 }
 
 .accounts {
@@ -390,10 +376,8 @@
   width: 100%;
 }
 
-.menu-icon {
-  height: 24px;
-  position: relative;
-  width: 24px;
+.menu-icon-2 {
+  cursor: pointer;
 }
 
 .line-8-1 {
@@ -406,19 +390,10 @@
   width: 100%;
 }
 
-.menu-icon-1 {
+.menu-icon-3 {
   height: 24px;
   position: relative;
   width: 24px;
-}
-
-.discover-2 {
-  color: var(--white);
-  font-weight: 600;
-  line-height: 13.2px;
-  position: relative;
-  white-space: nowrap;
-  width: fit-content;
 }
 
 .label {
@@ -428,16 +403,6 @@
   margin-top: -1.00px;
   position: relative;
   text-align: center;
-  white-space: nowrap;
-  width: fit-content;
-}
-
-.build-5 {
-  color: var(--white);
-  font-weight: 700;
-  line-height: 14.4px;
-  margin-top: -1.00px;
-  position: relative;
   white-space: nowrap;
   width: fit-content;
 }
@@ -472,14 +437,6 @@
   padding: 0px 24px;
   position: relative;
   width: 100%;
-}
-
-.frame-451 {
-  display: flex;
-  height: 176px;
-  justify-content: center;
-  position: relative;
-  width: 801px;
 }
 
 .close-icon {

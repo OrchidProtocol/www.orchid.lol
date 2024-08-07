@@ -1304,6 +1304,24 @@
   position: relative;
 }
 
+.homeu95mobsm .mobile-nav-header {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  height: 88px;
+  justify-content: space-between;
+  padding: 32px;
+  position: relative;
+  width: 100%;
+}
+
+.homeu95mobsm .menu-icon {
+  cursor: pointer;
+  height: 24px;
+  position: relative;
+  width: 24px;
+}
+
 .homeu95mobsm .orchid-grid-hero {
   background-image: url(../img/orchidgrid-mob-1.png);
   background-position: 50% 50%;
@@ -2407,6 +2425,17 @@
   width: 563px;
 }
 
+.homeu95tab .mobile-nav-header-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  height: 88px;
+  justify-content: space-between;
+  padding: 32px 72px;
+  position: relative;
+  width: 100%;
+}
+
 .homeu95tab .hero-1 {
   align-items: flex-start;
   align-self: stretch;
@@ -3127,6 +3156,11 @@
   position: relative;
 }
 
+.homeu95tab .desktop-home-logo-1 {
+  height: 36px;
+  position: relative;
+}
+
 .homeu95tab .x2023-orchid-3 {
   color: var(--white);
   font-weight: 300;
@@ -3135,11 +3169,40 @@
   width: 299px;
 }
 
+.homeu95tab .x2023-orchid-4 {
+  align-self: stretch;
+  color: var(--white);
+  font-weight: 300;
+  line-height: 19.6px;
+  position: relative;
+}
+
+.homeu95tab .hyperlinks-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 40px;
+  position: relative;
+  width: 100%;
+}
+
 .homeu95tab .frame-532-item-1 {
   display: flex;
   height: 22px;
   position: relative;
   width: 281px;
+}
+
+.homeu95tab .x2023-orchid-5 {
+  color: var(--white);
+  cursor: pointer;
+  flex: 1;
+  font-weight: 700;
+  line-height: 24px;
+  white-space: nowrap;
+  width: 132px;
 }
 
 .homeu95tab .link-1 {
@@ -3181,6 +3244,19 @@
 
 .homeu95tab .apps-15 {
   width: 75px;
+}
+
+.homeu95tab .social-icons-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 60px 60px;
+  justify-content: space-between;
+  padding: 24px 0px 0px;
+  position: relative;
+  width: 100%;
 }
 
 .homeu95tab .social-link-1 {

@@ -636,7 +636,7 @@
   position: relative;
 }
 
-.vpn-all-breakpoints .menu-icon-3 {
+.vpn-all-breakpoints .menu-icon-5 {
   height: 40px;
   position: relative;
   width: 40px;
@@ -896,6 +896,17 @@
   height: 6442px;
   min-width: 360px;
   position: relative;
+}
+
+.vpnu95mobsm .mobile-nav-header {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  height: 88px;
+  justify-content: space-between;
+  padding: 32px;
+  position: relative;
+  width: 100%;
 }
 
 .vpnu95mobsm .hero {
@@ -1270,6 +1281,12 @@
   position: relative;
 }
 
+.vpnu95mobsm .menu-icon {
+  height: 24px;
+  position: relative;
+  width: 24px;
+}
+
 .vpnu95mobsm .intro-copy-4 {
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 1;
@@ -1458,6 +1475,15 @@
   position: relative;
 }
 
+.vpnu95mobsm .discover-2 {
+  color: var(--white);
+  font-weight: 600;
+  line-height: 13.2px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
 .vpnu95mobsm .frame {
   align-items: flex-start;
   align-self: stretch;
@@ -1499,6 +1525,21 @@
   height: 4898px;
   min-width: 744px;
   position: relative;
+}
+
+.vpnu95tabsm .mobile-nav-header-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  height: 88px;
+  justify-content: space-between;
+  padding: 32px 72px;
+  position: relative;
+  width: 100%;
+}
+
+.vpnu95tabsm .menu-icon-4 {
+  cursor: pointer;
 }
 
 .vpnu95tabsm .hero-1 {
@@ -1859,12 +1900,6 @@
   position: relative;
 }
 
-.vpnu95tabsm .menu-icon-2 {
-  height: 24px;
-  position: relative;
-  width: 24px;
-}
-
 .vpnu95tabsm .line-8-3 {
   height: 1px;
   margin-left: -0.50px;
@@ -1940,6 +1975,11 @@
   position: relative;
 }
 
+.vpnu95tabsm .desktop-home-logo-1 {
+  height: 36px;
+  position: relative;
+}
+
 .vpnu95tabsm .x2023-orchid-3 {
   color: var(--white);
   font-weight: 300;
@@ -1948,11 +1988,40 @@
   width: 299px;
 }
 
+.vpnu95tabsm .x2023-orchid-4 {
+  align-self: stretch;
+  color: var(--white);
+  font-weight: 300;
+  line-height: 19.6px;
+  position: relative;
+}
+
+.vpnu95tabsm .hyperlinks-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 40px;
+  position: relative;
+  width: 100%;
+}
+
 .vpnu95tabsm .frame-532-item-1 {
   display: flex;
   height: 22px;
   position: relative;
   width: 281px;
+}
+
+.vpnu95tabsm .x2023-orchid-5 {
+  color: var(--white);
+  cursor: pointer;
+  flex: 1;
+  font-weight: 700;
+  line-height: 24px;
+  white-space: nowrap;
+  width: 132px;
 }
 
 .vpnu95tabsm .link-2 {
@@ -1992,6 +2061,19 @@
 
 .vpnu95tabsm .apps-15 {
   width: 75px;
+}
+
+.vpnu95tabsm .social-icons-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 60px 60px;
+  justify-content: space-between;
+  padding: 24px 0px 0px;
+  position: relative;
+  width: 100%;
 }
 
 .vpnu95tabsm .social-link-1 {
@@ -2045,6 +2127,12 @@
 .vpnu95tabsm .link {
   cursor: pointer;
   position: relative;
+}
+
+.vpnu95tabsm .menu-icon {
+  height: 24px;
+  position: relative;
+  width: 24px;
 }
 
 .vpnu95tabsm .mobile-caption-section {
