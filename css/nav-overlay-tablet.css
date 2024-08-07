@@ -1,19 +1,11 @@
 /* screen - nav-overlay-tablet */
 
 .nav-overlay-tablet {
-  align-items: flex-start;
-  display: flex;
-  min-width: 393px;
-}
-
-.nav-overlay-tablet .nav-overlay-tablet-1 {
   align-items: flex-end;
   background-color: var(--log-cabin);
   display: flex;
   flex-direction: column;
   height: 674px;
-  margin-left: 4584px;
-  margin-top: 1134px;
   width: 393px;
 }
 

@@ -10,57 +10,6 @@
   text-decoration: none;
 }
 
-.container-center-horizontal {
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  pointer-events: none;
-  width: 100%;
-}
-
-.container-center-horizontal > * {
-  flex-shrink: 0;
-  pointer-events: auto;
-}
-
-.overlay-base {
-  display: none;
-  height: 100%;
-  opacity: 0;
-  position: fixed;
-  top: 0;
-  width: 100%;
-}
-
-.overlay-base.animate-appear {
-  align-items: center;
-  animation: reveal 0.3s ease-in-out 1 normal forwards;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  opacity: 0;
-}
-
-.overlay-base.animate-disappear {
-  animation: reveal 0.3s ease-in-out 1 reverse forwards;
-  display: block;
-  opacity: 1;
-  pointer-events: none;
-}
-
-.overlay-base.animate-disappear * {
-  pointer-events: none;
-}
-
-@keyframes reveal {
-  from {
-    opacity: 0;
-  }
-  to {
-    opacity: 1;
-  }
-}
-
 .valign-text-middle {
   display: flex;
   flex-direction: column;
@@ -170,11 +119,6 @@
   width: 100%;
 }
 
-.desktop-home-logo-1 {
-  height: 36px;
-  position: relative;
-}
-
 .dapp {
   display: flex;
   height: 22px;
@@ -197,13 +141,6 @@
   position: relative;
   white-space: nowrap;
   width: fit-content;
-}
-
-.orchid-icon {
-  cursor: pointer;
-  height: 24px;
-  position: relative;
-  width: 28.47px;
 }
 
 .accounts {
@@ -253,54 +190,10 @@
   width: 100%;
 }
 
-.x2023-orchid-4 {
+.copy-item {
   align-self: stretch;
-  color: var(--white);
-  font-weight: 300;
-  line-height: 19.6px;
-  position: relative;
-}
-
-.hyperlinks-1 {
-  align-items: flex-start;
-  align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 40px;
-  position: relative;
+  gap: 8px;
   width: 100%;
-}
-
-.x2023-orchid-5 {
-  color: var(--white);
-  cursor: pointer;
-  flex: 1;
-  font-weight: 700;
-  line-height: 24px;
-  white-space: nowrap;
-  width: 132px;
-}
-
-.social-icons-1 {
-  align-items: flex-start;
-  align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  flex-wrap: wrap;
-  gap: 60px 60px;
-  justify-content: space-between;
-  padding: 24px 0px 0px;
-  position: relative;
-  width: 100%;
-}
-
-.social-link-github-1 {
-  cursor: pointer;
-  height: 33px;
-  margin-bottom: -1.00px;
-  position: relative;
-  width: 32px;
 }
 
 .social-link-reddit-1 {
@@ -310,38 +203,51 @@
   width: 32px;
 }
 
-.orchid-icon-1 {
-  cursor: pointer;
-  height: 24px;
+.label {
+  color: var(--white);
+  font-weight: 700;
+  line-height: 24px;
+  margin-top: -1.00px;
   position: relative;
-  width: 28.47px;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
 }
 
-.menu-icon-1 {
+.social-link-github-2 {
   cursor: pointer;
-  height: 24px;
+  height: 33px;
+  margin-bottom: -1.00px;
   position: relative;
-  width: 24px;
+  width: 32px;
 }
 
-.accounts-1 {
+.build-5 {
+  color: var(--white);
+  font-weight: 700;
+  line-height: 14.4px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.caption-3 {
+  color: var(--white);
+  font-weight: 600;
+  line-height: 22.0px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.desktop-caption-section-3 {
   align-items: center;
   align-self: stretch;
   display: flex;
   flex: 0 0 auto;
-  flex-direction: column;
-  gap: 8px;
-  position: relative;
-  width: 100%;
-}
-
-.directory-1 {
-  align-items: center;
-  align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 8px;
+  gap: 40px;
   position: relative;
   width: 100%;
 }
@@ -391,15 +297,9 @@
   width: 100%;
 }
 
-.content-1 {
-  align-items: flex-start;
-  align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 24px;
+.desktop-home-logo-3 {
+  height: 36px;
   position: relative;
-  width: 100%;
 }
 
 .frame-532-1 {
@@ -414,15 +314,8 @@
   width: 100%;
 }
 
-.label {
-  color: var(--white);
-  font-weight: 700;
-  line-height: 24px;
-  margin-top: -1.00px;
-  position: relative;
-  text-align: center;
-  white-space: nowrap;
-  width: fit-content;
+.apps-16 {
+  width: 42px;
 }
 
 .social-link-2 {
@@ -437,56 +330,6 @@
   height: 32px;
   position: relative;
   width: 32px;
-}
-
-.build-5 {
-  color: var(--white);
-  font-weight: 700;
-  line-height: 14.4px;
-  margin-top: -1.00px;
-  position: relative;
-  white-space: nowrap;
-  width: fit-content;
-}
-
-.caption-3 {
-  color: var(--white);
-  font-weight: 600;
-  line-height: 22.0px;
-  margin-top: -1.00px;
-  position: relative;
-  white-space: nowrap;
-  width: fit-content;
-}
-
-.desktop-caption-section-3 {
-  align-items: center;
-  align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  gap: 40px;
-  position: relative;
-  width: 100%;
-}
-
-.menu-icon-2 {
-  cursor: pointer;
-}
-
-.line-8-1 {
-  align-self: stretch;
-  height: 1px;
-  margin-left: -0.50px;
-  margin-right: -0.50px;
-  object-fit: cover;
-  position: relative;
-  width: 100%;
-}
-
-.menu-icon-3 {
-  height: 24px;
-  position: relative;
-  width: 24px;
 }
 
 .marketplaces-1 {
@@ -512,15 +355,6 @@
   width: 100%;
 }
 
-.desktop-home-logo-3 {
-  height: 36px;
-  position: relative;
-}
-
-.apps-16 {
-  width: 42px;
-}
-
 .features {
   align-items: center;
   align-self: stretch;
@@ -531,6 +365,31 @@
   padding: 0px 24px;
   position: relative;
   width: 100%;
+}
+
+.menu-icon {
+  height: 24px;
+  position: relative;
+  width: 24px;
+}
+
+.line-8-1 {
+  align-self: stretch;
+  height: 1px;
+  margin-left: -0.50px;
+  margin-right: -0.50px;
+  object-fit: cover;
+  position: relative;
+  width: 100%;
+}
+
+.discover-2 {
+  color: var(--white);
+  font-weight: 600;
+  line-height: 13.2px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
 }
 
 .frame-451 {
