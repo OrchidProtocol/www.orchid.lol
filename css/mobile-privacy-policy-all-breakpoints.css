@@ -51,6 +51,14 @@
   color: var(--white);
 }
 
+.mobile-privacy-policy-all-breakpoints .line-10-2 {
+  align-self: stretch;
+  height: 1px;
+  object-fit: cover;
+  position: relative;
+  width: 100%;
+}
+
 .mobile-privacy-policy-all-breakpoints .marketplaces-1 {
   align-items: center;
   align-self: stretch;

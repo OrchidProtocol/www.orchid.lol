@@ -79,7 +79,7 @@
   width: 912px;
 }
 
-.about-all-breakpoints .logo-2 {
+.about-all-breakpoints .logo-4 {
   height: 734px;
   position: absolute;
   right: -296px;
@@ -87,7 +87,7 @@
   width: 810px;
 }
 
-.about-all-breakpoints .desktop-home-logo-1 {
+.about-all-breakpoints .desktop-home-logo-2 {
   cursor: pointer;
   flex: 0 0 auto;
 }
@@ -154,7 +154,7 @@
   width: 196px;
 }
 
-.about-all-breakpoints .hero-1 {
+.about-all-breakpoints .hero-2 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -168,7 +168,7 @@
   width: 100%;
 }
 
-.about-all-breakpoints .frame-403-1 {
+.about-all-breakpoints .frame-403-2 {
   align-items: center;
   display: flex;
   flex: 0 0 auto;
@@ -178,7 +178,7 @@
   width: 855px;
 }
 
-.about-all-breakpoints .orchids-mission-is-1 {
+.about-all-breakpoints .orchids-mission-is-2 {
   align-self: stretch;
   color: transparent;
   font-weight: 600;
@@ -200,20 +200,23 @@
   width: 100%;
 }
 
-.about-all-breakpoints .line-10 {
+.about-all-breakpoints .line-10-1 {
   align-self: stretch;
+  height: 1px;
   margin-top: -1.00px;
+  object-fit: cover;
+  position: relative;
   width: 100%;
 }
 
-.about-all-breakpoints .intro-copy-4 {
+.about-all-breakpoints .intro-copy-8 {
   align-self: stretch;
   font-weight: 400;
   height: 312px;
   line-height: 28.0px;
 }
 
-.about-all-breakpoints .media-kits-1 {
+.about-all-breakpoints .media-kits-2 {
   align-items: center;
   background-color: var(--black);
   border: 1px solid;
@@ -228,7 +231,7 @@
   position: relative;
 }
 
-.about-all-breakpoints .copy-1 {
+.about-all-breakpoints .copy-2 {
   align-items: center;
   display: inline-flex;
   flex: 0 0 auto;
@@ -238,7 +241,7 @@
   position: relative;
 }
 
-.about-all-breakpoints .decentralized-marketplace-1 {
+.about-all-breakpoints .decentralized-marketplace-2 {
   color: transparent;
   font-weight: 600;
   height: 96px;
@@ -249,20 +252,20 @@
   width: 880px;
 }
 
-.about-all-breakpoints .intro-copy-5 {
+.about-all-breakpoints .intro-copy-9 {
   font-weight: 500;
   line-height: 34.7px;
   text-align: center;
   width: 880px;
 }
 
-.about-all-breakpoints .line-2-1 {
+.about-all-breakpoints .line-2-3 {
   margin-bottom: -1.00px;
   position: relative;
   width: 880px;
 }
 
-.about-all-breakpoints .buttons-1 {
+.about-all-breakpoints .buttons-2 {
   height: 72px;
   width: 361px;
 }
@@ -280,7 +283,7 @@
   width: 361px;
 }
 
-.about-all-breakpoints .contact-1 {
+.about-all-breakpoints .contact-2 {
   align-items: center;
   display: flex;
   flex: 0 0 auto;
@@ -322,9 +325,12 @@
   width: 100%;
 }
 
-.about-all-breakpoints .line-3 {
+.about-all-breakpoints .line-4 {
   flex: 1;
   flex-grow: 1;
+  height: 1px;
+  object-fit: cover;
+  position: relative;
 }
 
 .about-all-breakpoints .caption {
@@ -359,7 +365,7 @@
   width: 1280px;
 }
 
-.about-all-breakpoints .intro-copy-6 {
+.about-all-breakpoints .intro-copy-10 {
   align-self: stretch;
   font-weight: 400;
   line-height: 28.0px;
@@ -382,7 +388,7 @@
   width: 40px;
 }
 
-.about-all-breakpoints .about-orchid-1 {
+.about-all-breakpoints .about-orchid-2 {
   color: var(--aquamarine);
   font-weight: 700;
   line-height: 24px;
@@ -391,7 +397,7 @@
   width: fit-content;
 }
 
-.about-all-breakpoints .buttons-2 {
+.about-all-breakpoints .buttons-3 {
   align-items: flex-start;
   flex: 0 0 auto;
   gap: 135px;
@@ -407,7 +413,7 @@
   justify-content: center;
 }
 
-.about-all-breakpoints .corp-info-1 {
+.about-all-breakpoints .corp-info-2 {
   align-items: flex-start;
   display: flex;
   flex: 0 0 auto;
@@ -424,7 +430,7 @@
   width: 1200px;
 }
 
-.about-all-breakpoints .line-2-2 {
+.about-all-breakpoints .line-2-4 {
   left: 0;
   position: absolute;
   top: 56px;
@@ -443,7 +449,7 @@
   width: 1200px;
 }
 
-.about-all-breakpoints .frame-493-1 {
+.about-all-breakpoints .frame-493-2 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -454,7 +460,7 @@
   width: 100%;
 }
 
-.about-all-breakpoints .frame-494-1 {
+.about-all-breakpoints .frame-494-2 {
   align-items: flex-start;
   display: flex;
   gap: 10px;
@@ -462,7 +468,7 @@
   width: 740px;
 }
 
-.about-all-breakpoints .intro-copy-7 {
+.about-all-breakpoints .intro-copy-11 {
   flex: 1;
   font-weight: 400;
   height: 156px;
@@ -498,7 +504,7 @@
   width: 100%;
 }
 
-.about-all-breakpoints .logo-3 {
+.about-all-breakpoints .logo-5 {
   align-items: flex-start;
   display: inline-flex;
   flex: 0 0 auto;
@@ -507,7 +513,7 @@
   position: relative;
 }
 
-.about-all-breakpoints .x2023-orchid-3 {
+.about-all-breakpoints .x2023-orchid-6 {
   color: var(--white);
   font-weight: 300;
   line-height: 19.6px;
@@ -515,7 +521,7 @@
   width: 676px;
 }
 
-.about-all-breakpoints .hyperlinks-1 {
+.about-all-breakpoints .hyperlinks-2 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -541,7 +547,7 @@
   width: 180px;
 }
 
-.about-all-breakpoints .x2023-orchid-4 {
+.about-all-breakpoints .x2023-orchid-7 {
   color: var(--white);
   cursor: pointer;
   flex: 1;
@@ -557,7 +563,7 @@
   width: 208px;
 }
 
-.about-all-breakpoints .x2023-orchid-5 {
+.about-all-breakpoints .x2023-orchid-8 {
   color: var(--white);
   cursor: pointer;
   flex: 1;
@@ -566,11 +572,11 @@
   width: 208px;
 }
 
-.about-all-breakpoints .apps-9 {
+.about-all-breakpoints .apps-17 {
   cursor: pointer;
 }
 
-.about-all-breakpoints .link-1 {
+.about-all-breakpoints .link-2 {
   cursor: pointer;
   display: flex;
   height: 22px;
@@ -578,7 +584,7 @@
   width: 198px;
 }
 
-.about-all-breakpoints .social-icons-1 {
+.about-all-breakpoints .social-icons-2 {
   align-items: flex-start;
   display: inline-flex;
   flex: 0 0 auto;
@@ -588,9 +594,10 @@
   position: relative;
 }
 
-.about-all-breakpoints .social-link-1 {
+.about-all-breakpoints .social-link-github-2 {
   cursor: pointer;
-  height: 32px;
+  height: 33px;
+  margin-bottom: -1.00px;
   position: relative;
   width: 32px;
 }
@@ -644,12 +651,6 @@
 
 .about-all-breakpoints .intro-copy {
   color: var(--white);
-  position: relative;
-}
-
-.about-all-breakpoints .line {
-  height: 1px;
-  object-fit: cover;
   position: relative;
 }
 
@@ -1221,7 +1222,7 @@
   width: 100%;
 }
 
-.aboutu95tabsm .hero-2 {
+.aboutu95tabsm .hero-1 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -1233,7 +1234,7 @@
   width: 100%;
 }
 
-.aboutu95tabsm .frame-403-2 {
+.aboutu95tabsm .frame-403-1 {
   align-items: flex-start;
   display: flex;
   flex: 0 0 auto;
@@ -1244,7 +1245,7 @@
   width: 520px;
 }
 
-.aboutu95tabsm .orchids-mission-is-2 {
+.aboutu95tabsm .orchids-mission-is-1 {
   color: transparent;
   font-weight: 600;
   line-height: 25.2px;
@@ -1261,21 +1262,18 @@
   color: var(--aquamarine);
 }
 
-.aboutu95tabsm .line-10-1 {
+.aboutu95tabsm .line-10 {
   align-self: stretch;
-  height: 1px;
-  object-fit: cover;
-  position: relative;
   width: 100%;
 }
 
-.aboutu95tabsm .intro-copy-8 {
+.aboutu95tabsm .intro-copy-4 {
   align-self: stretch;
   font-weight: 300;
   line-height: 18.0px;
 }
 
-.aboutu95tabsm .logo-4 {
+.aboutu95tabsm .logo-2 {
   height: 326px;
   position: absolute;
   right: 0;
@@ -1283,7 +1281,7 @@
   width: 231px;
 }
 
-.aboutu95tabsm .media-kits-2 {
+.aboutu95tabsm .media-kits-1 {
   align-items: center;
   background-color: var(--black);
   border: 1px solid;
@@ -1298,7 +1296,7 @@
   width: 696px;
 }
 
-.aboutu95tabsm .copy-2 {
+.aboutu95tabsm .copy-1 {
   align-items: center;
   align-self: stretch;
   display: flex;
@@ -1310,7 +1308,7 @@
   width: 100%;
 }
 
-.aboutu95tabsm .decentralized-marketplace-2 {
+.aboutu95tabsm .decentralized-marketplace-1 {
   align-self: stretch;
   color: transparent;
   font-weight: 600;
@@ -1320,14 +1318,14 @@
   text-align: center;
 }
 
-.aboutu95tabsm .intro-copy-9 {
+.aboutu95tabsm .intro-copy-5 {
   align-self: stretch;
   font-weight: 600;
   line-height: 19.8px;
   text-align: center;
 }
 
-.aboutu95tabsm .line-2-3 {
+.aboutu95tabsm .line-2-1 {
   margin-bottom: -1.00px;
 }
 
@@ -1358,7 +1356,7 @@
   width: fit-content;
 }
 
-.aboutu95tabsm .contact-2 {
+.aboutu95tabsm .contact-1 {
   align-items: center;
   display: flex;
   flex: 0 0 auto;
@@ -1391,12 +1389,9 @@
   width: 100%;
 }
 
-.aboutu95tabsm .line-4 {
+.aboutu95tabsm .line-3 {
   flex: 1;
   flex-grow: 1;
-  height: 1px;
-  object-fit: cover;
-  position: relative;
 }
 
 .aboutu95tabsm .discover-1 {
@@ -1429,7 +1424,7 @@
   text-align: center;
 }
 
-.aboutu95tabsm .intro-copy-10 {
+.aboutu95tabsm .intro-copy-6 {
   align-self: stretch;
   font-weight: 300;
   line-height: 18.0px;
@@ -1452,7 +1447,7 @@
   width: 31px;
 }
 
-.aboutu95tabsm .about-orchid-2 {
+.aboutu95tabsm .about-orchid-1 {
   color: var(--aquamarine);
   font-weight: 700;
   line-height: 24px;
@@ -1461,7 +1456,7 @@
   width: fit-content;
 }
 
-.aboutu95tabsm .buttons-3 {
+.aboutu95tabsm .buttons-1 {
   align-items: flex-start;
   display: flex;
   flex: 0 0 auto;
@@ -1478,7 +1473,7 @@
   justify-content: center;
 }
 
-.aboutu95tabsm .corp-info-2 {
+.aboutu95tabsm .corp-info-1 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -1501,7 +1496,7 @@
   width: 504px;
 }
 
-.aboutu95tabsm .frame-493-2 {
+.aboutu95tabsm .frame-493-1 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -1512,7 +1507,7 @@
   width: 100%;
 }
 
-.aboutu95tabsm .frame-494-2 {
+.aboutu95tabsm .frame-494-1 {
   align-items: flex-start;
   display: flex;
   flex: 1;
@@ -1521,7 +1516,7 @@
   position: relative;
 }
 
-.aboutu95tabsm .intro-copy-11 {
+.aboutu95tabsm .intro-copy-7 {
   flex: 1;
   font-weight: 300;
   line-height: 18.0px;
@@ -1534,7 +1529,7 @@
   justify-content: flex-end;
 }
 
-.aboutu95tabsm .logo-5 {
+.aboutu95tabsm .logo-3 {
   align-items: flex-start;
   display: inline-flex;
   flex: 0 0 auto;
@@ -1543,7 +1538,12 @@
   position: relative;
 }
 
-.aboutu95tabsm .x2023-orchid-6 {
+.aboutu95tabsm .desktop-home-logo-1 {
+  height: 36px;
+  position: relative;
+}
+
+.aboutu95tabsm .x2023-orchid-3 {
   color: var(--white);
   font-weight: 300;
   line-height: 19.6px;
@@ -1551,7 +1551,7 @@
   width: 299px;
 }
 
-.aboutu95tabsm .x2023-orchid-7 {
+.aboutu95tabsm .x2023-orchid-4 {
   align-self: stretch;
   color: var(--white);
   font-weight: 300;
@@ -1559,7 +1559,7 @@
   position: relative;
 }
 
-.aboutu95tabsm .hyperlinks-2 {
+.aboutu95tabsm .hyperlinks-1 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -1577,7 +1577,7 @@
   width: 281px;
 }
 
-.aboutu95tabsm .x2023-orchid-8 {
+.aboutu95tabsm .x2023-orchid-5 {
   color: var(--white);
   cursor: pointer;
   flex: 1;
@@ -1587,7 +1587,7 @@
   width: 132px;
 }
 
-.aboutu95tabsm .link-2 {
+.aboutu95tabsm .link-1 {
   cursor: pointer;
   display: flex;
   height: 22px;
@@ -1595,36 +1595,40 @@
   width: 281px;
 }
 
-.aboutu95tabsm .apps-10 {
+.aboutu95tabsm .apps-8 {
   width: 102px;
 }
 
-.aboutu95tabsm .apps-11 {
+.aboutu95tabsm .apps-9 {
   width: 132px;
 }
 
-.aboutu95tabsm .apps-12 {
+.aboutu95tabsm .apps-10 {
   cursor: pointer;
   width: 113px;
 }
 
-.aboutu95tabsm .apps-13 {
+.aboutu95tabsm .apps-11 {
   width: 85px;
 }
 
-.aboutu95tabsm .apps-14 {
+.aboutu95tabsm .apps-12 {
   width: 122px;
 }
 
-.aboutu95tabsm .apps-15 {
+.aboutu95tabsm .apps-13 {
   width: 76px;
 }
 
-.aboutu95tabsm .apps-17 {
+.aboutu95tabsm .apps-14 {
+  width: 42px;
+}
+
+.aboutu95tabsm .apps-15 {
   width: 75px;
 }
 
-.aboutu95tabsm .social-icons-2 {
+.aboutu95tabsm .social-icons-1 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -1637,10 +1641,9 @@
   width: 100%;
 }
 
-.aboutu95tabsm .social-link-github-2 {
+.aboutu95tabsm .social-link-1 {
   cursor: pointer;
-  height: 33px;
-  margin-bottom: -1.00px;
+  height: 32px;
   position: relative;
   width: 32px;
 }
@@ -1655,6 +1658,12 @@
 
 .aboutu95tabsm .intro-copy {
   color: var(--white);
+  position: relative;
+}
+
+.aboutu95tabsm .line {
+  height: 1px;
+  object-fit: cover;
   position: relative;
 }
 
@@ -1677,10 +1686,10 @@
   position: relative;
 }
 @media screen and (max-width: 743px) {
-  .screen.about-all-breakpoints { 
+  .screen.aboutu95tabsm { 
     display: none;
    }
-  .screen.aboutu95tabsm { 
+  .screen.about-all-breakpoints { 
     display: none;
    }
 }

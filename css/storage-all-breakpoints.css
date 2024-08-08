@@ -193,6 +193,14 @@
   letter-spacing: 0.72px;
 }
 
+.storage-all-breakpoints .line-10-2 {
+  align-self: stretch;
+  height: 1px;
+  object-fit: cover;
+  position: relative;
+  width: 100%;
+}
+
 .storage-all-breakpoints .orchids-new-open-so-2 {
   align-self: stretch;
   color: transparent;

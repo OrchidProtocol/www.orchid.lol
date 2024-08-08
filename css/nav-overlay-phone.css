@@ -1,11 +1,19 @@
 /* screen - nav-overlay-phone */
 
 .nav-overlay-phone {
+  align-items: flex-start;
+  display: flex;
+  min-width: 360px;
+}
+
+.nav-overlay-phone .nav-overlay-phone-1 {
   align-items: flex-end;
   background-color: var(--log-cabin);
   display: flex;
   flex-direction: column;
   height: 674px;
+  margin-left: 6197px;
+  margin-top: 1146px;
   width: 360px;
 }
 
