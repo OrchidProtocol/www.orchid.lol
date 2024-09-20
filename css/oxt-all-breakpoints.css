@@ -77,7 +77,7 @@
   width: 912px;
 }
 
-.oxt-all-breakpoints .token-graphic-1 {
+.oxt-all-breakpoints .token-graphic-2 {
   height: 454px;
   position: absolute;
   right: 120px;
@@ -85,7 +85,7 @@
   width: 430px;
 }
 
-.oxt-all-breakpoints .desktop-home-logo-1 {
+.oxt-all-breakpoints .desktop-home-logo-2 {
   cursor: pointer;
   flex: 0 0 auto;
 }
@@ -160,18 +160,7 @@
   position: relative;
 }
 
-.oxt-all-breakpoints .button-label {
-  color: var(--white);
-  font-weight: 700;
-  line-height: 14.4px;
-  margin-top: -1.00px;
-  position: relative;
-  text-align: center;
-  white-space: nowrap;
-  width: fit-content;
-}
-
-.oxt-all-breakpoints .hero-1 {
+.oxt-all-breakpoints .hero-2 {
   align-items: flex-start;
   display: flex;
   flex: 0 0 auto;
@@ -182,7 +171,7 @@
   width: 1440px;
 }
 
-.oxt-all-breakpoints .frame-403-1 {
+.oxt-all-breakpoints .frame-403-2 {
   align-items: flex-start;
   display: flex;
   flex: 0 0 auto;
@@ -201,7 +190,7 @@
   position: relative;
 }
 
-.oxt-all-breakpoints .the-staking-asset-fo-1 {
+.oxt-all-breakpoints .the-staking-asset-fo-2 {
   align-self: stretch;
   color: transparent;
   font-weight: 600;
@@ -209,7 +198,7 @@
   position: relative;
 }
 
-.oxt-all-breakpoints .span-3 {
+.oxt-all-breakpoints .span-6 {
   letter-spacing: 0.32px;
 }
 
@@ -224,7 +213,7 @@
   width: 100%;
 }
 
-.oxt-all-breakpoints .line-10-1 {
+.oxt-all-breakpoints .line-10-2 {
   align-self: stretch;
   height: 1px;
   margin-top: -1.00px;
@@ -233,7 +222,7 @@
   width: 100%;
 }
 
-.oxt-all-breakpoints .intro-copy-6 {
+.oxt-all-breakpoints .intro-copy-11 {
   align-self: stretch;
   color: var(--white);
   font-weight: 400;
@@ -285,7 +274,7 @@
   width: 100%;
 }
 
-.oxt-all-breakpoints .line-1 {
+.oxt-all-breakpoints .line-2 {
   flex: 1;
   flex-grow: 1;
   height: 1px;
@@ -327,7 +316,7 @@
   width: 1280px;
 }
 
-.oxt-all-breakpoints .intro-copy-7 {
+.oxt-all-breakpoints .intro-copy-12 {
   align-self: stretch;
   color: transparent;
   cursor: pointer;
@@ -337,7 +326,7 @@
   text-align: center;
 }
 
-.oxt-all-breakpoints .span-4 {
+.oxt-all-breakpoints .span-7 {
   letter-spacing: 0.08px;
 }
 
@@ -363,7 +352,7 @@
   width: 480px;
 }
 
-.oxt-all-breakpoints .intro-copy-8 {
+.oxt-all-breakpoints .intro-copy-13 {
   color: var(--aquamarine);
   font-weight: 500;
   line-height: 34.7px;
@@ -387,7 +376,7 @@
   width: 238px;
 }
 
-.oxt-all-breakpoints .about-orchid-6 {
+.oxt-all-breakpoints .about-orchid-11 {
   color: var(--white);
   font-weight: 700;
   height: 24px;
@@ -397,7 +386,7 @@
   width: 225.25px;
 }
 
-.oxt-all-breakpoints .about-orchid-7 {
+.oxt-all-breakpoints .about-orchid-12 {
   color: var(--white);
   font-weight: 700;
   height: 24px;
@@ -414,7 +403,7 @@
   width: 122px;
 }
 
-.oxt-all-breakpoints .about-orchid-8 {
+.oxt-all-breakpoints .about-orchid-13 {
   color: var(--white);
   font-weight: 700;
   height: 24px;
@@ -433,7 +422,7 @@
   width: 480px;
 }
 
-.oxt-all-breakpoints .intro-copy-9 {
+.oxt-all-breakpoints .intro-copy-14 {
   color: var(--aquamarine);
   font-weight: 500;
   line-height: 34.7px;
@@ -459,7 +448,7 @@
   width: 192px;
 }
 
-.oxt-all-breakpoints .about-orchid-9 {
+.oxt-all-breakpoints .about-orchid-14 {
   color: var(--white);
   font-weight: 700;
   line-height: 24px;
@@ -499,7 +488,7 @@
   width: 1280px;
 }
 
-.oxt-all-breakpoints .intro-copy-10 {
+.oxt-all-breakpoints .intro-copy-15 {
   align-self: stretch;
   color: var(--white);
   cursor: pointer;
@@ -509,7 +498,7 @@
   text-align: center;
 }
 
-.oxt-all-breakpoints .supply-links-1 {
+.oxt-all-breakpoints .supply-links-2 {
   align-items: flex-start;
   display: inline-flex;
   flex: 0 0 auto;
@@ -518,7 +507,7 @@
   position: relative;
 }
 
-.oxt-all-breakpoints .about-orchid-10 {
+.oxt-all-breakpoints .about-orchid-15 {
   color: var(--dull-lavender);
   cursor: pointer;
   font-weight: 700;
@@ -551,12 +540,12 @@
   width: 100%;
 }
 
-.oxt-all-breakpoints .link-2 {
+.oxt-all-breakpoints .link-4 {
   height: 24px;
   width: 696px;
 }
 
-.oxt-all-breakpoints .intro-copy-5 {
+.oxt-all-breakpoints .intro-copy-10 {
   color: var(--dull-lavender);
   font-weight: 700;
   height: 24px;
@@ -579,7 +568,7 @@
   width: 100%;
 }
 
-.oxt-all-breakpoints .logo-1 {
+.oxt-all-breakpoints .logo-2 {
   align-items: flex-start;
   display: inline-flex;
   flex: 0 0 auto;
@@ -588,7 +577,7 @@
   position: relative;
 }
 
-.oxt-all-breakpoints .x2023-orchid-3 {
+.oxt-all-breakpoints .x2023-orchid-8 {
   color: var(--white);
   font-weight: 300;
   line-height: 19.6px;
@@ -596,7 +585,7 @@
   width: 676px;
 }
 
-.oxt-all-breakpoints .hyperlinks-1 {
+.oxt-all-breakpoints .hyperlinks-2 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -624,7 +613,7 @@
   width: 180px;
 }
 
-.oxt-all-breakpoints .x2023-orchid-4 {
+.oxt-all-breakpoints .x2023-orchid-9 {
   color: var(--white);
   cursor: pointer;
   flex: 1;
@@ -634,13 +623,24 @@
 }
 
 .oxt-all-breakpoints .pp-1 {
-  display: flex;
-  height: 44px;
-  position: relative;
+  height: 22px;
+}
+
+.oxt-all-breakpoints .x2023-orchid-10 {
+  color: var(--white);
+  cursor: pointer;
+  flex: 1;
+  font-weight: 700;
+  line-height: 22.4px;
+  white-space: nowrap;
   width: 208px;
 }
 
-.oxt-all-breakpoints .x2023-orchid-5 {
+.oxt-all-breakpoints .pp-2 {
+  height: 44px;
+}
+
+.oxt-all-breakpoints .x2023-orchid-11 {
   color: var(--white);
   cursor: pointer;
   flex: 1;
@@ -649,16 +649,16 @@
   width: 208px;
 }
 
-.oxt-all-breakpoints .apps-9 {
+.oxt-all-breakpoints .apps-17 {
   cursor: pointer;
 }
 
-.oxt-all-breakpoints .link-3 {
+.oxt-all-breakpoints .link-5 {
   height: 22px;
   width: 198px;
 }
 
-.oxt-all-breakpoints .social-icons-1 {
+.oxt-all-breakpoints .social-icons-2 {
   align-items: flex-start;
   display: inline-flex;
   flex: 0 0 auto;
@@ -668,9 +668,10 @@
   position: relative;
 }
 
-.oxt-all-breakpoints .social-link-1 {
+.oxt-all-breakpoints .social-link-github-2 {
   cursor: pointer;
-  height: 32px;
+  height: 33px;
+  margin-bottom: -1.00px;
   position: relative;
   width: 32px;
 }
@@ -716,6 +717,12 @@
   display: flex;
   position: relative;
 }
+
+.oxt-all-breakpoints .pp-3 {
+  display: flex;
+  position: relative;
+  width: 208px;
+}
 /* screen - oxtu95mobsm */
 
 .oxtu95mobsm {
@@ -724,7 +731,6 @@
   display: flex;
   flex-direction: column;
   gap: 100px;
-  height: 4436px;
   min-width: 360px;
   position: relative;
 }
@@ -806,18 +812,6 @@
   font-weight: 300;
   line-height: 18.0px;
   position: relative;
-}
-
-.oxtu95mobsm .features {
-  align-items: center;
-  align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 24px;
-  padding: 0px 24px;
-  position: relative;
-  width: 100%;
 }
 
 .oxtu95mobsm .mobile {
@@ -1060,20 +1054,6 @@
   width: 696px;
 }
 
-.oxtu95mobsm .mobilefooter {
-  align-items: center;
-  align-self: stretch;
-  background-color: var(--black);
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 16px;
-  justify-content: flex-end;
-  padding: 80px 60px 120px 40px;
-  position: relative;
-  width: 100%;
-}
-
 .oxtu95mobsm .logo {
   align-items: flex-start;
   display: inline-flex;
@@ -1148,6 +1128,15 @@
   height: 22px;
   margin-right: -21.00px;
   width: 281px;
+}
+
+.oxtu95mobsm .x2023-orchid-3 {
+  color: var(--white);
+  flex: 1;
+  font-weight: 700;
+  line-height: 24px;
+  white-space: nowrap;
+  width: 82px;
 }
 
 .oxtu95mobsm .apps {
@@ -1249,7 +1238,6 @@
   display: flex;
   flex-direction: column;
   gap: 120px;
-  height: 3612px;
   min-width: 744px;
   position: relative;
 }
@@ -1265,7 +1253,7 @@
   width: 100%;
 }
 
-.oxtu95tabsm .hero-2 {
+.oxtu95tabsm .hero-1 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -1276,7 +1264,7 @@
   width: 100%;
 }
 
-.oxtu95tabsm .frame-403-2 {
+.oxtu95tabsm .frame-403-1 {
   align-items: flex-start;
   display: flex;
   flex-direction: column;
@@ -1295,7 +1283,7 @@
   position: relative;
 }
 
-.oxtu95tabsm .the-staking-asset-fo-2 {
+.oxtu95tabsm .the-staking-asset-fo-1 {
   color: transparent;
   font-weight: 600;
   line-height: 25.2px;
@@ -1304,15 +1292,23 @@
   width: 322px;
 }
 
-.oxtu95tabsm .span-5 {
+.oxtu95tabsm .span-3 {
   color: var(--white);
 }
 
-.oxtu95tabsm .span-6 {
+.oxtu95tabsm .span-4 {
   color: var(--aquamarine);
 }
 
-.oxtu95tabsm .intro-copy-13 {
+.oxtu95tabsm .line-10-1 {
+  align-self: stretch;
+  height: 1px;
+  object-fit: cover;
+  position: relative;
+  width: 100%;
+}
+
+.oxtu95tabsm .intro-copy-7 {
   align-self: stretch;
   color: var(--white);
   font-weight: 300;
@@ -1320,13 +1316,25 @@
   position: relative;
 }
 
-.oxtu95tabsm .token-graphic-2 {
+.oxtu95tabsm .token-graphic-1 {
   height: 300.46px;
   margin-left: -8px;
   margin-right: -15.00px;
   margin-top: -8.00px;
   position: relative;
   width: 285px;
+}
+
+.oxtu95tabsm .features-1 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  padding: 0px 24px;
+  position: relative;
+  width: 100%;
 }
 
 .oxtu95tabsm .mobile-1 {
@@ -1350,7 +1358,7 @@
   width: 360px;
 }
 
-.oxtu95tabsm .line-2 {
+.oxtu95tabsm .line-1 {
   flex: 1;
   flex-grow: 1;
   height: 1px;
@@ -1383,7 +1391,7 @@
   flex: 1;
 }
 
-.oxtu95tabsm .intro-copy-14 {
+.oxtu95tabsm .intro-copy-8 {
   align-self: stretch;
   color: transparent;
   cursor: pointer;
@@ -1392,7 +1400,7 @@
   position: relative;
 }
 
-.oxtu95tabsm .span-7 {
+.oxtu95tabsm .span-5 {
   color: var(--white);
   font-weight: 300;
   line-height: 18.0px;
@@ -1435,7 +1443,7 @@
   width: 100%;
 }
 
-.oxtu95tabsm .intro-copy-11 {
+.oxtu95tabsm .intro-copy-5 {
   color: var(--aquamarine);
   font-weight: 600;
   line-height: 19.8px;
@@ -1466,13 +1474,13 @@
   position: relative;
 }
 
-.oxtu95tabsm .about-orchid-11 {
+.oxtu95tabsm .about-orchid-6 {
   color: var(--white);
   margin-top: -1.00px;
   width: fit-content;
 }
 
-.oxtu95tabsm .about-orchid-12 {
+.oxtu95tabsm .about-orchid-7 {
   color: var(--white);
   width: fit-content;
 }
@@ -1488,14 +1496,14 @@
   width: 100%;
 }
 
-.oxtu95tabsm .about-orchid-15 {
+.oxtu95tabsm .about-orchid-10 {
   align-self: stretch;
   color: var(--white);
   height: 24px;
   margin-top: -1.00px;
 }
 
-.oxtu95tabsm .about-orchid-13 {
+.oxtu95tabsm .about-orchid-8 {
   align-self: stretch;
   color: var(--white);
   height: 24px;
@@ -1507,7 +1515,7 @@
   width: fit-content;
 }
 
-.oxtu95tabsm .intro-copy-15 {
+.oxtu95tabsm .intro-copy-9 {
   align-self: stretch;
   color: var(--white);
   cursor: pointer;
@@ -1517,7 +1525,7 @@
   text-align: center;
 }
 
-.oxtu95tabsm .supply-links-2 {
+.oxtu95tabsm .supply-links-1 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -1529,19 +1537,19 @@
   width: 100%;
 }
 
-.oxtu95tabsm .about-orchid-14 {
+.oxtu95tabsm .about-orchid-9 {
   color: var(--dull-lavender);
   cursor: pointer;
   margin-top: -1.00px;
   width: fit-content;
 }
 
-.oxtu95tabsm .link-4 {
+.oxtu95tabsm .link-2 {
   height: 24px;
   width: 696px;
 }
 
-.oxtu95tabsm .intro-copy-12 {
+.oxtu95tabsm .intro-copy-6 {
   color: var(--dull-lavender);
   font-weight: 700;
   height: 24px;
@@ -1550,21 +1558,7 @@
   width: 696px;
 }
 
-.oxtu95tabsm .mobilefooter-1 {
-  align-items: center;
-  align-self: stretch;
-  background-color: var(--black);
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 16px;
-  justify-content: flex-end;
-  padding: 80px 60px 120px 40px;
-  position: relative;
-  width: 100%;
-}
-
-.oxtu95tabsm .logo-2 {
+.oxtu95tabsm .logo-1 {
   align-items: flex-start;
   display: inline-flex;
   flex: 0 0 auto;
@@ -1573,31 +1567,12 @@
   position: relative;
 }
 
-.oxtu95tabsm .x2023-orchid-6 {
+.oxtu95tabsm .x2023-orchid-4 {
   color: var(--white);
   font-weight: 300;
   line-height: 19.6px;
   position: relative;
   width: 299px;
-}
-
-.oxtu95tabsm .x2023-orchid-7 {
-  align-self: stretch;
-  color: var(--white);
-  font-weight: 300;
-  line-height: 19.6px;
-  position: relative;
-}
-
-.oxtu95tabsm .hyperlinks-2 {
-  align-items: flex-start;
-  align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 40px;
-  position: relative;
-  width: 100%;
 }
 
 .oxtu95tabsm .frame-532-item-1 {
@@ -1607,67 +1582,47 @@
   width: 281px;
 }
 
-.oxtu95tabsm .x2023-orchid-8 {
-  color: var(--white);
-  cursor: pointer;
-  flex: 1;
-  font-weight: 700;
-  line-height: 24px;
-  white-space: nowrap;
-  width: 132px;
-}
-
-.oxtu95tabsm .link-5 {
+.oxtu95tabsm .link-3 {
   height: 22px;
   width: 281px;
 }
 
-.oxtu95tabsm .apps-10 {
+.oxtu95tabsm .apps-8 {
   width: 102px;
 }
 
-.oxtu95tabsm .apps-11 {
+.oxtu95tabsm .apps-9 {
   width: 132px;
 }
 
-.oxtu95tabsm .apps-12 {
+.oxtu95tabsm .apps-10 {
   cursor: pointer;
   width: 113px;
 }
 
-.oxtu95tabsm .apps-13 {
+.oxtu95tabsm .apps-11 {
   width: 85px;
 }
 
-.oxtu95tabsm .apps-14 {
+.oxtu95tabsm .apps-12 {
   width: 122px;
 }
 
-.oxtu95tabsm .apps-15 {
+.oxtu95tabsm .apps-13 {
   width: 76px;
 }
 
-.oxtu95tabsm .apps-17 {
+.oxtu95tabsm .apps-14 {
+  width: 42px;
+}
+
+.oxtu95tabsm .apps-15 {
   width: 75px;
 }
 
-.oxtu95tabsm .social-icons-2 {
-  align-items: flex-start;
-  align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  flex-wrap: wrap;
-  gap: 60px 60px;
-  justify-content: space-between;
-  padding: 24px 0px 0px;
-  position: relative;
-  width: 100%;
-}
-
-.oxtu95tabsm .social-link-github-2 {
+.oxtu95tabsm .social-link-1 {
   cursor: pointer;
-  height: 33px;
-  margin-bottom: -1.00px;
+  height: 32px;
   position: relative;
   width: 32px;
 }
@@ -1701,10 +1656,10 @@
   text-align: center;
 }
 @media screen and (max-width: 743px) {
-  .screen.oxt-all-breakpoints { 
+  .screen.oxtu95tabsm { 
     display: none;
    }
-  .screen.oxtu95tabsm { 
+  .screen.oxt-all-breakpoints { 
     display: none;
    }
 }

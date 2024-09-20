@@ -6,7 +6,6 @@
   display: flex;
   flex-direction: column;
   gap: 24px;
-  height: 2473px;
   min-width: 360px;
   position: relative;
 }
@@ -33,13 +32,10 @@
   width: 357px;
 }
 
-.mobile-privacy-policy-all-breakpoints .decentralized-marketplace-2 {
-  align-self: stretch;
+.mobile-privacy-policy-all-breakpoints .title-5 {
   color: transparent;
   font-weight: 800;
   line-height: 25.3px;
-  margin-top: -1.00px;
-  position: relative;
   text-align: center;
 }
 
@@ -51,7 +47,15 @@
   color: var(--white);
 }
 
-.mobile-privacy-policy-all-breakpoints .marketplaces-1 {
+.mobile-privacy-policy-all-breakpoints .line-10-2 {
+  align-self: stretch;
+  height: 1px;
+  object-fit: cover;
+  position: relative;
+  width: 100%;
+}
+
+.mobile-privacy-policy-all-breakpoints .policy-2 {
   align-items: center;
   align-self: stretch;
   display: flex;
@@ -74,8 +78,11 @@
   width: 100%;
 }
 
-.mobile-privacy-policy-all-breakpoints .title-1 {
+.mobile-privacy-policy-all-breakpoints .title-3 {
+  color: var(--aquamarine);
+  font-weight: 600;
   height: 18px;
+  line-height: 19.8px;
   white-space: nowrap;
 }
 
@@ -83,6 +90,12 @@
   color: var(--white);
   font-weight: 300;
   line-height: 18.0px;
+}
+
+.mobile-privacy-policy-all-breakpoints .title-4 {
+  color: var(--aquamarine);
+  font-weight: 600;
+  line-height: 19.8px;
 }
 
 .mobile-privacy-policy-all-breakpoints .body-3 {
@@ -110,20 +123,6 @@
   line-height: 18.0px;
 }
 
-.mobile-privacy-policy-all-breakpoints .mobilefooter-1 {
-  align-items: center;
-  align-self: stretch;
-  background-color: var(--black);
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 16px;
-  justify-content: flex-end;
-  padding: 80px 60px 120px 40px;
-  position: relative;
-  width: 100%;
-}
-
 .mobile-privacy-policy-all-breakpoints .logo-2 {
   align-items: flex-start;
   display: inline-flex;
@@ -134,7 +133,7 @@
   position: relative;
 }
 
-.mobile-privacy-policy-all-breakpoints .x2023-orchid-6 {
+.mobile-privacy-policy-all-breakpoints .x2023-orchid-8 {
   color: var(--white);
   font-weight: 300;
   line-height: 19.6px;
@@ -142,7 +141,7 @@
   width: 299px;
 }
 
-.mobile-privacy-policy-all-breakpoints .x2023-orchid-7 {
+.mobile-privacy-policy-all-breakpoints .x2023-orchid-9 {
   align-self: stretch;
   color: var(--white);
   font-weight: 300;
@@ -169,7 +168,7 @@
   width: 281px;
 }
 
-.mobile-privacy-policy-all-breakpoints .x2023-orchid-8 {
+.mobile-privacy-policy-all-breakpoints .x2023-orchid-10 {
   color: var(--white);
   cursor: pointer;
   flex: 1;
@@ -186,6 +185,15 @@
   margin-right: -21.00px;
   position: relative;
   width: 281px;
+}
+
+.mobile-privacy-policy-all-breakpoints .x2023-orchid-11 {
+  color: var(--white);
+  flex: 1;
+  font-weight: 700;
+  line-height: 24px;
+  white-space: nowrap;
+  width: 82px;
 }
 
 .mobile-privacy-policy-all-breakpoints .apps-10 {
@@ -253,9 +261,6 @@
 
 .mobile-privacy-policy-all-breakpoints .title {
   align-self: stretch;
-  color: var(--aquamarine);
-  font-weight: 600;
-  line-height: 19.8px;
   margin-top: -1.00px;
   position: relative;
 }
@@ -344,8 +349,13 @@
   flex: 0 0 auto;
 }
 
+.mobile-privacy-policyu95dt .desktop-button-top-nav-2 {
+  display: flex;
+  width: 37px;
+}
+
 .mobile-privacy-policyu95dt .vpn {
-  color: var(--aquamarine);
+  color: var(--white);
   font-weight: 700;
   line-height: 14.4px;
   margin-top: -1.00px;
@@ -354,32 +364,32 @@
   width: fit-content;
 }
 
-.mobile-privacy-policyu95dt .desktop-button-top-nav-2 {
-  cursor: pointer;
-  display: flex;
-  width: 37px;
-}
-
 .mobile-privacy-policyu95dt .desktop-button-top-nav-3 {
-  cursor: pointer;
   display: flex;
   width: 36px;
 }
 
+.mobile-privacy-policyu95dt .vpn-1 {
+  color: var(--white);
+  font-weight: 700;
+  line-height: 14.4px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
 .mobile-privacy-policyu95dt .desktop-button-top-nav-4 {
-  cursor: pointer;
   display: flex;
   width: 44px;
 }
 
 .mobile-privacy-policyu95dt .desktop-button-top-nav-5 {
-  cursor: pointer;
   display: flex;
   width: 61px;
 }
 
 .mobile-privacy-policyu95dt .desktop-button-top-nav-6 {
-  cursor: pointer;
   display: flex;
   width: 50px;
 }
@@ -397,17 +407,6 @@
   justify-content: center;
   padding: 17px 24px;
   position: relative;
-}
-
-.mobile-privacy-policyu95dt .button-label {
-  color: var(--white);
-  font-weight: 700;
-  line-height: 14.4px;
-  margin-top: -1.00px;
-  position: relative;
-  text-align: center;
-  white-space: nowrap;
-  width: fit-content;
 }
 
 .mobile-privacy-policyu95dt .hero {
@@ -432,7 +431,7 @@
   width: 855px;
 }
 
-.mobile-privacy-policyu95dt .decentralized-marketplace {
+.mobile-privacy-policyu95dt .title {
   align-self: stretch;
   color: transparent;
   font-weight: 800;
@@ -454,7 +453,7 @@
   width: 100%;
 }
 
-.mobile-privacy-policyu95dt .storchid-concepts {
+.mobile-privacy-policyu95dt .policy {
   align-items: center;
   display: flex;
   flex: 0 0 auto;
@@ -527,11 +526,6 @@
   position: relative;
 }
 
-.mobile-privacy-policyu95dt .desktop-home-logo-1 {
-  height: 36px;
-  position: relative;
-}
-
 .mobile-privacy-policyu95dt .x2023-orchid {
   color: var(--white);
   font-weight: 300;
@@ -573,13 +567,19 @@
 }
 
 .mobile-privacy-policyu95dt .pp-1 {
-  display: flex;
-  height: 44px;
-  position: relative;
-  width: 208px;
+  height: 22px;
 }
 
 .mobile-privacy-policyu95dt .x2023-orchid-2 {
+  white-space: nowrap;
+  width: 208px;
+}
+
+.mobile-privacy-policyu95dt .pp-2 {
+  height: 44px;
+}
+
+.mobile-privacy-policyu95dt .x2023-orchid-3 {
   width: 208px;
 }
 
@@ -629,9 +629,16 @@
 
 .mobile-privacy-policyu95dt .desktop-button-top-nav-7 {
   align-items: center;
+  cursor: pointer;
   gap: 10px;
   justify-content: center;
   position: relative;
+}
+
+.mobile-privacy-policyu95dt .pp-3 {
+  display: flex;
+  position: relative;
+  width: 208px;
 }
 
 .mobile-privacy-policyu95dt .social-link-1 {
@@ -640,17 +647,7 @@
   width: 32px;
 }
 
-.mobile-privacy-policyu95dt .vpn-3 {
-  color: var(--white);
-  font-weight: 700;
-  line-height: 14.4px;
-  margin-top: -1.00px;
-  position: relative;
-  white-space: nowrap;
-  width: fit-content;
-}
-
-.mobile-privacy-policyu95dt .x2023-orchid-3 {
+.mobile-privacy-policyu95dt .x2023-orchid-4 {
   color: var(--white);
   cursor: pointer;
   flex: 1;
@@ -665,7 +662,6 @@
   display: flex;
   flex-direction: column;
   gap: 60px;
-  height: 2200px;
   min-width: 744px;
   position: relative;
 }
@@ -692,13 +688,10 @@
   width: 744px;
 }
 
-.mobile-privacy-policyu95tabsm .decentralized-marketplace-1 {
-  align-self: stretch;
+.mobile-privacy-policyu95tabsm .title-2 {
   color: transparent;
   font-weight: 800;
   line-height: 36.0px;
-  margin-top: -1.00px;
-  position: relative;
   text-align: center;
 }
 
@@ -714,16 +707,6 @@
   width: 100%;
 }
 
-.mobile-privacy-policyu95tabsm .marketplaces {
-  align-items: center;
-  display: inline-flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 24px;
-  padding: 0px 40px;
-  position: relative;
-}
-
 .mobile-privacy-policyu95tabsm .copy-1 {
   gap: 24px;
   width: 664px;
@@ -735,14 +718,11 @@
   width: 100%;
 }
 
-.mobile-privacy-policyu95tabsm .title {
-  align-self: stretch;
+.mobile-privacy-policyu95tabsm .title-1 {
   color: var(--aquamarine);
   font-weight: 600;
   height: 18px;
   line-height: 19.8px;
-  margin-top: -1.00px;
-  position: relative;
   white-space: nowrap;
 }
 
@@ -802,20 +782,6 @@
   width: 100%;
 }
 
-.mobile-privacy-policyu95tabsm .mobilefooter {
-  align-items: center;
-  align-self: stretch;
-  background-color: var(--black);
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 16px;
-  justify-content: flex-end;
-  padding: 80px 60px 120px 40px;
-  position: relative;
-  width: 100%;
-}
-
 .mobile-privacy-policyu95tabsm .logo-1 {
   align-items: flex-start;
   display: inline-flex;
@@ -830,31 +796,12 @@
   position: relative;
 }
 
-.mobile-privacy-policyu95tabsm .x2023-orchid-3 {
+.mobile-privacy-policyu95tabsm .x2023-orchid-4 {
   color: var(--white);
   font-weight: 300;
   line-height: 19.6px;
   position: relative;
   width: 299px;
-}
-
-.mobile-privacy-policyu95tabsm .x2023-orchid-4 {
-  align-self: stretch;
-  color: var(--white);
-  font-weight: 300;
-  line-height: 19.6px;
-  position: relative;
-}
-
-.mobile-privacy-policyu95tabsm .hyperlinks-1 {
-  align-items: flex-start;
-  align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 40px;
-  position: relative;
-  width: 100%;
 }
 
 .mobile-privacy-policyu95tabsm .frame-532 {
@@ -874,16 +821,6 @@
   height: 22px;
   position: relative;
   width: 281px;
-}
-
-.mobile-privacy-policyu95tabsm .x2023-orchid-5 {
-  color: var(--white);
-  cursor: pointer;
-  flex: 1;
-  font-weight: 700;
-  line-height: 24px;
-  white-space: nowrap;
-  width: 132px;
 }
 
 .mobile-privacy-policyu95tabsm .link-1 {
@@ -927,19 +864,6 @@
   width: 75px;
 }
 
-.mobile-privacy-policyu95tabsm .social-icons-1 {
-  align-items: flex-start;
-  align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  flex-wrap: wrap;
-  gap: 60px 60px;
-  justify-content: space-between;
-  padding: 24px 0px 0px;
-  position: relative;
-  width: 100%;
-}
-
 .mobile-privacy-policyu95tabsm .social-link-1 {
   cursor: pointer;
   height: 32px;
@@ -960,6 +884,12 @@
   display: flex;
   flex: 0 0 auto;
   flex-direction: column;
+  position: relative;
+}
+
+.mobile-privacy-policyu95tabsm .title {
+  align-self: stretch;
+  margin-top: -1.00px;
   position: relative;
 }
 @media screen and (max-width: 743px) {
