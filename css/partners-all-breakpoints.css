@@ -272,10 +272,10 @@
 .partnersu95dt .frame-531 {
   align-items: flex-end;
   display: flex;
-  gap: 328px;
+  gap: 238px;
   height: 2071px;
-  min-width: 1878px;
-  padding: 0 0.5px;
+  margin-left: -90px;
+  min-width: 1788px;
 }
 
 .partnersu95dt .flex-col {
@@ -285,13 +285,13 @@
   gap: 864px;
   margin-bottom: 0;
   min-height: 2071px;
-  width: 936px;
+  width: 937px;
 }
 
 .partnersu95dt .overlap-group1 {
   height: 775px;
   position: relative;
-  width: 936px;
+  width: 937px;
 }
 
 .partnersu95dt .ellipse-container {
@@ -299,14 +299,34 @@
   left: 0;
   position: absolute;
   top: 0;
-  width: 912px;
+  width: 913px;
+}
+
+.partnersu95dt .ellipse-29 {
+  background-color: var(--cod-gray);
+  border-radius: 155px;
+  height: 310px;
+  left: 603px;
+  position: absolute;
+  top: 465px;
+  width: 310px;
+}
+
+.partnersu95dt .ellipse-30 {
+  background-color: var(--cod-gray);
+  border-radius: 100px;
+  height: 200px;
+  left: 737px;
+  position: absolute;
+  top: 18px;
+  width: 200px;
 }
 
 .partnersu95dt .ellipse-37 {
   background-color: var(--black-2);
   border-radius: 216px;
   height: 432px;
-  margin-left: 0.5px;
+  margin-left: 0;
   transform: rotate(180.00deg);
   width: 432px;
 }
@@ -490,6 +510,11 @@
   flex: 0 0 auto;
   flex-direction: column;
   gap: 12px;
+  position: relative;
+}
+
+.partnersu95dt .desktop-home-logo-1 {
+  height: 36px;
   position: relative;
 }
 
@@ -768,6 +793,25 @@
   width: 299px;
 }
 
+.partnersu95tabsm .x2023-orchid-5 {
+  align-self: stretch;
+  color: var(--white);
+  font-weight: 300;
+  line-height: 19.6px;
+  position: relative;
+}
+
+.partnersu95tabsm .hyperlinks-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 40px;
+  position: relative;
+  width: 100%;
+}
+
 .partnersu95tabsm .frame-532 {
   align-items: flex-start;
   align-self: stretch;
@@ -787,12 +831,31 @@
   width: 281px;
 }
 
+.partnersu95tabsm .x2023-orchid-6 {
+  color: var(--white);
+  cursor: pointer;
+  flex: 1;
+  font-weight: 700;
+  line-height: 24px;
+  white-space: nowrap;
+  width: 132px;
+}
+
 .partnersu95tabsm .link-1 {
   cursor: pointer;
   display: flex;
   height: 22px;
   position: relative;
   width: 281px;
+}
+
+.partnersu95tabsm .x2023-orchid-7 {
+  color: var(--white);
+  flex: 1;
+  font-weight: 700;
+  line-height: 24px;
+  white-space: nowrap;
+  width: 82px;
 }
 
 .partnersu95tabsm .apps-2 {
@@ -826,6 +889,19 @@
 
 .partnersu95tabsm .apps-9 {
   width: 75px;
+}
+
+.partnersu95tabsm .social-icons-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 60px 60px;
+  justify-content: space-between;
+  padding: 24px 0px 0px;
+  position: relative;
+  width: 100%;
 }
 
 .partnersu95tabsm .social-link-1 {

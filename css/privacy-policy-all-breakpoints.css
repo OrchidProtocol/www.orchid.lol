@@ -334,16 +334,15 @@
   left: calc(50.00% - 894px);
   position: absolute;
   top: -90px;
-  width: 1878px;
+  width: 1788px;
 }
 
 .privacy-policyu95dt .frame-531 {
   align-items: flex-end;
   display: flex;
-  gap: 328px;
+  gap: 238px;
   height: 2077px;
-  min-width: 1878px;
-  padding: 0 0.5px;
+  min-width: 1788px;
 }
 
 .privacy-policyu95dt .flex-col {
@@ -370,11 +369,31 @@
   width: 912px;
 }
 
+.privacy-policyu95dt .ellipse-29 {
+  background-color: var(--cod-gray);
+  border-radius: 155px;
+  height: 310px;
+  left: 602px;
+  position: absolute;
+  top: 465px;
+  width: 310px;
+}
+
+.privacy-policyu95dt .ellipse-30 {
+  background-color: var(--cod-gray);
+  border-radius: 100px;
+  height: 200px;
+  left: 736px;
+  position: absolute;
+  top: 18px;
+  width: 200px;
+}
+
 .privacy-policyu95dt .ellipse-37 {
   background-color: var(--black-2);
   border-radius: 234px;
   height: 468px;
-  margin-left: 39.5px;
+  margin-left: 40.0px;
   transform: rotate(180.00deg);
   width: 468px;
 }
@@ -746,6 +765,16 @@
   width: 100%;
 }
 
+.privacy-policyu95tabsm .policy-1 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  padding: 0px 40px;
+  position: relative;
+}
+
 .privacy-policyu95tabsm .copy-1 {
   align-items: center;
   display: flex;
@@ -817,12 +846,36 @@
   position: relative;
 }
 
+.privacy-policyu95tabsm .desktop-home-logo-1 {
+  height: 36px;
+  position: relative;
+}
+
 .privacy-policyu95tabsm .x2023-orchid-4 {
   color: var(--white);
   font-weight: 300;
   line-height: 19.6px;
   position: relative;
   width: 299px;
+}
+
+.privacy-policyu95tabsm .x2023-orchid-5 {
+  align-self: stretch;
+  color: var(--white);
+  font-weight: 300;
+  line-height: 19.6px;
+  position: relative;
+}
+
+.privacy-policyu95tabsm .hyperlinks-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 40px;
+  position: relative;
+  width: 100%;
 }
 
 .privacy-policyu95tabsm .frame-532-item-1 {
@@ -832,12 +885,31 @@
   width: 281px;
 }
 
+.privacy-policyu95tabsm .x2023-orchid-6 {
+  color: var(--white);
+  cursor: pointer;
+  flex: 1;
+  font-weight: 700;
+  line-height: 24px;
+  white-space: nowrap;
+  width: 132px;
+}
+
 .privacy-policyu95tabsm .link-1 {
   cursor: pointer;
   display: flex;
   height: 22px;
   position: relative;
   width: 281px;
+}
+
+.privacy-policyu95tabsm .x2023-orchid-7 {
+  color: var(--white);
+  flex: 1;
+  font-weight: 700;
+  line-height: 24px;
+  white-space: nowrap;
+  width: 82px;
 }
 
 .privacy-policyu95tabsm .apps-8 {
@@ -871,6 +943,19 @@
 
 .privacy-policyu95tabsm .apps-15 {
   width: 75px;
+}
+
+.privacy-policyu95tabsm .social-icons-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 60px 60px;
+  justify-content: space-between;
+  padding: 24px 0px 0px;
+  position: relative;
+  width: 100%;
 }
 
 .privacy-policyu95tabsm .social-link-1 {

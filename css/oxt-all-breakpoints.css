@@ -77,6 +77,26 @@
   width: 912px;
 }
 
+.oxt-all-breakpoints .ellipse-29 {
+  background-color: var(--cod-gray);
+  border-radius: 155px;
+  height: 310px;
+  left: 602px;
+  position: absolute;
+  top: 465px;
+  width: 310px;
+}
+
+.oxt-all-breakpoints .ellipse-30 {
+  background-color: var(--cod-gray);
+  border-radius: 100px;
+  height: 200px;
+  left: 736px;
+  position: absolute;
+  top: 18px;
+  width: 200px;
+}
+
 .oxt-all-breakpoints .token-graphic-2 {
   height: 454px;
   position: absolute;
@@ -814,6 +834,18 @@
   position: relative;
 }
 
+.oxtu95mobsm .features {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  padding: 0px 24px;
+  position: relative;
+  width: 100%;
+}
+
 .oxtu95mobsm .mobile {
   align-items: center;
   align-self: stretch;
@@ -1325,18 +1357,6 @@
   width: 285px;
 }
 
-.oxtu95tabsm .features-1 {
-  align-items: center;
-  align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 24px;
-  padding: 0px 24px;
-  position: relative;
-  width: 100%;
-}
-
 .oxtu95tabsm .mobile-1 {
   align-items: center;
   align-self: stretch;
@@ -1567,12 +1587,36 @@
   position: relative;
 }
 
+.oxtu95tabsm .desktop-home-logo-1 {
+  height: 36px;
+  position: relative;
+}
+
 .oxtu95tabsm .x2023-orchid-4 {
   color: var(--white);
   font-weight: 300;
   line-height: 19.6px;
   position: relative;
   width: 299px;
+}
+
+.oxtu95tabsm .x2023-orchid-5 {
+  align-self: stretch;
+  color: var(--white);
+  font-weight: 300;
+  line-height: 19.6px;
+  position: relative;
+}
+
+.oxtu95tabsm .hyperlinks-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 40px;
+  position: relative;
+  width: 100%;
 }
 
 .oxtu95tabsm .frame-532-item-1 {
@@ -1582,9 +1626,28 @@
   width: 281px;
 }
 
+.oxtu95tabsm .x2023-orchid-6 {
+  color: var(--white);
+  cursor: pointer;
+  flex: 1;
+  font-weight: 700;
+  line-height: 24px;
+  white-space: nowrap;
+  width: 132px;
+}
+
 .oxtu95tabsm .link-3 {
   height: 22px;
   width: 281px;
+}
+
+.oxtu95tabsm .x2023-orchid-7 {
+  color: var(--white);
+  flex: 1;
+  font-weight: 700;
+  line-height: 24px;
+  white-space: nowrap;
+  width: 82px;
 }
 
 .oxtu95tabsm .apps-8 {
@@ -1618,6 +1681,19 @@
 
 .oxtu95tabsm .apps-15 {
   width: 75px;
+}
+
+.oxtu95tabsm .social-icons-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 60px 60px;
+  justify-content: space-between;
+  padding: 24px 0px 0px;
+  position: relative;
+  width: 100%;
 }
 
 .oxtu95tabsm .social-link-1 {

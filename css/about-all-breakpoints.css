@@ -12,19 +12,19 @@
 
 .about-all-breakpoints .ellipses {
   height: 3119px;
-  left: calc(50.00% - 983px);
+  left: calc(50.00% - 984px);
   position: absolute;
   top: -90px;
-  width: 1967px;
+  width: 1968px;
 }
 
 .about-all-breakpoints .flex-row {
   align-items: center;
   display: flex;
-  gap: 276px;
+  gap: 277px;
   height: 1903px;
   left: 0;
-  min-width: 1967px;
+  min-width: 1968px;
   position: absolute;
   top: 1216px;
 }
@@ -65,7 +65,7 @@
 
 .about-all-breakpoints .overlap-group1 {
   height: 775px;
-  left: 90px;
+  left: 91px;
   position: absolute;
   top: 0;
   width: 936px;
@@ -77,6 +77,26 @@
   position: absolute;
   top: 0;
   width: 912px;
+}
+
+.about-all-breakpoints .ellipse-29 {
+  background-color: var(--cod-gray);
+  border-radius: 155px;
+  height: 310px;
+  left: 602px;
+  position: absolute;
+  top: 465px;
+  width: 310px;
+}
+
+.about-all-breakpoints .ellipse-30 {
+  background-color: var(--cod-gray);
+  border-radius: 100px;
+  height: 200px;
+  left: 736px;
+  position: absolute;
+  top: 18px;
+  width: 200px;
 }
 
 .about-all-breakpoints .logo-4 {
@@ -1542,12 +1562,36 @@
   position: relative;
 }
 
+.aboutu95tabsm .desktop-home-logo-1 {
+  height: 36px;
+  position: relative;
+}
+
 .aboutu95tabsm .x2023-orchid-4 {
   color: var(--white);
   font-weight: 300;
   line-height: 19.6px;
   position: relative;
   width: 299px;
+}
+
+.aboutu95tabsm .x2023-orchid-5 {
+  align-self: stretch;
+  color: var(--white);
+  font-weight: 300;
+  line-height: 19.6px;
+  position: relative;
+}
+
+.aboutu95tabsm .hyperlinks-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 40px;
+  position: relative;
+  width: 100%;
 }
 
 .aboutu95tabsm .frame-532-item-1 {
@@ -1557,12 +1601,31 @@
   width: 281px;
 }
 
+.aboutu95tabsm .x2023-orchid-6 {
+  color: var(--white);
+  cursor: pointer;
+  flex: 1;
+  font-weight: 700;
+  line-height: 24px;
+  white-space: nowrap;
+  width: 132px;
+}
+
 .aboutu95tabsm .link-1 {
   cursor: pointer;
   display: flex;
   height: 22px;
   position: relative;
   width: 281px;
+}
+
+.aboutu95tabsm .x2023-orchid-7 {
+  color: var(--white);
+  flex: 1;
+  font-weight: 700;
+  line-height: 24px;
+  white-space: nowrap;
+  width: 82px;
 }
 
 .aboutu95tabsm .apps-8 {
@@ -1596,6 +1659,19 @@
 
 .aboutu95tabsm .apps-15 {
   width: 75px;
+}
+
+.aboutu95tabsm .social-icons-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 60px 60px;
+  justify-content: space-between;
+  padding: 24px 0px 0px;
+  position: relative;
+  width: 100%;
 }
 
 .aboutu95tabsm .social-link-1 {

@@ -11,26 +11,23 @@
 }
 
 .how-all-breakpoints .ellipses {
-  height: 5623px;
-  left: calc(50.00% - 984px);
+  height: 4429px;
+  left: calc(50.00% - 934px);
   position: absolute;
   top: -89px;
-  width: 1968px;
+  width: 1868px;
 }
 
 .how-all-breakpoints .flex-col {
   align-items: flex-start;
   display: flex;
   flex-direction: column;
-  left: 1px;
   min-height: 4428px;
-  position: relative;
-  width: 1967px;
 }
 
 .how-all-breakpoints .overlap-group1 {
   height: 775px;
-  margin-left: 90.0px;
+  margin-left: 40.0px;
   position: relative;
   width: 936px;
 }
@@ -43,13 +40,33 @@
   width: 912px;
 }
 
+.how-all-breakpoints .ellipse-29 {
+  background-color: var(--cod-gray);
+  border-radius: 155px;
+  height: 310px;
+  left: 602px;
+  position: absolute;
+  top: 465px;
+  width: 310px;
+}
+
+.how-all-breakpoints .ellipse-30 {
+  background-color: var(--cod-gray);
+  border-radius: 100px;
+  height: 200px;
+  left: 736px;
+  position: absolute;
+  top: 18px;
+  width: 200px;
+}
+
 .how-all-breakpoints .flex-row {
   align-items: center;
   display: flex;
-  gap: 276px;
+  gap: 227px;
   height: 1903px;
   margin-top: 441px;
-  min-width: 1967px;
+  min-width: 1868px;
 }
 
 .how-all-breakpoints .ellipse-37 {
@@ -67,7 +84,7 @@
   flex-direction: column;
   gap: 770px;
   min-height: 1903px;
-  width: 808px;
+  width: 759px;
 }
 
 .how-all-breakpoints .ellipse-34 {
@@ -91,7 +108,6 @@
   background-color: var(--black-2);
   border-radius: 585px;
   height: 1170px;
-  margin-right: 49.0px;
   margin-top: 139px;
   transform: rotate(90.00deg);
   width: 1170px;
@@ -1864,12 +1880,36 @@
   position: relative;
 }
 
+.howu95tabsm .desktop-home-logo-1 {
+  height: 36px;
+  position: relative;
+}
+
 .howu95tabsm .x2023-orchid-4 {
   color: var(--white);
   font-weight: 300;
   line-height: 19.6px;
   position: relative;
   width: 299px;
+}
+
+.howu95tabsm .x2023-orchid-5 {
+  align-self: stretch;
+  color: var(--white);
+  font-weight: 300;
+  line-height: 19.6px;
+  position: relative;
+}
+
+.howu95tabsm .hyperlinks-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 40px;
+  position: relative;
+  width: 100%;
 }
 
 .howu95tabsm .frame-532-item-1 {
@@ -1879,10 +1919,29 @@
   width: 281px;
 }
 
+.howu95tabsm .x2023-orchid-6 {
+  color: var(--white);
+  cursor: pointer;
+  flex: 1;
+  font-weight: 700;
+  line-height: 24px;
+  white-space: nowrap;
+  width: 132px;
+}
+
 .howu95tabsm .link-3 {
   display: flex;
   height: 22px;
   width: 281px;
+}
+
+.howu95tabsm .x2023-orchid-7 {
+  color: var(--white);
+  flex: 1;
+  font-weight: 700;
+  line-height: 24px;
+  white-space: nowrap;
+  width: 82px;
 }
 
 .howu95tabsm .apps-8 {
@@ -1916,6 +1975,19 @@
 
 .howu95tabsm .apps-15 {
   width: 75px;
+}
+
+.howu95tabsm .social-icons-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 60px 60px;
+  justify-content: space-between;
+  padding: 24px 0px 0px;
+  position: relative;
+  width: 100%;
 }
 
 .howu95tabsm .social-link-1 {
