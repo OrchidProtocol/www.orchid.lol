@@ -10,7 +10,7 @@
   position: relative;
 }
 
-.mobile-privacy-policy-all-breakpoints .mobile-nav-header {
+.mobile-privacy-policy-all-breakpoints .mobile-nav-header-1 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -21,7 +21,7 @@
   width: 100%;
 }
 
-.mobile-privacy-policy-all-breakpoints .frame-403-1 {
+.mobile-privacy-policy-all-breakpoints .frame-403-2 {
   align-items: center;
   display: flex;
   flex: 0 0 auto;
@@ -32,7 +32,7 @@
   width: 357px;
 }
 
-.mobile-privacy-policy-all-breakpoints .title-3 {
+.mobile-privacy-policy-all-breakpoints .title-5 {
   color: transparent;
   font-weight: 800;
   line-height: 25.3px;
@@ -47,7 +47,7 @@
   color: var(--white);
 }
 
-.mobile-privacy-policy-all-breakpoints .line-10-1 {
+.mobile-privacy-policy-all-breakpoints .line-10-2 {
   align-self: stretch;
   height: 1px;
   object-fit: cover;
@@ -55,7 +55,7 @@
   width: 100%;
 }
 
-.mobile-privacy-policy-all-breakpoints .policy-1 {
+.mobile-privacy-policy-all-breakpoints .policy-2 {
   align-items: center;
   align-self: stretch;
   display: flex;
@@ -67,15 +67,18 @@
   width: 100%;
 }
 
-.mobile-privacy-policy-all-breakpoints .copy-1 {
+.mobile-privacy-policy-all-breakpoints .copy-2 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
   gap: 24px;
+  position: relative;
+  width: 100%;
 }
 
-.mobile-privacy-policy-all-breakpoints .copy-item {
-  gap: 8px;
-}
-
-.mobile-privacy-policy-all-breakpoints .title-1 {
+.mobile-privacy-policy-all-breakpoints .title-3 {
   color: var(--aquamarine);
   font-weight: 600;
   height: 18px;
@@ -83,48 +86,44 @@
   white-space: nowrap;
 }
 
-.mobile-privacy-policy-all-breakpoints .body {
-  align-self: stretch;
+.mobile-privacy-policy-all-breakpoints .body-2 {
   color: var(--white);
   font-weight: 300;
   line-height: 18.0px;
-  position: relative;
 }
 
-.mobile-privacy-policy-all-breakpoints .title-2 {
+.mobile-privacy-policy-all-breakpoints .title-4 {
   color: var(--aquamarine);
   font-weight: 600;
   line-height: 19.8px;
 }
 
-.mobile-privacy-policy-all-breakpoints .body-1 {
-  align-self: stretch;
+.mobile-privacy-policy-all-breakpoints .body-3 {
   color: transparent;
   font-weight: 400;
   line-height: 15px;
-  position: relative;
 }
 
-.mobile-privacy-policy-all-breakpoints .span-4 {
+.mobile-privacy-policy-all-breakpoints .span-9 {
   color: var(--white);
   font-weight: 300;
   line-height: 18.0px;
 }
 
-.mobile-privacy-policy-all-breakpoints .span-5 {
+.mobile-privacy-policy-all-breakpoints .span-10 {
   color: var(--aquamarine);
   font-weight: 700;
   line-height: 16.5px;
   text-decoration: underline;
 }
 
-.mobile-privacy-policy-all-breakpoints .span-6 {
+.mobile-privacy-policy-all-breakpoints .span-11 {
   color: var(--aquamarine);
   font-weight: 300;
   line-height: 18.0px;
 }
 
-.mobile-privacy-policy-all-breakpoints .logo-1 {
+.mobile-privacy-policy-all-breakpoints .logo-2 {
   align-items: flex-start;
   display: inline-flex;
   flex: 0 0 auto;
@@ -134,12 +133,7 @@
   position: relative;
 }
 
-.mobile-privacy-policy-all-breakpoints .desktop-home-logo-2 {
-  height: 36px;
-  position: relative;
-}
-
-.mobile-privacy-policy-all-breakpoints .x2023-orchid-4 {
+.mobile-privacy-policy-all-breakpoints .x2023-orchid-8 {
   color: var(--white);
   font-weight: 300;
   line-height: 19.6px;
@@ -147,7 +141,7 @@
   width: 299px;
 }
 
-.mobile-privacy-policy-all-breakpoints .x2023-orchid-5 {
+.mobile-privacy-policy-all-breakpoints .x2023-orchid-9 {
   align-self: stretch;
   color: var(--white);
   font-weight: 300;
@@ -155,7 +149,7 @@
   position: relative;
 }
 
-.mobile-privacy-policy-all-breakpoints .hyperlinks-1 {
+.mobile-privacy-policy-all-breakpoints .hyperlinks-2 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -166,19 +160,7 @@
   width: 100%;
 }
 
-.mobile-privacy-policy-all-breakpoints .frame-532 {
-  align-items: flex-start;
-  align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 32px;
-  padding: 24px 0px;
-  position: relative;
-  width: 100%;
-}
-
-.mobile-privacy-policy-all-breakpoints .frame-532-item {
+.mobile-privacy-policy-all-breakpoints .frame-532-item-1 {
   display: flex;
   height: 22px;
   margin-right: -21.00px;
@@ -186,7 +168,7 @@
   width: 281px;
 }
 
-.mobile-privacy-policy-all-breakpoints .x2023-orchid-6 {
+.mobile-privacy-policy-all-breakpoints .x2023-orchid-10 {
   color: var(--white);
   cursor: pointer;
   flex: 1;
@@ -196,7 +178,7 @@
   width: 132px;
 }
 
-.mobile-privacy-policy-all-breakpoints .link-1 {
+.mobile-privacy-policy-all-breakpoints .link-2 {
   cursor: pointer;
   display: flex;
   height: 22px;
@@ -205,7 +187,7 @@
   width: 281px;
 }
 
-.mobile-privacy-policy-all-breakpoints .x2023-orchid-7 {
+.mobile-privacy-policy-all-breakpoints .x2023-orchid-11 {
   color: var(--white);
   flex: 1;
   font-weight: 700;
@@ -214,40 +196,36 @@
   width: 82px;
 }
 
-.mobile-privacy-policy-all-breakpoints .apps-2 {
+.mobile-privacy-policy-all-breakpoints .apps-10 {
   width: 102px;
 }
 
-.mobile-privacy-policy-all-breakpoints .apps-3 {
+.mobile-privacy-policy-all-breakpoints .apps-11 {
   width: 132px;
 }
 
-.mobile-privacy-policy-all-breakpoints .apps-4 {
+.mobile-privacy-policy-all-breakpoints .apps-12 {
   cursor: pointer;
   width: 113px;
 }
 
-.mobile-privacy-policy-all-breakpoints .apps-5 {
+.mobile-privacy-policy-all-breakpoints .apps-13 {
   width: 85px;
 }
 
-.mobile-privacy-policy-all-breakpoints .apps-6 {
+.mobile-privacy-policy-all-breakpoints .apps-14 {
   width: 122px;
 }
 
-.mobile-privacy-policy-all-breakpoints .apps-7 {
+.mobile-privacy-policy-all-breakpoints .apps-15 {
   width: 76px;
 }
 
-.mobile-privacy-policy-all-breakpoints .apps-8 {
-  width: 42px;
-}
-
-.mobile-privacy-policy-all-breakpoints .apps-9 {
+.mobile-privacy-policy-all-breakpoints .apps-17 {
   width: 75px;
 }
 
-.mobile-privacy-policy-all-breakpoints .social-icons-1 {
+.mobile-privacy-policy-all-breakpoints .social-icons-2 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -260,9 +238,10 @@
   width: 100%;
 }
 
-.mobile-privacy-policy-all-breakpoints .social-link-1 {
+.mobile-privacy-policy-all-breakpoints .social-link-github-2 {
   cursor: pointer;
-  height: 32px;
+  height: 33px;
+  margin-bottom: -1.00px;
   position: relative;
   width: 32px;
 }
@@ -275,14 +254,9 @@
   white-space: nowrap;
 }
 
-.mobile-privacy-policy-all-breakpoints .copy {
-  align-items: center;
+.mobile-privacy-policy-all-breakpoints .body {
   align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
   position: relative;
-  width: 100%;
 }
 
 .mobile-privacy-policy-all-breakpoints .title {
@@ -715,7 +689,7 @@
   position: relative;
 }
 
-.mobile-privacy-policyu95tabsm .mobile-nav-header-1 {
+.mobile-privacy-policyu95tabsm .mobile-nav-header {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -726,7 +700,7 @@
   width: 100%;
 }
 
-.mobile-privacy-policyu95tabsm .frame-403-2 {
+.mobile-privacy-policyu95tabsm .frame-403-1 {
   align-items: center;
   display: flex;
   flex: 0 0 auto;
@@ -737,18 +711,18 @@
   width: 744px;
 }
 
-.mobile-privacy-policyu95tabsm .title-5 {
+.mobile-privacy-policyu95tabsm .title-2 {
   color: transparent;
   font-weight: 800;
   line-height: 36.0px;
   text-align: center;
 }
 
-.mobile-privacy-policyu95tabsm .span-7 {
+.mobile-privacy-policyu95tabsm .span-4 {
   letter-spacing: 0.32px;
 }
 
-.mobile-privacy-policyu95tabsm .line-10-2 {
+.mobile-privacy-policyu95tabsm .line-10-1 {
   align-self: stretch;
   height: 1px;
   object-fit: cover;
@@ -756,7 +730,7 @@
   width: 100%;
 }
 
-.mobile-privacy-policyu95tabsm .policy-2 {
+.mobile-privacy-policyu95tabsm .policy-1 {
   align-items: center;
   display: inline-flex;
   flex: 0 0 auto;
@@ -766,17 +740,18 @@
   position: relative;
 }
 
-.mobile-privacy-policyu95tabsm .copy-2 {
-  align-items: center;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
+.mobile-privacy-policyu95tabsm .copy-1 {
   gap: 24px;
-  position: relative;
   width: 664px;
 }
 
-.mobile-privacy-policyu95tabsm .title-4 {
+.mobile-privacy-policyu95tabsm .copy-item {
+  align-self: stretch;
+  gap: 8px;
+  width: 100%;
+}
+
+.mobile-privacy-policyu95tabsm .title-1 {
   color: var(--aquamarine);
   font-weight: 600;
   height: 18px;
@@ -784,32 +759,36 @@
   white-space: nowrap;
 }
 
-.mobile-privacy-policyu95tabsm .body-2 {
+.mobile-privacy-policyu95tabsm .body {
+  align-self: stretch;
   color: var(--white);
   font-weight: 300;
   line-height: 18.0px;
+  position: relative;
 }
 
-.mobile-privacy-policyu95tabsm .body-3 {
+.mobile-privacy-policyu95tabsm .body-1 {
+  align-self: stretch;
   color: transparent;
   font-weight: 400;
   line-height: 15px;
+  position: relative;
 }
 
-.mobile-privacy-policyu95tabsm .span-8 {
+.mobile-privacy-policyu95tabsm .span-5 {
   color: var(--white);
   font-weight: 300;
   line-height: 18.0px;
 }
 
-.mobile-privacy-policyu95tabsm .span-9 {
+.mobile-privacy-policyu95tabsm .span-6 {
   color: var(--white);
   font-weight: 700;
   line-height: 16.5px;
   text-decoration: underline;
 }
 
-.mobile-privacy-policyu95tabsm .span-10 {
+.mobile-privacy-policyu95tabsm .span-7 {
   color: var(--aquamarine);
   font-weight: 700;
   line-height: 16.5px;
@@ -823,7 +802,7 @@
   text-decoration: underline;
 }
 
-.mobile-privacy-policyu95tabsm .span-11 {
+.mobile-privacy-policyu95tabsm .span-8 {
   color: var(--aquamarine);
   font-weight: 300;
   line-height: 18.0px;
@@ -836,7 +815,7 @@
   width: 100%;
 }
 
-.mobile-privacy-policyu95tabsm .logo-2 {
+.mobile-privacy-policyu95tabsm .logo-1 {
   align-items: flex-start;
   display: inline-flex;
   flex: 0 0 auto;
@@ -845,7 +824,12 @@
   position: relative;
 }
 
-.mobile-privacy-policyu95tabsm .x2023-orchid-8 {
+.mobile-privacy-policyu95tabsm .desktop-home-logo-2 {
+  height: 36px;
+  position: relative;
+}
+
+.mobile-privacy-policyu95tabsm .x2023-orchid-4 {
   color: var(--white);
   font-weight: 300;
   line-height: 19.6px;
@@ -853,7 +837,7 @@
   width: 299px;
 }
 
-.mobile-privacy-policyu95tabsm .x2023-orchid-9 {
+.mobile-privacy-policyu95tabsm .x2023-orchid-5 {
   align-self: stretch;
   color: var(--white);
   font-weight: 300;
@@ -861,7 +845,7 @@
   position: relative;
 }
 
-.mobile-privacy-policyu95tabsm .hyperlinks-2 {
+.mobile-privacy-policyu95tabsm .hyperlinks-1 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -872,14 +856,26 @@
   width: 100%;
 }
 
-.mobile-privacy-policyu95tabsm .frame-532-item-1 {
+.mobile-privacy-policyu95tabsm .frame-532 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 32px;
+  padding: 24px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.mobile-privacy-policyu95tabsm .frame-532-item {
   display: flex;
   height: 22px;
   position: relative;
   width: 281px;
 }
 
-.mobile-privacy-policyu95tabsm .x2023-orchid-10 {
+.mobile-privacy-policyu95tabsm .x2023-orchid-6 {
   color: var(--white);
   cursor: pointer;
   flex: 1;
@@ -889,7 +885,7 @@
   width: 132px;
 }
 
-.mobile-privacy-policyu95tabsm .link-2 {
+.mobile-privacy-policyu95tabsm .link-1 {
   cursor: pointer;
   display: flex;
   height: 22px;
@@ -897,7 +893,7 @@
   width: 281px;
 }
 
-.mobile-privacy-policyu95tabsm .x2023-orchid-11 {
+.mobile-privacy-policyu95tabsm .x2023-orchid-7 {
   color: var(--white);
   flex: 1;
   font-weight: 700;
@@ -906,36 +902,40 @@
   width: 82px;
 }
 
-.mobile-privacy-policyu95tabsm .apps-10 {
+.mobile-privacy-policyu95tabsm .apps-2 {
   width: 102px;
 }
 
-.mobile-privacy-policyu95tabsm .apps-11 {
+.mobile-privacy-policyu95tabsm .apps-3 {
   width: 132px;
 }
 
-.mobile-privacy-policyu95tabsm .apps-12 {
+.mobile-privacy-policyu95tabsm .apps-4 {
   cursor: pointer;
   width: 113px;
 }
 
-.mobile-privacy-policyu95tabsm .apps-13 {
+.mobile-privacy-policyu95tabsm .apps-5 {
   width: 85px;
 }
 
-.mobile-privacy-policyu95tabsm .apps-14 {
+.mobile-privacy-policyu95tabsm .apps-6 {
   width: 122px;
 }
 
-.mobile-privacy-policyu95tabsm .apps-15 {
+.mobile-privacy-policyu95tabsm .apps-7 {
   width: 76px;
 }
 
-.mobile-privacy-policyu95tabsm .apps-17 {
+.mobile-privacy-policyu95tabsm .apps-8 {
+  width: 42px;
+}
+
+.mobile-privacy-policyu95tabsm .apps-9 {
   width: 75px;
 }
 
-.mobile-privacy-policyu95tabsm .social-icons-2 {
+.mobile-privacy-policyu95tabsm .social-icons-1 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -948,10 +948,9 @@
   width: 100%;
 }
 
-.mobile-privacy-policyu95tabsm .social-link-github-2 {
+.mobile-privacy-policyu95tabsm .social-link-1 {
   cursor: pointer;
-  height: 33px;
-  margin-bottom: -1.00px;
+  height: 32px;
   position: relative;
   width: 32px;
 }
@@ -964,8 +963,11 @@
   white-space: nowrap;
 }
 
-.mobile-privacy-policyu95tabsm .body {
-  align-self: stretch;
+.mobile-privacy-policyu95tabsm .copy {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
   position: relative;
 }
 
@@ -991,10 +993,10 @@
    }
 }
 @media screen and (min-width: 1440px) {
-  .screen.mobile-privacy-policy-all-breakpoints { 
+  .screen.mobile-privacy-policyu95tabsm { 
     display: none;
    }
-  .screen.mobile-privacy-policyu95tabsm { 
+  .screen.mobile-privacy-policy-all-breakpoints { 
     display: none;
    }
 }

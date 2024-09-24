@@ -218,7 +218,7 @@
   position: relative;
 }
 
-.oxt-all-breakpoints .span-6 {
+.oxt-all-breakpoints .span-2 {
   letter-spacing: 0.32px;
 }
 
@@ -261,25 +261,16 @@
   width: 1440px;
 }
 
-.oxt-all-breakpoints .frame-499 {
-  align-items: center;
-  align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 24px;
-  position: relative;
-  width: 100%;
-}
-
 .oxt-all-breakpoints .desktop-header-section-full {
   align-items: center;
   display: flex;
   flex: 0 0 auto;
   flex-direction: column;
   gap: 24px;
+  margin-left: -80.00px;
+  margin-right: -80.00px;
   position: relative;
-  width: 1120px;
+  width: 1280px;
 }
 
 .oxt-all-breakpoints .desktop-caption-section {
@@ -314,24 +305,23 @@
 
 .oxt-all-breakpoints .desktop-headline-section {
   align-items: center;
+  align-self: stretch;
   display: flex;
   flex: 0 0 auto;
   justify-content: center;
-  margin-left: -80.00px;
-  margin-right: -80.00px;
   padding: 0px 0px 24px;
   position: relative;
-  width: 1280px;
+  width: 100%;
 }
 
 .oxt-all-breakpoints .two-color-headline-1 {
   color: transparent;
+  flex: 1;
   font-weight: 600;
   line-height: 44.0px;
   margin-top: -1.00px;
   position: relative;
   text-align: center;
-  width: 1280px;
 }
 
 .oxt-all-breakpoints .intro-copy-12 {
@@ -344,7 +334,7 @@
   text-align: center;
 }
 
-.oxt-all-breakpoints .span-7 {
+.oxt-all-breakpoints .span-3 {
   letter-spacing: 0.08px;
 }
 
@@ -483,28 +473,14 @@
   width: 194px;
 }
 
-.oxt-all-breakpoints .frame-500 {
-  align-items: center;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 24px;
-  position: relative;
-  width: 1120px;
-}
-
-.oxt-all-breakpoints .desktop-header-section-full-1 {
-  width: 1120px;
-}
-
 .oxt-all-breakpoints .two-color-headline {
   color: var(--aquamarine);
+  flex: 1;
   font-weight: 600;
   line-height: 44.0px;
   margin-top: -1.00px;
   position: relative;
   text-align: center;
-  width: 1280px;
 }
 
 .oxt-all-breakpoints .intro-copy-15 {
@@ -546,21 +522,6 @@
   padding: 0px 160px;
   position: relative;
   width: 1440px;
-}
-
-.oxt-all-breakpoints .frame-500-1 {
-  align-items: center;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 24px;
-  position: relative;
-  width: 1120px;
-}
-
-.oxt-all-breakpoints .desktop-header-section-full-2 {
-  align-self: stretch;
-  width: 100%;
 }
 
 .oxt-all-breakpoints .link-4 {
@@ -714,15 +675,6 @@
   position: relative;
 }
 
-.oxt-all-breakpoints .desktop-header-section-full-3 {
-  align-items: center;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 24px;
-  position: relative;
-}
-
 .oxt-all-breakpoints .desktop-home-logo {
   height: 36px;
   position: relative;
@@ -814,11 +766,11 @@
   width: 322px;
 }
 
-.oxtu95mobsm .span {
+.oxtu95mobsm .span0 {
   color: var(--white);
 }
 
-.oxtu95mobsm .span-1 {
+.oxtu95mobsm .span1 {
   color: var(--aquamarine);
 }
 
@@ -835,26 +787,16 @@
   position: relative;
 }
 
-.oxtu95mobsm .features {
-  align-items: center;
-  align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 24px;
-  padding: 0px 24px;
-  position: relative;
-  width: 100%;
-}
-
 .oxtu95mobsm .mobile {
   align-items: center;
   display: flex;
   flex: 0 0 auto;
   flex-direction: column;
   gap: 8px;
+  margin-left: -24.00px;
+  margin-right: -24.00px;
   position: relative;
-  width: 312px;
+  width: 360px;
 }
 
 .oxtu95mobsm .mobile-caption-section {
@@ -885,14 +827,13 @@
 
 .oxtu95mobsm .mobile-headline-section {
   align-items: flex-start;
+  align-self: stretch;
   display: flex;
   flex: 0 0 auto;
   gap: 10px;
   justify-content: center;
-  margin-left: -24.00px;
-  margin-right: -24.00px;
   position: relative;
-  width: 360px;
+  width: 100%;
 }
 
 .oxtu95mobsm .the-orchid-ecosystem-1 {
@@ -914,13 +855,13 @@
   position: relative;
 }
 
-.oxtu95mobsm .span-2 {
+.oxtu95mobsm .span {
   color: var(--white);
   font-weight: 300;
   line-height: 18.0px;
 }
 
-.oxtu95mobsm .span1 {
+.oxtu95mobsm .span1-1 {
   color: var(--white);
   font-weight: 700;
   line-height: 16.5px;
@@ -1025,13 +966,12 @@
 
 .oxtu95mobsm .the-orchid-ecosystem {
   color: var(--aquamarine);
+  flex: 1;
   font-weight: 600;
   line-height: 25.2px;
   margin-top: -1.00px;
   position: relative;
   text-align: center;
-  white-space: nowrap;
-  width: fit-content;
 }
 
 .oxtu95mobsm .intro-copy-4 {
@@ -1071,10 +1011,10 @@
 }
 
 .oxtu95mobsm .link {
+  align-self: stretch;
   height: 24px;
-  margin-left: -192.00px;
-  margin-right: -192.00px;
-  width: 696px;
+  justify-content: center;
+  width: 100%;
 }
 
 .oxtu95mobsm .intro-copy-1 {
@@ -1324,11 +1264,11 @@
   width: 322px;
 }
 
-.oxtu95tabsm .span-3 {
+.oxtu95tabsm .span0-1 {
   color: var(--white);
 }
 
-.oxtu95tabsm .span-4 {
+.oxtu95tabsm .span1-2 {
   color: var(--aquamarine);
 }
 
@@ -1376,17 +1316,18 @@
   flex-direction: column;
   gap: 8px;
   position: relative;
-  width: 696px;
+  width: 360px;
 }
 
 .oxtu95tabsm .mobile-caption-section-1 {
   align-items: center;
+  align-self: stretch;
   display: flex;
   gap: 8px;
   height: 16px;
   justify-content: center;
   position: relative;
-  width: 360px;
+  width: 100%;
 }
 
 .oxtu95tabsm .line-1 {
@@ -1409,17 +1350,17 @@
 
 .oxtu95tabsm .mobile-headline-section-1 {
   align-items: flex-start;
+  align-self: stretch;
   display: flex;
   flex: 0 0 auto;
   gap: 10px;
   justify-content: center;
   position: relative;
-  width: 360px;
+  width: 100%;
 }
 
 .oxtu95tabsm .the-orchid-ecosystem-3 {
   color: transparent;
-  flex: 1;
 }
 
 .oxtu95tabsm .intro-copy-8 {
@@ -1431,13 +1372,13 @@
   position: relative;
 }
 
-.oxtu95tabsm .span-5 {
+.oxtu95tabsm .span-1 {
   color: var(--white);
   font-weight: 300;
   line-height: 18.0px;
 }
 
-.oxtu95tabsm .span1-1 {
+.oxtu95tabsm .span1-3 {
   color: var(--white);
   font-weight: 700;
   line-height: 16.5px;
@@ -1542,8 +1483,6 @@
 
 .oxtu95tabsm .the-orchid-ecosystem-2 {
   color: var(--aquamarine);
-  white-space: nowrap;
-  width: fit-content;
 }
 
 .oxtu95tabsm .intro-copy-9 {
@@ -1576,8 +1515,10 @@
 }
 
 .oxtu95tabsm .link-2 {
+  align-self: stretch;
   height: 24px;
-  width: 696px;
+  justify-content: center;
+  width: 100%;
 }
 
 .oxtu95tabsm .intro-copy-6 {
@@ -1736,6 +1677,7 @@
 }
 
 .oxtu95tabsm .the-orchid-ecosystem {
+  flex: 1;
   font-weight: 600;
   line-height: 25.2px;
   margin-top: -1.00px;

@@ -367,7 +367,6 @@
 
 .storage-all-breakpoints .two-color-headline-1 {
   color: transparent;
-  flex: 1;
   text-align: right;
 }
 
@@ -400,6 +399,15 @@
   gap: 80px;
   padding: 96px 0px 0px;
   position: relative;
+}
+
+.storage-all-breakpoints .learn-more-4 {
+  color: var(--white);
+  flex: 1;
+  font-weight: 700;
+  height: 24px;
+  line-height: 24px;
+  text-align: center;
 }
 
 .storage-all-breakpoints .desktop-header-section-full-2 {
@@ -457,20 +465,18 @@
 
 .storage-all-breakpoints .desktop-headline-section-1 {
   align-items: center;
+  align-self: stretch;
   display: flex;
   flex: 0 0 auto;
   justify-content: center;
-  margin-left: -80.00px;
-  margin-right: -80.00px;
   padding: 0px 0px 24px;
   position: relative;
-  width: 1280px;
+  width: 100%;
 }
 
 .storage-all-breakpoints .two-color-headline-2 {
   color: var(--aquamarine);
   text-align: center;
-  width: 1280px;
 }
 
 .storage-all-breakpoints .buttons {
@@ -668,6 +674,7 @@
 }
 
 .storage-all-breakpoints .two-color-headline-3 {
+  flex: 1;
   font-weight: 600;
   line-height: 44.0px;
   margin-top: -1.00px;
@@ -726,7 +733,6 @@
 
 .storageu95mobsm .frame-403 {
   align-items: center;
-  display: flex;
   gap: 24px;
   padding: 0px 24px;
   width: 357px;
@@ -860,6 +866,7 @@
   align-items: center;
   justify-content: flex-end;
   margin-left: -80.00px;
+  width: 360px;
 }
 
 .storageu95mobsm .the-orchid-ecosystem-1 {
@@ -870,7 +877,6 @@
 .storageu95mobsm .frame-478 {
   align-items: center;
   align-self: stretch;
-  display: flex;
   gap: 24px;
   width: 100%;
 }
@@ -887,25 +893,39 @@
 
 .storageu95mobsm .frame-476 {
   align-items: center;
-  display: inline-flex;
+  align-self: stretch;
   gap: 10px;
-  margin-left: -23.50px;
-  margin-right: -23.50px;
   padding: 60px 0px 0px;
+  width: 100%;
 }
 
 .storageu95mobsm .mobile-button-hero {
   align-items: center;
+  align-self: stretch;
   background-color: var(--log-cabin);
   border: 1px solid;
   border-color: var(--aquamarine);
   border-radius: 60px;
   cursor: pointer;
-  display: inline-flex;
+  display: flex;
   flex: 0 0 auto;
   justify-content: center;
   padding: 16px 80px;
   position: relative;
+  width: 100%;
+}
+
+.storageu95mobsm .learn-more {
+  color: var(--white);
+  font-weight: 700;
+  line-height: 24px;
+  margin-left: -23.50px;
+  margin-right: -23.50px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
 }
 
 .storageu95mobsm .mobile-2 {
@@ -945,9 +965,9 @@
 
 .storageu95mobsm .mobile-3 {
   align-items: center;
-  margin-left: -16.00px;
-  margin-right: -16.00px;
-  width: 312px;
+  margin-left: -40.00px;
+  margin-right: -40.00px;
+  width: 360px;
 }
 
 .storageu95mobsm .mobile-caption-section-2 {
@@ -960,10 +980,10 @@
 
 .storageu95mobsm .mobile-headline-section-2 {
   align-items: flex-start;
+  align-self: stretch;
   gap: 10px;
   justify-content: center;
-  margin-left: -24.00px;
-  margin-right: -24.00px;
+  width: 100%;
 }
 
 .storageu95mobsm .the-orchid-ecosystem-2 {
@@ -973,14 +993,24 @@
 
 .storageu95mobsm .frame-476-1 {
   align-items: center;
-  display: inline-flex;
+  align-self: stretch;
+  display: flex;
   flex: 0 0 auto;
   flex-direction: column;
   gap: 40px;
-  margin-left: -27.50px;
-  margin-right: -27.50px;
   padding: 60px 0px 0px;
   position: relative;
+  width: 100%;
+}
+
+.storageu95mobsm .learn-more-1 {
+  margin-left: -7.50px;
+  margin-right: -7.50px;
+}
+
+.storageu95mobsm .learn-more-2 {
+  margin-left: -27.50px;
+  margin-right: -27.50px;
 }
 
 .storageu95mobsm .logo {
@@ -1028,7 +1058,6 @@
 .storageu95mobsm .frame-532 {
   align-items: flex-start;
   align-self: stretch;
-  display: flex;
   gap: 32px;
   padding: 24px 0px;
   width: 100%;
@@ -1160,6 +1189,7 @@
 }
 
 .storageu95mobsm .frame {
+  display: flex;
   flex: 0 0 auto;
   flex-direction: column;
   position: relative;
@@ -1193,7 +1223,6 @@
   display: flex;
   flex: 0 0 auto;
   position: relative;
-  width: 360px;
 }
 
 .storageu95mobsm .nanopay-3 {
@@ -1326,11 +1355,6 @@
   width: 100%;
 }
 
-.storageu95tabsm .mobile-caption-section-3 {
-  align-self: stretch;
-  width: 100%;
-}
-
 .storageu95tabsm .line-1 {
   flex: 1;
   flex-grow: 1;
@@ -1406,32 +1430,12 @@
 }
 
 .storageu95tabsm .frame-476-2 {
+  display: inline-flex;
   gap: 10px;
 }
 
-.storageu95tabsm .mobile-button-hero-1 {
-  align-items: center;
-  background-color: var(--log-cabin);
-  border: 1px solid;
-  border-color: var(--aquamarine);
-  border-radius: 60px;
-  cursor: pointer;
+.storageu95tabsm .mobile-button-hero-2 {
   display: inline-flex;
-  flex: 0 0 auto;
-  justify-content: center;
-  padding: 16px 80px;
-  position: relative;
-}
-
-.storageu95tabsm .learn-more-1 {
-  color: var(--white);
-  font-weight: 700;
-  line-height: 24px;
-  margin-top: -1.00px;
-  position: relative;
-  text-align: center;
-  white-space: nowrap;
-  width: fit-content;
 }
 
 .storageu95tabsm .mobile-6 {
@@ -1471,14 +1475,11 @@
 
 .storageu95tabsm .mobile-7 {
   align-items: center;
-  margin-left: -16.00px;
-  margin-right: -16.00px;
-  width: 696px;
+  width: 360px;
 }
 
 .storageu95tabsm .mobile-caption-section-5 {
   justify-content: center;
-  width: 360px;
 }
 
 .storageu95tabsm .discover-5 {
@@ -1487,9 +1488,10 @@
 
 .storageu95tabsm .mobile-headline-section-5 {
   align-items: flex-start;
+  align-self: stretch;
   gap: 10px;
   justify-content: center;
-  width: 360px;
+  width: 100%;
 }
 
 .storageu95tabsm .the-orchid-ecosystem-5 {
@@ -1498,7 +1500,15 @@
 }
 
 .storageu95tabsm .frame-476-3 {
+  display: flex;
   gap: 40px;
+  width: 335px;
+}
+
+.storageu95tabsm .mobile-button-hero-1 {
+  align-self: stretch;
+  display: flex;
+  width: 100%;
 }
 
 .storageu95tabsm .logo-1 {
@@ -1665,7 +1675,6 @@
 
 .storageu95tabsm .frame-476 {
   align-items: center;
-  display: inline-flex;
   flex: 0 0 auto;
   flex-direction: column;
   padding: 60px 0px 0px;
@@ -1680,12 +1689,27 @@
   position: relative;
 }
 
+.storageu95tabsm .mobile-button-hero {
+  align-items: center;
+  background-color: var(--log-cabin);
+  border: 1px solid;
+  border-color: var(--aquamarine);
+  border-radius: 60px;
+  cursor: pointer;
+  flex: 0 0 auto;
+  justify-content: center;
+  padding: 16px 80px;
+  position: relative;
+}
+
 .storageu95tabsm .mobile-caption-section {
   align-items: center;
+  align-self: stretch;
   display: flex;
   gap: 8px;
   height: 16px;
   position: relative;
+  width: 100%;
 }
 
 .storageu95tabsm .mobile-headline-section {
