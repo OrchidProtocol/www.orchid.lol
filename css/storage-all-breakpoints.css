@@ -353,6 +353,8 @@
 
 .storage-all-breakpoints .desktop-header-section-full-1 {
   align-items: flex-start;
+  align-self: stretch;
+  width: 100%;
 }
 
 .storage-all-breakpoints .desktop-caption-section-1 {
@@ -401,6 +403,8 @@
 
 .storage-all-breakpoints .desktop-header-section-full-2 {
   align-items: flex-start;
+  align-self: stretch;
+  width: 100%;
 }
 
 .storage-all-breakpoints .copy-5 {
@@ -439,6 +443,7 @@
 
 .storage-all-breakpoints .desktop-header-section-full-3 {
   align-items: center;
+  width: 1440px;
 }
 
 .storage-all-breakpoints .desktop-caption-section-2 {
@@ -642,13 +647,11 @@
 }
 
 .storage-all-breakpoints .desktop-header-section-full-4 {
-  align-self: stretch;
   display: flex;
   flex: 0 0 auto;
   flex-direction: column;
   gap: 24px;
   position: relative;
-  width: 100%;
 }
 
 .storage-all-breakpoints .desktop-home-logo {
@@ -774,6 +777,8 @@
 
 .storageu95mobsm .mobile {
   align-items: center;
+  align-self: stretch;
+  width: 100%;
 }
 
 .storageu95mobsm .mobile-caption-section {
@@ -838,6 +843,8 @@
 
 .storageu95mobsm .mobile-1 {
   align-items: flex-end;
+  align-self: stretch;
+  width: 100%;
 }
 
 .storageu95mobsm .mobile-caption-section-1 {
@@ -903,6 +910,8 @@
 
 .storageu95mobsm .mobile-2 {
   align-items: center;
+  align-self: stretch;
+  width: 100%;
 }
 
 .storageu95mobsm .copy-1 {
@@ -936,6 +945,7 @@
 
 .storageu95mobsm .mobile-3 {
   align-items: center;
+  width: 280px;
 }
 
 .storageu95mobsm .mobile-caption-section-2 {
@@ -1160,13 +1170,11 @@
 }
 
 .storageu95mobsm .mobile-4 {
-  align-self: stretch;
   display: flex;
   flex: 0 0 auto;
   flex-direction: column;
   gap: 8px;
   position: relative;
-  width: 100%;
 }
 
 .storageu95mobsm .mobile-caption-section-3 {
@@ -1311,6 +1319,8 @@
 
 .storageu95tabsm .mobile-4 {
   align-items: center;
+  align-self: stretch;
+  width: 100%;
 }
 
 .storageu95tabsm .line-1 {
@@ -1358,6 +1368,8 @@
 
 .storageu95tabsm .mobile-5 {
   align-items: flex-end;
+  align-self: stretch;
+  width: 100%;
 }
 
 .storageu95tabsm .mobile-caption-section-4 {
@@ -1419,6 +1431,8 @@
 
 .storageu95tabsm .mobile-6 {
   align-items: center;
+  align-self: stretch;
+  width: 100%;
 }
 
 .storageu95tabsm .copy-3 {
@@ -1452,6 +1466,7 @@
 
 .storageu95tabsm .mobile-7 {
   align-items: center;
+  width: 664px;
 }
 
 .storageu95tabsm .mobile-caption-section-5 {
@@ -1662,13 +1677,11 @@
 }
 
 .storageu95tabsm .mobile {
-  align-self: stretch;
   display: flex;
   flex: 0 0 auto;
   flex-direction: column;
   gap: 8px;
   position: relative;
-  width: 100%;
 }
 
 .storageu95tabsm .mobile-caption-section {

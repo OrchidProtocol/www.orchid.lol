@@ -154,9 +154,14 @@
   position: relative;
 }
 
-.home-all-breakpoints .desktop-header-section-full-1 {
-  align-self: stretch;
-  width: 100%;
+.home-all-breakpoints .desktop-header-section-full {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  position: relative;
+  width: 1280px;
 }
 
 .home-all-breakpoints .desktop-caption-section {
@@ -288,16 +293,6 @@
   gap: 12px;
   position: relative;
   width: 100%;
-}
-
-.home-all-breakpoints .desktop-header-section-full {
-  align-items: center;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 24px;
-  position: relative;
-  width: 1280px;
 }
 
 .home-all-breakpoints .desktop-caption-section-1 {
@@ -505,8 +500,14 @@
   width: 739px;
 }
 
-.home-all-breakpoints .desktop-header-section-full-2 {
+.home-all-breakpoints .desktop-header-section-full-1 {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
   margin-right: -541.00px;
+  position: relative;
   width: 1280px;
 }
 
@@ -1221,15 +1222,6 @@
   position: relative;
 }
 
-.home-all-breakpoints .desktop-header-section-full-3 {
-  align-items: center;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 24px;
-  position: relative;
-}
-
 .home-all-breakpoints .desktop-headline-section-3 {
   align-items: flex-start;
   align-self: stretch;
@@ -1400,9 +1392,8 @@
 
 .homeu95mobsm .mobile {
   align-items: center;
-  align-self: stretch;
   flex: 0 0 auto;
-  width: 100%;
+  width: 312px;
 }
 
 .homeu95mobsm .mobile-caption-section-1 {
@@ -2505,6 +2496,7 @@
 .homeu95tab .mobile-5 {
   align-items: center;
   flex: 0 0 auto;
+  width: 744px;
 }
 
 .homeu95tab .mobile-caption-section-4 {
@@ -2596,7 +2588,9 @@
 
 .homeu95tab .mobile-6 {
   align-items: center;
+  align-self: stretch;
   flex: 0 0 auto;
+  width: 100%;
 }
 
 .homeu95tab .mobile-caption-section-5 {
@@ -2678,7 +2672,9 @@
 
 .homeu95tab .mobile-7 {
   align-items: flex-start;
+  align-self: stretch;
   height: 75px;
+  width: 100%;
 }
 
 .homeu95tab .mobile-headline-section-7 {
@@ -2829,6 +2825,7 @@
 .homeu95tab .mobile-8 {
   align-items: center;
   height: 65px;
+  width: 744px;
 }
 
 .homeu95tab .mobile-headline-section-8 {
@@ -2918,7 +2915,9 @@
 
 .homeu95tab .mobile-9 {
   align-items: flex-end;
+  align-self: stretch;
   flex: 0 0 auto;
+  width: 100%;
 }
 
 .homeu95tab .mobile-headline-section-9 {
@@ -3353,12 +3352,10 @@
 }
 
 .homeu95tab .mobile {
-  align-self: stretch;
   display: flex;
   flex-direction: column;
   gap: 8px;
   position: relative;
-  width: 100%;
 }
 
 .homeu95tab .mobile-caption-section {
