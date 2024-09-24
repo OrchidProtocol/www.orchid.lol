@@ -287,24 +287,20 @@
   position: relative;
 }
 
-.storage-all-breakpoints .desktop-headline-section {
+.storage-all-breakpoints .desktop-headline-section-1 {
   align-items: flex-start;
-  align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
+  display: inline-flex;
   gap: 24px;
-  padding: 0px 0px 24px;
-  position: relative;
-  width: 100%;
+  margin-right: -160.00px;
 }
 
 .storage-all-breakpoints .two-color-headline {
   color: transparent;
-  flex: 1;
   font-weight: 600;
   line-height: 44.0px;
   margin-top: -1.00px;
   position: relative;
+  width: 1280px;
 }
 
 .storage-all-breakpoints .span-6 {
@@ -365,6 +361,15 @@
   text-align: right;
 }
 
+.storage-all-breakpoints .desktop-headline-section {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 24px;
+  padding: 0px 0px 24px;
+  position: relative;
+}
+
 .storage-all-breakpoints .two-color-headline-1 {
   color: transparent;
   text-align: right;
@@ -416,6 +421,10 @@
   width: 100%;
 }
 
+.storage-all-breakpoints .two-color-headline-2 {
+  color: transparent;
+}
+
 .storage-all-breakpoints .copy-5 {
   align-items: flex-start;
   flex: 0 0 auto;
@@ -464,18 +473,16 @@
   text-align: center;
 }
 
-.storage-all-breakpoints .desktop-headline-section-1 {
+.storage-all-breakpoints .desktop-headline-section-2 {
   align-items: center;
-  align-self: stretch;
   display: flex;
-  flex: 0 0 auto;
   justify-content: center;
-  padding: 0px 0px 24px;
-  position: relative;
-  width: 100%;
+  margin-left: -80.00px;
+  margin-right: -80.00px;
+  width: 1280px;
 }
 
-.storage-all-breakpoints .two-color-headline-2 {
+.storage-all-breakpoints .two-color-headline-3 {
   color: var(--aquamarine);
   text-align: center;
 }
@@ -672,11 +679,27 @@
   position: relative;
 }
 
+.storage-all-breakpoints .desktop-caption-section-3 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 40px;
+  position: relative;
+  width: 100%;
+}
+
 .storage-all-breakpoints .desktop-header-section-full-4 {
   display: flex;
   flex: 0 0 auto;
   flex-direction: column;
   gap: 24px;
+  position: relative;
+}
+
+.storage-all-breakpoints .desktop-headline-section-3 {
+  flex: 0 0 auto;
+  padding: 0px 0px 24px;
   position: relative;
 }
 
@@ -691,7 +714,7 @@
   width: 208px;
 }
 
-.storage-all-breakpoints .two-color-headline-3 {
+.storage-all-breakpoints .two-color-headline-4 {
   flex: 1;
   font-weight: 600;
   line-height: 44.0px;
@@ -813,6 +836,11 @@
   width: 100%;
 }
 
+.storageu95mobsm .mobile-caption-section-3 {
+  align-self: stretch;
+  width: 100%;
+}
+
 .storageu95mobsm .line-1 {
   flex: 1;
   flex-grow: 1;
@@ -861,6 +889,12 @@
 .storageu95mobsm .mobile-5 {
   align-items: flex-end;
   align-self: stretch;
+  width: 100%;
+}
+
+.storageu95mobsm .mobile-caption-section-4 {
+  align-self: stretch;
+  justify-content: flex-end;
   width: 100%;
 }
 
@@ -953,6 +987,9 @@
 
 .storageu95mobsm .mobile-caption-section-5 {
   justify-content: center;
+  margin-left: -40.00px;
+  margin-right: -40.00px;
+  width: 360px;
 }
 
 .storageu95mobsm .discover-5 {
@@ -961,10 +998,11 @@
 
 .storageu95mobsm .mobile-headline-section-5 {
   align-items: flex-start;
-  align-self: stretch;
   gap: 10px;
   justify-content: center;
-  width: 100%;
+  margin-left: -40.00px;
+  margin-right: -40.00px;
+  width: 360px;
 }
 
 .storageu95mobsm .the-orchid-ecosystem-5 {
@@ -1183,12 +1221,10 @@
 
 .storageu95mobsm .mobile-caption-section {
   align-items: center;
-  align-self: stretch;
   display: flex;
   gap: 8px;
   height: 16px;
   position: relative;
-  width: 100%;
 }
 
 .storageu95mobsm .mobile-headline-section {
@@ -1384,7 +1420,9 @@
 }
 
 .storageu95tabsm .mobile-caption-section-1 {
+  align-self: stretch;
   justify-content: flex-end;
+  width: 100%;
 }
 
 .storageu95tabsm .discover-1 {
@@ -1394,7 +1432,6 @@
 .storageu95tabsm .mobile-headline-section-1 {
   align-items: center;
   justify-content: flex-end;
-  width: 360px;
 }
 
 .storageu95tabsm .the-orchid-ecosystem-1 {
@@ -1494,6 +1531,7 @@
 
 .storageu95tabsm .mobile-caption-section-2 {
   justify-content: center;
+  width: 360px;
 }
 
 .storageu95tabsm .discover-2 {
@@ -1502,10 +1540,8 @@
 
 .storageu95tabsm .mobile-headline-section-2 {
   align-items: flex-start;
-  align-self: stretch;
   gap: 10px;
   justify-content: center;
-  width: 100%;
 }
 
 .storageu95tabsm .the-orchid-ecosystem-2 {
@@ -1735,18 +1771,17 @@
 
 .storageu95tabsm .mobile-caption-section-3 {
   align-items: center;
-  align-self: stretch;
   display: flex;
   gap: 8px;
   height: 16px;
   position: relative;
-  width: 100%;
 }
 
 .storageu95tabsm .mobile-headline-section-3 {
   display: flex;
   flex: 0 0 auto;
   position: relative;
+  width: 360px;
 }
 
 .storageu95tabsm .nanopay-3 {

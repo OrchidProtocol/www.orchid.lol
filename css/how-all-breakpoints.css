@@ -113,7 +113,7 @@
   width: 1170px;
 }
 
-.how-all-breakpoints .desktop-home-logo-2 {
+.how-all-breakpoints .desktop-home-logo-1 {
   cursor: pointer;
   flex: 0 0 auto;
 }
@@ -183,7 +183,7 @@
   padding: 17px 24px;
 }
 
-.how-all-breakpoints .hero-2 {
+.how-all-breakpoints .hero-1 {
   align-items: center;
   align-self: stretch;
   display: flex;
@@ -210,17 +210,17 @@
   width: 1062px;
 }
 
-.how-all-breakpoints .span-12 {
+.how-all-breakpoints .span-6 {
   letter-spacing: 0.72px;
 }
 
-.how-all-breakpoints .intro-copy-16 {
+.how-all-breakpoints .intro-copy-8 {
   color: transparent;
   font-weight: 400;
   line-height: 28.0px;
 }
 
-.how-all-breakpoints .span-13 {
+.how-all-breakpoints .span-7 {
   letter-spacing: 0.08px;
 }
 
@@ -243,7 +243,7 @@
   position: relative;
 }
 
-.how-all-breakpoints .learn-more-5 {
+.how-all-breakpoints .learn-more-3 {
   color: var(--white);
   flex: 1;
   font-weight: 700;
@@ -304,7 +304,7 @@
   width: fit-content;
 }
 
-.how-all-breakpoints .line-2 {
+.how-all-breakpoints .line-1 {
   flex: 1;
   flex-grow: 1;
   height: 1px;
@@ -314,12 +314,10 @@
 
 .how-all-breakpoints .desktop-headline-section {
   align-items: flex-start;
-  align-self: stretch;
-  display: flex;
+  display: inline-flex;
   flex: 0 0 auto;
   padding: 0px 0px 24px;
   position: relative;
-  width: 100%;
 }
 
 .how-all-breakpoints .two-color-headline {
@@ -331,15 +329,15 @@
   width: 1280px;
 }
 
-.how-all-breakpoints .span-14 {
+.how-all-breakpoints .span-8 {
   letter-spacing: 0.32px;
 }
 
-.how-all-breakpoints .cards-4 {
+.how-all-breakpoints .cards-2 {
   gap: 24px;
 }
 
-.how-all-breakpoints .info-card-4 {
+.how-all-breakpoints .info-card-2 {
   background-color: var(--black-2);
   border-color: var(--true-v-2);
   border-radius: 16px;
@@ -348,7 +346,7 @@
   width: 1280px;
 }
 
-.how-all-breakpoints .intro-copy-17 {
+.how-all-breakpoints .intro-copy-9 {
   color: var(--white);
   font-weight: 500;
   height: 35px;
@@ -357,7 +355,7 @@
   white-space: nowrap;
 }
 
-.how-all-breakpoints .line-8-2 {
+.how-all-breakpoints .line-8-1 {
   align-self: stretch;
   height: 2px;
   margin-left: -1.00px;
@@ -366,13 +364,13 @@
   width: 100%;
 }
 
-.how-all-breakpoints .intro-copy-18 {
+.how-all-breakpoints .intro-copy-10 {
   color: var(--white);
   font-weight: 400;
   line-height: 28.0px;
 }
 
-.how-all-breakpoints .text-2 {
+.how-all-breakpoints .text-1 {
   align-self: stretch;
   color: transparent;
   cursor: pointer;
@@ -381,12 +379,12 @@
   position: relative;
 }
 
-.how-all-breakpoints .span0-2 {
+.how-all-breakpoints .span0-1 {
   letter-spacing: 0.08px;
   text-decoration: underline;
 }
 
-.how-all-breakpoints .intro-copy-19 {
+.how-all-breakpoints .intro-copy-11 {
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 1;
   color: var(--dull-lavender-2);
@@ -398,7 +396,7 @@
   text-overflow: ellipsis;
 }
 
-.how-all-breakpoints .span1-2 {
+.how-all-breakpoints .span1-1 {
   color: var(--white);
   font-family: var(--font-family-figtree);
   font-size: var(--font-size-xl);
@@ -418,13 +416,12 @@
 
 .how-all-breakpoints .desktop-caption-section-1 {
   align-items: center;
-  align-self: stretch;
   display: flex;
   flex: 0 0 auto;
   gap: 40px;
   justify-content: center;
   position: relative;
-  width: 100%;
+  width: 1280px;
 }
 
 .how-all-breakpoints .caption-1 {
@@ -440,30 +437,30 @@
 
 .how-all-breakpoints .desktop-headline-section-1 {
   align-items: center;
-  align-self: stretch;
   display: flex;
   flex: 0 0 auto;
   justify-content: center;
   padding: 0px 0px 24px;
   position: relative;
-  width: 100%;
+  width: 1280px;
 }
 
 .how-all-breakpoints .two-color-headline-1 {
   color: transparent;
-  flex: 1;
   font-weight: 600;
   line-height: 44.0px;
   margin-top: -1.00px;
   position: relative;
   text-align: center;
+  white-space: nowrap;
+  width: fit-content;
 }
 
-.how-all-breakpoints .cards-5 {
+.how-all-breakpoints .cards-3 {
   gap: 40px;
 }
 
-.how-all-breakpoints .info-card-6 {
+.how-all-breakpoints .info-card-4 {
   background-color: var(--black);
   border-color: var(--aquamarine);
   border-radius: 24px;
@@ -497,7 +494,7 @@
   width: 1200px;
 }
 
-.how-all-breakpoints .intro-copy-20 {
+.how-all-breakpoints .intro-copy-12 {
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 1;
   color: var(--dull-lavender);
@@ -509,7 +506,7 @@
   text-overflow: ellipsis;
 }
 
-.how-all-breakpoints .info-card-5 {
+.how-all-breakpoints .info-card-3 {
   background-color: var(--black);
   border-color: var(--aquamarine);
   border-radius: 24px;
@@ -547,7 +544,7 @@
   position: relative;
 }
 
-.how-all-breakpoints .info-card-7 {
+.how-all-breakpoints .info-card-5 {
   background-color: var(--black);
   border-color: var(--aquamarine);
   border-radius: 24px;
@@ -568,7 +565,7 @@
   position: relative;
 }
 
-.how-all-breakpoints .button-2 {
+.how-all-breakpoints .button-1 {
   align-items: center;
   display: inline-flex;
   flex: 0 0 auto;
@@ -604,7 +601,7 @@
   width: 100%;
 }
 
-.how-all-breakpoints .logo-2 {
+.how-all-breakpoints .logo-1 {
   align-items: flex-start;
   display: inline-flex;
   flex: 0 0 auto;
@@ -613,7 +610,7 @@
   position: relative;
 }
 
-.how-all-breakpoints .x2023-orchid-8 {
+.how-all-breakpoints .x2023-orchid-4 {
   color: var(--white);
   font-weight: 300;
   line-height: 19.6px;
@@ -621,7 +618,7 @@
   width: 676px;
 }
 
-.how-all-breakpoints .hyperlinks-2 {
+.how-all-breakpoints .hyperlinks-1 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -649,7 +646,7 @@
   width: 180px;
 }
 
-.how-all-breakpoints .x2023-orchid-9 {
+.how-all-breakpoints .x2023-orchid-5 {
   color: var(--white);
   cursor: pointer;
   flex: 1;
@@ -662,7 +659,7 @@
   height: 22px;
 }
 
-.how-all-breakpoints .x2023-orchid-10 {
+.how-all-breakpoints .x2023-orchid-6 {
   color: var(--white);
   cursor: pointer;
   flex: 1;
@@ -676,7 +673,7 @@
   height: 44px;
 }
 
-.how-all-breakpoints .x2023-orchid-11 {
+.how-all-breakpoints .x2023-orchid-7 {
   color: var(--white);
   cursor: pointer;
   flex: 1;
@@ -685,11 +682,11 @@
   width: 208px;
 }
 
-.how-all-breakpoints .apps-17 {
+.how-all-breakpoints .apps-9 {
   cursor: pointer;
 }
 
-.how-all-breakpoints .link-4 {
+.how-all-breakpoints .link-2 {
   cursor: pointer;
   display: flex;
   height: 22px;
@@ -697,7 +694,7 @@
   width: 198px;
 }
 
-.how-all-breakpoints .social-icons-2 {
+.how-all-breakpoints .social-icons-1 {
   align-items: flex-start;
   display: inline-flex;
   flex: 0 0 auto;
@@ -707,10 +704,9 @@
   position: relative;
 }
 
-.how-all-breakpoints .social-link-github-2 {
+.how-all-breakpoints .social-link-1 {
   cursor: pointer;
-  height: 33px;
-  margin-bottom: -1.00px;
+  height: 32px;
   position: relative;
   width: 32px;
 }
@@ -1120,13 +1116,14 @@
 
 .howu95mobsm .mobile-caption-section-1 {
   align-items: center;
-  align-self: stretch;
   display: flex;
   gap: 8px;
   height: 16px;
   justify-content: center;
+  margin-left: -24.00px;
+  margin-right: -24.00px;
   position: relative;
-  width: 100%;
+  width: 360px;
 }
 
 .howu95mobsm .discover-1 {
@@ -1135,13 +1132,14 @@
 
 .howu95mobsm .mobile-headline-section-1 {
   align-items: flex-start;
-  align-self: stretch;
   display: flex;
   flex: 0 0 auto;
   gap: 10px;
   justify-content: center;
+  margin-left: -24.00px;
+  margin-right: -24.00px;
   position: relative;
-  width: 100%;
+  width: 360px;
 }
 
 .howu95mobsm .the-orchid-ecosystem-1 {
@@ -1508,7 +1506,7 @@
   width: 100%;
 }
 
-.howu95tabsm .hero-1 {
+.howu95tabsm .hero-2 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -1538,11 +1536,11 @@
   text-align: center;
 }
 
-.howu95tabsm .span-6 {
+.howu95tabsm .span-9 {
   letter-spacing: 0.32px;
 }
 
-.howu95tabsm .intro-copy-8 {
+.howu95tabsm .intro-copy-13 {
   align-self: stretch;
   color: transparent;
   font-weight: 300;
@@ -1550,11 +1548,11 @@
   position: relative;
 }
 
-.howu95tabsm .span-7 {
+.howu95tabsm .span-10 {
   color: var(--white);
 }
 
-.howu95tabsm .span-8 {
+.howu95tabsm .span-11 {
   color: var(--dull-lavender);
 }
 
@@ -1575,7 +1573,7 @@
   width: 275px;
 }
 
-.howu95tabsm .learn-more-4 {
+.howu95tabsm .learn-more-5 {
   margin-left: -6.00px;
   margin-right: -6.00px;
 }
@@ -1597,7 +1595,12 @@
   width: 100%;
 }
 
-.howu95tabsm .line-1 {
+.howu95tabsm .mobile-caption-section-2 {
+  align-self: stretch;
+  width: 100%;
+}
+
+.howu95tabsm .line-2 {
   flex: 1;
   flex-grow: 1;
   height: 1px;
@@ -1607,17 +1610,19 @@
 
 .howu95tabsm .mobile-headline-section-2 {
   align-items: center;
+  align-self: stretch;
+  width: 100%;
 }
 
-.howu95tabsm .span-9 {
+.howu95tabsm .span-12 {
   color: var(--aquamarine);
 }
 
-.howu95tabsm .cards-2 {
+.howu95tabsm .cards-4 {
   gap: 16px;
 }
 
-.howu95tabsm .info-card-2 {
+.howu95tabsm .info-card-6 {
   align-items: flex-start;
   background-color: var(--black-2);
   border-color: var(--true-v-2);
@@ -1636,7 +1641,7 @@
   width: 100%;
 }
 
-.howu95tabsm .intro-copy-9 {
+.howu95tabsm .intro-copy-14 {
   color: var(--white);
   flex: 1;
   font-weight: 600;
@@ -1645,7 +1650,7 @@
   position: relative;
 }
 
-.howu95tabsm .line-8-1 {
+.howu95tabsm .line-8-2 {
   align-self: stretch;
   height: 1px;
   margin-left: -0.50px;
@@ -1655,7 +1660,7 @@
   width: 100%;
 }
 
-.howu95tabsm .intro-copy-12 {
+.howu95tabsm .intro-copy-17 {
   align-self: stretch;
   color: var(--white);
   font-weight: 300;
@@ -1675,7 +1680,7 @@
   width: 100%;
 }
 
-.howu95tabsm .text-1 {
+.howu95tabsm .text-2 {
   align-self: stretch;
   color: transparent;
   cursor: pointer;
@@ -1685,20 +1690,20 @@
   position: relative;
 }
 
-.howu95tabsm .span0-1 {
+.howu95tabsm .span0-2 {
   color: var(--aquamarine);
   font-weight: 700;
   line-height: 16.5px;
   text-decoration: underline;
 }
 
-.howu95tabsm .span-10 {
+.howu95tabsm .span-13 {
   color: var(--white);
   font-weight: 300;
   line-height: 18.0px;
 }
 
-.howu95tabsm .intro-copy-10 {
+.howu95tabsm .intro-copy-15 {
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 1;
   -webkit-text-stroke: 1px var(--black-2);
@@ -1715,7 +1720,7 @@
   text-shadow: 0px 4px 4px #00000040;
 }
 
-.howu95tabsm .intro-copy-13 {
+.howu95tabsm .intro-copy-18 {
   align-self: stretch;
   color: var(--white);
   font-weight: 300;
@@ -1723,7 +1728,7 @@
   position: relative;
 }
 
-.howu95tabsm .intro-copy-11 {
+.howu95tabsm .intro-copy-16 {
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 1;
   align-self: stretch;
@@ -1737,7 +1742,7 @@
   text-overflow: ellipsis;
 }
 
-.howu95tabsm .intro-copy-14 {
+.howu95tabsm .intro-copy-19 {
   align-self: stretch;
   color: transparent;
   font-weight: 400;
@@ -1745,19 +1750,19 @@
   position: relative;
 }
 
-.howu95tabsm .span1-1 {
+.howu95tabsm .span1-2 {
   color: var(--white);
   font-weight: 700;
   line-height: 16.5px;
 }
 
-.howu95tabsm .span-11 {
+.howu95tabsm .span-14 {
   color: var(--dull-lavender);
   font-weight: 700;
   line-height: 16.5px;
 }
 
-.howu95tabsm .intro-copy-15 {
+.howu95tabsm .intro-copy-20 {
   align-self: stretch;
   color: var(--white);
   font-weight: 300;
@@ -1771,6 +1776,7 @@
 
 .howu95tabsm .mobile-caption-section-3 {
   justify-content: center;
+  width: 360px;
 }
 
 .howu95tabsm .discover-3 {
@@ -1781,17 +1787,18 @@
   align-items: flex-start;
   gap: 10px;
   justify-content: center;
+  width: 360px;
 }
 
 .howu95tabsm .the-orchid-ecosystem-3 {
   text-align: center;
 }
 
-.howu95tabsm .cards-3 {
+.howu95tabsm .cards-5 {
   gap: 40px;
 }
 
-.howu95tabsm .info-card-3 {
+.howu95tabsm .info-card-7 {
   align-items: center;
   background-color: var(--black);
   border-color: var(--aquamarine);
@@ -1833,7 +1840,7 @@
   line-height: 15px;
 }
 
-.howu95tabsm .link-2 {
+.howu95tabsm .link-3 {
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 1;
   align-self: stretch;
@@ -1870,11 +1877,21 @@
   line-height: 18.0px;
 }
 
+.howu95tabsm .button-2 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  padding: 80px 0px 0px;
+  position: relative;
+}
+
 .howu95tabsm .mobile-button-hero-3 {
   display: inline-flex;
 }
 
-.howu95tabsm .logo-1 {
+.howu95tabsm .logo-2 {
   align-items: flex-start;
   display: inline-flex;
   flex: 0 0 auto;
@@ -1883,12 +1900,7 @@
   position: relative;
 }
 
-.howu95tabsm .desktop-home-logo-1 {
-  height: 36px;
-  position: relative;
-}
-
-.howu95tabsm .x2023-orchid-4 {
+.howu95tabsm .x2023-orchid-8 {
   color: var(--white);
   font-weight: 300;
   line-height: 19.6px;
@@ -1896,7 +1908,7 @@
   width: 299px;
 }
 
-.howu95tabsm .x2023-orchid-5 {
+.howu95tabsm .x2023-orchid-9 {
   align-self: stretch;
   color: var(--white);
   font-weight: 300;
@@ -1904,7 +1916,7 @@
   position: relative;
 }
 
-.howu95tabsm .hyperlinks-1 {
+.howu95tabsm .hyperlinks-2 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -1922,7 +1934,7 @@
   width: 281px;
 }
 
-.howu95tabsm .x2023-orchid-6 {
+.howu95tabsm .x2023-orchid-10 {
   color: var(--white);
   cursor: pointer;
   flex: 1;
@@ -1932,13 +1944,13 @@
   width: 132px;
 }
 
-.howu95tabsm .link-3 {
+.howu95tabsm .link-4 {
   display: flex;
   height: 22px;
   width: 281px;
 }
 
-.howu95tabsm .x2023-orchid-7 {
+.howu95tabsm .x2023-orchid-11 {
   color: var(--white);
   flex: 1;
   font-weight: 700;
@@ -1947,40 +1959,36 @@
   width: 82px;
 }
 
-.howu95tabsm .apps-8 {
+.howu95tabsm .apps-10 {
   width: 102px;
 }
 
-.howu95tabsm .apps-9 {
+.howu95tabsm .apps-11 {
   width: 132px;
 }
 
-.howu95tabsm .apps-10 {
+.howu95tabsm .apps-12 {
   cursor: pointer;
   width: 113px;
 }
 
-.howu95tabsm .apps-11 {
+.howu95tabsm .apps-13 {
   width: 85px;
 }
 
-.howu95tabsm .apps-12 {
+.howu95tabsm .apps-14 {
   width: 122px;
 }
 
-.howu95tabsm .apps-13 {
+.howu95tabsm .apps-15 {
   width: 76px;
 }
 
-.howu95tabsm .apps-14 {
-  width: 42px;
-}
-
-.howu95tabsm .apps-15 {
+.howu95tabsm .apps-17 {
   width: 75px;
 }
 
-.howu95tabsm .social-icons-1 {
+.howu95tabsm .social-icons-2 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -1993,9 +2001,10 @@
   width: 100%;
 }
 
-.howu95tabsm .social-link-1 {
+.howu95tabsm .social-link-github-2 {
   cursor: pointer;
-  height: 32px;
+  height: 33px;
+  margin-bottom: -1.00px;
   position: relative;
   width: 32px;
 }
@@ -2082,20 +2091,16 @@
 
 .howu95tabsm .mobile-caption-section {
   align-items: center;
-  align-self: stretch;
   display: flex;
   gap: 8px;
   height: 16px;
   position: relative;
-  width: 100%;
 }
 
 .howu95tabsm .mobile-headline-section {
-  align-self: stretch;
   display: flex;
   flex: 0 0 auto;
   position: relative;
-  width: 100%;
 }
 
 .howu95tabsm .the-orchid-ecosystem {
@@ -2112,10 +2117,10 @@
   position: relative;
 }
 @media screen and (max-width: 743px) {
-  .screen.howu95tabsm { 
+  .screen.how-all-breakpoints { 
     display: none;
    }
-  .screen.how-all-breakpoints { 
+  .screen.howu95tabsm { 
     display: none;
    }
 }
