@@ -144,26 +144,6 @@
   width: 1440px;
 }
 
-.home-all-breakpoints .frame-475 {
-  align-items: center;
-  display: flex;
-  flex: 1;
-  flex-direction: column;
-  flex-grow: 1;
-  gap: 24px;
-  position: relative;
-}
-
-.home-all-breakpoints .desktop-header-section-full {
-  align-items: center;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 24px;
-  position: relative;
-  width: 1280px;
-}
-
 .home-all-breakpoints .desktop-caption-section {
   align-items: center;
   display: flex;
@@ -204,6 +184,16 @@
 .home-all-breakpoints .two-color-headline-1 {
   color: transparent;
   text-align: center;
+}
+
+.home-all-breakpoints .frame-475 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 24px;
+  position: relative;
 }
 
 .home-all-breakpoints .cards-6 {
@@ -291,6 +281,16 @@
   gap: 12px;
   position: relative;
   width: 100%;
+}
+
+.home-all-breakpoints .desktop-header-section-full {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  position: relative;
+  width: 1280px;
 }
 
 .home-all-breakpoints .desktop-caption-section-1 {
@@ -498,15 +498,9 @@
   width: 739px;
 }
 
-.home-all-breakpoints .desktop-header-section-full-1 {
-  align-items: center;
-  display: flex;
+.home-all-breakpoints .desktop-header-section-full-2 {
   flex: 0 0 auto;
-  flex-direction: column;
-  gap: 24px;
   margin-right: -541.00px;
-  position: relative;
-  width: 1280px;
 }
 
 .home-all-breakpoints .line-10 {
@@ -1220,14 +1214,13 @@
   position: relative;
 }
 
-.home-all-breakpoints .desktop-caption-section-3 {
+.home-all-breakpoints .desktop-header-section-full-3 {
   align-items: center;
-  align-self: stretch;
   display: flex;
-  flex: 0 0 auto;
-  gap: 40px;
+  flex-direction: column;
+  gap: 24px;
   position: relative;
-  width: 100%;
+  width: 1280px;
 }
 
 .home-all-breakpoints .desktop-headline-section-3 {
@@ -1400,15 +1393,19 @@
 
 .homeu95mobsm .mobile {
   align-items: center;
-  flex: 0 0 auto;
-  width: 312px;
-}
-
-.homeu95mobsm .mobile-caption-section-1 {
-  flex: 0 0 auto;
-  justify-content: center;
+  height: 65px;
   margin-left: -24.00px;
   margin-right: -24.00px;
+  width: 360px;
+}
+
+.homeu95mobsm .mobile-caption-section {
+  align-items: center;
+  display: flex;
+  gap: 8px;
+  height: 16px;
+  justify-content: center;
+  position: relative;
   width: 360px;
 }
 
@@ -1417,8 +1414,7 @@
   flex-grow: 1;
 }
 
-.homeu95mobsm .discover-1 {
-  margin-top: -1.00px;
+.homeu95mobsm .discover {
   text-align: center;
 }
 
@@ -1426,9 +1422,8 @@
   align-items: flex-start;
   display: flex;
   flex: 0 0 auto;
+  gap: 10px;
   justify-content: center;
-  margin-left: -24.00px;
-  margin-right: -24.00px;
   position: relative;
   width: 360px;
 }
@@ -1491,27 +1486,18 @@
   width: 100%;
 }
 
-.homeu95mobsm .mobile-caption-section {
-  align-items: center;
-  align-self: stretch;
-  display: flex;
-  gap: 8px;
-  height: 16px;
+.homeu95mobsm .mobile-caption-section-1 {
   justify-content: flex-end;
-  position: relative;
-  width: 100%;
 }
 
-.homeu95mobsm .discover {
+.homeu95mobsm .discover-1 {
   text-align: right;
 }
 
 .homeu95mobsm .mobile-headline-section-1 {
   align-items: flex-start;
-  align-self: stretch;
   flex: 0 0 auto;
   justify-content: space-around;
-  width: 100%;
 }
 
 .homeu95mobsm .the-orchid-ecosystem-1 {
@@ -1586,17 +1572,9 @@
   width: 100%;
 }
 
-.homeu95mobsm .mobile-caption-section-2 {
-  align-self: stretch;
-  height: 16px;
-  width: 100%;
-}
-
 .homeu95mobsm .mobile-headline-section-2 {
   align-items: flex-start;
-  align-self: stretch;
   flex: 0 0 auto;
-  width: 100%;
 }
 
 .homeu95mobsm .the-orchid-ecosystem-2 {
@@ -1749,24 +1727,6 @@
   width: 360px;
 }
 
-.homeu95mobsm .mobile-caption-section-3 {
-  height: 16px;
-  justify-content: center;
-  width: 360px;
-}
-
-.homeu95mobsm .discover-3 {
-  text-align: center;
-}
-
-.homeu95mobsm .mobile-headline-section-3 {
-  align-items: flex-start;
-  flex: 0 0 auto;
-  gap: 10px;
-  justify-content: center;
-  width: 360px;
-}
-
 .homeu95mobsm .the-orchid-ecosystem-3 {
   color: var(--white);
   margin-top: -1.00px;
@@ -1863,12 +1823,10 @@
   width: 100%;
 }
 
-.homeu95mobsm .mobile-headline-section-4 {
+.homeu95mobsm .mobile-headline-section-3 {
   align-items: center;
-  align-self: stretch;
   height: 19px;
   justify-content: flex-end;
-  width: 100%;
 }
 
 .homeu95mobsm .the-orchid-ecosystem-4 {
@@ -2302,7 +2260,7 @@
   position: relative;
 }
 
-.homeu95mobsm .discover-4 {
+.homeu95mobsm .discover-3 {
   color: var(--white);
   font-weight: 600;
   line-height: 13.2px;
@@ -2330,16 +2288,21 @@
   position: relative;
 }
 
-.homeu95mobsm .mobile-caption-section-4 {
+.homeu95mobsm .mobile-caption-section-3 {
   align-items: center;
+  align-self: stretch;
   display: flex;
   gap: 8px;
+  height: 16px;
   position: relative;
+  width: 100%;
 }
 
-.homeu95mobsm .mobile-headline-section-5 {
+.homeu95mobsm .mobile-headline-section-4 {
+  align-self: stretch;
   display: flex;
   position: relative;
+  width: 100%;
 }
 
 .homeu95mobsm .overlap {
@@ -2508,11 +2471,11 @@
 
 .homeu95tab .mobile-5 {
   align-items: center;
-  flex: 0 0 auto;
+  height: 65px;
   width: 744px;
 }
 
-.homeu95tab .mobile-caption-section-4 {
+.homeu95tab .mobile-caption-section-3 {
   justify-content: center;
   width: 360px;
 }
@@ -2522,11 +2485,11 @@
   flex-grow: 1;
 }
 
-.homeu95tab .discover-4 {
+.homeu95tab .discover-3 {
   text-align: center;
 }
 
-.homeu95tab .mobile-headline-section-5 {
+.homeu95tab .mobile-headline-section-4 {
   align-items: flex-start;
   gap: 10px;
   justify-content: center;
@@ -2606,17 +2569,7 @@
   width: 100%;
 }
 
-.homeu95tab .mobile-caption-section-5 {
-  align-self: stretch;
-  justify-content: flex-end;
-  width: 100%;
-}
-
-.homeu95tab .discover-5 {
-  text-align: right;
-}
-
-.homeu95tab .mobile-headline-section-6 {
+.homeu95tab .mobile-headline-section-5 {
   align-items: flex-start;
   align-self: stretch;
   justify-content: space-around;
@@ -2692,12 +2645,12 @@
   width: 100%;
 }
 
-.homeu95tab .mobile-caption-section-6 {
+.homeu95tab .mobile-caption-section-5 {
   align-self: stretch;
   width: 100%;
 }
 
-.homeu95tab .mobile-headline-section-7 {
+.homeu95tab .mobile-headline-section-6 {
   align-items: flex-start;
   width: 360px;
 }
@@ -2842,12 +2795,6 @@
   width: 88px;
 }
 
-.homeu95tab .mobile-8 {
-  align-items: center;
-  height: 65px;
-  width: 744px;
-}
-
 .homeu95tab .the-orchid-ecosystem-8 {
   color: var(--white);
   text-align: center;
@@ -2926,14 +2873,14 @@
   width: 100%;
 }
 
-.homeu95tab .mobile-9 {
+.homeu95tab .mobile-8 {
   align-items: flex-end;
   align-self: stretch;
   flex: 0 0 auto;
   width: 100%;
 }
 
-.homeu95tab .mobile-headline-section-8 {
+.homeu95tab .mobile-headline-section-7 {
   align-items: center;
   justify-content: flex-end;
   width: 360px;
