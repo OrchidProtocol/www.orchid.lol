@@ -50,14 +50,6 @@
   color: var(--aquamarine);
 }
 
-.partners-all-breakpoints .line-10-2 {
-  align-self: stretch;
-  height: 1px;
-  object-fit: cover;
-  position: relative;
-  width: 100%;
-}
-
 .partners-all-breakpoints .partners-list-2 {
   align-items: center;
   align-self: stretch;

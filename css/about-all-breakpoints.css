@@ -306,12 +306,11 @@
 
 .about-all-breakpoints .desktop-header-section-full {
   align-items: center;
-  display: flex;
+  display: inline-flex;
   flex: 0 0 auto;
   flex-direction: column;
   gap: 24px;
   position: relative;
-  width: 1280px;
 }
 
 .about-all-breakpoints .desktop-caption-section {
@@ -877,12 +876,13 @@
 
 .aboutu95mobsm .mobile {
   align-items: center;
-  display: flex;
+  display: inline-flex;
   flex: 0 0 auto;
   flex-direction: column;
   gap: 8px;
+  margin-left: -40.00px;
+  margin-right: -40.00px;
   position: relative;
-  width: 280px;
 }
 
 .aboutu95mobsm .mobile-caption-section {
@@ -891,8 +891,6 @@
   gap: 8px;
   height: 16px;
   justify-content: center;
-  margin-left: -40.00px;
-  margin-right: -40.00px;
   position: relative;
   width: 360px;
 }
@@ -918,8 +916,6 @@
   flex: 0 0 auto;
   gap: 10px;
   justify-content: center;
-  margin-left: -40.00px;
-  margin-right: -40.00px;
   position: relative;
   width: 360px;
 }
@@ -1399,12 +1395,11 @@
 
 .aboutu95tabsm .mobile-1 {
   align-items: center;
-  display: flex;
+  display: inline-flex;
   flex: 0 0 auto;
   flex-direction: column;
   gap: 8px;
   position: relative;
-  width: 664px;
 }
 
 .aboutu95tabsm .mobile-caption-section-1 {
