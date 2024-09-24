@@ -408,13 +408,12 @@
 
 .how-all-breakpoints .desktop-header-section-full-1 {
   align-items: center;
-  align-self: stretch;
   display: flex;
   flex: 0 0 auto;
   flex-direction: column;
   gap: 24px;
   position: relative;
-  width: 100%;
+  width: 1280px;
 }
 
 .how-all-breakpoints .desktop-caption-section-1 {
@@ -920,13 +919,7 @@
 }
 
 .howu95mobsm .mobile {
-  align-items: center;
   align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 8px;
-  position: relative;
   width: 100%;
 }
 
@@ -1119,6 +1112,10 @@
   font-weight: 300;
   line-height: 18.0px;
   position: relative;
+}
+
+.howu95mobsm .mobile-1 {
+  width: 312px;
 }
 
 .howu95mobsm .mobile-caption-section-1 {
@@ -1447,6 +1444,17 @@
   position: relative;
 }
 
+.howu95mobsm .learn-more-3 {
+  color: var(--white);
+  font-weight: 700;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
 .howu95mobsm .line-1 {
   height: 1px;
   object-fit: cover;
@@ -1455,6 +1463,15 @@
 
 .howu95mobsm .link-2 {
   cursor: pointer;
+  position: relative;
+}
+
+.howu95mobsm .mobile-2 {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
   position: relative;
 }
 
@@ -1575,14 +1592,8 @@
   width: 100%;
 }
 
-.howu95tabsm .mobile-1 {
-  align-items: center;
+.howu95tabsm .mobile-2 {
   align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 8px;
-  position: relative;
   width: 100%;
 }
 
@@ -1752,6 +1763,10 @@
   font-weight: 300;
   line-height: 18.0px;
   position: relative;
+}
+
+.howu95tabsm .mobile-3 {
+  width: 696px;
 }
 
 .howu95tabsm .mobile-caption-section-3 {
@@ -2040,6 +2055,15 @@
 
 .howu95tabsm .link {
   cursor: pointer;
+  position: relative;
+}
+
+.howu95tabsm .mobile {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
   position: relative;
 }
 

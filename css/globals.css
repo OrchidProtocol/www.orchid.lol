@@ -425,17 +425,6 @@
   width: 42px;
 }
 
-.learn-more-3 {
-  color: var(--white);
-  font-weight: 700;
-  line-height: 24px;
-  margin-top: -1.00px;
-  position: relative;
-  text-align: center;
-  white-space: nowrap;
-  width: fit-content;
-}
-
 .build-4 {
   color: var(--white);
   font-weight: 700;
@@ -513,6 +502,16 @@
   margin-right: -48.00px;
   position: relative;
   width: 281px;
+}
+
+.policy-1 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  padding: 0px 40px;
+  position: relative;
 }
 
 .copy-item-1 {
