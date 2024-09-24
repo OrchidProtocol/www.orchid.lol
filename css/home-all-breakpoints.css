@@ -166,13 +166,12 @@
 
 .home-all-breakpoints .desktop-caption-section {
   align-items: center;
-  align-self: stretch;
   display: flex;
   flex: 0 0 auto;
   gap: 40px;
   justify-content: center;
   position: relative;
-  width: 100%;
+  width: 1280px;
 }
 
 .home-all-breakpoints .line-4 {
@@ -194,13 +193,12 @@
 
 .home-all-breakpoints .desktop-headline-section {
   align-items: center;
-  align-self: stretch;
   display: flex;
   flex: 0 0 auto;
   justify-content: center;
   padding: 0px 0px 24px;
   position: relative;
-  width: 100%;
+  width: 1280px;
 }
 
 .home-all-breakpoints .two-color-headline-1 {
@@ -1222,6 +1220,16 @@
   position: relative;
 }
 
+.home-all-breakpoints .desktop-caption-section-3 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 40px;
+  position: relative;
+  width: 100%;
+}
+
 .home-all-breakpoints .desktop-headline-section-3 {
   align-items: flex-start;
   align-self: stretch;
@@ -1399,6 +1407,9 @@
 .homeu95mobsm .mobile-caption-section-1 {
   flex: 0 0 auto;
   justify-content: center;
+  margin-left: -24.00px;
+  margin-right: -24.00px;
+  width: 360px;
 }
 
 .homeu95mobsm .line {
@@ -1413,12 +1424,13 @@
 
 .homeu95mobsm .mobile-headline-section {
   align-items: flex-start;
-  align-self: stretch;
   display: flex;
   flex: 0 0 auto;
   justify-content: center;
+  margin-left: -24.00px;
+  margin-right: -24.00px;
   position: relative;
-  width: 100%;
+  width: 360px;
 }
 
 .homeu95mobsm .the-orchid-ecosystem {
@@ -1575,7 +1587,9 @@
 }
 
 .homeu95mobsm .mobile-caption-section-2 {
+  align-self: stretch;
   height: 16px;
+  width: 100%;
 }
 
 .homeu95mobsm .mobile-headline-section-2 {
@@ -1738,6 +1752,7 @@
 .homeu95mobsm .mobile-caption-section-3 {
   height: 16px;
   justify-content: center;
+  width: 360px;
 }
 
 .homeu95mobsm .discover-3 {
@@ -2317,11 +2332,9 @@
 
 .homeu95mobsm .mobile-caption-section-4 {
   align-items: center;
-  align-self: stretch;
   display: flex;
   gap: 8px;
   position: relative;
-  width: 100%;
 }
 
 .homeu95mobsm .mobile-headline-section-5 {
@@ -2501,6 +2514,7 @@
 
 .homeu95tab .mobile-caption-section-4 {
   justify-content: center;
+  width: 360px;
 }
 
 .homeu95tab .line-2 {
@@ -2514,10 +2528,9 @@
 
 .homeu95tab .mobile-headline-section-5 {
   align-items: flex-start;
-  align-self: stretch;
   gap: 10px;
   justify-content: center;
-  width: 100%;
+  width: 360px;
 }
 
 .homeu95tab .the-orchid-ecosystem-6 {
@@ -2594,7 +2607,9 @@
 }
 
 .homeu95tab .mobile-caption-section-5 {
+  align-self: stretch;
   justify-content: flex-end;
+  width: 100%;
 }
 
 .homeu95tab .discover-5 {
@@ -2674,6 +2689,11 @@
   align-items: flex-start;
   align-self: stretch;
   height: 75px;
+  width: 100%;
+}
+
+.homeu95tab .mobile-caption-section-6 {
+  align-self: stretch;
   width: 100%;
 }
 
@@ -2828,13 +2848,6 @@
   width: 744px;
 }
 
-.homeu95tab .mobile-headline-section-8 {
-  align-items: flex-start;
-  gap: 10px;
-  justify-content: center;
-  width: 360px;
-}
-
 .homeu95tab .the-orchid-ecosystem-8 {
   color: var(--white);
   text-align: center;
@@ -2920,7 +2933,7 @@
   width: 100%;
 }
 
-.homeu95tab .mobile-headline-section-9 {
+.homeu95tab .mobile-headline-section-8 {
   align-items: center;
   justify-content: flex-end;
   width: 360px;
@@ -3360,12 +3373,10 @@
 
 .homeu95tab .mobile-caption-section {
   align-items: center;
-  align-self: stretch;
   display: flex;
   gap: 8px;
   height: 16px;
   position: relative;
-  width: 100%;
 }
 
 .homeu95tab .mobile-headline-section {

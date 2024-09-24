@@ -254,16 +254,15 @@
   text-align: center;
 }
 
-.how-all-breakpoints .how-all-breakpoints-item {
+.how-all-breakpoints .features-1 {
   align-items: center;
-  align-self: stretch;
   display: flex;
   flex: 0 0 auto;
   flex-direction: column;
   gap: 40px;
   padding: 0px 80px;
   position: relative;
-  width: 100%;
+  width: 1440px;
 }
 
 .how-all-breakpoints .frame-485 {
@@ -421,6 +420,18 @@
   letter-spacing: 0.08px;
 }
 
+.how-all-breakpoints .faq-1 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 40px;
+  padding: 0px 80px;
+  position: relative;
+  width: 100%;
+}
+
 .how-all-breakpoints .title-4 {
   align-items: center;
   display: flex;
@@ -442,13 +453,12 @@
 
 .how-all-breakpoints .desktop-caption-section-1 {
   align-items: center;
-  align-self: stretch;
   display: flex;
   flex: 0 0 auto;
   gap: 40px;
   justify-content: center;
   position: relative;
-  width: 100%;
+  width: 1280px;
 }
 
 .how-all-breakpoints .caption-1 {
@@ -464,13 +474,12 @@
 
 .how-all-breakpoints .desktop-headline-section-1 {
   align-items: center;
-  align-self: stretch;
   display: flex;
   flex: 0 0 auto;
   justify-content: center;
   padding: 0px 0px 24px;
   position: relative;
-  width: 100%;
+  width: 1280px;
 }
 
 .how-all-breakpoints .two-color-headline-1 {
@@ -1125,13 +1134,14 @@
 
 .howu95mobsm .mobile-caption-section-1 {
   align-items: center;
-  align-self: stretch;
   display: flex;
   gap: 8px;
   height: 16px;
   justify-content: center;
+  margin-left: -24.00px;
+  margin-right: -24.00px;
   position: relative;
-  width: 100%;
+  width: 360px;
 }
 
 .howu95mobsm .discover-1 {
@@ -1426,15 +1436,6 @@
   width: 100%;
 }
 
-.howu95mobsm .discover-2 {
-  color: var(--white);
-  font-weight: 600;
-  line-height: 13.2px;
-  position: relative;
-  white-space: nowrap;
-  width: fit-content;
-}
-
 .howu95mobsm .frame {
   align-items: flex-start;
   display: flex;
@@ -1579,19 +1580,23 @@
   margin-right: -6.00px;
 }
 
-.howu95tabsm .howu95tabsm-item {
+.howu95tabsm .features {
   align-items: center;
-  align-self: stretch;
   display: flex;
   flex: 0 0 auto;
   flex-direction: column;
   gap: 24px;
   padding: 0px 24px;
   position: relative;
-  width: 100%;
+  width: 744px;
 }
 
 .howu95tabsm .mobile-2 {
+  align-self: stretch;
+  width: 100%;
+}
+
+.howu95tabsm .mobile-caption-section-2 {
   align-self: stretch;
   width: 100%;
 }
@@ -1762,12 +1767,25 @@
   position: relative;
 }
 
+.howu95tabsm .faq {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  padding: 0px 24px;
+  position: relative;
+  width: 100%;
+}
+
 .howu95tabsm .mobile-3 {
   width: 696px;
 }
 
 .howu95tabsm .mobile-caption-section-3 {
   justify-content: center;
+  width: 360px;
 }
 
 .howu95tabsm .discover-3 {
@@ -2071,12 +2089,10 @@
 
 .howu95tabsm .mobile-caption-section {
   align-items: center;
-  align-self: stretch;
   display: flex;
   gap: 8px;
   height: 16px;
   position: relative;
-  width: 100%;
 }
 
 .howu95tabsm .mobile-headline-section {
