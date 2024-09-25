@@ -323,6 +323,11 @@
   width: 1280px;
 }
 
+.about-all-breakpoints .line-5 {
+  flex: 1;
+  flex-grow: 1;
+}
+
 .about-all-breakpoints .caption {
   color: var(--white);
   font-weight: 600;
