@@ -169,6 +169,14 @@
   text-align: center;
 }
 
+.x404u95dt .line-10-2 {
+  align-self: stretch;
+  height: 1px;
+  object-fit: cover;
+  position: relative;
+  width: 100%;
+}
+
 .x404u95dt .frame-586-2 {
   align-self: stretch;
   display: flex;
@@ -360,6 +368,14 @@
   position: relative;
 }
 
+.x404u95dt .social-link-github-2 {
+  cursor: pointer;
+  height: 33px;
+  margin-bottom: -1.00px;
+  position: relative;
+  width: 32px;
+}
+
 .x404u95dt .apps {
   color: var(--white);
   font-weight: 700;
@@ -549,17 +565,6 @@
   width: fit-content;
 }
 
-.x404u95tabsm .content-1 {
-  align-items: flex-start;
-  align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 24px;
-  position: relative;
-  width: 100%;
-}
-
 .x404u95tabsm .logo-1 {
   align-items: flex-start;
   display: inline-flex;
@@ -684,14 +689,6 @@
 .x404u95tabsm .social-link-1 {
   cursor: pointer;
   height: 32px;
-  position: relative;
-  width: 32px;
-}
-
-.x404u95tabsm .social-link-github-1 {
-  cursor: pointer;
-  height: 33px;
-  margin-bottom: -1.00px;
   position: relative;
   width: 32px;
 }

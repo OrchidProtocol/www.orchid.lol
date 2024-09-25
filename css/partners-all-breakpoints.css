@@ -50,6 +50,14 @@
   color: var(--aquamarine);
 }
 
+.partners-all-breakpoints .line-10-2 {
+  align-self: stretch;
+  height: 1px;
+  object-fit: cover;
+  position: relative;
+  width: 100%;
+}
+
 .partners-all-breakpoints .partners-list-2 {
   align-items: center;
   align-self: stretch;
@@ -102,17 +110,6 @@
   cursor: pointer;
   font-weight: 700;
   line-height: 16.5px;
-}
-
-.partners-all-breakpoints .content-1 {
-  align-items: flex-start;
-  align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 24px;
-  position: relative;
-  width: 100%;
 }
 
 .partners-all-breakpoints .logo-2 {
@@ -228,6 +225,14 @@
   padding: 24px 0px 0px;
   position: relative;
   width: 100%;
+}
+
+.partners-all-breakpoints .social-link-github-2 {
+  cursor: pointer;
+  height: 33px;
+  margin-bottom: -1.00px;
+  position: relative;
+  width: 32px;
 }
 
 .partners-all-breakpoints .apps {
@@ -902,14 +907,6 @@
 .partnersu95tabsm .social-link-1 {
   cursor: pointer;
   height: 32px;
-  position: relative;
-  width: 32px;
-}
-
-.partnersu95tabsm .social-link-github-1 {
-  cursor: pointer;
-  height: 33px;
-  margin-bottom: -1.00px;
   position: relative;
   width: 32px;
 }
