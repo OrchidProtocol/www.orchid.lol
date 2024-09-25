@@ -1,5 +1,5 @@
 @import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
-@import url("https://fonts.googleapis.com/css?family=Figtree:700,600,300,800,500,400");
+@import url("https://fonts.googleapis.com/css?family=Figtree:400,600,300,500,700");
 /* The following line is used to measure usage of this code. You can remove it if you want. */
 @import url("https://px.animaapp.com/5e2a282a592dee7a2550cfd0.5ea6adb733c33a7ced6f8c4d.fO9Ui2A.hcp.png");
 
@@ -64,93 +64,65 @@
   box-sizing: border-box;
 }
 
-.ellipse-28 {
-  background-color: var(--cod-gray);
-  border-radius: 310px;
-  height: 620px;
-  left: 0;
-  position: absolute;
-  top: 0;
-  width: 620px;
-}
-
-.desktop-header {
-  align-items: center;
-  align-self: stretch;
-  display: flex;
-  height: 96px;
-  justify-content: space-between;
-  padding: 24px 80px;
-  position: relative;
-  width: 100%;
-}
-
-.desktop-header-top-nav {
-  align-items: flex-start;
-  display: flex;
-  flex: 1;
-  flex-grow: 1;
-  flex-wrap: wrap;
-  gap: 60px 48px;
-  height: 14px;
-  justify-content: center;
-  position: relative;
-}
-
-.desktop-button-top-nav {
-  align-items: center;
+.close-icon {
   cursor: pointer;
-  display: flex;
-  gap: 10px;
-  justify-content: center;
+  height: 24px;
   position: relative;
-  width: 90px;
+  width: 24px;
 }
 
-.button-label {
+.account {
   color: var(--white);
   font-weight: 700;
-  line-height: 14.4px;
-  margin-top: -1.00px;
+  line-height: 22.4px;
+  margin-right: -48.00px;
   position: relative;
-  text-align: center;
-  white-space: nowrap;
-  width: fit-content;
+  width: 281px;
 }
 
-.contents {
-  align-items: flex-start;
-  align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 24px;
-  position: relative;
-  width: 100%;
-}
-
-.dapp {
-  display: flex;
-  height: 22px;
-  position: relative;
-  width: 198px;
-}
-
-.social-link {
-  cursor: pointer;
-  height: 32px;
-  position: relative;
-  width: 32px;
-}
-
-.build-5 {
+.account-1 {
   color: var(--white);
   font-weight: 700;
-  line-height: 14.4px;
-  margin-top: -1.00px;
+  line-height: 22.4px;
+  margin-right: -48.00px;
   position: relative;
-  white-space: nowrap;
-  width: fit-content;
+  width: 281px;
+}
+
+.storchid {
+  color: var(--white);
+  font-weight: 700;
+  line-height: 22.4px;
+  margin-right: -48.00px;
+  position: relative;
+  width: 281px;
+}
+
+.how {
+  color: var(--white);
+  font-weight: 700;
+  line-height: 22.4px;
+  margin-right: -48.00px;
+  position: relative;
+  width: 281px;
+}
+
+.about {
+  color: var(--white);
+  font-weight: 700;
+  line-height: 22.4px;
+  margin-right: -48.00px;
+  position: relative;
+  width: 281px;
+}
+
+.docs {
+  color: var(--white);
+  font-weight: 700;
+  line-height: 22.4px;
+  margin-right: -48.00px;
+  position: relative;
+  width: 281px;
 }
 
 .orchid-icon {
@@ -214,6 +186,139 @@
   width: 100%;
 }
 
+.social-link {
+  cursor: pointer;
+  height: 32px;
+  position: relative;
+  width: 32px;
+}
+
+.desktop-header {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  height: 96px;
+  justify-content: space-between;
+  padding: 24px 80px;
+  position: relative;
+  width: 100%;
+}
+
+.desktop-header-top-nav {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  flex-wrap: wrap;
+  gap: 60px 48px;
+  height: 14px;
+  justify-content: center;
+  position: relative;
+}
+
+.desktop-button-top-nav {
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  position: relative;
+  width: 90px;
+}
+
+.build {
+  color: var(--white);
+  font-weight: 700;
+  line-height: 14.4px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.button-label {
+  color: var(--white);
+  font-weight: 700;
+  line-height: 14.4px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.desktop-button-hero {
+  background-image: url(../img/rectangle-6-43@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 80px;
+  width: 360px;
+}
+
+.label {
+  color: var(--white);
+  font-weight: 700;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.contents {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  position: relative;
+  width: 100%;
+}
+
+.dapp {
+  display: flex;
+  height: 22px;
+  position: relative;
+  width: 198px;
+}
+
+.social-link-github-2 {
+  cursor: pointer;
+  height: 33px;
+  margin-bottom: -1.00px;
+  position: relative;
+  width: 32px;
+}
+
+.social-link-reddit-1 {
+  cursor: pointer;
+  height: 32px;
+  position: relative;
+  width: 32px;
+}
+
+.build-5 {
+  color: var(--white);
+  font-weight: 700;
+  line-height: 14.4px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.caption-3 {
+  color: var(--white);
+  font-weight: 600;
+  line-height: 22.0px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
 .orchid-icon-1 {
   cursor: pointer;
   height: 24px;
@@ -228,36 +333,13 @@
   width: 24px;
 }
 
-.mobile-caption-section-4 {
-  align-self: stretch;
-  justify-content: flex-end;
-  width: 100%;
+.line-5 {
+  flex: 1;
+  flex-grow: 1;
 }
 
 .discover-4 {
   text-align: right;
-}
-
-.accounts-1 {
-  align-items: center;
-  align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 8px;
-  position: relative;
-  width: 100%;
-}
-
-.directory-1 {
-  align-items: center;
-  align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 8px;
-  position: relative;
-  width: 100%;
 }
 
 .app-store {
@@ -305,15 +387,9 @@
   width: 100%;
 }
 
-.content-1 {
-  align-items: flex-start;
-  align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 24px;
+.desktop-home-logo-3 {
+  height: 36px;
   position: relative;
-  width: 100%;
 }
 
 .frame-532-1 {
@@ -328,48 +404,8 @@
   width: 100%;
 }
 
-.social-link-github-1 {
-  cursor: pointer;
-  height: 33px;
-  margin-bottom: -1.00px;
-  position: relative;
-  width: 32px;
-}
-
-.social-link-reddit-1 {
-  cursor: pointer;
-  height: 32px;
-  position: relative;
-  width: 32px;
-}
-
-.build {
-  color: var(--white);
-  font-weight: 700;
-  line-height: 14.4px;
-  margin-top: -1.00px;
-  position: relative;
-  white-space: nowrap;
-  width: fit-content;
-}
-
-.desktop-button-hero {
-  background-image: url(../img/rectangle-6-43@2x.png);
-  background-size: 100% 100%;
-  display: flex;
-  height: 80px;
-  width: 360px;
-}
-
-.label {
-  color: var(--white);
-  font-weight: 700;
-  line-height: 24px;
-  margin-top: -1.00px;
-  position: relative;
-  text-align: center;
-  white-space: nowrap;
-  width: fit-content;
+.apps-16 {
+  width: 42px;
 }
 
 .social-link-2 {
@@ -386,22 +422,14 @@
   width: 32px;
 }
 
-.caption-3 {
-  color: var(--white);
-  font-weight: 600;
-  line-height: 22.0px;
-  margin-top: -1.00px;
-  position: relative;
-  white-space: nowrap;
-  width: fit-content;
-}
-
-.desktop-caption-section-3 {
-  align-items: center;
-  align-self: stretch;
-  flex: 0 0 auto;
-  gap: 40px;
-  position: relative;
+.ellipse-28 {
+  background-color: var(--cod-gray);
+  border-radius: 310px;
+  height: 620px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 620px;
 }
 
 .features {
@@ -435,15 +463,6 @@
   width: 100%;
 }
 
-.desktop-home-logo-3 {
-  height: 36px;
-  position: relative;
-}
-
-.apps-16 {
-  width: 42px;
-}
-
 .build-4 {
   color: var(--white);
   font-weight: 700;
@@ -460,67 +479,6 @@
   justify-content: center;
   position: relative;
   width: 801px;
-}
-
-.close-icon {
-  cursor: pointer;
-  height: 24px;
-  position: relative;
-  width: 24px;
-}
-
-.account {
-  color: var(--white);
-  font-weight: 700;
-  line-height: 22.4px;
-  margin-right: -48.00px;
-  position: relative;
-  width: 281px;
-}
-
-.account-1 {
-  color: var(--white);
-  font-weight: 700;
-  line-height: 22.4px;
-  margin-right: -48.00px;
-  position: relative;
-  width: 281px;
-}
-
-.storchid {
-  color: var(--white);
-  font-weight: 700;
-  line-height: 22.4px;
-  margin-right: -48.00px;
-  position: relative;
-  width: 281px;
-}
-
-.how {
-  color: var(--white);
-  font-weight: 700;
-  line-height: 22.4px;
-  margin-right: -48.00px;
-  position: relative;
-  width: 281px;
-}
-
-.about {
-  color: var(--white);
-  font-weight: 700;
-  line-height: 22.4px;
-  margin-right: -48.00px;
-  position: relative;
-  width: 281px;
-}
-
-.docs {
-  color: var(--white);
-  font-weight: 700;
-  line-height: 22.4px;
-  margin-right: -48.00px;
-  position: relative;
-  width: 281px;
 }
 
 .policy-1 {

@@ -670,14 +670,6 @@
   position: relative;
 }
 
-.privacy-policyu95dt .social-link-github-2 {
-  cursor: pointer;
-  height: 33px;
-  margin-bottom: -1.00px;
-  position: relative;
-  width: 32px;
-}
-
 .privacy-policyu95dt .apps {
   color: var(--white);
   font-weight: 700;
@@ -819,6 +811,17 @@
   width: 100%;
 }
 
+.privacy-policyu95tabsm .content-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  position: relative;
+  width: 100%;
+}
+
 .privacy-policyu95tabsm .logo-1 {
   align-items: flex-start;
   display: inline-flex;
@@ -943,6 +946,14 @@
 .privacy-policyu95tabsm .social-link-1 {
   cursor: pointer;
   height: 32px;
+  position: relative;
+  width: 32px;
+}
+
+.privacy-policyu95tabsm .social-link-github-1 {
+  cursor: pointer;
+  height: 33px;
+  margin-bottom: -1.00px;
   position: relative;
   width: 32px;
 }

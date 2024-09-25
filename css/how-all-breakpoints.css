@@ -703,14 +703,6 @@
   position: relative;
 }
 
-.how-all-breakpoints .social-link-github-2 {
-  cursor: pointer;
-  height: 33px;
-  margin-bottom: -1.00px;
-  position: relative;
-  width: 32px;
-}
-
 .how-all-breakpoints .apps {
   color: var(--white);
   font-weight: 700;
@@ -1869,6 +1861,17 @@
   display: inline-flex;
 }
 
+.howu95tabsm .content-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  position: relative;
+  width: 100%;
+}
+
 .howu95tabsm .logo-1 {
   align-items: flex-start;
   display: inline-flex;
@@ -1991,6 +1994,14 @@
 .howu95tabsm .social-link-1 {
   cursor: pointer;
   height: 32px;
+  position: relative;
+  width: 32px;
+}
+
+.howu95tabsm .social-link-github-1 {
+  cursor: pointer;
+  height: 33px;
+  margin-bottom: -1.00px;
   position: relative;
   width: 32px;
 }

@@ -323,11 +323,6 @@
   width: 1280px;
 }
 
-.about-all-breakpoints .line-5 {
-  flex: 1;
-  flex-grow: 1;
-}
-
 .about-all-breakpoints .caption {
   color: var(--white);
   font-weight: 600;
@@ -598,14 +593,6 @@
   gap: 24px 40px;
   justify-content: flex-end;
   position: relative;
-}
-
-.about-all-breakpoints .social-link-github-2 {
-  cursor: pointer;
-  height: 33px;
-  margin-bottom: -1.00px;
-  position: relative;
-  width: 32px;
 }
 
 .about-all-breakpoints .apps {
@@ -1552,6 +1539,17 @@
   justify-content: flex-end;
 }
 
+.aboutu95tabsm .content-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  position: relative;
+  width: 100%;
+}
+
 .aboutu95tabsm .logo-3 {
   align-items: flex-start;
   display: inline-flex;
@@ -1676,6 +1674,14 @@
 .aboutu95tabsm .social-link-1 {
   cursor: pointer;
   height: 32px;
+  position: relative;
+  width: 32px;
+}
+
+.aboutu95tabsm .social-link-github-1 {
+  cursor: pointer;
+  height: 33px;
+  margin-bottom: -1.00px;
   position: relative;
   width: 32px;
 }

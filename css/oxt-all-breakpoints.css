@@ -662,6 +662,14 @@
   width: 32px;
 }
 
+.oxt-all-breakpoints .social-link-github-1 {
+  cursor: pointer;
+  height: 33px;
+  margin-bottom: -1.00px;
+  position: relative;
+  width: 32px;
+}
+
 .oxt-all-breakpoints .apps {
   color: var(--white);
   font-weight: 700;
@@ -1548,6 +1556,17 @@
   width: 696px;
 }
 
+.oxtu95tabsm .content-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  position: relative;
+  width: 100%;
+}
+
 .oxtu95tabsm .logo-2 {
   align-items: flex-start;
   display: inline-flex;
@@ -1655,14 +1674,6 @@
   padding: 24px 0px 0px;
   position: relative;
   width: 100%;
-}
-
-.oxtu95tabsm .social-link-github-2 {
-  cursor: pointer;
-  height: 33px;
-  margin-bottom: -1.00px;
-  position: relative;
-  width: 32px;
 }
 
 .oxtu95tabsm .about-orchid {
