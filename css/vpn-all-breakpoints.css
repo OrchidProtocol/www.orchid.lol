@@ -914,23 +914,6 @@
   position: relative;
 }
 
-.vpn-all-breakpoints .social-link-github-2 {
-  align-items: center;
-  border-radius: 40px;
-  cursor: pointer;
-  display: flex;
-  height: 32px;
-  justify-content: center;
-  position: relative;
-  width: 32px;
-}
-
-.vpn-all-breakpoints .github-2 {
-  height: 32px;
-  margin-top: 2px;
-  width: 32px;
-}
-
 .vpn-all-breakpoints .social-link-reddit-2 {
   background-image: url(../img/combined-shape-5@2x.png);
   background-size: 100% 100%;
@@ -1042,43 +1025,6 @@
   gap: 100px;
   min-width: 360px;
   position: relative;
-}
-
-.vpnu95mobsm .mobile-nav-header {
-  align-items: flex-start;
-  align-self: stretch;
-  display: flex;
-  gap: 10px;
-  height: 88px;
-  justify-content: space-around;
-  padding: 32px 24px;
-  position: relative;
-  width: 100%;
-}
-
-.vpnu95mobsm .frame-590 {
-  align-items: center;
-  flex: 1;
-  flex-grow: 1;
-  justify-content: space-between;
-}
-
-.vpnu95mobsm .orchid-icon {
-  align-items: center;
-  cursor: pointer;
-  display: flex;
-  height: 24px;
-  justify-content: center;
-  position: relative;
-  width: 28.47px;
-}
-
-.vpnu95mobsm .vector {
-  flex: 1;
-  height: 14px;
-  margin-left: 12.5%;
-  margin-right: 12.5%;
-  width: 18px;
 }
 
 .vpnu95mobsm .hero {
@@ -1262,19 +1208,15 @@
 }
 
 .vpnu95mobsm .frame-518 {
-  align-items: flex-start;
-  align-self: stretch;
   background-color: var(--black-2);
   border: 1px solid;
   border-color: var(--true-v);
   border-radius: 16px;
-  flex: 0 0 auto;
   flex-direction: column;
   gap: 16px;
   justify-content: center;
   overflow: hidden;
   padding: 24px;
-  width: 100%;
 }
 
 .vpnu95mobsm .intro-copy {
@@ -1455,6 +1397,10 @@
   width: 100%;
 }
 
+.vpnu95mobsm .frame-56 {
+  gap: 16px;
+}
+
 .vpnu95mobsm .intro-copy-3 {
   color: var(--white);
   flex: 1;
@@ -1462,6 +1408,16 @@
   line-height: 19.8px;
   margin-top: -1.00px;
   position: relative;
+}
+
+.vpnu95mobsm .line-8-1 {
+  align-self: stretch;
+  height: 1px;
+  margin-left: -0.50px;
+  margin-right: -0.50px;
+  object-fit: cover;
+  position: relative;
+  width: 100%;
 }
 
 .vpnu95mobsm .intro-copy-4 {
@@ -1490,15 +1446,6 @@
   padding: 24px 0px 0px;
   position: relative;
   width: 322px;
-}
-
-.vpnu95mobsm .google-play-1 {
-  background-image: url(../img/google-play-badge-2@2x.png);
-  background-size: 100% 100%;
-  cursor: pointer;
-  height: 42px;
-  position: relative;
-  width: 144px;
 }
 
 .vpnu95mobsm .content {
@@ -1556,13 +1503,9 @@
 }
 
 .vpnu95mobsm .frame-532 {
-  align-items: flex-start;
-  align-self: stretch;
-  flex: 0 0 auto;
   flex-direction: column;
   gap: 32px;
   padding: 24px 0px;
-  width: 100%;
 }
 
 .vpnu95mobsm .frame-532-item {
@@ -1655,17 +1598,10 @@
   width: 32px;
 }
 
-.vpnu95mobsm .vector-1 {
+.vpnu95mobsm .vector {
   height: 20px;
   margin-left: -1px;
   width: 19px;
-}
-
-.vpnu95mobsm .vector-2 {
-  height: 16px;
-  margin-left: -0.3px;
-  margin-top: 0;
-  width: 21px;
 }
 
 .vpnu95mobsm .social-link-github {
@@ -1716,8 +1652,12 @@
 }
 
 .vpnu95mobsm .frame {
+  align-items: flex-start;
+  align-self: stretch;
   display: flex;
+  flex: 0 0 auto;
   position: relative;
+  width: 100%;
 }
 
 .vpnu95mobsm .hero-1 {
@@ -1760,26 +1700,6 @@
   gap: 120px;
   min-width: 744px;
   position: relative;
-}
-
-.vpnu95tabsm .mobile-nav-header-1 {
-  align-items: flex-start;
-  align-self: stretch;
-  display: flex;
-  gap: 10px;
-  height: 88px;
-  justify-content: space-around;
-  padding: 32px 60px;
-  position: relative;
-  width: 100%;
-}
-
-.vpnu95tabsm .vector-3 {
-  flex: 1;
-  height: 14px;
-  margin-left: 12.5%;
-  margin-right: 12.5%;
-  width: 18px;
 }
 
 .vpnu95tabsm .hero-1 {
@@ -2394,17 +2314,15 @@
   width: 32px;
 }
 
-.vpnu95tabsm .vector-4 {
-  height: 20px;
-  margin-left: -1px;
-  width: 19px;
-}
-
-.vpnu95tabsm .vector-5 {
-  height: 16px;
-  margin-left: -0.3px;
-  margin-top: 0;
-  width: 21px;
+.vpnu95tabsm .social-link-github-1 {
+  align-items: center;
+  border-radius: 40px;
+  cursor: pointer;
+  display: flex;
+  height: 32px;
+  justify-content: center;
+  position: relative;
+  width: 32px;
 }
 
 .vpnu95tabsm .social-link-reddit-1 {

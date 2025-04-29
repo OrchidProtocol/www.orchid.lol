@@ -752,23 +752,6 @@
   position: relative;
 }
 
-.how-all-breakpoints .social-link-github-2 {
-  align-items: center;
-  border-radius: 40px;
-  cursor: pointer;
-  display: flex;
-  height: 32px;
-  justify-content: center;
-  position: relative;
-  width: 32px;
-}
-
-.how-all-breakpoints .github-2 {
-  height: 32px;
-  margin-top: 2px;
-  width: 32px;
-}
-
 .how-all-breakpoints .social-link-reddit-2 {
   background-image: url(../img/combined-shape@2x.png);
   background-size: 100% 100%;
@@ -872,43 +855,6 @@
   position: relative;
 }
 
-.howu95mobsm .mobile-nav-header {
-  align-items: flex-start;
-  align-self: stretch;
-  display: flex;
-  gap: 10px;
-  height: 88px;
-  justify-content: space-around;
-  padding: 32px 24px;
-  position: relative;
-  width: 100%;
-}
-
-.howu95mobsm .frame-590 {
-  align-items: center;
-  flex: 1;
-  flex-grow: 1;
-  justify-content: space-between;
-}
-
-.howu95mobsm .orchid-icon {
-  align-items: center;
-  cursor: pointer;
-  display: flex;
-  height: 24px;
-  justify-content: center;
-  position: relative;
-  width: 28.47px;
-}
-
-.howu95mobsm .vector {
-  flex: 1;
-  height: 14px;
-  margin-left: 12.5%;
-  margin-right: 12.5%;
-  width: 18px;
-}
-
 .howu95mobsm .hero {
   align-items: flex-start;
   align-self: stretch;
@@ -922,7 +868,6 @@
 }
 
 .howu95mobsm .frame-403 {
-  align-items: flex-start;
   flex: 1;
   flex-direction: column;
   flex-grow: 1;
@@ -1085,7 +1030,6 @@
 }
 
 .howu95mobsm .frame-57 {
-  align-items: flex-start;
   align-self: stretch;
   flex: 0 0 auto;
   gap: 16px;
@@ -1297,7 +1241,6 @@
 }
 
 .howu95mobsm .frame-58 {
-  align-items: flex-start;
   align-self: stretch;
   flex: 0 0 auto;
   gap: 24px;
@@ -1434,7 +1377,6 @@
 }
 
 .howu95mobsm .frame-532 {
-  align-items: flex-start;
   align-self: stretch;
   flex: 0 0 auto;
   flex-direction: column;
@@ -1531,17 +1473,10 @@
   width: 32px;
 }
 
-.howu95mobsm .vector-1 {
+.howu95mobsm .vector {
   height: 20px;
   margin-left: -1px;
   width: 19px;
-}
-
-.howu95mobsm .vector-2 {
-  height: 16px;
-  margin-left: -0.3px;
-  margin-top: 0;
-  width: 21px;
 }
 
 .howu95mobsm .social-link-github {
@@ -1594,6 +1529,7 @@
 }
 
 .howu95mobsm .frame {
+  align-items: flex-start;
   display: flex;
   position: relative;
 }
@@ -1636,26 +1572,6 @@
   gap: 120px;
   min-width: 744px;
   position: relative;
-}
-
-.howu95tabsm .mobile-nav-header-1 {
-  align-items: flex-start;
-  align-self: stretch;
-  display: flex;
-  gap: 10px;
-  height: 88px;
-  justify-content: space-around;
-  padding: 32px 60px;
-  position: relative;
-  width: 100%;
-}
-
-.howu95tabsm .vector-3 {
-  flex: 1;
-  height: 14px;
-  margin-left: 12.5%;
-  margin-right: 12.5%;
-  width: 18px;
 }
 
 .howu95tabsm .hero-1 {
@@ -1799,6 +1715,16 @@
   line-height: 19.8px;
   margin-top: -1.00px;
   position: relative;
+}
+
+.howu95tabsm .line-8-1 {
+  align-self: stretch;
+  height: 1px;
+  margin-left: -0.50px;
+  margin-right: -0.50px;
+  object-fit: cover;
+  position: relative;
+  width: 100%;
 }
 
 .howu95tabsm .intro-copy-12 {
@@ -2175,17 +2101,15 @@
   width: 32px;
 }
 
-.howu95tabsm .vector-4 {
-  height: 20px;
-  margin-left: -1px;
-  width: 19px;
-}
-
-.howu95tabsm .vector-5 {
-  height: 16px;
-  margin-left: -0.3px;
-  margin-top: 0;
-  width: 21px;
+.howu95tabsm .social-link-github-1 {
+  align-items: center;
+  border-radius: 40px;
+  cursor: pointer;
+  display: flex;
+  height: 32px;
+  justify-content: center;
+  position: relative;
+  width: 32px;
 }
 
 .howu95tabsm .social-link-reddit-1 {

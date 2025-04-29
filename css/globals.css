@@ -10,44 +10,6 @@
   text-decoration: none;
 }
 
-.overlay-base {
-  display: none;
-  height: 100%;
-  opacity: 0;
-  position: fixed;
-  top: 0;
-  width: 100%;
-}
-
-.overlay-base.animate-appear {
-  align-items: center;
-  animation: reveal 0.3s ease-in-out 1 normal forwards;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  opacity: 0;
-}
-
-.overlay-base.animate-disappear {
-  animation: reveal 0.3s ease-in-out 1 reverse forwards;
-  display: block;
-  opacity: 1;
-  pointer-events: none;
-}
-
-.overlay-base.animate-disappear * {
-  pointer-events: none;
-}
-
-@keyframes reveal {
-  from {
-    opacity: 0;
-  }
-  to {
-    opacity: 1;
-  }
-}
-
 .valign-text-middle {
   display: flex;
   flex-direction: column;
@@ -64,19 +26,11 @@
   box-sizing: border-box;
 }
 
-.orchid-icon-1 {
-  height: 24px;
-  margin-left: 0;
-  width: 26.47px;
-}
-
-.menu-icon {
-  align-items: center;
-  cursor: pointer;
-  display: flex;
-  height: 24px;
+.top-nav {
+  align-self: stretch;
+  height: 88px;
   position: relative;
-  width: 24px;
+  width: 100%;
 }
 
 .accounts {
@@ -101,6 +55,16 @@
   width: 100%;
 }
 
+.card-detail-mobile {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  padding: 24px 0px;
+  position: relative;
+  width: 160px;
+}
+
 .card-icon {
   align-items: center;
   background-color: var(--heavy-metal);
@@ -118,6 +82,16 @@
   width: 80px;
 }
 
+.wide-support {
+  align-self: stretch;
+  color: var(--aquamarine);
+  font-weight: 600;
+  line-height: 19.8px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
 .mobilefooter {
   align-items: center;
   align-self: stretch;
@@ -132,6 +106,13 @@
   width: 100%;
 }
 
+.vector-1 {
+  height: 16px;
+  margin-left: -0.3px;
+  margin-top: 0;
+  width: 21px;
+}
+
 .github-1 {
   height: 32px;
   margin-top: 2px;
@@ -139,165 +120,6 @@
 }
 
 .path {
-  height: 18px;
-  margin-left: 0.3px;
-  width: 9.25px;
-}
-
-.frame-590-1 {
-  align-items: center;
-  display: flex;
-  flex: 1;
-  flex-grow: 1;
-  justify-content: space-between;
-  position: relative;
-}
-
-.orchid-icon-2 {
-  align-items: center;
-  cursor: pointer;
-  display: flex;
-  height: 24px;
-  justify-content: center;
-  position: relative;
-  width: 28.47px;
-}
-
-.orchid-icon-3 {
-  height: 24px;
-  margin-left: 0;
-  width: 26.47px;
-}
-
-.menu-icon-1 {
-  align-items: center;
-  cursor: pointer;
-  display: flex;
-  height: 24px;
-  position: relative;
-  width: 24px;
-}
-
-.mobile-caption-section-4 {
-  justify-content: flex-end;
-}
-
-.discover-4 {
-  text-align: right;
-}
-
-.accounts-1 {
-  align-items: center;
-  align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 8px;
-  position: relative;
-  width: 100%;
-}
-
-.directory-1 {
-  align-items: center;
-  align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 8px;
-  position: relative;
-  width: 100%;
-}
-
-.app-store {
-  background-image: url(../img/appstorebadge-2.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  cursor: pointer;
-  height: 42px;
-  position: relative;
-  width: 144px;
-}
-
-.card-detail-mobile-1 {
-  align-items: center;
-  display: flex;
-  flex-direction: column;
-  gap: 16px;
-  padding: 24px 0px;
-  position: relative;
-  width: 160px;
-}
-
-.card-icon-1 {
-  align-items: center;
-  background-color: var(--heavy-metal);
-  border-radius: 24px;
-  display: flex;
-  height: 128px;
-  justify-content: center;
-  position: relative;
-  width: 128px;
-}
-
-.wide-support-1 {
-  align-self: stretch;
-  color: var(--aquamarine);
-  font-weight: 600;
-  line-height: 19.8px;
-  margin-top: -1.00px;
-  position: relative;
-  text-align: center;
-}
-
-.frame-478-1 {
-  align-items: center;
-  align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 24px;
-  position: relative;
-  width: 100%;
-}
-
-.mobilefooter-1 {
-  align-items: center;
-  align-self: stretch;
-  background-color: var(--black);
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 16px;
-  justify-content: flex-end;
-  padding: 80px 60px 120px 40px;
-  position: relative;
-  width: 100%;
-}
-
-.frame-532-1 {
-  align-items: flex-start;
-  align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 32px;
-  padding: 24px 0px;
-  position: relative;
-  width: 100%;
-}
-
-.social-link-github-1 {
-  align-items: center;
-  border-radius: 40px;
-  cursor: pointer;
-  display: flex;
-  height: 32px;
-  justify-content: center;
-  position: relative;
-  width: 32px;
-}
-
-.path-1 {
   height: 18px;
   margin-left: 0.3px;
   width: 9.25px;
@@ -366,6 +188,15 @@
   width: 208px;
 }
 
+.wide-support-1 {
+  align-self: stretch;
+  color: var(--aquamarine);
+  font-weight: 500;
+  line-height: 34.7px;
+  position: relative;
+  text-align: center;
+}
+
 .whitepaper-icon {
   height: 40px;
   position: relative;
@@ -390,9 +221,21 @@
   width: 198px;
 }
 
-.social-link-2 {
+.vector-2 {
+  height: 20px;
+  margin-left: -1px;
+  width: 19px;
+}
+
+.vector-3 {
+  height: 16px;
+  margin-left: -0.3px;
+  margin-top: 0;
+  width: 21px;
+}
+
+.social-link-github-2 {
   align-items: center;
-  background-color: var(--aquamarine);
   border-radius: 40px;
   cursor: pointer;
   display: flex;
@@ -402,20 +245,13 @@
   width: 32px;
 }
 
-.vector-6 {
-  height: 20px;
-  margin-left: -1px;
-  width: 19px;
+.github-2 {
+  height: 32px;
+  margin-top: 2px;
+  width: 32px;
 }
 
-.vector-7 {
-  height: 16px;
-  margin-left: -0.3px;
-  margin-top: 0;
-  width: 21px;
-}
-
-.path-2 {
+.path-1 {
   height: 18px;
   margin-left: 0.3px;
   width: 9.25px;
@@ -441,22 +277,137 @@
   width: fit-content;
 }
 
-.frame-56 {
-  align-items: flex-start;
+.top-nav-1 {
   align-self: stretch;
-  flex: 0 0 auto;
-  gap: 16px;
+  height: 88px;
+  position: relative;
   width: 100%;
 }
 
-.line-8-1 {
+.mobile-caption-section-4 {
+  justify-content: flex-end;
+}
+
+.discover-4 {
+  text-align: right;
+}
+
+.app-store {
+  background-image: url(../img/appstorebadge-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  cursor: pointer;
+  height: 42px;
+  position: relative;
+  width: 144px;
+}
+
+.google-play-1 {
+  background-image: url(../img/google-play-badge-2@2x.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  height: 42px;
+  position: relative;
+  width: 144px;
+}
+
+.card-icon-1 {
+  align-items: center;
+  background-color: var(--heavy-metal);
+  border-radius: 24px;
+  display: flex;
+  height: 128px;
+  justify-content: center;
+  position: relative;
+  width: 128px;
+}
+
+.wide-support-2 {
   align-self: stretch;
-  height: 1px;
-  margin-left: -0.50px;
-  margin-right: -0.50px;
-  object-fit: cover;
+  color: var(--aquamarine);
+  font-weight: 600;
+  line-height: 19.8px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.frame-478-1 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
   position: relative;
   width: 100%;
+}
+
+.mobilefooter-1 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--black);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
+  justify-content: flex-end;
+  padding: 80px 60px 120px 40px;
+  position: relative;
+  width: 100%;
+}
+
+.desktop-home-logo-3 {
+  cursor: pointer;
+  height: 36px;
+  position: relative;
+}
+
+.frame-532-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 32px;
+  padding: 24px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.apps-16 {
+  width: 42px;
+}
+
+.social-link-2 {
+  align-items: center;
+  background-color: var(--aquamarine);
+  border-radius: 40px;
+  cursor: pointer;
+  display: flex;
+  height: 32px;
+  justify-content: center;
+  position: relative;
+  width: 32px;
+}
+
+.vector-4 {
+  height: 20px;
+  margin-left: -1px;
+  width: 19px;
+}
+
+.vector-5 {
+  height: 16px;
+  margin-left: -0.3px;
+  margin-top: 0;
+  width: 21px;
+}
+
+.path-2 {
+  height: 18px;
+  margin-left: 0.3px;
+  width: 9.25px;
 }
 
 .frame-56-1 {
@@ -581,16 +532,6 @@
   width: 100%;
 }
 
-.desktop-home-logo-3 {
-  cursor: pointer;
-  height: 36px;
-  position: relative;
-}
-
-.apps-16 {
-  width: 42px;
-}
-
 .copy-item-1 {
   align-items: center;
   align-self: stretch;
@@ -600,4 +541,25 @@
   gap: 8px;
   position: relative;
   width: 100%;
+}
+
+.title-5 {
+  align-self: stretch;
+  color: transparent;
+  font-weight: 800;
+  line-height: 54.0px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.policy-2 {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  padding: 0px 160px;
+  position: relative;
+  width: 1440px;
 }
