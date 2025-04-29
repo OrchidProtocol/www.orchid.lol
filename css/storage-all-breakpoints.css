@@ -940,9 +940,31 @@
   gap: 24px;
 }
 
+.storageu95mobsm .accounts {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+  width: 100%;
+}
+
 .storageu95mobsm .title {
   height: 18px;
   white-space: nowrap;
+}
+
+.storageu95mobsm .directory {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+  width: 100%;
 }
 
 .storageu95mobsm .body-1 {
@@ -1306,12 +1328,6 @@
   justify-content: center;
 }
 
-.storageu95mobsm .github {
-  height: 32px;
-  margin-top: 2px;
-  width: 32px;
-}
-
 .storageu95mobsm .social-link-reddit {
   background-image: url(../img/combined-shape@2x.png);
   background-size: 100% 100%;
@@ -1562,17 +1578,6 @@
   gap: 24px;
 }
 
-.storageu95tabsm .accounts-1 {
-  align-items: center;
-  align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 8px;
-  position: relative;
-  width: 100%;
-}
-
 .storageu95tabsm .title-2 {
   align-self: stretch;
   color: var(--aquamarine);
@@ -1582,17 +1587,6 @@
   margin-top: -1.00px;
   position: relative;
   white-space: nowrap;
-}
-
-.storageu95tabsm .directory-1 {
-  align-items: center;
-  align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 8px;
-  position: relative;
-  width: 100%;
 }
 
 .storageu95tabsm .body-3 {
@@ -1886,14 +1880,9 @@
   width: 21px;
 }
 
-.storageu95tabsm .social-link-github-1 {
-  align-items: center;
-  border-radius: 40px;
-  cursor: pointer;
-  display: flex;
+.storageu95tabsm .github-1 {
   height: 32px;
-  justify-content: center;
-  position: relative;
+  margin-top: 2px;
   width: 32px;
 }
 

@@ -766,12 +766,6 @@
   justify-content: center;
 }
 
-.x404u95tabsm .github {
-  height: 32px;
-  margin-top: 2px;
-  width: 32px;
-}
-
 .x404u95tabsm .social-link-reddit {
   background-image: url(../img/combined-shape@2x.png);
   background-size: 100% 100%;
@@ -1111,14 +1105,9 @@
   width: 21px;
 }
 
-.x404-all-breakpoints .social-link-github-1 {
-  align-items: center;
-  border-radius: 40px;
-  cursor: pointer;
-  display: flex;
+.x404-all-breakpoints .github-1 {
   height: 32px;
-  justify-content: center;
-  position: relative;
+  margin-top: 2px;
   width: 32px;
 }
 

@@ -345,6 +345,15 @@
   width: 120px;
 }
 
+.genai-all-breakpoints .wide-support-1 {
+  align-self: stretch;
+  color: var(--aquamarine);
+  font-weight: 500;
+  line-height: 34.7px;
+  position: relative;
+  text-align: center;
+}
+
 .genai-all-breakpoints .line-2 {
   height: 367px;
   width: 1px;
@@ -894,14 +903,9 @@
   width: 21px;
 }
 
-.genai-all-breakpoints .social-link-github-1 {
-  align-items: center;
-  border-radius: 40px;
-  cursor: pointer;
-  display: flex;
+.genai-all-breakpoints .github-1 {
   height: 32px;
-  justify-content: center;
-  position: relative;
+  margin-top: 2px;
   width: 32px;
 }
 
@@ -1256,6 +1260,16 @@
   flex-direction: column;
   gap: 8px;
   width: 100%;
+}
+
+.genaiu95mobsm .wide-support {
+  align-self: stretch;
+  color: var(--aquamarine);
+  font-weight: 600;
+  line-height: 19.8px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
 }
 
 .genaiu95mobsm .text-3 {
@@ -1798,12 +1812,6 @@
   align-items: center;
   display: flex;
   justify-content: center;
-}
-
-.genaiu95mobsm .github {
-  height: 32px;
-  margin-top: 2px;
-  width: 32px;
 }
 
 .genaiu95mobsm .social-link-reddit {

@@ -1,5 +1,5 @@
 @import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
-@import url("https://fonts.googleapis.com/css?family=Figtree:400,600,300,500,700");
+@import url("https://fonts.googleapis.com/css?family=Figtree:900,400,600,300,800,500,700");
 /* The following line is used to measure usage of this code. You can remove it if you want. */
 @import url("https://px.animaapp.com/5e2a282a592dee7a2550cfd0.5ea6adb733c33a7ced6f8c4d.fO9Ui2A.hcp.png");
 
@@ -64,155 +64,6 @@
   box-sizing: border-box;
 }
 
-.close-icon {
-  align-items: center;
-  cursor: pointer;
-  display: flex;
-  height: 24px;
-  justify-content: center;
-  position: relative;
-  width: 24px;
-}
-
-.account {
-  color: var(--white);
-  flex: 1;
-  font-weight: 700;
-  line-height: 22.4px;
-  position: relative;
-}
-
-.storchid {
-  color: var(--white);
-  flex: 1;
-  font-weight: 700;
-  line-height: 22.4px;
-  position: relative;
-}
-
-.how {
-  color: var(--white);
-  flex: 1;
-  font-weight: 700;
-  line-height: 22.4px;
-  position: relative;
-}
-
-.about {
-  color: var(--white);
-  flex: 1;
-  font-weight: 700;
-  line-height: 22.4px;
-  position: relative;
-}
-
-.docs {
-  color: var(--white);
-  flex: 1;
-  font-weight: 700;
-  line-height: 22.4px;
-  position: relative;
-}
-
-.account-3 {
-  color: var(--white);
-  flex: 1;
-  font-weight: 700;
-  line-height: 22.4px;
-  position: relative;
-}
-
-.orchid-icon-1 {
-  height: 24px;
-  margin-left: 0;
-  width: 26.47px;
-}
-
-.menu-icon {
-  align-items: center;
-  cursor: pointer;
-  display: flex;
-  height: 24px;
-  justify-content: center;
-  position: relative;
-  width: 24px;
-}
-
-.accounts {
-  align-items: center;
-  align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 8px;
-  position: relative;
-  width: 100%;
-}
-
-.directory {
-  align-items: center;
-  align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 8px;
-  position: relative;
-  width: 100%;
-}
-
-.card-icon {
-  align-items: center;
-  background-color: var(--heavy-metal);
-  border-radius: 24px;
-  display: flex;
-  height: 128px;
-  justify-content: center;
-  position: relative;
-  width: 128px;
-}
-
-.icon-card-small-1 {
-  height: 80px;
-  position: relative;
-  width: 80px;
-}
-
-.wide-support {
-  align-self: stretch;
-  color: var(--aquamarine);
-  font-weight: 600;
-  line-height: 19.8px;
-  margin-top: -1.00px;
-  position: relative;
-  text-align: center;
-}
-
-.mobilefooter {
-  align-items: center;
-  align-self: stretch;
-  background-color: var(--black);
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 16px;
-  justify-content: flex-end;
-  padding: 80px 60px 120px 40px;
-  position: relative;
-  width: 100%;
-}
-
-.github-1 {
-  height: 32px;
-  margin-top: 2px;
-  width: 32px;
-}
-
-.path {
-  height: 18px;
-  margin-left: 0.3px;
-  width: 9.25px;
-}
-
 .desktop-header {
   align-items: center;
   align-self: stretch;
@@ -254,6 +105,11 @@
   width: fit-content;
 }
 
+.google-play-badge {
+  height: 56.3px;
+  width: 188px;
+}
+
 .card-detail-desktop {
   align-items: center;
   display: flex;
@@ -274,15 +130,6 @@
   padding: 40px;
   position: relative;
   width: 208px;
-}
-
-.wide-support-1 {
-  align-self: stretch;
-  color: var(--aquamarine);
-  font-weight: 500;
-  line-height: 34.7px;
-  position: relative;
-  text-align: center;
 }
 
 .whitepaper-icon {
@@ -309,7 +156,7 @@
   width: 198px;
 }
 
-.social-link-github-2 {
+.social-link-github-1 {
   align-items: center;
   border-radius: 40px;
   cursor: pointer;
@@ -320,13 +167,13 @@
   width: 32px;
 }
 
-.github-2 {
+.github {
   height: 32px;
   margin-top: 2px;
   width: 32px;
 }
 
-.path-1 {
+.path {
   height: 18px;
   margin-left: 0.3px;
   width: 9.25px;
@@ -350,6 +197,98 @@
   position: relative;
   white-space: nowrap;
   width: fit-content;
+}
+
+.orchid-icon-1 {
+  height: 24px;
+  margin-left: 0;
+  width: 26.47px;
+}
+
+.menu-icon {
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  height: 24px;
+  justify-content: center;
+  position: relative;
+  width: 24px;
+}
+
+.accounts-1 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+  width: 100%;
+}
+
+.directory-1 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+  width: 100%;
+}
+
+.card-icon {
+  align-items: center;
+  background-color: var(--heavy-metal);
+  border-radius: 24px;
+  display: flex;
+  height: 128px;
+  justify-content: center;
+  position: relative;
+  width: 128px;
+}
+
+.icon-card-small-1 {
+  height: 80px;
+  position: relative;
+  width: 80px;
+}
+
+.mobilefooter {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--black);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
+  justify-content: flex-end;
+  padding: 80px 60px 120px 40px;
+  position: relative;
+  width: 100%;
+}
+
+.social-link-github-2 {
+  align-items: center;
+  border-radius: 40px;
+  cursor: pointer;
+  display: flex;
+  height: 32px;
+  justify-content: center;
+  position: relative;
+  width: 32px;
+}
+
+.github-2 {
+  height: 32px;
+  margin-top: 2px;
+  width: 32px;
+}
+
+.path-1 {
+  height: 18px;
+  margin-left: 0.3px;
+  width: 9.25px;
 }
 
 .orchid-icon-2 {
@@ -503,6 +442,64 @@
   height: 18px;
   margin-left: 0.3px;
   width: 9.25px;
+}
+
+.close-icon {
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  height: 24px;
+  justify-content: center;
+  position: relative;
+  width: 24px;
+}
+
+.account {
+  color: var(--white);
+  flex: 1;
+  font-weight: 700;
+  line-height: 22.4px;
+  position: relative;
+}
+
+.storchid {
+  color: var(--white);
+  flex: 1;
+  font-weight: 700;
+  line-height: 22.4px;
+  position: relative;
+}
+
+.how {
+  color: var(--white);
+  flex: 1;
+  font-weight: 700;
+  line-height: 22.4px;
+  position: relative;
+}
+
+.about {
+  color: var(--white);
+  flex: 1;
+  font-weight: 700;
+  line-height: 22.4px;
+  position: relative;
+}
+
+.docs {
+  color: var(--white);
+  flex: 1;
+  font-weight: 700;
+  line-height: 22.4px;
+  position: relative;
+}
+
+.account-3 {
+  color: var(--white);
+  flex: 1;
+  font-weight: 700;
+  line-height: 22.4px;
+  position: relative;
 }
 
 .frame-56-1 {
