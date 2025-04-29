@@ -21,6 +21,11 @@
   width: 100%;
 }
 
+.partners-all-breakpoints .vector-5 {
+  height: 14px;
+  width: 18px;
+}
+
 .partners-all-breakpoints .orchid-partners-2 {
   align-items: center;
   display: flex;
@@ -81,7 +86,7 @@
   width: 100%;
 }
 
-.partners-all-breakpoints .text-7 {
+.partners-all-breakpoints .text-6 {
   line-height: 16px;
   margin-top: -1.00px;
 }
@@ -97,19 +102,22 @@
   line-height: 18.0px;
 }
 
-.partners-all-breakpoints .text-9 {
+.partners-all-breakpoints .text-7 {
   color: var(--dull-lavender);
   cursor: pointer;
   font-weight: 700;
   line-height: 16.5px;
-  text-decoration: underline;
 }
 
-.partners-all-breakpoints .text-8 {
-  color: var(--dull-lavender);
-  cursor: pointer;
-  font-weight: 700;
-  line-height: 16.5px;
+.partners-all-breakpoints .content-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  position: relative;
+  width: 100%;
 }
 
 .partners-all-breakpoints .logo-2 {
@@ -119,11 +127,6 @@
   flex-direction: column;
   gap: 12px;
   margin-right: -39.00px;
-  position: relative;
-}
-
-.partners-all-breakpoints .desktop-home-logo-3 {
-  height: 36px;
   position: relative;
 }
 
@@ -232,10 +235,12 @@
   width: 100%;
 }
 
-.partners-all-breakpoints .social-link-github-2 {
+.partners-all-breakpoints .social-link-reddit-2 {
+  background-image: url(../img/combined-shape@2x.png);
+  background-size: 100% 100%;
+  border-radius: 40px;
   cursor: pointer;
-  height: 33px;
-  margin-bottom: -1.00px;
+  height: 32px;
   position: relative;
   width: 32px;
 }
@@ -349,6 +354,28 @@
   flex: 0 0 auto;
   height: 36px;
   position: relative;
+}
+
+.partnersu95dt .desktop-header-top-nav {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  flex-wrap: wrap;
+  gap: 60px 48px;
+  height: 14px;
+  justify-content: center;
+  position: relative;
+}
+
+.partnersu95dt .desktop-button-top-nav {
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  position: relative;
+  width: 57px;
 }
 
 .partnersu95dt .desktop-button-top-nav-1 {
@@ -519,6 +546,7 @@
 }
 
 .partnersu95dt .desktop-home-logo-1 {
+  cursor: pointer;
   height: 36px;
   position: relative;
 }
@@ -602,13 +630,46 @@
   position: relative;
 }
 
+.partnersu95dt .social-link {
+  align-items: center;
+  background-color: var(--aquamarine);
+  border-radius: 40px;
+  cursor: pointer;
+  display: flex;
+  height: 32px;
+  justify-content: center;
+  position: relative;
+  width: 32px;
+}
+
+.partnersu95dt .vector {
+  height: 20px;
+  margin-left: -1px;
+  width: 19px;
+}
+
+.partnersu95dt .vector-1 {
+  height: 16px;
+  margin-left: -0.3px;
+  margin-top: 0;
+  width: 21px;
+}
+
 .partnersu95dt .social-link-github {
-  height: 33px;
-  margin-bottom: -1.00px;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+.partnersu95dt .github {
+  height: 32px;
+  margin-top: 2px;
+  width: 32px;
 }
 
 .partnersu95dt .social-link-reddit {
-  height: 32px;
+  background-image: url(../img/combined-shape@2x.png);
+  background-size: 100% 100%;
 }
 
 .partnersu95dt .apps-2 {
@@ -644,7 +705,9 @@
 }
 
 .partnersu95dt .social-link-1 {
+  border-radius: 40px;
   cursor: pointer;
+  height: 32px;
   position: relative;
   width: 32px;
 }
@@ -690,10 +753,18 @@
 }
 
 .partnersu95tabsm .orchid-icon {
+  align-items: center;
   cursor: pointer;
+  display: flex;
   height: 24px;
+  justify-content: center;
   position: relative;
   width: 28.47px;
+}
+
+.partnersu95tabsm .vector-2 {
+  height: 14px;
+  width: 18px;
 }
 
 .partnersu95tabsm .orchid-partners-1 {
@@ -768,19 +839,22 @@
   line-height: 18.0px;
 }
 
-.partnersu95tabsm .text-6 {
-  color: var(--dull-lavender);
-  cursor: pointer;
-  font-weight: 700;
-  line-height: 16.5px;
-  text-decoration: underline;
-}
-
 .partnersu95tabsm .text-5 {
   color: var(--dull-lavender);
   cursor: pointer;
   font-weight: 700;
   line-height: 16.5px;
+}
+
+.partnersu95tabsm .content {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  position: relative;
+  width: 100%;
 }
 
 .partnersu95tabsm .logo-1 {
@@ -793,6 +867,7 @@
 }
 
 .partnersu95tabsm .desktop-home-logo-2 {
+  cursor: pointer;
   height: 36px;
   position: relative;
 }
@@ -917,6 +992,45 @@
 }
 
 .partnersu95tabsm .social-link-1 {
+  align-items: center;
+  background-color: var(--aquamarine);
+  border-radius: 40px;
+  cursor: pointer;
+  display: flex;
+  height: 32px;
+  justify-content: center;
+  position: relative;
+  width: 32px;
+}
+
+.partnersu95tabsm .vector-3 {
+  height: 20px;
+  margin-left: -1px;
+  width: 19px;
+}
+
+.partnersu95tabsm .vector-4 {
+  height: 16px;
+  margin-left: -0.3px;
+  margin-top: 0;
+  width: 21px;
+}
+
+.partnersu95tabsm .social-link-github-1 {
+  align-items: center;
+  border-radius: 40px;
+  cursor: pointer;
+  display: flex;
+  height: 32px;
+  justify-content: center;
+  position: relative;
+  width: 32px;
+}
+
+.partnersu95tabsm .social-link-reddit-1 {
+  background-image: url(../img/combined-shape@2x.png);
+  background-size: 100% 100%;
+  border-radius: 40px;
   cursor: pointer;
   height: 32px;
   position: relative;

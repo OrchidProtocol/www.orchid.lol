@@ -114,8 +114,39 @@
 }
 
 .how-all-breakpoints .desktop-home-logo-2 {
-  cursor: pointer;
   flex: 0 0 auto;
+}
+
+.how-all-breakpoints .desktop-header-top-nav {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  flex-wrap: wrap;
+  gap: 60px 48px;
+  height: 14px;
+  justify-content: center;
+  position: relative;
+}
+
+.how-all-breakpoints .desktop-button-top-nav {
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  position: relative;
+  width: 57px;
+}
+
+.how-all-breakpoints .build {
+  color: var(--white);
+  font-weight: 700;
+  line-height: 14.4px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
 }
 
 .how-all-breakpoints .desktop-button-top-nav-1 {
@@ -334,10 +365,12 @@
 }
 
 .how-all-breakpoints .info-card-4 {
+  align-items: flex-start;
   background-color: var(--black-2);
   border-color: var(--true-v-2);
   border-radius: 16px;
   gap: 24px;
+  overflow: hidden;
   padding: 24px 40px 40px;
   width: 1280px;
 }
@@ -473,6 +506,7 @@
 }
 
 .how-all-breakpoints .info-card-6 {
+  align-items: center;
   background-color: var(--black);
   border-color: var(--aquamarine);
   border-radius: 24px;
@@ -519,6 +553,7 @@
 }
 
 .how-all-breakpoints .info-card-5 {
+  align-items: center;
   background-color: var(--black);
   border-color: var(--aquamarine);
   border-radius: 24px;
@@ -557,6 +592,7 @@
 }
 
 .how-all-breakpoints .info-card-7 {
+  align-items: center;
   background-color: var(--black);
   border-color: var(--aquamarine);
   border-radius: 24px;
@@ -716,10 +752,12 @@
   position: relative;
 }
 
-.how-all-breakpoints .social-link-github-2 {
+.how-all-breakpoints .social-link-reddit-2 {
+  background-image: url(../img/combined-shape@2x.png);
+  background-size: 100% 100%;
+  border-radius: 40px;
   cursor: pointer;
-  height: 33px;
-  margin-bottom: -1.00px;
+  height: 32px;
   position: relative;
   width: 32px;
 }
@@ -756,6 +794,7 @@
 }
 
 .how-all-breakpoints .desktop-home-logo {
+  cursor: pointer;
   height: 36px;
   position: relative;
 }
@@ -772,7 +811,6 @@
 }
 
 .how-all-breakpoints .info-card {
-  align-items: center;
   border: 1px solid;
   display: flex;
   flex: 0 0 auto;
@@ -829,10 +867,18 @@
 }
 
 .howu95mobsm .orchid-icon {
+  align-items: center;
   cursor: pointer;
+  display: flex;
   height: 24px;
+  justify-content: center;
   position: relative;
   width: 28.47px;
+}
+
+.howu95mobsm .vector {
+  height: 14px;
+  width: 18px;
 }
 
 .howu95mobsm .hero {
@@ -1066,7 +1112,6 @@
   color: var(--aquamarine);
   font-weight: 700;
   line-height: 16.5px;
-  text-decoration: underline;
 }
 
 .howu95mobsm .span-4 {
@@ -1303,6 +1348,17 @@
   position: relative;
 }
 
+.howu95mobsm .content {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  position: relative;
+  width: 100%;
+}
+
 .howu95mobsm .logo {
   align-items: flex-start;
   display: inline-flex;
@@ -1314,6 +1370,7 @@
 }
 
 .howu95mobsm .desktop-home-logo {
+  cursor: pointer;
   height: 36px;
   position: relative;
 }
@@ -1424,23 +1481,52 @@
 .howu95mobsm .social-icons {
   align-items: flex-start;
   align-self: stretch;
-  display: flex;
   flex: 0 0 auto;
   flex-wrap: wrap;
   gap: 60px 60px;
   justify-content: space-between;
   padding: 24px 0px 0px;
-  position: relative;
   width: 100%;
 }
 
+.howu95mobsm .social-link {
+  align-items: center;
+  background-color: var(--aquamarine);
+  border-radius: 40px;
+  cursor: pointer;
+  height: 32px;
+  justify-content: center;
+  width: 32px;
+}
+
+.howu95mobsm .vector-1 {
+  height: 20px;
+  margin-left: -1px;
+  width: 19px;
+}
+
+.howu95mobsm .vector-2 {
+  height: 16px;
+  margin-left: -0.3px;
+  margin-top: 0;
+  width: 21px;
+}
+
 .howu95mobsm .social-link-github {
-  height: 33px;
-  margin-bottom: -1.00px;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+.howu95mobsm .github {
+  height: 32px;
+  margin-top: 2px;
+  width: 32px;
 }
 
 .howu95mobsm .social-link-reddit {
-  height: 32px;
+  background-image: url(../img/combined-shape@2x.png);
+  background-size: 100% 100%;
 }
 
 .howu95mobsm .apps-8 {
@@ -1481,17 +1567,6 @@
   position: relative;
 }
 
-.howu95mobsm .learn-more-3 {
-  color: var(--white);
-  font-weight: 700;
-  line-height: 24px;
-  margin-top: -1.00px;
-  position: relative;
-  text-align: center;
-  white-space: nowrap;
-  width: fit-content;
-}
-
 .howu95mobsm .line {
   height: 1px;
   object-fit: cover;
@@ -1503,8 +1578,15 @@
   position: relative;
 }
 
+.howu95mobsm .social {
+  display: flex;
+  position: relative;
+}
+
 .howu95mobsm .social-link-1 {
+  border-radius: 40px;
   cursor: pointer;
+  height: 32px;
   position: relative;
   width: 32px;
 }
@@ -1534,6 +1616,11 @@
   padding: 32px 72px;
   position: relative;
   width: 100%;
+}
+
+.howu95tabsm .vector-3 {
+  height: 14px;
+  width: 18px;
 }
 
 .howu95tabsm .hero-1 {
@@ -1723,7 +1810,6 @@
   color: var(--aquamarine);
   font-weight: 700;
   line-height: 16.5px;
-  text-decoration: underline;
 }
 
 .howu95tabsm .span-10 {
@@ -1907,8 +1993,29 @@
   line-height: 18.0px;
 }
 
+.howu95tabsm .button-1 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  padding: 80px 0px 0px;
+  position: relative;
+}
+
 .howu95tabsm .mobile-button-hero-3 {
   display: inline-flex;
+}
+
+.howu95tabsm .content-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  position: relative;
+  width: 100%;
 }
 
 .howu95tabsm .logo-1 {
@@ -1921,6 +2028,7 @@
 }
 
 .howu95tabsm .desktop-home-logo-1 {
+  cursor: pointer;
   height: 36px;
   position: relative;
 }
@@ -2031,6 +2139,45 @@
 }
 
 .howu95tabsm .social-link-1 {
+  align-items: center;
+  background-color: var(--aquamarine);
+  border-radius: 40px;
+  cursor: pointer;
+  display: flex;
+  height: 32px;
+  justify-content: center;
+  position: relative;
+  width: 32px;
+}
+
+.howu95tabsm .vector-4 {
+  height: 20px;
+  margin-left: -1px;
+  width: 19px;
+}
+
+.howu95tabsm .vector-5 {
+  height: 16px;
+  margin-left: -0.3px;
+  margin-top: 0;
+  width: 21px;
+}
+
+.howu95tabsm .social-link-github-1 {
+  align-items: center;
+  border-radius: 40px;
+  cursor: pointer;
+  display: flex;
+  height: 32px;
+  justify-content: center;
+  position: relative;
+  width: 32px;
+}
+
+.howu95tabsm .social-link-reddit-1 {
+  background-image: url(../img/combined-shape@2x.png);
+  background-size: 100% 100%;
+  border-radius: 40px;
   cursor: pointer;
   height: 32px;
   position: relative;

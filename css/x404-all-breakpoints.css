@@ -91,8 +91,29 @@
 }
 
 .x404u95dt .desktop-home-logo-2 {
-  cursor: pointer;
   flex: 0 0 auto;
+}
+
+.x404u95dt .desktop-header-top-nav {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  flex-wrap: wrap;
+  gap: 60px 48px;
+  height: 14px;
+  justify-content: center;
+  position: relative;
+}
+
+.x404u95dt .desktop-button-top-nav {
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  position: relative;
+  width: 57px;
 }
 
 .x404u95dt .desktop-button-top-nav-1 {
@@ -368,10 +389,12 @@
   position: relative;
 }
 
-.x404u95dt .social-link-github-2 {
+.x404u95dt .social-link-reddit-2 {
+  background-image: url(../img/combined-shape@2x.png);
+  background-size: 100% 100%;
+  border-radius: 40px;
   cursor: pointer;
-  height: 33px;
-  margin-bottom: -1.00px;
+  height: 32px;
   position: relative;
   width: 32px;
 }
@@ -399,6 +422,7 @@
 }
 
 .x404u95dt .desktop-home-logo {
+  cursor: pointer;
   height: 36px;
   position: relative;
 }
@@ -435,7 +459,7 @@
   position: relative;
 }
 
-.x404u95tabsm .mobile-nav-header-1 {
+.x404u95tabsm .mobile-nav-header {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -446,19 +470,30 @@
   width: 100%;
 }
 
+.x404u95tabsm .orchid-icon {
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  height: 24px;
+  justify-content: center;
+  position: relative;
+  width: 28.47px;
+}
+
+.x404u95tabsm .vector {
+  height: 14px;
+  width: 18px;
+}
+
 .x404u95tabsm .frame-403 {
   align-items: center;
-  align-self: stretch;
-  display: flex;
   flex: 0 0 auto;
   flex-direction: column;
   gap: 24px;
   padding: 40px;
-  position: relative;
-  width: 100%;
 }
 
-.x404u95tabsm .decentralized-marketplace-1 {
+.x404u95tabsm .decentralized-marketplace {
   align-self: stretch;
   color: var(--aquamarine);
   font-weight: 800;
@@ -468,7 +503,7 @@
   text-align: center;
 }
 
-.x404u95tabsm .line-10-1 {
+.x404u95tabsm .line-10 {
   align-self: stretch;
   height: 1px;
   object-fit: cover;
@@ -476,22 +511,18 @@
   width: 100%;
 }
 
-.x404u95tabsm .frame-586-1 {
-  align-self: stretch;
-  display: flex;
+.x404u95tabsm .frame-586 {
   height: 532px;
   justify-content: center;
-  position: relative;
-  width: 100%;
 }
 
-.x404u95tabsm .orchid404_img-1-1 {
+.x404u95tabsm .orchid404_img-1 {
   height: 532px;
   margin-left: -1px;
   width: 656px;
 }
 
-.x404u95tabsm .title-1 {
+.x404u95tabsm .title {
   align-self: stretch;
   color: var(--white);
   font-weight: 600;
@@ -502,32 +533,34 @@
   white-space: nowrap;
 }
 
-.x404u95tabsm .frame-587-1 {
+.x404u95tabsm .frame-587 {
   align-items: flex-start;
-  align-self: stretch;
-  display: flex;
   flex: 0 0 auto;
   flex-direction: column;
   gap: 8px;
-  position: relative;
-  width: 100%;
 }
 
-.x404u95tabsm .intro-copy-2 {
+.x404u95tabsm .intro-copy {
+  align-self: stretch;
   color: var(--white);
   font-weight: 300;
   line-height: 18.0px;
   margin-top: -1.00px;
+  position: relative;
+  text-align: center;
 }
 
-.x404u95tabsm .intro-copy-3 {
+.x404u95tabsm .intro-copy-1 {
+  align-self: stretch;
   color: var(--aquamarine);
   cursor: pointer;
   font-weight: 700;
   line-height: 16.5px;
+  position: relative;
+  text-align: center;
 }
 
-.x404u95tabsm .buttons-1 {
+.x404u95tabsm .buttons {
   align-items: center;
   align-self: stretch;
   display: flex;
@@ -539,7 +572,7 @@
   width: 100%;
 }
 
-.x404u95tabsm .mobile-button-hero-1 {
+.x404u95tabsm .mobile-button-hero {
   align-items: center;
   background-color: var(--log-cabin);
   border: 1px solid;
@@ -554,7 +587,7 @@
   width: 275px;
 }
 
-.x404u95tabsm .learn-more-1 {
+.x404u95tabsm .learn-more {
   color: var(--white);
   font-weight: 700;
   line-height: 24px;
@@ -565,7 +598,18 @@
   width: fit-content;
 }
 
-.x404u95tabsm .logo-1 {
+.x404u95tabsm .content {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  position: relative;
+  width: 100%;
+}
+
+.x404u95tabsm .logo {
   align-items: flex-start;
   display: inline-flex;
   flex: 0 0 auto;
@@ -574,12 +618,13 @@
   position: relative;
 }
 
-.x404u95tabsm .desktop-home-logo-1 {
+.x404u95tabsm .desktop-home-logo {
+  cursor: pointer;
   height: 36px;
   position: relative;
 }
 
-.x404u95tabsm .x2023-orchid-4 {
+.x404u95tabsm .x2023-orchid {
   color: var(--white);
   font-weight: 300;
   line-height: 19.6px;
@@ -587,7 +632,7 @@
   width: 299px;
 }
 
-.x404u95tabsm .x2023-orchid-5 {
+.x404u95tabsm .x2023-orchid-1 {
   align-self: stretch;
   color: var(--white);
   font-weight: 300;
@@ -595,7 +640,7 @@
   position: relative;
 }
 
-.x404u95tabsm .hyperlinks-1 {
+.x404u95tabsm .hyperlinks {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -606,14 +651,22 @@
   width: 100%;
 }
 
-.x404u95tabsm .frame-532-item-1 {
+.x404u95tabsm .frame-532 {
+  align-items: flex-start;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 32px;
+  padding: 24px 0px;
+}
+
+.x404u95tabsm .frame-532-item {
   display: flex;
   height: 22px;
   position: relative;
   width: 281px;
 }
 
-.x404u95tabsm .x2023-orchid-6 {
+.x404u95tabsm .x2023-orchid-2 {
   color: var(--white);
   cursor: pointer;
   flex: 1;
@@ -623,7 +676,7 @@
   width: 132px;
 }
 
-.x404u95tabsm .link-1 {
+.x404u95tabsm .link {
   cursor: pointer;
   display: flex;
   height: 22px;
@@ -631,7 +684,7 @@
   width: 281px;
 }
 
-.x404u95tabsm .x2023-orchid-7 {
+.x404u95tabsm .x2023-orchid-3 {
   color: var(--white);
   flex: 1;
   font-weight: 700;
@@ -640,60 +693,91 @@
   width: 82px;
 }
 
-.x404u95tabsm .apps-8 {
+.x404u95tabsm .apps {
   width: 102px;
 }
 
-.x404u95tabsm .apps-9 {
+.x404u95tabsm .apps-1 {
   width: 132px;
 }
 
-.x404u95tabsm .apps-10 {
+.x404u95tabsm .apps-2 {
   cursor: pointer;
   width: 113px;
 }
 
-.x404u95tabsm .apps-11 {
+.x404u95tabsm .apps-3 {
   width: 85px;
 }
 
-.x404u95tabsm .apps-12 {
+.x404u95tabsm .apps-4 {
   width: 122px;
 }
 
-.x404u95tabsm .apps-13 {
+.x404u95tabsm .apps-5 {
   width: 76px;
 }
 
-.x404u95tabsm .apps-14 {
+.x404u95tabsm .apps-6 {
   width: 42px;
 }
 
-.x404u95tabsm .apps-15 {
+.x404u95tabsm .apps-7 {
   width: 75px;
 }
 
-.x404u95tabsm .social-icons-1 {
+.x404u95tabsm .social-icons {
   align-items: flex-start;
   align-self: stretch;
-  display: flex;
   flex: 0 0 auto;
   flex-wrap: wrap;
   gap: 60px 60px;
   justify-content: space-between;
   padding: 24px 0px 0px;
-  position: relative;
   width: 100%;
 }
 
-.x404u95tabsm .social-link-1 {
+.x404u95tabsm .social-link {
+  align-items: center;
+  background-color: var(--aquamarine);
+  border-radius: 40px;
   cursor: pointer;
   height: 32px;
-  position: relative;
+  justify-content: center;
   width: 32px;
 }
 
-.x404u95tabsm .apps {
+.x404u95tabsm .vector-1 {
+  height: 20px;
+  margin-left: -1px;
+  width: 19px;
+}
+
+.x404u95tabsm .vector-2 {
+  height: 16px;
+  margin-left: -0.3px;
+  margin-top: 0;
+  width: 21px;
+}
+
+.x404u95tabsm .social-link-github {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+.x404u95tabsm .github {
+  height: 32px;
+  margin-top: 2px;
+  width: 32px;
+}
+
+.x404u95tabsm .social-link-reddit {
+  background-image: url(../img/combined-shape@2x.png);
+  background-size: 100% 100%;
+}
+
+.x404u95tabsm .apps-8 {
   color: var(--white);
   font-weight: 700;
   height: 24px;
@@ -701,10 +785,24 @@
   white-space: nowrap;
 }
 
-.x404u95tabsm .intro-copy {
+.x404u95tabsm .frame {
   align-self: stretch;
+  display: flex;
   position: relative;
-  text-align: center;
+  width: 100%;
+}
+
+.x404u95tabsm .social {
+  display: flex;
+  position: relative;
+}
+
+.x404u95tabsm .social-link-1 {
+  border-radius: 40px;
+  cursor: pointer;
+  height: 32px;
+  position: relative;
+  width: 32px;
 }
 /* screen - x404-all-breakpoints */
 
@@ -718,7 +816,7 @@
   position: relative;
 }
 
-.x404-all-breakpoints .mobile-nav-header {
+.x404-all-breakpoints .mobile-nav-header-1 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -729,22 +827,24 @@
   width: 100%;
 }
 
-.x404-all-breakpoints .orchid-icon {
-  cursor: pointer;
-  height: 24px;
-  position: relative;
-  width: 28.47px;
+.x404-all-breakpoints .vector-3 {
+  height: 14px;
+  width: 18px;
 }
 
 .x404-all-breakpoints .frame-404 {
   align-items: center;
+  align-self: stretch;
+  display: flex;
   flex: 0 0 auto;
   flex-direction: column;
   gap: 24px;
   padding: 24px 40px 40px;
+  position: relative;
+  width: 100%;
 }
 
-.x404-all-breakpoints .decentralized-marketplace {
+.x404-all-breakpoints .decentralized-marketplace-1 {
   align-self: stretch;
   color: var(--aquamarine);
   font-weight: 800;
@@ -754,7 +854,7 @@
   text-align: center;
 }
 
-.x404-all-breakpoints .line-10 {
+.x404-all-breakpoints .line-10-1 {
   align-self: stretch;
   height: 1px;
   object-fit: cover;
@@ -762,17 +862,21 @@
   width: 100%;
 }
 
-.x404-all-breakpoints .frame-586 {
+.x404-all-breakpoints .frame-586-1 {
+  align-self: stretch;
+  display: flex;
   height: 310px;
   justify-content: center;
+  position: relative;
+  width: 100%;
 }
 
-.x404-all-breakpoints .orchid404_img-1 {
+.x404-all-breakpoints .orchid404_img-1-1 {
   height: 310px;
   width: 360px;
 }
 
-.x404-all-breakpoints .title {
+.x404-all-breakpoints .title-1 {
   align-self: stretch;
   color: var(--white);
   font-weight: 600;
@@ -783,34 +887,32 @@
   white-space: nowrap;
 }
 
-.x404-all-breakpoints .frame-587 {
+.x404-all-breakpoints .frame-587-1 {
   align-items: flex-start;
+  align-self: stretch;
+  display: flex;
   flex: 0 0 auto;
   flex-direction: column;
   gap: 8px;
+  position: relative;
+  width: 100%;
 }
 
-.x404-all-breakpoints .intro-copy {
-  align-self: stretch;
+.x404-all-breakpoints .intro-copy-2 {
   color: var(--white);
   font-weight: 300;
   line-height: 18.0px;
   margin-top: -1.00px;
-  position: relative;
-  text-align: center;
 }
 
-.x404-all-breakpoints .intro-copy-1 {
-  align-self: stretch;
+.x404-all-breakpoints .intro-copy-3 {
   color: var(--aquamarine);
   cursor: pointer;
   font-weight: 700;
   line-height: 16.5px;
-  position: relative;
-  text-align: center;
 }
 
-.x404-all-breakpoints .buttons {
+.x404-all-breakpoints .buttons-1 {
   align-items: center;
   align-self: stretch;
   display: flex;
@@ -822,7 +924,7 @@
   width: 100%;
 }
 
-.x404-all-breakpoints .mobile-button-hero {
+.x404-all-breakpoints .mobile-button-hero-1 {
   align-items: center;
   background-color: var(--log-cabin);
   border: 1px solid;
@@ -837,7 +939,7 @@
   width: 275px;
 }
 
-.x404-all-breakpoints .learn-more {
+.x404-all-breakpoints .learn-more-1 {
   color: var(--white);
   font-weight: 700;
   line-height: 24px;
@@ -848,7 +950,18 @@
   width: fit-content;
 }
 
-.x404-all-breakpoints .logo {
+.x404-all-breakpoints .content-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  position: relative;
+  width: 100%;
+}
+
+.x404-all-breakpoints .logo-1 {
   align-items: flex-start;
   display: inline-flex;
   flex: 0 0 auto;
@@ -858,12 +971,13 @@
   position: relative;
 }
 
-.x404-all-breakpoints .desktop-home-logo {
+.x404-all-breakpoints .desktop-home-logo-1 {
+  cursor: pointer;
   height: 36px;
   position: relative;
 }
 
-.x404-all-breakpoints .x2023-orchid {
+.x404-all-breakpoints .x2023-orchid-4 {
   color: var(--white);
   font-weight: 300;
   line-height: 19.6px;
@@ -871,7 +985,7 @@
   width: 299px;
 }
 
-.x404-all-breakpoints .x2023-orchid-1 {
+.x404-all-breakpoints .x2023-orchid-5 {
   align-self: stretch;
   color: var(--white);
   font-weight: 300;
@@ -879,7 +993,7 @@
   position: relative;
 }
 
-.x404-all-breakpoints .hyperlinks {
+.x404-all-breakpoints .hyperlinks-1 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -890,15 +1004,7 @@
   width: 100%;
 }
 
-.x404-all-breakpoints .frame-532 {
-  align-items: flex-start;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 32px;
-  padding: 24px 0px;
-}
-
-.x404-all-breakpoints .frame-532-item {
+.x404-all-breakpoints .frame-532-item-1 {
   display: flex;
   height: 22px;
   margin-right: -21.00px;
@@ -906,7 +1012,7 @@
   width: 281px;
 }
 
-.x404-all-breakpoints .x2023-orchid-2 {
+.x404-all-breakpoints .x2023-orchid-6 {
   color: var(--white);
   cursor: pointer;
   flex: 1;
@@ -916,7 +1022,7 @@
   width: 132px;
 }
 
-.x404-all-breakpoints .link {
+.x404-all-breakpoints .link-1 {
   cursor: pointer;
   display: flex;
   height: 22px;
@@ -925,7 +1031,7 @@
   width: 281px;
 }
 
-.x404-all-breakpoints .x2023-orchid-3 {
+.x404-all-breakpoints .x2023-orchid-7 {
   color: var(--white);
   flex: 1;
   font-weight: 700;
@@ -934,45 +1040,40 @@
   width: 82px;
 }
 
-.x404-all-breakpoints .apps {
-  color: var(--white);
-  font-weight: 700;
-  height: 24px;
-  line-height: 24px;
-  white-space: nowrap;
+.x404-all-breakpoints .apps-8 {
   width: 102px;
 }
 
-.x404-all-breakpoints .apps-1 {
+.x404-all-breakpoints .apps-9 {
   width: 132px;
 }
 
-.x404-all-breakpoints .apps-2 {
+.x404-all-breakpoints .apps-10 {
   cursor: pointer;
   width: 113px;
 }
 
-.x404-all-breakpoints .apps-3 {
+.x404-all-breakpoints .apps-11 {
   width: 85px;
 }
 
-.x404-all-breakpoints .apps-4 {
+.x404-all-breakpoints .apps-12 {
   width: 122px;
 }
 
-.x404-all-breakpoints .apps-5 {
+.x404-all-breakpoints .apps-13 {
   width: 76px;
 }
 
-.x404-all-breakpoints .apps-6 {
+.x404-all-breakpoints .apps-14 {
   width: 42px;
 }
 
-.x404-all-breakpoints .apps-7 {
+.x404-all-breakpoints .apps-15 {
   width: 75px;
 }
 
-.x404-all-breakpoints .social-icons {
+.x404-all-breakpoints .social-icons-1 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -985,16 +1086,53 @@
   width: 100%;
 }
 
-.x404-all-breakpoints .social-link-github {
-  height: 33px;
-  margin-bottom: -1.00px;
-}
-
-.x404-all-breakpoints .social-link-reddit {
+.x404-all-breakpoints .social-link-1 {
+  align-items: center;
+  background-color: var(--aquamarine);
+  border-radius: 40px;
+  cursor: pointer;
+  display: flex;
   height: 32px;
+  justify-content: center;
+  position: relative;
+  width: 32px;
 }
 
-.x404-all-breakpoints .apps-8 {
+.x404-all-breakpoints .vector-4 {
+  height: 20px;
+  margin-left: -1px;
+  width: 19px;
+}
+
+.x404-all-breakpoints .vector-5 {
+  height: 16px;
+  margin-left: -0.3px;
+  margin-top: 0;
+  width: 21px;
+}
+
+.x404-all-breakpoints .social-link-github-1 {
+  align-items: center;
+  border-radius: 40px;
+  cursor: pointer;
+  display: flex;
+  height: 32px;
+  justify-content: center;
+  position: relative;
+  width: 32px;
+}
+
+.x404-all-breakpoints .social-link-reddit-1 {
+  background-image: url(../img/combined-shape@2x.png);
+  background-size: 100% 100%;
+  border-radius: 40px;
+  cursor: pointer;
+  height: 32px;
+  position: relative;
+  width: 32px;
+}
+
+.x404-all-breakpoints .apps {
   color: var(--white);
   font-weight: 700;
   height: 24px;
@@ -1002,17 +1140,10 @@
   white-space: nowrap;
 }
 
-.x404-all-breakpoints .frame {
+.x404-all-breakpoints .intro-copy {
   align-self: stretch;
-  display: flex;
   position: relative;
-  width: 100%;
-}
-
-.x404-all-breakpoints .social-link-1 {
-  cursor: pointer;
-  position: relative;
-  width: 32px;
+  text-align: center;
 }
 @media screen and (max-width: 743px) {
   .screen.x404u95tabsm { 
@@ -1031,10 +1162,10 @@
    }
 }
 @media screen and (min-width: 1440px) {
-  .screen.x404-all-breakpoints { 
+  .screen.x404u95tabsm { 
     display: none;
    }
-  .screen.x404u95tabsm { 
+  .screen.x404-all-breakpoints { 
     display: none;
    }
 }
