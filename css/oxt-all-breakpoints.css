@@ -111,13 +111,13 @@
 
 .oxt-all-breakpoints .desktop-header-top-nav {
   align-items: flex-start;
-  display: flex;
-  flex: 1;
-  flex-grow: 1;
+  display: inline-flex;
+  flex: 0 0 auto;
   flex-wrap: wrap;
   gap: 60px 48px;
   height: 14px;
   justify-content: center;
+  padding: 0px 48px;
   position: relative;
 }
 
@@ -700,6 +700,23 @@
   position: relative;
 }
 
+.oxt-all-breakpoints .social-link-github-2 {
+  align-items: center;
+  border-radius: 40px;
+  cursor: pointer;
+  display: flex;
+  height: 32px;
+  justify-content: center;
+  position: relative;
+  width: 32px;
+}
+
+.oxt-all-breakpoints .github-2 {
+  height: 32px;
+  margin-top: 2px;
+  width: 32px;
+}
+
 .oxt-all-breakpoints .social-link-reddit-2 {
   background-image: url(../img/combined-shape@2x.png);
   background-size: 100% 100%;
@@ -776,11 +793,21 @@
   align-items: flex-start;
   align-self: stretch;
   display: flex;
+  gap: 10px;
   height: 88px;
-  justify-content: space-between;
-  padding: 32px;
+  justify-content: space-around;
+  padding: 32px 24px;
   position: relative;
   width: 100%;
+}
+
+.oxtu95mobsm .frame-590 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  justify-content: space-between;
+  position: relative;
 }
 
 .oxtu95mobsm .orchid-icon {
@@ -794,7 +821,10 @@
 }
 
 .oxtu95mobsm .vector {
+  flex: 1;
   height: 14px;
+  margin-left: 12.5%;
+  margin-right: 12.5%;
   width: 18px;
 }
 
@@ -819,11 +849,13 @@
 .oxtu95mobsm .frame-403 {
   align-items: flex-start;
   display: flex;
+  flex: 0 0 auto;
   flex-direction: column;
   gap: 16px;
   margin-left: -61.00px;
   margin-right: -61.00px;
   padding: 0px 40px;
+  position: relative;
   width: 362px;
 }
 
@@ -989,8 +1021,10 @@
   align-items: flex-start;
   align-self: stretch;
   display: flex;
+  flex: 0 0 auto;
   flex-direction: column;
   gap: 16px;
+  position: relative;
   width: 100%;
 }
 
@@ -1008,18 +1042,22 @@
   align-items: flex-start;
   align-self: stretch;
   display: flex;
+  flex: 0 0 auto;
   flex-wrap: wrap;
   gap: 40px 80px;
   padding: 0px 0px 24px;
+  position: relative;
   width: 100%;
 }
 
 .oxtu95mobsm .frame-53 {
   align-items: flex-start;
   display: inline-flex;
+  flex: 0 0 auto;
   flex-direction: column;
   gap: 16px;
   min-width: 120px;
+  position: relative;
 }
 
 .oxtu95mobsm .about-orchid {
@@ -1042,8 +1080,10 @@
   align-items: center;
   align-self: stretch;
   display: flex;
+  flex: 0 0 auto;
   flex-direction: column;
   gap: 16px;
+  position: relative;
   width: 100%;
 }
 
@@ -1190,9 +1230,11 @@
   align-items: flex-start;
   align-self: stretch;
   display: flex;
+  flex: 0 0 auto;
   flex-direction: column;
   gap: 32px;
   padding: 24px 0px;
+  position: relative;
   width: 100%;
 }
 
@@ -1302,6 +1344,12 @@
   justify-content: center;
 }
 
+.oxtu95mobsm .github {
+  height: 32px;
+  margin-top: 2px;
+  width: 32px;
+}
+
 .oxtu95mobsm .social-link-reddit {
   background-image: url(../img/combined-shape@2x.png);
   background-size: 100% 100%;
@@ -1319,11 +1367,6 @@
   height: 24px;
   line-height: 24px;
   white-space: nowrap;
-}
-
-.oxtu95mobsm .frame {
-  flex: 0 0 auto;
-  position: relative;
 }
 
 .oxtu95mobsm .line {
@@ -1373,15 +1416,19 @@
   align-items: flex-start;
   align-self: stretch;
   display: flex;
+  gap: 10px;
   height: 88px;
-  justify-content: space-between;
-  padding: 32px 72px;
+  justify-content: space-around;
+  padding: 32px 60px;
   position: relative;
   width: 100%;
 }
 
 .oxtu95tabsm .vector-3 {
+  flex: 1;
   height: 14px;
+  margin-left: 12.5%;
+  margin-right: 12.5%;
   width: 18px;
 }
 
@@ -1843,12 +1890,6 @@
   margin-left: -0.3px;
   margin-top: 0;
   width: 21px;
-}
-
-.oxtu95tabsm .github-1 {
-  height: 32px;
-  margin-top: 2px;
-  width: 32px;
 }
 
 .oxtu95tabsm .social-link-reddit-1 {

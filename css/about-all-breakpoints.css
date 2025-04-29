@@ -113,13 +113,13 @@
 
 .about-all-breakpoints .desktop-header-top-nav {
   align-items: flex-start;
-  display: flex;
-  flex: 1;
-  flex-grow: 1;
+  display: inline-flex;
+  flex: 0 0 auto;
   flex-wrap: wrap;
   gap: 60px 48px;
   height: 14px;
   justify-content: center;
+  padding: 0px 48px;
   position: relative;
 }
 
@@ -639,6 +639,23 @@
   position: relative;
 }
 
+.about-all-breakpoints .social-link-github-2 {
+  align-items: center;
+  border-radius: 40px;
+  cursor: pointer;
+  display: flex;
+  height: 32px;
+  justify-content: center;
+  position: relative;
+  width: 32px;
+}
+
+.about-all-breakpoints .github-2 {
+  height: 32px;
+  margin-top: 2px;
+  width: 32px;
+}
+
 .about-all-breakpoints .social-link-reddit-2 {
   background-image: url(../img/combined-shape@2x.png);
   background-size: 100% 100%;
@@ -743,11 +760,21 @@
   align-items: flex-start;
   align-self: stretch;
   display: flex;
+  gap: 10px;
   height: 88px;
-  justify-content: space-between;
-  padding: 32px;
+  justify-content: space-around;
+  padding: 32px 24px;
   position: relative;
   width: 100%;
+}
+
+.aboutu95mobsm .frame-590 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  justify-content: space-between;
+  position: relative;
 }
 
 .aboutu95mobsm .orchid-icon {
@@ -761,7 +788,10 @@
 }
 
 .aboutu95mobsm .vector {
+  flex: 1;
   height: 14px;
+  margin-left: 12.5%;
+  margin-right: 12.5%;
   width: 18px;
 }
 
@@ -1271,6 +1301,12 @@
   width: 32px;
 }
 
+.aboutu95mobsm .github {
+  height: 32px;
+  margin-top: 2px;
+  width: 32px;
+}
+
 .aboutu95mobsm .social-link-reddit {
   background-image: url(../img/combined-shape@2x.png);
   background-size: 100% 100%;
@@ -1336,15 +1372,19 @@
   align-items: flex-start;
   align-self: stretch;
   display: flex;
+  gap: 10px;
   height: 88px;
-  justify-content: space-between;
-  padding: 32px 72px;
+  justify-content: space-around;
+  padding: 32px 60px;
   position: relative;
   width: 100%;
 }
 
 .aboutu95tabsm .vector-3 {
+  flex: 1;
   height: 14px;
+  margin-left: 12.5%;
+  margin-right: 12.5%;
   width: 18px;
 }
 
@@ -1817,12 +1857,6 @@
   margin-left: -0.3px;
   margin-top: 0;
   width: 21px;
-}
-
-.aboutu95tabsm .github-1 {
-  height: 32px;
-  margin-top: 2px;
-  width: 32px;
 }
 
 .aboutu95tabsm .social-link-reddit-1 {
