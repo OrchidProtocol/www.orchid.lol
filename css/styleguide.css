@@ -242,18 +242,18 @@
   font-weight: 700;
 }
 
-.figtree-extra-bold-white-40px {
-  color: var(--white);
-  font-family: var(--font-family-figtree);
-  font-size: var(--font-size-xxxxl);
-  font-style: normal;
-  font-weight: 800;
-}
-
 .figtree-extra-bold-white-60px {
   color: var(--white);
   font-family: var(--font-family-figtree);
   font-size: 60px;
+  font-style: normal;
+  font-weight: 800;
+}
+
+.figtree-extra-bold-white-40px {
+  color: var(--white);
+  font-family: var(--font-family-figtree);
+  font-size: var(--font-size-xxxxl);
   font-style: normal;
   font-weight: 800;
 }
@@ -274,20 +274,20 @@
   font-weight: 800;
 }
 
-.figtree-normal-aquamarine-20px {
-  color: var(--aquamarine);
-  font-family: var(--font-family-figtree);
-  font-size: var(--font-size-xl);
-  font-style: normal;
-  font-weight: 400;
-}
-
 .figtree-extra-bold-aquamarine-60px {
   color: var(--aquamarine);
   font-family: var(--font-family-figtree);
   font-size: 60px;
   font-style: normal;
   font-weight: 800;
+}
+
+.figtree-normal-aquamarine-20px {
+  color: var(--aquamarine);
+  font-family: var(--font-family-figtree);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
 }
 
 .figtree-medium-white-28px-2 {

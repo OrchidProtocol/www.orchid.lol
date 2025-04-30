@@ -689,6 +689,30 @@
   width: 32px;
 }
 
+.storage-all-breakpoints .vector-3 {
+  height: 16px;
+  margin-left: -0.3px;
+  margin-top: 0;
+  width: 21px;
+}
+
+.storage-all-breakpoints .social-link-github-2 {
+  align-items: center;
+  border-radius: 40px;
+  cursor: pointer;
+  display: flex;
+  height: 32px;
+  justify-content: center;
+  position: relative;
+  width: 32px;
+}
+
+.storage-all-breakpoints .github-2 {
+  height: 32px;
+  margin-top: 2px;
+  width: 32px;
+}
+
 .storage-all-breakpoints .social-link-reddit-2 {
   background-image: url(../img/combined-shape@2x.png);
   background-size: 100% 100%;
@@ -821,6 +845,13 @@
   margin-left: 10px;
   margin-top: 1px;
   width: 360px;
+}
+
+.storageu95mobsm .top-nav {
+  align-self: stretch;
+  height: 88px;
+  position: relative;
+  width: 100%;
 }
 
 .storageu95mobsm .frame-403 {
@@ -1425,6 +1456,42 @@
   width: calc(100.00% + 84px);
 }
 
+.storageu95tabsm .top-nav-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 10px;
+  height: 88px;
+  justify-content: center;
+  padding: 32px 60px;
+  position: relative;
+  width: 100%;
+}
+
+.storageu95tabsm .orchid-icon {
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  height: 24px;
+  max-height: 24px;
+  max-width: 28.47px;
+  position: relative;
+  width: 28.47px;
+}
+
+.storageu95tabsm .orchid-icon-1 {
+  height: 24px;
+  margin-left: 1.1px;
+  margin-top: 0;
+  width: 26.47px;
+}
+
+.storageu95tabsm .vector-1 {
+  height: 14px;
+  margin-right: 2.9px;
+  width: 18px;
+}
+
 .storageu95tabsm .frame-403-1 {
   align-items: center;
   display: inline-flex;
@@ -1508,17 +1575,6 @@
   gap: 24px;
 }
 
-.storageu95tabsm .accounts-1 {
-  align-items: center;
-  align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 8px;
-  position: relative;
-  width: 100%;
-}
-
 .storageu95tabsm .title-2 {
   align-self: stretch;
   color: var(--aquamarine);
@@ -1528,17 +1584,6 @@
   margin-top: -1.00px;
   position: relative;
   white-space: nowrap;
-}
-
-.storageu95tabsm .directory-1 {
-  align-items: center;
-  align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 8px;
-  position: relative;
-  width: 100%;
 }
 
 .storageu95tabsm .body-3 {
@@ -1694,37 +1739,12 @@
   position: relative;
 }
 
-.storageu95tabsm .desktop-home-logo-1 {
-  cursor: pointer;
-  height: 36px;
-  position: relative;
-}
-
 .storageu95tabsm .x2023-orchid-4 {
   color: var(--white);
   font-weight: 300;
   line-height: 19.6px;
   position: relative;
   width: 299px;
-}
-
-.storageu95tabsm .x2023-orchid-5 {
-  align-self: stretch;
-  color: var(--white);
-  font-weight: 300;
-  line-height: 19.6px;
-  position: relative;
-}
-
-.storageu95tabsm .hyperlinks-1 {
-  align-items: flex-start;
-  align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 40px;
-  position: relative;
-  width: 100%;
 }
 
 .storageu95tabsm .frame-532-item-1 {
@@ -1734,31 +1754,12 @@
   width: 281px;
 }
 
-.storageu95tabsm .x2023-orchid-6 {
-  color: var(--white);
-  cursor: pointer;
-  flex: 1;
-  font-weight: 700;
-  line-height: 24px;
-  white-space: nowrap;
-  width: 132px;
-}
-
 .storageu95tabsm .link-1 {
   cursor: pointer;
   display: flex;
   height: 22px;
   position: relative;
   width: 281px;
-}
-
-.storageu95tabsm .x2023-orchid-7 {
-  color: var(--white);
-  flex: 1;
-  font-weight: 700;
-  line-height: 24px;
-  white-space: nowrap;
-  width: 82px;
 }
 
 .storageu95tabsm .apps-8 {
@@ -1794,28 +1795,11 @@
   width: 75px;
 }
 
-.storageu95tabsm .social-icons-1 {
-  align-items: flex-start;
-  align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  flex-wrap: wrap;
-  gap: 60px 60px;
-  justify-content: space-between;
-  padding: 24px 0px 0px;
-  position: relative;
-  width: 100%;
-}
-
-.storageu95tabsm .social-link-github-1 {
-  align-items: center;
-  border-radius: 40px;
-  cursor: pointer;
-  display: flex;
-  height: 32px;
-  justify-content: center;
-  position: relative;
-  width: 32px;
+.storageu95tabsm .vector-2 {
+  height: 16px;
+  margin-left: -0.3px;
+  margin-top: 0;
+  width: 21px;
 }
 
 .storageu95tabsm .social-link-reddit-1 {

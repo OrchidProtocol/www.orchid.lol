@@ -10,7 +10,14 @@
   position: relative;
 }
 
-.mobile-privacy-policy-all-breakpoints .frame-403-1 {
+.mobile-privacy-policy-all-breakpoints .top-nav-1 {
+  align-self: stretch;
+  height: 88px;
+  position: relative;
+  width: 100%;
+}
+
+.mobile-privacy-policy-all-breakpoints .frame-403-2 {
   align-items: center;
   display: flex;
   flex: 0 0 auto;
@@ -21,7 +28,7 @@
   width: 357px;
 }
 
-.mobile-privacy-policy-all-breakpoints .title-4 {
+.mobile-privacy-policy-all-breakpoints .title-5 {
   color: transparent;
   font-weight: 800;
   line-height: 25.3px;
@@ -36,7 +43,7 @@
   color: var(--white);
 }
 
-.mobile-privacy-policy-all-breakpoints .line-10-1 {
+.mobile-privacy-policy-all-breakpoints .line-10-2 {
   align-self: stretch;
   height: 1px;
   object-fit: cover;
@@ -44,7 +51,7 @@
   width: 100%;
 }
 
-.mobile-privacy-policy-all-breakpoints .policy-1 {
+.mobile-privacy-policy-all-breakpoints .policy-2 {
   align-items: center;
   align-self: stretch;
   display: flex;
@@ -56,7 +63,7 @@
   width: 100%;
 }
 
-.mobile-privacy-policy-all-breakpoints .copy-1 {
+.mobile-privacy-policy-all-breakpoints .copy-2 {
   align-items: center;
   align-self: stretch;
   display: flex;
@@ -67,7 +74,7 @@
   width: 100%;
 }
 
-.mobile-privacy-policy-all-breakpoints .title-2 {
+.mobile-privacy-policy-all-breakpoints .title-3 {
   color: var(--aquamarine);
   font-weight: 600;
   height: 18px;
@@ -81,7 +88,7 @@
   line-height: 18.0px;
 }
 
-.mobile-privacy-policy-all-breakpoints .title-3 {
+.mobile-privacy-policy-all-breakpoints .title-4 {
   color: var(--aquamarine);
   font-weight: 600;
   line-height: 19.8px;
@@ -93,19 +100,19 @@
   line-height: 15px;
 }
 
-.mobile-privacy-policy-all-breakpoints .span-5 {
+.mobile-privacy-policy-all-breakpoints .span-9 {
   color: var(--white);
   font-weight: 300;
   line-height: 18.0px;
 }
 
-.mobile-privacy-policy-all-breakpoints .span-6 {
+.mobile-privacy-policy-all-breakpoints .span-10 {
   color: var(--aquamarine);
   font-weight: 700;
   line-height: 16.5px;
 }
 
-.mobile-privacy-policy-all-breakpoints .span-7 {
+.mobile-privacy-policy-all-breakpoints .span-11 {
   color: var(--aquamarine);
   font-weight: 300;
   line-height: 18.0px;
@@ -122,7 +129,7 @@
   width: 100%;
 }
 
-.mobile-privacy-policy-all-breakpoints .logo-1 {
+.mobile-privacy-policy-all-breakpoints .logo-2 {
   align-items: flex-start;
   display: inline-flex;
   flex: 0 0 auto;
@@ -132,13 +139,7 @@
   position: relative;
 }
 
-.mobile-privacy-policy-all-breakpoints .desktop-home-logo-1 {
-  cursor: pointer;
-  height: 36px;
-  position: relative;
-}
-
-.mobile-privacy-policy-all-breakpoints .x2023-orchid-4 {
+.mobile-privacy-policy-all-breakpoints .x2023-orchid-8 {
   color: var(--white);
   font-weight: 300;
   line-height: 19.6px;
@@ -146,7 +147,7 @@
   width: 299px;
 }
 
-.mobile-privacy-policy-all-breakpoints .x2023-orchid-5 {
+.mobile-privacy-policy-all-breakpoints .x2023-orchid-9 {
   align-self: stretch;
   color: var(--white);
   font-weight: 300;
@@ -154,7 +155,7 @@
   position: relative;
 }
 
-.mobile-privacy-policy-all-breakpoints .hyperlinks-1 {
+.mobile-privacy-policy-all-breakpoints .hyperlinks-2 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -173,7 +174,7 @@
   width: 281px;
 }
 
-.mobile-privacy-policy-all-breakpoints .x2023-orchid-6 {
+.mobile-privacy-policy-all-breakpoints .x2023-orchid-10 {
   color: var(--white);
   cursor: pointer;
   flex: 1;
@@ -183,7 +184,7 @@
   width: 132px;
 }
 
-.mobile-privacy-policy-all-breakpoints .link-1 {
+.mobile-privacy-policy-all-breakpoints .link-2 {
   cursor: pointer;
   display: flex;
   height: 22px;
@@ -192,7 +193,7 @@
   width: 281px;
 }
 
-.mobile-privacy-policy-all-breakpoints .x2023-orchid-7 {
+.mobile-privacy-policy-all-breakpoints .x2023-orchid-11 {
   color: var(--white);
   flex: 1;
   font-weight: 700;
@@ -201,40 +202,36 @@
   width: 82px;
 }
 
-.mobile-privacy-policy-all-breakpoints .apps-8 {
+.mobile-privacy-policy-all-breakpoints .apps-10 {
   width: 102px;
 }
 
-.mobile-privacy-policy-all-breakpoints .apps-9 {
+.mobile-privacy-policy-all-breakpoints .apps-11 {
   width: 132px;
 }
 
-.mobile-privacy-policy-all-breakpoints .apps-10 {
+.mobile-privacy-policy-all-breakpoints .apps-12 {
   cursor: pointer;
   width: 113px;
 }
 
-.mobile-privacy-policy-all-breakpoints .apps-11 {
+.mobile-privacy-policy-all-breakpoints .apps-13 {
   width: 85px;
 }
 
-.mobile-privacy-policy-all-breakpoints .apps-12 {
+.mobile-privacy-policy-all-breakpoints .apps-14 {
   width: 122px;
 }
 
-.mobile-privacy-policy-all-breakpoints .apps-13 {
+.mobile-privacy-policy-all-breakpoints .apps-15 {
   width: 76px;
 }
 
-.mobile-privacy-policy-all-breakpoints .apps-14 {
-  width: 42px;
-}
-
-.mobile-privacy-policy-all-breakpoints .apps-15 {
+.mobile-privacy-policy-all-breakpoints .apps-17 {
   width: 75px;
 }
 
-.mobile-privacy-policy-all-breakpoints .social-icons-1 {
+.mobile-privacy-policy-all-breakpoints .social-icons-2 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -247,7 +244,26 @@
   width: 100%;
 }
 
-.mobile-privacy-policy-all-breakpoints .social-link-github-1 {
+.mobile-privacy-policy-all-breakpoints .social-link-discord-2 {
+  align-items: center;
+  background-color: var(--aquamarine);
+  border-radius: 40px;
+  cursor: pointer;
+  display: flex;
+  height: 32px;
+  justify-content: center;
+  position: relative;
+  width: 32px;
+}
+
+.mobile-privacy-policy-all-breakpoints .vector-3 {
+  height: 16px;
+  margin-left: -0.3px;
+  margin-top: 0;
+  width: 21px;
+}
+
+.mobile-privacy-policy-all-breakpoints .social-link-github-2 {
   align-items: center;
   border-radius: 40px;
   cursor: pointer;
@@ -258,7 +274,13 @@
   width: 32px;
 }
 
-.mobile-privacy-policy-all-breakpoints .social-link-reddit-1 {
+.mobile-privacy-policy-all-breakpoints .github-2 {
+  height: 32px;
+  margin-top: 2px;
+  width: 32px;
+}
+
+.mobile-privacy-policy-all-breakpoints .social-link-reddit-2 {
   background-image: url(../img/combined-shape@2x.png);
   background-size: 100% 100%;
   border-radius: 40px;
@@ -377,8 +399,11 @@
   width: 613px;
 }
 
-.mobile-privacy-policyu95dt .desktop-home-logo-2 {
+.mobile-privacy-policyu95dt .desktop-home-logo {
+  cursor: pointer;
   flex: 0 0 auto;
+  height: 36px;
+  position: relative;
 }
 
 .mobile-privacy-policyu95dt .desktop-header-top-nav {
@@ -490,7 +515,7 @@
   width: 1440px;
 }
 
-.mobile-privacy-policyu95dt .frame-403-2 {
+.mobile-privacy-policyu95dt .frame-403 {
   align-items: center;
   display: flex;
   flex: 0 0 auto;
@@ -500,7 +525,7 @@
   width: 855px;
 }
 
-.mobile-privacy-policyu95dt .title-5 {
+.mobile-privacy-policyu95dt .title {
   align-self: stretch;
   color: transparent;
   font-weight: 800;
@@ -510,11 +535,11 @@
   text-align: center;
 }
 
-.mobile-privacy-policyu95dt .span-8 {
+.mobile-privacy-policyu95dt .span {
   letter-spacing: 0.72px;
 }
 
-.mobile-privacy-policyu95dt .line-10-2 {
+.mobile-privacy-policyu95dt .line-10 {
   align-self: stretch;
   height: 1px;
   object-fit: cover;
@@ -522,7 +547,7 @@
   width: 100%;
 }
 
-.mobile-privacy-policyu95dt .policy-2 {
+.mobile-privacy-policyu95dt .policy {
   align-items: center;
   display: flex;
   flex: 0 0 auto;
@@ -533,7 +558,7 @@
   width: 1440px;
 }
 
-.mobile-privacy-policyu95dt .copy-2 {
+.mobile-privacy-policyu95dt .copy {
   align-self: stretch;
   display: flex;
   height: 1134px;
@@ -547,17 +572,17 @@
   width: 1120px;
 }
 
-.mobile-privacy-policyu95dt .span-9 {
+.mobile-privacy-policyu95dt .span-1 {
   letter-spacing: 0.31px;
   line-height: 34.7px;
 }
 
-.mobile-privacy-policyu95dt .span-10 {
+.mobile-privacy-policyu95dt .span-2 {
   letter-spacing: 0.08px;
   line-height: 28.0px;
 }
 
-.mobile-privacy-policyu95dt .span-11 {
+.mobile-privacy-policyu95dt .span-3 {
   letter-spacing: 0.08px;
   line-height: 28.0px;
   text-decoration: underline;
@@ -586,7 +611,7 @@
   width: 100%;
 }
 
-.mobile-privacy-policyu95dt .logo-2 {
+.mobile-privacy-policyu95dt .logo {
   align-items: flex-start;
   display: inline-flex;
   flex: 0 0 auto;
@@ -595,7 +620,7 @@
   position: relative;
 }
 
-.mobile-privacy-policyu95dt .x2023-orchid-8 {
+.mobile-privacy-policyu95dt .x2023-orchid {
   color: var(--white);
   font-weight: 300;
   line-height: 19.6px;
@@ -603,7 +628,7 @@
   width: 676px;
 }
 
-.mobile-privacy-policyu95dt .hyperlinks-2 {
+.mobile-privacy-policyu95dt .hyperlinks {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -622,12 +647,7 @@
   width: 180px;
 }
 
-.mobile-privacy-policyu95dt .x2023-orchid-9 {
-  color: var(--white);
-  cursor: pointer;
-  flex: 1;
-  font-weight: 700;
-  line-height: 22.4px;
+.mobile-privacy-policyu95dt .x2023-orchid-1 {
   width: 180px;
 }
 
@@ -635,12 +655,7 @@
   height: 22px;
 }
 
-.mobile-privacy-policyu95dt .x2023-orchid-10 {
-  color: var(--white);
-  cursor: pointer;
-  flex: 1;
-  font-weight: 700;
-  line-height: 22.4px;
+.mobile-privacy-policyu95dt .x2023-orchid-2 {
   white-space: nowrap;
   width: 208px;
 }
@@ -649,57 +664,25 @@
   height: 44px;
 }
 
-.mobile-privacy-policyu95dt .x2023-orchid-11 {
-  color: var(--white);
-  cursor: pointer;
-  flex: 1;
-  font-weight: 700;
-  line-height: 22.4px;
+.mobile-privacy-policyu95dt .x2023-orchid-3 {
   width: 208px;
 }
 
-.mobile-privacy-policyu95dt .apps-17 {
+.mobile-privacy-policyu95dt .apps-1 {
+  color: var(--white);
   cursor: pointer;
+  font-weight: 700;
+  height: 22px;
+  line-height: 22.4px;
+  width: 198px;
 }
 
-.mobile-privacy-policyu95dt .link-2 {
+.mobile-privacy-policyu95dt .link {
   cursor: pointer;
   display: flex;
   height: 22px;
   position: relative;
   width: 198px;
-}
-
-.mobile-privacy-policyu95dt .social-icons-2 {
-  align-items: flex-start;
-  display: inline-flex;
-  flex: 0 0 auto;
-  flex-wrap: wrap;
-  gap: 24px 40px;
-  justify-content: flex-end;
-  position: relative;
-}
-
-.mobile-privacy-policyu95dt .social-link-discord-2 {
-  align-items: center;
-  background-color: var(--aquamarine);
-  border-radius: 40px;
-  cursor: pointer;
-  display: flex;
-  height: 32px;
-  justify-content: center;
-  position: relative;
-  width: 32px;
-}
-
-.mobile-privacy-policyu95dt .social-link-reddit-2 {
-  background-image: url(../img/combined-shape@2x.png);
-  background-size: 100% 100%;
-  border-radius: 40px;
-  cursor: pointer;
-  height: 32px;
-  position: relative;
-  width: 32px;
 }
 
 .mobile-privacy-policyu95dt .apps {
@@ -710,6 +693,58 @@
   width: 198px;
 }
 
+.mobile-privacy-policyu95dt .social-icons {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 24px 40px;
+  justify-content: flex-end;
+  position: relative;
+}
+
+.mobile-privacy-policyu95dt .social-link-twitter {
+  background-color: var(--aquamarine);
+  display: flex;
+}
+
+.mobile-privacy-policyu95dt .social-link-discord {
+  align-items: center;
+  background-color: var(--aquamarine);
+  display: flex;
+  justify-content: center;
+}
+
+.mobile-privacy-policyu95dt .vector {
+  height: 16px;
+  margin-left: -0.3px;
+  margin-top: 0;
+  width: 21px;
+}
+
+.mobile-privacy-policyu95dt .social-link-github {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+.mobile-privacy-policyu95dt .github {
+  height: 32px;
+  margin-top: 2px;
+  width: 32px;
+}
+
+.mobile-privacy-policyu95dt .social-link-facebook {
+  background-color: var(--aquamarine);
+  display: flex;
+  justify-content: center;
+}
+
+.mobile-privacy-policyu95dt .social-link-reddit {
+  background-image: url(../img/combined-shape@2x.png);
+  background-size: 100% 100%;
+}
+
 .mobile-privacy-policyu95dt .desktop-button-top-nav-7 {
   align-items: center;
   cursor: pointer;
@@ -718,16 +753,26 @@
   position: relative;
 }
 
-.mobile-privacy-policyu95dt .desktop-home-logo {
-  cursor: pointer;
-  height: 36px;
-  position: relative;
-}
-
 .mobile-privacy-policyu95dt .pp-3 {
   display: flex;
   position: relative;
   width: 208px;
+}
+
+.mobile-privacy-policyu95dt .social-link {
+  border-radius: 40px;
+  cursor: pointer;
+  height: 32px;
+  position: relative;
+  width: 32px;
+}
+
+.mobile-privacy-policyu95dt .x2023-orchid-4 {
+  color: var(--white);
+  cursor: pointer;
+  flex: 1;
+  font-weight: 700;
+  line-height: 22.4px;
 }
 /* screen - mobile-privacy-policyu95tabsm */
 
@@ -741,7 +786,43 @@
   position: relative;
 }
 
-.mobile-privacy-policyu95tabsm .frame-403 {
+.mobile-privacy-policyu95tabsm .top-nav {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 10px;
+  height: 88px;
+  justify-content: center;
+  padding: 32px 60px;
+  position: relative;
+  width: 100%;
+}
+
+.mobile-privacy-policyu95tabsm .orchid-icon {
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  height: 24px;
+  max-height: 24px;
+  max-width: 28.47px;
+  position: relative;
+  width: 28.47px;
+}
+
+.mobile-privacy-policyu95tabsm .orchid-icon-1 {
+  height: 24px;
+  margin-left: 1.1px;
+  margin-top: 0;
+  width: 26.47px;
+}
+
+.mobile-privacy-policyu95tabsm .vector-1 {
+  height: 14px;
+  margin-right: 2.9px;
+  width: 18px;
+}
+
+.mobile-privacy-policyu95tabsm .frame-403-1 {
   align-items: center;
   display: flex;
   flex: 0 0 auto;
@@ -752,21 +833,18 @@
   width: 744px;
 }
 
-.mobile-privacy-policyu95tabsm .title-1 {
-  align-self: stretch;
+.mobile-privacy-policyu95tabsm .title-2 {
   color: transparent;
   font-weight: 800;
   line-height: 36.0px;
-  margin-top: -1.00px;
-  position: relative;
   text-align: center;
 }
 
-.mobile-privacy-policyu95tabsm .span {
+.mobile-privacy-policyu95tabsm .span-4 {
   letter-spacing: 0.32px;
 }
 
-.mobile-privacy-policyu95tabsm .line-10 {
+.mobile-privacy-policyu95tabsm .line-10-1 {
   align-self: stretch;
   height: 1px;
   object-fit: cover;
@@ -774,34 +852,22 @@
   width: 100%;
 }
 
-.mobile-privacy-policyu95tabsm .policy {
-  align-items: center;
-  display: inline-flex;
-  flex: 0 0 auto;
-  flex-direction: column;
+.mobile-privacy-policyu95tabsm .copy-1 {
   gap: 24px;
-  padding: 0px 40px;
-  position: relative;
-}
-
-.mobile-privacy-policyu95tabsm .copy {
-  align-items: center;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 24px;
-  position: relative;
   width: 664px;
 }
 
-.mobile-privacy-policyu95tabsm .title {
+.mobile-privacy-policyu95tabsm .copy-item {
   align-self: stretch;
+  gap: 8px;
+  width: 100%;
+}
+
+.mobile-privacy-policyu95tabsm .title-1 {
   color: var(--aquamarine);
   font-weight: 600;
   height: 18px;
   line-height: 19.8px;
-  margin-top: -1.00px;
-  position: relative;
   white-space: nowrap;
 }
 
@@ -821,19 +887,19 @@
   position: relative;
 }
 
-.mobile-privacy-policyu95tabsm .span-1 {
+.mobile-privacy-policyu95tabsm .span-5 {
   color: var(--white);
   font-weight: 300;
   line-height: 18.0px;
 }
 
-.mobile-privacy-policyu95tabsm .span-2 {
+.mobile-privacy-policyu95tabsm .span-6 {
   color: var(--white);
   font-weight: 700;
   line-height: 16.5px;
 }
 
-.mobile-privacy-policyu95tabsm .span-3 {
+.mobile-privacy-policyu95tabsm .span-7 {
   color: var(--aquamarine);
   font-weight: 700;
   line-height: 16.5px;
@@ -846,7 +912,7 @@
   text-decoration: underline;
 }
 
-.mobile-privacy-policyu95tabsm .span-4 {
+.mobile-privacy-policyu95tabsm .span-8 {
   color: var(--aquamarine);
   font-weight: 300;
   line-height: 18.0px;
@@ -870,7 +936,7 @@
   width: 100%;
 }
 
-.mobile-privacy-policyu95tabsm .logo {
+.mobile-privacy-policyu95tabsm .logo-1 {
   align-items: flex-start;
   display: inline-flex;
   flex: 0 0 auto;
@@ -879,37 +945,18 @@
   position: relative;
 }
 
-.mobile-privacy-policyu95tabsm .desktop-home-logo {
+.mobile-privacy-policyu95tabsm .desktop-home-logo-2 {
   cursor: pointer;
   height: 36px;
   position: relative;
 }
 
-.mobile-privacy-policyu95tabsm .x2023-orchid {
+.mobile-privacy-policyu95tabsm .x2023-orchid-4 {
   color: var(--white);
   font-weight: 300;
   line-height: 19.6px;
   position: relative;
   width: 299px;
-}
-
-.mobile-privacy-policyu95tabsm .x2023-orchid-1 {
-  align-self: stretch;
-  color: var(--white);
-  font-weight: 300;
-  line-height: 19.6px;
-  position: relative;
-}
-
-.mobile-privacy-policyu95tabsm .hyperlinks {
-  align-items: flex-start;
-  align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 40px;
-  position: relative;
-  width: 100%;
 }
 
 .mobile-privacy-policyu95tabsm .frame-532-item {
@@ -919,17 +966,7 @@
   width: 281px;
 }
 
-.mobile-privacy-policyu95tabsm .x2023-orchid-2 {
-  color: var(--white);
-  cursor: pointer;
-  flex: 1;
-  font-weight: 700;
-  line-height: 24px;
-  white-space: nowrap;
-  width: 132px;
-}
-
-.mobile-privacy-policyu95tabsm .link {
+.mobile-privacy-policyu95tabsm .link-1 {
   cursor: pointer;
   display: flex;
   height: 22px;
@@ -937,13 +974,54 @@
   width: 281px;
 }
 
-.mobile-privacy-policyu95tabsm .x2023-orchid-3 {
-  color: var(--white);
-  flex: 1;
-  font-weight: 700;
-  line-height: 24px;
-  white-space: nowrap;
-  width: 82px;
+.mobile-privacy-policyu95tabsm .apps-2 {
+  width: 102px;
+}
+
+.mobile-privacy-policyu95tabsm .apps-3 {
+  width: 132px;
+}
+
+.mobile-privacy-policyu95tabsm .apps-4 {
+  cursor: pointer;
+  width: 113px;
+}
+
+.mobile-privacy-policyu95tabsm .apps-5 {
+  width: 85px;
+}
+
+.mobile-privacy-policyu95tabsm .apps-6 {
+  width: 122px;
+}
+
+.mobile-privacy-policyu95tabsm .apps-7 {
+  width: 76px;
+}
+
+.mobile-privacy-policyu95tabsm .apps-8 {
+  width: 42px;
+}
+
+.mobile-privacy-policyu95tabsm .apps-9 {
+  width: 75px;
+}
+
+.mobile-privacy-policyu95tabsm .vector-2 {
+  height: 16px;
+  margin-left: -0.3px;
+  margin-top: 0;
+  width: 21px;
+}
+
+.mobile-privacy-policyu95tabsm .social-link-reddit-1 {
+  background-image: url(../img/combined-shape@2x.png);
+  background-size: 100% 100%;
+  border-radius: 40px;
+  cursor: pointer;
+  height: 32px;
+  position: relative;
+  width: 32px;
 }
 
 .mobile-privacy-policyu95tabsm .apps {
@@ -952,121 +1030,34 @@
   height: 24px;
   line-height: 24px;
   white-space: nowrap;
-  width: 102px;
 }
 
-.mobile-privacy-policyu95tabsm .apps-1 {
-  width: 132px;
-}
-
-.mobile-privacy-policyu95tabsm .apps-2 {
-  cursor: pointer;
-  width: 113px;
-}
-
-.mobile-privacy-policyu95tabsm .apps-3 {
-  width: 85px;
-}
-
-.mobile-privacy-policyu95tabsm .apps-4 {
-  width: 122px;
-}
-
-.mobile-privacy-policyu95tabsm .apps-5 {
-  width: 76px;
-}
-
-.mobile-privacy-policyu95tabsm .apps-6 {
-  width: 42px;
-}
-
-.mobile-privacy-policyu95tabsm .apps-7 {
-  width: 75px;
-}
-
-.mobile-privacy-policyu95tabsm .social-icons {
-  align-items: flex-start;
-  align-self: stretch;
+.mobile-privacy-policyu95tabsm .copy {
+  align-items: center;
   display: flex;
   flex: 0 0 auto;
-  flex-wrap: wrap;
-  gap: 60px 60px;
-  justify-content: space-between;
-  padding: 24px 0px 0px;
+  flex-direction: column;
   position: relative;
-  width: 100%;
 }
 
-.mobile-privacy-policyu95tabsm .social-link-twitter {
-  background-color: var(--aquamarine);
-  display: flex;
-}
-
-.mobile-privacy-policyu95tabsm .social-link-discord {
-  align-items: center;
-  background-color: var(--aquamarine);
-  display: flex;
-  justify-content: center;
-}
-
-.mobile-privacy-policyu95tabsm .vector {
-  height: 16px;
-  margin-left: -0.3px;
-  margin-top: 0;
-  width: 21px;
-}
-
-.mobile-privacy-policyu95tabsm .social-link-github {
-  align-items: center;
-  display: flex;
-  justify-content: center;
-}
-
-.mobile-privacy-policyu95tabsm .github {
-  height: 32px;
-  margin-top: 2px;
-  width: 32px;
-}
-
-.mobile-privacy-policyu95tabsm .social-link-facebook {
-  background-color: var(--aquamarine);
-  display: flex;
-  justify-content: center;
-}
-
-.mobile-privacy-policyu95tabsm .social-link-reddit {
-  background-image: url(../img/combined-shape@2x.png);
-  background-size: 100% 100%;
-}
-
-.mobile-privacy-policyu95tabsm .apps-8 {
-  color: var(--white);
-  font-weight: 700;
-  height: 24px;
-  line-height: 24px;
-  white-space: nowrap;
-}
-
-.mobile-privacy-policyu95tabsm .social-link {
-  border-radius: 40px;
-  cursor: pointer;
-  height: 32px;
+.mobile-privacy-policyu95tabsm .title {
+  align-self: stretch;
+  margin-top: -1.00px;
   position: relative;
-  width: 32px;
 }
 @media screen and (max-width: 743px) {
-  .screen.mobile-privacy-policyu95tabsm { 
+  .screen.mobile-privacy-policyu95dt { 
     display: none;
    }
-  .screen.mobile-privacy-policyu95dt { 
+  .screen.mobile-privacy-policyu95tabsm { 
     display: none;
    }
 }
 @media screen and (min-width: 744px) and (max-width: 1439px) {
-  .screen.mobile-privacy-policy-all-breakpoints { 
+  .screen.mobile-privacy-policyu95dt { 
     display: none;
    }
-  .screen.mobile-privacy-policyu95dt { 
+  .screen.mobile-privacy-policy-all-breakpoints { 
     display: none;
    }
 }

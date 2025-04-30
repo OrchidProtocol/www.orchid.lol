@@ -10,6 +10,42 @@
   position: relative;
 }
 
+.privacy-policy-all-breakpoints .top-nav {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 10px;
+  height: 88px;
+  justify-content: center;
+  padding: 32px 24px;
+  position: relative;
+  width: 100%;
+}
+
+.privacy-policy-all-breakpoints .orchid-icon {
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  height: 24px;
+  max-height: 24px;
+  max-width: 28.47px;
+  position: relative;
+  width: 28.47px;
+}
+
+.privacy-policy-all-breakpoints .orchid-icon-1 {
+  height: 24px;
+  margin-left: 1px;
+  margin-top: 0;
+  width: 26.47px;
+}
+
+.privacy-policy-all-breakpoints .vector {
+  height: 14px;
+  margin-right: 3px;
+  width: 18px;
+}
+
 .privacy-policy-all-breakpoints .frame-403 {
   align-items: center;
   display: flex;
@@ -63,6 +99,17 @@
   flex: 0 0 auto;
   flex-direction: column;
   gap: 24px;
+  position: relative;
+  width: 100%;
+}
+
+.privacy-policy-all-breakpoints .copy-item {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
   position: relative;
   width: 100%;
 }
@@ -277,7 +324,7 @@
   justify-content: center;
 }
 
-.privacy-policy-all-breakpoints .vector {
+.privacy-policy-all-breakpoints .vector-1 {
   height: 16px;
   margin-left: -0.3px;
   margin-top: 0;
@@ -419,7 +466,7 @@
   width: 613px;
 }
 
-.privacy-policyu95dt .desktop-home-logo-1 {
+.privacy-policyu95dt .desktop-home-logo-2 {
   flex: 0 0 auto;
 }
 
@@ -532,7 +579,7 @@
   width: 1440px;
 }
 
-.privacy-policyu95dt .frame-403-1 {
+.privacy-policyu95dt .frame-403-2 {
   align-items: center;
   display: flex;
   flex: 0 0 auto;
@@ -542,7 +589,7 @@
   width: 855px;
 }
 
-.privacy-policyu95dt .title-3 {
+.privacy-policyu95dt .title-5 {
   align-self: stretch;
   color: transparent;
   font-weight: 800;
@@ -552,11 +599,11 @@
   text-align: center;
 }
 
-.privacy-policyu95dt .span-2 {
+.privacy-policyu95dt .span-5 {
   letter-spacing: 0.72px;
 }
 
-.privacy-policyu95dt .line-10-1 {
+.privacy-policyu95dt .line-10-2 {
   align-self: stretch;
   height: 1px;
   object-fit: cover;
@@ -564,7 +611,7 @@
   width: 100%;
 }
 
-.privacy-policyu95dt .policy-1 {
+.privacy-policyu95dt .policy-2 {
   align-items: center;
   display: flex;
   flex: 0 0 auto;
@@ -575,7 +622,7 @@
   width: 1440px;
 }
 
-.privacy-policyu95dt .copy-1 {
+.privacy-policyu95dt .copy-2 {
   align-self: stretch;
   display: flex;
   height: 1134px;
@@ -589,17 +636,17 @@
   width: 1120px;
 }
 
-.privacy-policyu95dt .span-3 {
+.privacy-policyu95dt .span-6 {
   letter-spacing: 0.31px;
   line-height: 34.7px;
 }
 
-.privacy-policyu95dt .span-4 {
+.privacy-policyu95dt .span-7 {
   letter-spacing: 0.08px;
   line-height: 28.0px;
 }
 
-.privacy-policyu95dt .span-5 {
+.privacy-policyu95dt .span-8 {
   letter-spacing: 0.08px;
   line-height: 28.0px;
   text-decoration: underline;
@@ -619,7 +666,7 @@
   width: 100%;
 }
 
-.privacy-policyu95dt .logo-1 {
+.privacy-policyu95dt .logo-2 {
   align-items: flex-start;
   display: inline-flex;
   flex: 0 0 auto;
@@ -628,7 +675,7 @@
   position: relative;
 }
 
-.privacy-policyu95dt .x2023-orchid-4 {
+.privacy-policyu95dt .x2023-orchid-8 {
   color: var(--white);
   font-weight: 300;
   line-height: 19.6px;
@@ -636,7 +683,7 @@
   width: 676px;
 }
 
-.privacy-policyu95dt .hyperlinks-1 {
+.privacy-policyu95dt .hyperlinks-2 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -655,7 +702,7 @@
   width: 180px;
 }
 
-.privacy-policyu95dt .x2023-orchid-5 {
+.privacy-policyu95dt .x2023-orchid-9 {
   color: var(--white);
   cursor: pointer;
   flex: 1;
@@ -668,7 +715,7 @@
   height: 22px;
 }
 
-.privacy-policyu95dt .x2023-orchid-6 {
+.privacy-policyu95dt .x2023-orchid-10 {
   color: var(--white);
   cursor: pointer;
   flex: 1;
@@ -682,7 +729,7 @@
   height: 44px;
 }
 
-.privacy-policyu95dt .x2023-orchid-7 {
+.privacy-policyu95dt .x2023-orchid-11 {
   color: var(--white);
   cursor: pointer;
   flex: 1;
@@ -691,11 +738,11 @@
   width: 208px;
 }
 
-.privacy-policyu95dt .apps-9 {
+.privacy-policyu95dt .apps-17 {
   cursor: pointer;
 }
 
-.privacy-policyu95dt .link-1 {
+.privacy-policyu95dt .link-2 {
   cursor: pointer;
   display: flex;
   height: 22px;
@@ -703,7 +750,7 @@
   width: 198px;
 }
 
-.privacy-policyu95dt .social-icons-1 {
+.privacy-policyu95dt .social-icons-2 {
   align-items: flex-start;
   display: inline-flex;
   flex: 0 0 auto;
@@ -713,7 +760,19 @@
   position: relative;
 }
 
-.privacy-policyu95dt .social-link-github-1 {
+.privacy-policyu95dt .social-link-discord-2 {
+  align-items: center;
+  background-color: var(--aquamarine);
+  border-radius: 40px;
+  cursor: pointer;
+  display: flex;
+  height: 32px;
+  justify-content: center;
+  position: relative;
+  width: 32px;
+}
+
+.privacy-policyu95dt .social-link-github-2 {
   align-items: center;
   border-radius: 40px;
   cursor: pointer;
@@ -724,7 +783,13 @@
   width: 32px;
 }
 
-.privacy-policyu95dt .social-link-reddit-1 {
+.privacy-policyu95dt .github-2 {
+  height: 32px;
+  margin-top: 2px;
+  width: 32px;
+}
+
+.privacy-policyu95dt .social-link-reddit-2 {
   background-image: url(../img/combined-shape@2x.png);
   background-size: 100% 100%;
   border-radius: 40px;
@@ -773,7 +838,32 @@
   position: relative;
 }
 
-.privacy-policyu95tabsm .frame-403-2 {
+.privacy-policyu95tabsm .top-nav-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 10px;
+  height: 88px;
+  justify-content: center;
+  padding: 32px 60px;
+  position: relative;
+  width: 100%;
+}
+
+.privacy-policyu95tabsm .orchid-icon-3 {
+  height: 24px;
+  margin-left: 1.1px;
+  margin-top: 0;
+  width: 26.47px;
+}
+
+.privacy-policyu95tabsm .vector-2 {
+  height: 14px;
+  margin-right: 2.9px;
+  width: 18px;
+}
+
+.privacy-policyu95tabsm .frame-403-1 {
   align-items: center;
   display: flex;
   flex: 0 0 auto;
@@ -784,18 +874,18 @@
   width: 744px;
 }
 
-.privacy-policyu95tabsm .title-5 {
+.privacy-policyu95tabsm .title-4 {
   color: transparent;
   font-weight: 800;
   line-height: 36.0px;
   text-align: center;
 }
 
-.privacy-policyu95tabsm .span-6 {
+.privacy-policyu95tabsm .span-2 {
   letter-spacing: 0.32px;
 }
 
-.privacy-policyu95tabsm .line-10-2 {
+.privacy-policyu95tabsm .line-10-1 {
   align-self: stretch;
   height: 1px;
   object-fit: cover;
@@ -803,17 +893,7 @@
   width: 100%;
 }
 
-.privacy-policyu95tabsm .policy-2 {
-  align-items: center;
-  display: inline-flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 24px;
-  padding: 0px 40px;
-  position: relative;
-}
-
-.privacy-policyu95tabsm .copy-2 {
+.privacy-policyu95tabsm .copy-1 {
   align-items: center;
   display: flex;
   flex: 0 0 auto;
@@ -823,7 +903,7 @@
   width: 664px;
 }
 
-.privacy-policyu95tabsm .title-4 {
+.privacy-policyu95tabsm .title-3 {
   color: var(--aquamarine);
   font-weight: 600;
   height: 18px;
@@ -843,7 +923,7 @@
   line-height: 15px;
 }
 
-.privacy-policyu95tabsm .span-7 {
+.privacy-policyu95tabsm .span-3 {
   color: var(--white);
   font-weight: 300;
   line-height: 18.0px;
@@ -855,7 +935,7 @@
   line-height: 16.5px;
 }
 
-.privacy-policyu95tabsm .span-8 {
+.privacy-policyu95tabsm .span-4 {
   color: var(--aquamarine);
   font-weight: 700;
   line-height: 16.5px;
@@ -885,7 +965,7 @@
   width: 100%;
 }
 
-.privacy-policyu95tabsm .logo-2 {
+.privacy-policyu95tabsm .logo-1 {
   align-items: flex-start;
   display: inline-flex;
   flex: 0 0 auto;
@@ -894,31 +974,12 @@
   position: relative;
 }
 
-.privacy-policyu95tabsm .x2023-orchid-8 {
+.privacy-policyu95tabsm .x2023-orchid-4 {
   color: var(--white);
   font-weight: 300;
   line-height: 19.6px;
   position: relative;
   width: 299px;
-}
-
-.privacy-policyu95tabsm .x2023-orchid-9 {
-  align-self: stretch;
-  color: var(--white);
-  font-weight: 300;
-  line-height: 19.6px;
-  position: relative;
-}
-
-.privacy-policyu95tabsm .hyperlinks-2 {
-  align-items: flex-start;
-  align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 40px;
-  position: relative;
-  width: 100%;
 }
 
 .privacy-policyu95tabsm .frame-532-item-1 {
@@ -928,17 +989,7 @@
   width: 281px;
 }
 
-.privacy-policyu95tabsm .x2023-orchid-10 {
-  color: var(--white);
-  cursor: pointer;
-  flex: 1;
-  font-weight: 700;
-  line-height: 24px;
-  white-space: nowrap;
-  width: 132px;
-}
-
-.privacy-policyu95tabsm .link-2 {
+.privacy-policyu95tabsm .link-1 {
   cursor: pointer;
   display: flex;
   height: 22px;
@@ -946,70 +997,47 @@
   width: 281px;
 }
 
-.privacy-policyu95tabsm .x2023-orchid-11 {
-  color: var(--white);
-  flex: 1;
-  font-weight: 700;
-  line-height: 24px;
-  white-space: nowrap;
-  width: 82px;
-}
-
-.privacy-policyu95tabsm .apps-10 {
+.privacy-policyu95tabsm .apps-8 {
   width: 102px;
 }
 
-.privacy-policyu95tabsm .apps-11 {
+.privacy-policyu95tabsm .apps-9 {
   width: 132px;
 }
 
-.privacy-policyu95tabsm .apps-12 {
+.privacy-policyu95tabsm .apps-10 {
   cursor: pointer;
   width: 113px;
 }
 
-.privacy-policyu95tabsm .apps-13 {
+.privacy-policyu95tabsm .apps-11 {
   width: 85px;
 }
 
-.privacy-policyu95tabsm .apps-14 {
+.privacy-policyu95tabsm .apps-12 {
   width: 122px;
 }
 
-.privacy-policyu95tabsm .apps-15 {
+.privacy-policyu95tabsm .apps-13 {
   width: 76px;
 }
 
-.privacy-policyu95tabsm .apps-17 {
+.privacy-policyu95tabsm .apps-14 {
+  width: 42px;
+}
+
+.privacy-policyu95tabsm .apps-15 {
   width: 75px;
 }
 
-.privacy-policyu95tabsm .social-icons-2 {
-  align-items: flex-start;
-  align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  flex-wrap: wrap;
-  gap: 60px 60px;
-  justify-content: space-between;
-  padding: 24px 0px 0px;
-  position: relative;
-  width: 100%;
+.privacy-policyu95tabsm .vector-3 {
+  height: 16px;
+  margin-left: -0.3px;
+  margin-top: 0;
+  width: 21px;
 }
 
-.privacy-policyu95tabsm .social-link-discord-2 {
-  align-items: center;
-  background-color: var(--aquamarine);
-  border-radius: 40px;
-  cursor: pointer;
-  display: flex;
-  height: 32px;
-  justify-content: center;
-  position: relative;
-  width: 32px;
-}
-
-.privacy-policyu95tabsm .social-link-reddit-2 {
+.privacy-policyu95tabsm .social-link-reddit-1 {
   background-image: url(../img/combined-shape@2x.png);
   background-size: 100% 100%;
   border-radius: 40px;
@@ -1038,10 +1066,10 @@
   position: relative;
 }
 @media screen and (max-width: 743px) {
-  .screen.privacy-policyu95dt { 
+  .screen.privacy-policyu95tabsm { 
     display: none;
    }
-  .screen.privacy-policyu95tabsm { 
+  .screen.privacy-policyu95dt { 
     display: none;
    }
 }
