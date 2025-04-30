@@ -247,18 +247,6 @@
   width: 100%;
 }
 
-.mobile-privacy-policy-all-breakpoints .social-link-1 {
-  align-items: center;
-  background-color: var(--aquamarine);
-  border-radius: 40px;
-  cursor: pointer;
-  display: flex;
-  height: 32px;
-  justify-content: center;
-  position: relative;
-  width: 32px;
-}
-
 .mobile-privacy-policy-all-breakpoints .social-link-github-1 {
   align-items: center;
   border-radius: 40px;
@@ -512,6 +500,16 @@
   width: 855px;
 }
 
+.mobile-privacy-policyu95dt .title-5 {
+  align-self: stretch;
+  color: transparent;
+  font-weight: 800;
+  line-height: 54.0px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
 .mobile-privacy-policyu95dt .span-8 {
   letter-spacing: 0.72px;
 }
@@ -522,6 +520,17 @@
   object-fit: cover;
   position: relative;
   width: 100%;
+}
+
+.mobile-privacy-policyu95dt .policy-2 {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  padding: 0px 160px;
+  position: relative;
+  width: 1440px;
 }
 
 .mobile-privacy-policyu95dt .copy-2 {
@@ -606,15 +615,6 @@
   width: 100%;
 }
 
-.mobile-privacy-policyu95dt .frame-42 {
-  align-items: flex-start;
-  display: inline-flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 24px;
-  position: relative;
-}
-
 .mobile-privacy-policyu95dt .pp {
   display: flex;
   height: 22px;
@@ -680,6 +680,18 @@
   position: relative;
 }
 
+.mobile-privacy-policyu95dt .social-link-discord-2 {
+  align-items: center;
+  background-color: var(--aquamarine);
+  border-radius: 40px;
+  cursor: pointer;
+  display: flex;
+  height: 32px;
+  justify-content: center;
+  position: relative;
+  width: 32px;
+}
+
 .mobile-privacy-policyu95dt .social-link-reddit-2 {
   background-image: url(../img/combined-shape@2x.png);
   background-size: 100% 100%;
@@ -731,8 +743,12 @@
 
 .mobile-privacy-policyu95tabsm .frame-403 {
   align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
   gap: 24px;
   padding: 40px;
+  position: relative;
   width: 744px;
 }
 
@@ -896,14 +912,6 @@
   width: 100%;
 }
 
-.mobile-privacy-policyu95tabsm .frame-532 {
-  align-items: flex-start;
-  align-self: stretch;
-  gap: 32px;
-  padding: 24px 0px;
-  width: 100%;
-}
-
 .mobile-privacy-policyu95tabsm .frame-532-item {
   display: flex;
   height: 22px;
@@ -979,28 +987,33 @@
 .mobile-privacy-policyu95tabsm .social-icons {
   align-items: flex-start;
   align-self: stretch;
+  display: flex;
   flex: 0 0 auto;
   flex-wrap: wrap;
   gap: 60px 60px;
   justify-content: space-between;
   padding: 24px 0px 0px;
+  position: relative;
   width: 100%;
 }
 
-.mobile-privacy-policyu95tabsm .social-link {
+.mobile-privacy-policyu95tabsm .social-link-twitter {
+  background-color: var(--aquamarine);
+  display: flex;
+}
+
+.mobile-privacy-policyu95tabsm .social-link-discord {
   align-items: center;
   background-color: var(--aquamarine);
-  border-radius: 40px;
-  cursor: pointer;
-  height: 32px;
+  display: flex;
   justify-content: center;
-  width: 32px;
 }
 
 .mobile-privacy-policyu95tabsm .vector {
-  height: 20px;
-  margin-left: -1px;
-  width: 19px;
+  height: 16px;
+  margin-left: -0.3px;
+  margin-top: 0;
+  width: 21px;
 }
 
 .mobile-privacy-policyu95tabsm .social-link-github {
@@ -1013,6 +1026,12 @@
   height: 32px;
   margin-top: 2px;
   width: 32px;
+}
+
+.mobile-privacy-policyu95tabsm .social-link-facebook {
+  background-color: var(--aquamarine);
+  display: flex;
+  justify-content: center;
 }
 
 .mobile-privacy-policyu95tabsm .social-link-reddit {
@@ -1028,19 +1047,7 @@
   white-space: nowrap;
 }
 
-.mobile-privacy-policyu95tabsm .frame {
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  position: relative;
-}
-
-.mobile-privacy-policyu95tabsm .social {
-  display: flex;
-  position: relative;
-}
-
-.mobile-privacy-policyu95tabsm .social-link-1 {
+.mobile-privacy-policyu95tabsm .social-link {
   border-radius: 40px;
   cursor: pointer;
   height: 32px;

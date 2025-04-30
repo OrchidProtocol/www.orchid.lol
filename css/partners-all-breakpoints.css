@@ -219,6 +219,18 @@
   width: 100%;
 }
 
+.partners-all-breakpoints .social-link-discord-2 {
+  align-items: center;
+  background-color: var(--aquamarine);
+  border-radius: 40px;
+  cursor: pointer;
+  display: flex;
+  height: 32px;
+  justify-content: center;
+  position: relative;
+  width: 32px;
+}
+
 .partners-all-breakpoints .social-link-reddit-2 {
   background-image: url(../img/combined-shape@2x.png);
   background-size: 100% 100%;
@@ -555,15 +567,6 @@
   width: 100%;
 }
 
-.partnersu95dt .frame-42 {
-  align-items: flex-start;
-  display: inline-flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 24px;
-  position: relative;
-}
-
 .partnersu95dt .pp {
   height: 22px;
   width: 180px;
@@ -614,22 +617,23 @@
   position: relative;
 }
 
-.partnersu95dt .social-link {
+.partnersu95dt .social-link-twitter {
+  background-color: var(--aquamarine);
+  display: flex;
+}
+
+.partnersu95dt .social-link-discord {
   align-items: center;
   background-color: var(--aquamarine);
-  border-radius: 40px;
-  cursor: pointer;
   display: flex;
-  height: 32px;
   justify-content: center;
-  position: relative;
-  width: 32px;
 }
 
 .partnersu95dt .vector {
-  height: 20px;
-  margin-left: -1px;
-  width: 19px;
+  height: 16px;
+  margin-left: -0.3px;
+  margin-top: 0;
+  width: 21px;
 }
 
 .partnersu95dt .social-link-github {
@@ -642,6 +646,12 @@
   height: 32px;
   margin-top: 2px;
   width: 32px;
+}
+
+.partnersu95dt .social-link-facebook {
+  background-color: var(--aquamarine);
+  display: flex;
+  justify-content: center;
 }
 
 .partnersu95dt .social-link-reddit {
@@ -681,7 +691,7 @@
   position: relative;
 }
 
-.partnersu95dt .social-link-1 {
+.partnersu95dt .social-link {
   border-radius: 40px;
   cursor: pointer;
   height: 32px;
@@ -850,18 +860,6 @@
   width: 100%;
 }
 
-.partnersu95tabsm .frame-532 {
-  align-items: flex-start;
-  align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 32px;
-  padding: 24px 0px;
-  position: relative;
-  width: 100%;
-}
-
 .partnersu95tabsm .frame-532-item {
   display: flex;
   height: 22px;
@@ -940,18 +938,6 @@
   padding: 24px 0px 0px;
   position: relative;
   width: 100%;
-}
-
-.partnersu95tabsm .social-link-1 {
-  align-items: center;
-  background-color: var(--aquamarine);
-  border-radius: 40px;
-  cursor: pointer;
-  display: flex;
-  height: 32px;
-  justify-content: center;
-  position: relative;
-  width: 32px;
 }
 
 .partnersu95tabsm .social-link-github-1 {

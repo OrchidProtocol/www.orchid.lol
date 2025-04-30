@@ -840,15 +840,6 @@
   width: 100%;
 }
 
-.vpn-all-breakpoints .frame-42 {
-  align-items: flex-start;
-  display: inline-flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  gap: 24px;
-  position: relative;
-}
-
 .vpn-all-breakpoints .pp {
   display: flex;
   height: 22px;
@@ -912,6 +903,18 @@
   gap: 24px 40px;
   justify-content: flex-end;
   position: relative;
+}
+
+.vpn-all-breakpoints .social-link-discord-2 {
+  align-items: center;
+  background-color: var(--aquamarine);
+  border-radius: 40px;
+  cursor: pointer;
+  display: flex;
+  height: 32px;
+  justify-content: center;
+  position: relative;
+  width: 32px;
 }
 
 .vpn-all-breakpoints .social-link-reddit-2 {
@@ -1208,15 +1211,21 @@
 }
 
 .vpnu95mobsm .frame-518 {
+  align-items: flex-start;
+  align-self: stretch;
   background-color: var(--black-2);
   border: 1px solid;
   border-color: var(--true-v);
   border-radius: 16px;
+  display: flex;
+  flex: 0 0 auto;
   flex-direction: column;
   gap: 16px;
   justify-content: center;
   overflow: hidden;
   padding: 24px;
+  position: relative;
+  width: 100%;
 }
 
 .vpnu95mobsm .intro-copy {
@@ -1397,10 +1406,6 @@
   width: 100%;
 }
 
-.vpnu95mobsm .frame-56 {
-  gap: 16px;
-}
-
 .vpnu95mobsm .intro-copy-3 {
   color: var(--white);
   flex: 1;
@@ -1502,12 +1507,6 @@
   width: 100%;
 }
 
-.vpnu95mobsm .frame-532 {
-  flex-direction: column;
-  gap: 32px;
-  padding: 24px 0px;
-}
-
 .vpnu95mobsm .frame-532-item {
   display: flex;
   height: 22px;
@@ -1580,28 +1579,33 @@
 .vpnu95mobsm .social-icons {
   align-items: flex-start;
   align-self: stretch;
+  display: flex;
   flex: 0 0 auto;
   flex-wrap: wrap;
   gap: 60px 60px;
   justify-content: space-between;
   padding: 24px 0px 0px;
+  position: relative;
   width: 100%;
 }
 
-.vpnu95mobsm .social-link {
+.vpnu95mobsm .social-link-twitter {
+  background-color: var(--aquamarine);
+  display: flex;
+}
+
+.vpnu95mobsm .social-link-discord {
   align-items: center;
   background-color: var(--aquamarine);
-  border-radius: 40px;
-  cursor: pointer;
-  height: 32px;
+  display: flex;
   justify-content: center;
-  width: 32px;
 }
 
 .vpnu95mobsm .vector {
-  height: 20px;
-  margin-left: -1px;
-  width: 19px;
+  height: 16px;
+  margin-left: -0.3px;
+  margin-top: 0;
+  width: 21px;
 }
 
 .vpnu95mobsm .social-link-github {
@@ -1614,6 +1618,12 @@
   height: 32px;
   margin-top: 2px;
   width: 32px;
+}
+
+.vpnu95mobsm .social-link-facebook {
+  background-color: var(--aquamarine);
+  display: flex;
+  justify-content: center;
 }
 
 .vpnu95mobsm .social-link-reddit {
@@ -1651,15 +1661,6 @@
   width: fit-content;
 }
 
-.vpnu95mobsm .frame {
-  align-items: flex-start;
-  align-self: stretch;
-  display: flex;
-  flex: 0 0 auto;
-  position: relative;
-  width: 100%;
-}
-
 .vpnu95mobsm .hero-1 {
   align-items: center;
   display: flex;
@@ -1678,12 +1679,7 @@
   width: 100%;
 }
 
-.vpnu95mobsm .social {
-  display: flex;
-  position: relative;
-}
-
-.vpnu95mobsm .social-link-1 {
+.vpnu95mobsm .social-link {
   border-radius: 40px;
   cursor: pointer;
   height: 32px;
@@ -2300,18 +2296,6 @@
   padding: 24px 0px 0px;
   position: relative;
   width: 100%;
-}
-
-.vpnu95tabsm .social-link-1 {
-  align-items: center;
-  background-color: var(--aquamarine);
-  border-radius: 40px;
-  cursor: pointer;
-  display: flex;
-  height: 32px;
-  justify-content: center;
-  position: relative;
-  width: 32px;
 }
 
 .vpnu95tabsm .social-link-github-1 {
